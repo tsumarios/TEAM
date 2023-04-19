@@ -33,7 +33,7 @@ Denial of Service,Attacker modifies the path of the sensitive data circulating i
 Denial of Service,Attacker remotely accesses via telematics systems (TCU).,-0.022488048300147057
 Denial of Service,"An adversary can capture, analyze, and replaye the messages.",0.05287531763315201
 Denial of Service,An adversary could link the messages to a specific vehicle.,-0.037720561027526855
-Denial of Service,An adversarv can crack a weak password.,0.050369687378406525
+Denial of Service,An adversary can crack a weak password.,0.03813347592949867
 Denial of Service,An adversary can execute arbitrary code on the telematics unit (TCU) and take control of the device.,0.011453764513134956
 Denial of Service,The SS7 vulnerabilities can be exploited to compromise SMS system to intercept text user messages.,-0.05317452549934387
 Denial of Service,"Spying, SMS Interception & Modification, User Tracking.",0.06469128280878067
@@ -41,7 +41,7 @@ Denial of Service,"Attacker can edit, add, manipuler codes and framework of the 
 Denial of Service,Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,0.07958829402923584
 Denial of Service,"An attacker changes circuits of a device to extractsensitive data, such as cryptographic keys.",0.021331224590539932
 Denial of Service,Attacker operates phisically on the TC by tampering the device firmware.,0.03397362306714058
-Denial of Service,An attacker could perform remote control by installing remotely his own sottware on the device.,-0.047423504292964935
+Denial of Service,An attacker could perform remote control by installing remotely his own software on the device.,-0.04187924414873123
 Denial of Service,Reprogramming the USB/CD device's firmware to execute malicious actions.,-0.07149417698383331
 Denial of Service,An adversary can exploit the vulnerabilities o USB svstems on-board venice.,-0.0117576252669096
 Denial of Service,An adversary can identify or track the vehicle from the sensor.,0.03066292777657509
@@ -126,7 +126,7 @@ Malware,Attacker modifies the path of the sensitive data circulating in the vehi
 Malware,Attacker remotely accesses via telematics systems (TCU).,0.39610207080841064
 Malware,"An adversary can capture, analyze, and replaye the messages.",0.2844352722167969
 Malware,An adversary could link the messages to a specific vehicle.,0.27117496728897095
-Malware,An adversarv can crack a weak password.,0.2759333848953247
+Malware,An adversary can crack a weak password.,0.290366530418396
 Malware,An adversary can execute arbitrary code on the telematics unit (TCU) and take control of the device.,0.4071947932243347
 Malware,The SS7 vulnerabilities can be exploited to compromise SMS system to intercept text user messages.,0.2832833528518677
 Malware,"Spying, SMS Interception & Modification, User Tracking.",0.4025859832763672
@@ -134,7 +134,7 @@ Malware,"Attacker can edit, add, manipuler codes and framework of the must ECUs 
 Malware,Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,0.3587911128997803
 Malware,"An attacker changes circuits of a device to extractsensitive data, such as cryptographic keys.",0.31076884269714355
 Malware,Attacker operates phisically on the TC by tampering the device firmware.,0.42659634351730347
-Malware,An attacker could perform remote control by installing remotely his own sottware on the device.,0.3849647045135498
+Malware,An attacker could perform remote control by installing remotely his own software on the device.,0.3621565103530884
 Malware,Reprogramming the USB/CD device's firmware to execute malicious actions.,0.394661545753479
 Malware,An adversary can exploit the vulnerabilities o USB svstems on-board venice.,0.38530129194259644
 Malware,An adversary can identify or track the vehicle from the sensor.,0.1970759779214859
@@ -218,7 +218,7 @@ Manipulation of hardware and software,Attacker modifies the path of the sensitiv
 Manipulation of hardware and software,Attacker remotely accesses via telematics systems (TCU).,0.4982558786869049
 Manipulation of hardware and software,"An adversary can capture, analyze, and replaye the messages.",0.4082356095314026
 Manipulation of hardware and software,An adversary could link the messages to a specific vehicle.,0.3926907479763031
-Manipulation of hardware and software,An adversarv can crack a weak password.,0.48261961340904236
+Manipulation of hardware and software,An adversary can crack a weak password.,0.47847235202789307
 Manipulation of hardware and software,An adversary can execute arbitrary code on the telematics unit (TCU) and take control of the device.,0.5817248225212097
 Manipulation of hardware and software,The SS7 vulnerabilities can be exploited to compromise SMS system to intercept text user messages.,0.40602606534957886
 Manipulation of hardware and software,"Spying, SMS Interception & Modification, User Tracking.",0.40856778621673584
@@ -226,7 +226,7 @@ Manipulation of hardware and software,"Attacker can edit, add, manipuler codes a
 Manipulation of hardware and software,Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,0.6156917810440063
 Manipulation of hardware and software,"An attacker changes circuits of a device to extractsensitive data, such as cryptographic keys.",0.5018975138664246
 Manipulation of hardware and software,Attacker operates phisically on the TC by tampering the device firmware.,0.5665546655654907
-Manipulation of hardware and software,An attacker could perform remote control by installing remotely his own sottware on the device.,0.5944502353668213
+Manipulation of hardware and software,An attacker could perform remote control by installing remotely his own software on the device.,0.5755610466003418
 Manipulation of hardware and software,Reprogramming the USB/CD device's firmware to execute malicious actions.,0.5017215609550476
 Manipulation of hardware and software,An adversary can exploit the vulnerabilities o USB svstems on-board venice.,0.5762535333633423
 Manipulation of hardware and software,An adversary can identify or track the vehicle from the sensor.,0.35161492228507996
@@ -309,7 +309,7 @@ Manipulation of information,Attacker modifies the path of the sensitive data cir
 Manipulation of information,Attacker remotely accesses via telematics systems (TCU).,0.3642474412918091
 Manipulation of information,"An adversary can capture, analyze, and replaye the messages.",0.4274595379829407
 Manipulation of information,An adversary could link the messages to a specific vehicle.,0.2737120985984802
-Manipulation of information,An adversarv can crack a weak password.,0.3587456941604614
+Manipulation of information,An adversary can crack a weak password.,0.4034361243247986
 Manipulation of information,An adversary can execute arbitrary code on the telematics unit (TCU) and take control of the device.,0.3897196650505066
 Manipulation of information,The SS7 vulnerabilities can be exploited to compromise SMS system to intercept text user messages.,0.4195133149623871
 Manipulation of information,"Spying, SMS Interception & Modification, User Tracking.",0.41967374086380005
@@ -317,7 +317,7 @@ Manipulation of information,"Attacker can edit, add, manipuler codes and framewo
 Manipulation of information,Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,0.3834410309791565
 Manipulation of information,"An attacker changes circuits of a device to extractsensitive data, such as cryptographic keys.",0.5266911387443542
 Manipulation of information,Attacker operates phisically on the TC by tampering the device firmware.,0.48872849345207214
-Manipulation of information,An attacker could perform remote control by installing remotely his own sottware on the device.,0.42191606760025024
+Manipulation of information,An attacker could perform remote control by installing remotely his own software on the device.,0.3925155699253082
 Manipulation of information,Reprogramming the USB/CD device's firmware to execute malicious actions.,0.37024611234664917
 Manipulation of information,An adversary can exploit the vulnerabilities o USB svstems on-board venice.,0.3918004035949707
 Manipulation of information,An adversary can identify or track the vehicle from the sensor.,0.31819531321525574
@@ -399,7 +399,7 @@ Threats targeting autonomous sensors,Attacker modifies the path of the sensitive
 Threats targeting autonomous sensors,Attacker remotely accesses via telematics systems (TCU).,0.5249170064926147
 Threats targeting autonomous sensors,"An adversary can capture, analyze, and replaye the messages.",0.36953938007354736
 Threats targeting autonomous sensors,An adversary could link the messages to a specific vehicle.,0.38233259320259094
-Threats targeting autonomous sensors,An adversarv can crack a weak password.,0.26330575346946716
+Threats targeting autonomous sensors,An adversary can crack a weak password.,0.31594884395599365
 Threats targeting autonomous sensors,An adversary can execute arbitrary code on the telematics unit (TCU) and take control of the device.,0.47374531626701355
 Threats targeting autonomous sensors,The SS7 vulnerabilities can be exploited to compromise SMS system to intercept text user messages.,0.3813328742980957
 Threats targeting autonomous sensors,"Spying, SMS Interception & Modification, User Tracking.",0.33538737893104553
@@ -407,7 +407,7 @@ Threats targeting autonomous sensors,"Attacker can edit, add, manipuler codes an
 Threats targeting autonomous sensors,Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,0.4189681112766266
 Threats targeting autonomous sensors,"An attacker changes circuits of a device to extractsensitive data, such as cryptographic keys.",0.4665735363960266
 Threats targeting autonomous sensors,Attacker operates phisically on the TC by tampering the device firmware.,0.3130393624305725
-Threats targeting autonomous sensors,An attacker could perform remote control by installing remotely his own sottware on the device.,0.4456769824028015
+Threats targeting autonomous sensors,An attacker could perform remote control by installing remotely his own software on the device.,0.4412384033203125
 Threats targeting autonomous sensors,Reprogramming the USB/CD device's firmware to execute malicious actions.,0.2929094135761261
 Threats targeting autonomous sensors,An adversary can exploit the vulnerabilities o USB svstems on-board venice.,0.43758076429367065
 Threats targeting autonomous sensors,An adversary can identify or track the vehicle from the sensor.,0.45034101605415344
@@ -488,7 +488,7 @@ Threats against AI and ML,Attacker modifies the path of the sensitive data circu
 Threats against AI and ML,Attacker remotely accesses via telematics systems (TCU).,0.16920587420463562
 Threats against AI and ML,"An adversary can capture, analyze, and replaye the messages.",0.25753188133239746
 Threats against AI and ML,An adversary could link the messages to a specific vehicle.,0.2594482898712158
-Threats against AI and ML,An adversarv can crack a weak password.,0.09158505499362946
+Threats against AI and ML,An adversary can crack a weak password.,0.11165187507867813
 Threats against AI and ML,An adversary can execute arbitrary code on the telematics unit (TCU) and take control of the device.,0.1725635826587677
 Threats against AI and ML,The SS7 vulnerabilities can be exploited to compromise SMS system to intercept text user messages.,0.18142254650592804
 Threats against AI and ML,"Spying, SMS Interception & Modification, User Tracking.",0.1747170090675354
@@ -496,7 +496,7 @@ Threats against AI and ML,"Attacker can edit, add, manipuler codes and framework
 Threats against AI and ML,Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,0.1376463770866394
 Threats against AI and ML,"An attacker changes circuits of a device to extractsensitive data, such as cryptographic keys.",0.1030978262424469
 Threats against AI and ML,Attacker operates phisically on the TC by tampering the device firmware.,0.11705200374126434
-Threats against AI and ML,An attacker could perform remote control by installing remotely his own sottware on the device.,0.14331650733947754
+Threats against AI and ML,An attacker could perform remote control by installing remotely his own software on the device.,0.0980459600687027
 Threats against AI and ML,Reprogramming the USB/CD device's firmware to execute malicious actions.,0.18705517053604126
 Threats against AI and ML,An adversary can exploit the vulnerabilities o USB svstems on-board venice.,0.22158488631248474
 Threats against AI and ML,An adversary can identify or track the vehicle from the sensor.,0.15408529341220856
@@ -576,7 +576,7 @@ Failure or malfunction of a sensor/actuator,Attacker modifies the path of the se
 Failure or malfunction of a sensor/actuator,Attacker remotely accesses via telematics systems (TCU).,0.3020159602165222
 Failure or malfunction of a sensor/actuator,"An adversary can capture, analyze, and replaye the messages.",0.305483877658844
 Failure or malfunction of a sensor/actuator,An adversary could link the messages to a specific vehicle.,0.20340722799301147
-Failure or malfunction of a sensor/actuator,An adversarv can crack a weak password.,0.20807509124279022
+Failure or malfunction of a sensor/actuator,An adversary can crack a weak password.,0.216048926115036
 Failure or malfunction of a sensor/actuator,An adversary can execute arbitrary code on the telematics unit (TCU) and take control of the device.,0.362406462430954
 Failure or malfunction of a sensor/actuator,The SS7 vulnerabilities can be exploited to compromise SMS system to intercept text user messages.,0.2670469582080841
 Failure or malfunction of a sensor/actuator,"Spying, SMS Interception & Modification, User Tracking.",0.3122847378253937
@@ -584,7 +584,7 @@ Failure or malfunction of a sensor/actuator,"Attacker can edit, add, manipuler c
 Failure or malfunction of a sensor/actuator,Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,0.39188122749328613
 Failure or malfunction of a sensor/actuator,"An attacker changes circuits of a device to extractsensitive data, such as cryptographic keys.",0.3544776439666748
 Failure or malfunction of a sensor/actuator,Attacker operates phisically on the TC by tampering the device firmware.,0.3362288475036621
-Failure or malfunction of a sensor/actuator,An attacker could perform remote control by installing remotely his own sottware on the device.,0.26503902673721313
+Failure or malfunction of a sensor/actuator,An attacker could perform remote control by installing remotely his own software on the device.,0.22737473249435425
 Failure or malfunction of a sensor/actuator,Reprogramming the USB/CD device's firmware to execute malicious actions.,0.2635132074356079
 Failure or malfunction of a sensor/actuator,An adversary can exploit the vulnerabilities o USB svstems on-board venice.,0.3153092861175537
 Failure or malfunction of a sensor/actuator,An adversary can identify or track the vehicle from the sensor.,0.36643797159194946
@@ -663,7 +663,7 @@ Vandalism,Attacker modifies the path of the sensitive data circulating in the ve
 Vandalism,Attacker remotely accesses via telematics systems (TCU).,0.21830213069915771
 Vandalism,"An adversary can capture, analyze, and replaye the messages.",0.2514728903770447
 Vandalism,An adversary could link the messages to a specific vehicle.,0.23016002774238586
-Vandalism,An adversarv can crack a weak password.,0.2870693802833557
+Vandalism,An adversary can crack a weak password.,0.3292098045349121
 Vandalism,An adversary can execute arbitrary code on the telematics unit (TCU) and take control of the device.,0.2752499282360077
 Vandalism,The SS7 vulnerabilities can be exploited to compromise SMS system to intercept text user messages.,0.19144004583358765
 Vandalism,"Spying, SMS Interception & Modification, User Tracking.",0.24131470918655396
@@ -671,7 +671,7 @@ Vandalism,"Attacker can edit, add, manipuler codes and framework of the must ECU
 Vandalism,Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,0.23495224118232727
 Vandalism,"An attacker changes circuits of a device to extractsensitive data, such as cryptographic keys.",0.37637627124786377
 Vandalism,Attacker operates phisically on the TC by tampering the device firmware.,0.44002726674079895
-Vandalism,An attacker could perform remote control by installing remotely his own sottware on the device.,0.34107232093811035
+Vandalism,An attacker could perform remote control by installing remotely his own software on the device.,0.29712244868278503
 Vandalism,Reprogramming the USB/CD device's firmware to execute malicious actions.,0.4709357023239136
 Vandalism,An adversary can exploit the vulnerabilities o USB svstems on-board venice.,0.4380952715873718
 Vandalism,An adversary can identify or track the vehicle from the sensor.,0.250540554523468
@@ -749,7 +749,7 @@ Network outage,Attacker modifies the path of the sensitive data circulating in t
 Network outage,Attacker remotely accesses via telematics systems (TCU).,0.1794644296169281
 Network outage,"An adversary can capture, analyze, and replaye the messages.",0.12891718745231628
 Network outage,An adversary could link the messages to a specific vehicle.,-0.05118225887417793
-Network outage,An adversarv can crack a weak password.,0.17899736762046814
+Network outage,An adversary can crack a weak password.,0.19538843631744385
 Network outage,An adversary can execute arbitrary code on the telematics unit (TCU) and take control of the device.,0.19283270835876465
 Network outage,The SS7 vulnerabilities can be exploited to compromise SMS system to intercept text user messages.,0.09963203966617584
 Network outage,"Spying, SMS Interception & Modification, User Tracking.",0.14247384667396545
@@ -757,7 +757,7 @@ Network outage,"Attacker can edit, add, manipuler codes and framework of the mus
 Network outage,Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,0.16806542873382568
 Network outage,"An attacker changes circuits of a device to extractsensitive data, such as cryptographic keys.",0.31490379571914673
 Network outage,Attacker operates phisically on the TC by tampering the device firmware.,0.21297045052051544
-Network outage,An attacker could perform remote control by installing remotely his own sottware on the device.,0.08168503642082214
+Network outage,An attacker could perform remote control by installing remotely his own software on the device.,0.11369995772838593
 Network outage,Reprogramming the USB/CD device's firmware to execute malicious actions.,0.08883413672447205
 Network outage,An adversary can exploit the vulnerabilities o USB svstems on-board venice.,0.06511680781841278
 Network outage,An adversary can identify or track the vehicle from the sensor.,0.046571068465709686
@@ -834,7 +834,7 @@ OEM Targeted attacks,Attacker modifies the path of the sensitive data circulatin
 OEM Targeted attacks,Attacker remotely accesses via telematics systems (TCU).,0.2716863453388214
 OEM Targeted attacks,"An adversary can capture, analyze, and replaye the messages.",0.29526346921920776
 OEM Targeted attacks,An adversary could link the messages to a specific vehicle.,0.36099016666412354
-OEM Targeted attacks,An adversarv can crack a weak password.,0.24637268483638763
+OEM Targeted attacks,An adversary can crack a weak password.,0.28006020188331604
 OEM Targeted attacks,An adversary can execute arbitrary code on the telematics unit (TCU) and take control of the device.,0.2722048759460449
 OEM Targeted attacks,The SS7 vulnerabilities can be exploited to compromise SMS system to intercept text user messages.,0.160547137260437
 OEM Targeted attacks,"Spying, SMS Interception & Modification, User Tracking.",0.16085708141326904
@@ -842,7 +842,7 @@ OEM Targeted attacks,"Attacker can edit, add, manipuler codes and framework of t
 OEM Targeted attacks,Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,0.2690274715423584
 OEM Targeted attacks,"An attacker changes circuits of a device to extractsensitive data, such as cryptographic keys.",0.18259340524673462
 OEM Targeted attacks,Attacker operates phisically on the TC by tampering the device firmware.,0.18883724510669708
-OEM Targeted attacks,An attacker could perform remote control by installing remotely his own sottware on the device.,0.22970658540725708
+OEM Targeted attacks,An attacker could perform remote control by installing remotely his own software on the device.,0.1647339016199112
 OEM Targeted attacks,Reprogramming the USB/CD device's firmware to execute malicious actions.,0.17845585942268372
 OEM Targeted attacks,An adversary can exploit the vulnerabilities o USB svstems on-board venice.,0.2777964770793915
 OEM Targeted attacks,An adversary can identify or track the vehicle from the sensor.,0.25169235467910767
@@ -918,7 +918,7 @@ Unauthorised activities,Attacker modifies the path of the sensitive data circula
 Unauthorised activities,Attacker remotely accesses via telematics systems (TCU).,0.29614436626434326
 Unauthorised activities,"An adversary can capture, analyze, and replaye the messages.",0.20010218024253845
 Unauthorised activities,An adversary could link the messages to a specific vehicle.,0.1265983134508133
-Unauthorised activities,An adversarv can crack a weak password.,0.17001768946647644
+Unauthorised activities,An adversary can crack a weak password.,0.19158589839935303
 Unauthorised activities,An adversary can execute arbitrary code on the telematics unit (TCU) and take control of the device.,0.34681862592697144
 Unauthorised activities,The SS7 vulnerabilities can be exploited to compromise SMS system to intercept text user messages.,0.3144773542881012
 Unauthorised activities,"Spying, SMS Interception & Modification, User Tracking.",0.2242840975522995
@@ -926,7 +926,7 @@ Unauthorised activities,"Attacker can edit, add, manipuler codes and framework o
 Unauthorised activities,Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,0.29187312722206116
 Unauthorised activities,"An attacker changes circuits of a device to extractsensitive data, such as cryptographic keys.",0.2448502779006958
 Unauthorised activities,Attacker operates phisically on the TC by tampering the device firmware.,0.2971002459526062
-Unauthorised activities,An attacker could perform remote control by installing remotely his own sottware on the device.,0.3659275770187378
+Unauthorised activities,An attacker could perform remote control by installing remotely his own software on the device.,0.37723687291145325
 Unauthorised activities,Reprogramming the USB/CD device's firmware to execute malicious actions.,0.3135683536529541
 Unauthorised activities,An adversary can exploit the vulnerabilities o USB svstems on-board venice.,0.2307727336883545
 Unauthorised activities,An adversary can identify or track the vehicle from the sensor.,0.19014540314674377
@@ -1001,7 +1001,7 @@ Identity theft,Attacker modifies the path of the sensitive data circulating in t
 Identity theft,Attacker remotely accesses via telematics systems (TCU).,0.32849186658859253
 Identity theft,"An adversary can capture, analyze, and replaye the messages.",0.3555043339729309
 Identity theft,An adversary could link the messages to a specific vehicle.,0.3436523377895355
-Identity theft,An adversarv can crack a weak password.,0.46570879220962524
+Identity theft,An adversary can crack a weak password.,0.4816734790802002
 Identity theft,An adversary can execute arbitrary code on the telematics unit (TCU) and take control of the device.,0.35691508650779724
 Identity theft,The SS7 vulnerabilities can be exploited to compromise SMS system to intercept text user messages.,0.3205627202987671
 Identity theft,"Spying, SMS Interception & Modification, User Tracking.",0.2796747088432312
@@ -1009,7 +1009,7 @@ Identity theft,"Attacker can edit, add, manipuler codes and framework of the mus
 Identity theft,Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,0.3329818546772003
 Identity theft,"An attacker changes circuits of a device to extractsensitive data, such as cryptographic keys.",0.4793604612350464
 Identity theft,Attacker operates phisically on the TC by tampering the device firmware.,0.31393009424209595
-Identity theft,An attacker could perform remote control by installing remotely his own sottware on the device.,0.34840327501296997
+Identity theft,An attacker could perform remote control by installing remotely his own software on the device.,0.3262917995452881
 Identity theft,Reprogramming the USB/CD device's firmware to execute malicious actions.,0.2446051836013794
 Identity theft,An adversary can exploit the vulnerabilities o USB svstems on-board venice.,0.3120462894439697
 Identity theft,An adversary can identify or track the vehicle from the sensor.,0.39490950107574463
@@ -1083,7 +1083,7 @@ Abuse of authorizations,Attacker modifies the path of the sensitive data circula
 Abuse of authorizations,Attacker remotely accesses via telematics systems (TCU).,0.24760231375694275
 Abuse of authorizations,"An adversary can capture, analyze, and replaye the messages.",0.34695670008659363
 Abuse of authorizations,An adversary could link the messages to a specific vehicle.,0.18999584019184113
-Abuse of authorizations,An adversarv can crack a weak password.,0.28627997636795044
+Abuse of authorizations,An adversary can crack a weak password.,0.2971299886703491
 Abuse of authorizations,An adversary can execute arbitrary code on the telematics unit (TCU) and take control of the device.,0.32463538646698
 Abuse of authorizations,The SS7 vulnerabilities can be exploited to compromise SMS system to intercept text user messages.,0.35648494958877563
 Abuse of authorizations,"Spying, SMS Interception & Modification, User Tracking.",0.2981324791908264
@@ -1091,7 +1091,7 @@ Abuse of authorizations,"Attacker can edit, add, manipuler codes and framework o
 Abuse of authorizations,Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,0.2934395968914032
 Abuse of authorizations,"An attacker changes circuits of a device to extractsensitive data, such as cryptographic keys.",0.3006868362426758
 Abuse of authorizations,Attacker operates phisically on the TC by tampering the device firmware.,0.3246559500694275
-Abuse of authorizations,An attacker could perform remote control by installing remotely his own sottware on the device.,0.36258038878440857
+Abuse of authorizations,An attacker could perform remote control by installing remotely his own software on the device.,0.3722074329853058
 Abuse of authorizations,Reprogramming the USB/CD device's firmware to execute malicious actions.,0.2835808992385864
 Abuse of authorizations,An adversary can exploit the vulnerabilities o USB svstems on-board venice.,0.276873379945755
 Abuse of authorizations,An adversary can identify or track the vehicle from the sensor.,0.20427830517292023
@@ -1164,7 +1164,7 @@ Sabotage,Attacker modifies the path of the sensitive data circulating in the veh
 Sabotage,Attacker remotely accesses via telematics systems (TCU).,0.1898002177476883
 Sabotage,"An adversary can capture, analyze, and replaye the messages.",0.21597498655319214
 Sabotage,An adversary could link the messages to a specific vehicle.,0.15224707126617432
-Sabotage,An adversarv can crack a weak password.,0.17546141147613525
+Sabotage,An adversary can crack a weak password.,0.2015388458967209
 Sabotage,An adversary can execute arbitrary code on the telematics unit (TCU) and take control of the device.,0.2532236874103546
 Sabotage,The SS7 vulnerabilities can be exploited to compromise SMS system to intercept text user messages.,0.2633039951324463
 Sabotage,"Spying, SMS Interception & Modification, User Tracking.",0.1789594441652298
@@ -1172,7 +1172,7 @@ Sabotage,"Attacker can edit, add, manipuler codes and framework of the must ECUs
 Sabotage,Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,0.23101221024990082
 Sabotage,"An attacker changes circuits of a device to extractsensitive data, such as cryptographic keys.",0.33706367015838623
 Sabotage,Attacker operates phisically on the TC by tampering the device firmware.,0.3089282512664795
-Sabotage,An attacker could perform remote control by installing remotely his own sottware on the device.,0.38148945569992065
+Sabotage,An attacker could perform remote control by installing remotely his own software on the device.,0.28865402936935425
 Sabotage,Reprogramming the USB/CD device's firmware to execute malicious actions.,0.41372236609458923
 Sabotage,An adversary can exploit the vulnerabilities o USB svstems on-board venice.,0.3969050943851471
 Sabotage,An adversary can identify or track the vehicle from the sensor.,0.1967165172100067
@@ -1244,7 +1244,7 @@ Theft,Attacker modifies the path of the sensitive data circulating in the vehicl
 Theft,Attacker remotely accesses via telematics systems (TCU).,0.18420487642288208
 Theft,"An adversary can capture, analyze, and replaye the messages.",0.3201521337032318
 Theft,An adversary could link the messages to a specific vehicle.,0.1881205439567566
-Theft,An adversarv can crack a weak password.,0.3789215683937073
+Theft,An adversary can crack a weak password.,0.39623868465423584
 Theft,An adversary can execute arbitrary code on the telematics unit (TCU) and take control of the device.,0.23412175476551056
 Theft,The SS7 vulnerabilities can be exploited to compromise SMS system to intercept text user messages.,0.23717814683914185
 Theft,"Spying, SMS Interception & Modification, User Tracking.",0.23444299399852753
@@ -1252,7 +1252,7 @@ Theft,"Attacker can edit, add, manipuler codes and framework of the must ECUs in
 Theft,Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,0.19916783273220062
 Theft,"An attacker changes circuits of a device to extractsensitive data, such as cryptographic keys.",0.3850197196006775
 Theft,Attacker operates phisically on the TC by tampering the device firmware.,0.3299623131752014
-Theft,An attacker could perform remote control by installing remotely his own sottware on the device.,0.22701838612556458
+Theft,An attacker could perform remote control by installing remotely his own software on the device.,0.17777769267559052
 Theft,Reprogramming the USB/CD device's firmware to execute malicious actions.,0.2764490246772766
 Theft,An adversary can exploit the vulnerabilities o USB svstems on-board venice.,0.34529900550842285
 Theft,An adversary can identify or track the vehicle from the sensor.,0.26502853631973267
@@ -1323,7 +1323,7 @@ Side-channel attacks,Attacker modifies the path of the sensitive data circulatin
 Side-channel attacks,Attacker remotely accesses via telematics systems (TCU).,0.28965020179748535
 Side-channel attacks,"An adversary can capture, analyze, and replaye the messages.",0.39183130860328674
 Side-channel attacks,An adversary could link the messages to a specific vehicle.,0.2594072222709656
-Side-channel attacks,An adversarv can crack a weak password.,0.2126423418521881
+Side-channel attacks,An adversary can crack a weak password.,0.23018410801887512
 Side-channel attacks,An adversary can execute arbitrary code on the telematics unit (TCU) and take control of the device.,0.27982097864151
 Side-channel attacks,The SS7 vulnerabilities can be exploited to compromise SMS system to intercept text user messages.,0.23988249897956848
 Side-channel attacks,"Spying, SMS Interception & Modification, User Tracking.",0.28137218952178955
@@ -1331,7 +1331,7 @@ Side-channel attacks,"Attacker can edit, add, manipuler codes and framework of t
 Side-channel attacks,Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,0.29371631145477295
 Side-channel attacks,"An attacker changes circuits of a device to extractsensitive data, such as cryptographic keys.",0.25256770849227905
 Side-channel attacks,Attacker operates phisically on the TC by tampering the device firmware.,0.19554506242275238
-Side-channel attacks,An attacker could perform remote control by installing remotely his own sottware on the device.,0.27891257405281067
+Side-channel attacks,An attacker could perform remote control by installing remotely his own software on the device.,0.19407467544078827
 Side-channel attacks,Reprogramming the USB/CD device's firmware to execute malicious actions.,0.21338258683681488
 Side-channel attacks,An adversary can exploit the vulnerabilities o USB svstems on-board venice.,0.3873410224914551
 Side-channel attacks,An adversary can identify or track the vehicle from the sensor.,0.2808290123939514
@@ -1401,7 +1401,7 @@ Fault injection,Attacker modifies the path of the sensitive data circulating in 
 Fault injection,Attacker remotely accesses via telematics systems (TCU).,0.09454004466533661
 Fault injection,"An adversary can capture, analyze, and replaye the messages.",0.23554301261901855
 Fault injection,An adversary could link the messages to a specific vehicle.,0.2671612501144409
-Fault injection,An adversarv can crack a weak password.,0.31650567054748535
+Fault injection,An adversary can crack a weak password.,0.3160191476345062
 Fault injection,An adversary can execute arbitrary code on the telematics unit (TCU) and take control of the device.,0.23386280238628387
 Fault injection,The SS7 vulnerabilities can be exploited to compromise SMS system to intercept text user messages.,0.09981919825077057
 Fault injection,"Spying, SMS Interception & Modification, User Tracking.",0.11390242725610733
@@ -1409,7 +1409,7 @@ Fault injection,"Attacker can edit, add, manipuler codes and framework of the mu
 Fault injection,Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,0.29411783814430237
 Fault injection,"An attacker changes circuits of a device to extractsensitive data, such as cryptographic keys.",0.2915858328342438
 Fault injection,Attacker operates phisically on the TC by tampering the device firmware.,0.31047049164772034
-Fault injection,An attacker could perform remote control by installing remotely his own sottware on the device.,0.22944609820842743
+Fault injection,An attacker could perform remote control by installing remotely his own software on the device.,0.19249755144119263
 Fault injection,Reprogramming the USB/CD device's firmware to execute malicious actions.,0.4340425729751587
 Fault injection,An adversary can exploit the vulnerabilities o USB svstems on-board venice.,0.2949259281158447
 Fault injection,An adversary can identify or track the vehicle from the sensor.,0.24043607711791992
@@ -1478,7 +1478,7 @@ Software vulnerabilities exploitation,Attacker modifies the path of the sensitiv
 Software vulnerabilities exploitation,Attacker remotely accesses via telematics systems (TCU).,0.2931395173072815
 Software vulnerabilities exploitation,"An adversary can capture, analyze, and replaye the messages.",0.36416685581207275
 Software vulnerabilities exploitation,An adversary could link the messages to a specific vehicle.,0.2868381142616272
-Software vulnerabilities exploitation,An adversarv can crack a weak password.,0.49416112899780273
+Software vulnerabilities exploitation,An adversary can crack a weak password.,0.5177842378616333
 Software vulnerabilities exploitation,An adversary can execute arbitrary code on the telematics unit (TCU) and take control of the device.,0.38253074884414673
 Software vulnerabilities exploitation,The SS7 vulnerabilities can be exploited to compromise SMS system to intercept text user messages.,0.4570503830909729
 Software vulnerabilities exploitation,"Spying, SMS Interception & Modification, User Tracking.",0.24367298185825348
@@ -1486,7 +1486,7 @@ Software vulnerabilities exploitation,"Attacker can edit, add, manipuler codes a
 Software vulnerabilities exploitation,Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,0.4289843738079071
 Software vulnerabilities exploitation,"An attacker changes circuits of a device to extractsensitive data, such as cryptographic keys.",0.367409348487854
 Software vulnerabilities exploitation,Attacker operates phisically on the TC by tampering the device firmware.,0.3720185160636902
-Software vulnerabilities exploitation,An attacker could perform remote control by installing remotely his own sottware on the device.,0.43017154932022095
+Software vulnerabilities exploitation,An attacker could perform remote control by installing remotely his own software on the device.,0.4537522494792938
 Software vulnerabilities exploitation,Reprogramming the USB/CD device's firmware to execute malicious actions.,0.38587456941604614
 Software vulnerabilities exploitation,An adversary can exploit the vulnerabilities o USB svstems on-board venice.,0.5237399935722351
 Software vulnerabilities exploitation,An adversary can identify or track the vehicle from the sensor.,0.3219556212425232
@@ -1554,7 +1554,7 @@ Failure or Disruption of service,Attacker modifies the path of the sensitive dat
 Failure or Disruption of service,Attacker remotely accesses via telematics systems (TCU).,0.12499415129423141
 Failure or Disruption of service,"An adversary can capture, analyze, and replaye the messages.",0.14538128674030304
 Failure or Disruption of service,An adversary could link the messages to a specific vehicle.,0.017519164830446243
-Failure or Disruption of service,An adversarv can crack a weak password.,0.17338401079177856
+Failure or Disruption of service,An adversary can crack a weak password.,0.18089741468429565
 Failure or Disruption of service,An adversary can execute arbitrary code on the telematics unit (TCU) and take control of the device.,0.1716698259115219
 Failure or Disruption of service,The SS7 vulnerabilities can be exploited to compromise SMS system to intercept text user messages.,0.2174789309501648
 Failure or Disruption of service,"Spying, SMS Interception & Modification, User Tracking.",0.11804327368736267
@@ -1562,7 +1562,7 @@ Failure or Disruption of service,"Attacker can edit, add, manipuler codes and fr
 Failure or Disruption of service,Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,0.11867095530033112
 Failure or Disruption of service,"An attacker changes circuits of a device to extractsensitive data, such as cryptographic keys.",0.2718770503997803
 Failure or Disruption of service,Attacker operates phisically on the TC by tampering the device firmware.,0.1909722536802292
-Failure or Disruption of service,An attacker could perform remote control by installing remotely his own sottware on the device.,0.07247625291347504
+Failure or Disruption of service,An attacker could perform remote control by installing remotely his own software on the device.,0.07577630877494812
 Failure or Disruption of service,Reprogramming the USB/CD device's firmware to execute malicious actions.,0.1401304304599762
 Failure or Disruption of service,An adversary can exploit the vulnerabilities o USB svstems on-board venice.,0.12728513777256012
 Failure or Disruption of service,An adversary can identify or track the vehicle from the sensor.,0.0602143369615078
@@ -1629,7 +1629,7 @@ Communication protocol hijacking,Attacker modifies the path of the sensitive dat
 Communication protocol hijacking,Attacker remotely accesses via telematics systems (TCU).,0.3526788353919983
 Communication protocol hijacking,"An adversary can capture, analyze, and replaye the messages.",0.4301397204399109
 Communication protocol hijacking,An adversary could link the messages to a specific vehicle.,0.14705069363117218
-Communication protocol hijacking,An adversarv can crack a weak password.,0.42333751916885376
+Communication protocol hijacking,An adversary can crack a weak password.,0.4069479703903198
 Communication protocol hijacking,An adversary can execute arbitrary code on the telematics unit (TCU) and take control of the device.,0.44467368721961975
 Communication protocol hijacking,The SS7 vulnerabilities can be exploited to compromise SMS system to intercept text user messages.,0.4175991415977478
 Communication protocol hijacking,"Spying, SMS Interception & Modification, User Tracking.",0.42537277936935425
@@ -1637,7 +1637,7 @@ Communication protocol hijacking,"Attacker can edit, add, manipuler codes and fr
 Communication protocol hijacking,Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,0.28919297456741333
 Communication protocol hijacking,"An attacker changes circuits of a device to extractsensitive data, such as cryptographic keys.",0.51854407787323
 Communication protocol hijacking,Attacker operates phisically on the TC by tampering the device firmware.,0.42193877696990967
-Communication protocol hijacking,An attacker could perform remote control by installing remotely his own sottware on the device.,0.35068148374557495
+Communication protocol hijacking,An attacker could perform remote control by installing remotely his own software on the device.,0.32813137769699097
 Communication protocol hijacking,Reprogramming the USB/CD device's firmware to execute malicious actions.,0.24907809495925903
 Communication protocol hijacking,An adversary can exploit the vulnerabilities o USB svstems on-board venice.,0.33209121227264404
 Communication protocol hijacking,An adversary can identify or track the vehicle from the sensor.,0.23231425881385803
@@ -1703,7 +1703,7 @@ Data replay,Attacker modifies the path of the sensitive data circulating in the 
 Data replay,Attacker remotely accesses via telematics systems (TCU).,0.10641046613454819
 Data replay,"An adversary can capture, analyze, and replaye the messages.",0.5229810476303101
 Data replay,An adversary could link the messages to a specific vehicle.,0.09155095368623734
-Data replay,An adversarv can crack a weak password.,0.2168670892715454
+Data replay,An adversary can crack a weak password.,0.19898904860019684
 Data replay,An adversary can execute arbitrary code on the telematics unit (TCU) and take control of the device.,0.15012958645820618
 Data replay,The SS7 vulnerabilities can be exploited to compromise SMS system to intercept text user messages.,0.1346377432346344
 Data replay,"Spying, SMS Interception & Modification, User Tracking.",0.28347012400627136
@@ -1711,7 +1711,7 @@ Data replay,"Attacker can edit, add, manipuler codes and framework of the must E
 Data replay,Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,0.2522055506706238
 Data replay,"An attacker changes circuits of a device to extractsensitive data, such as cryptographic keys.",0.27062517404556274
 Data replay,Attacker operates phisically on the TC by tampering the device firmware.,0.23427876830101013
-Data replay,An attacker could perform remote control by installing remotely his own sottware on the device.,0.10327577590942383
+Data replay,An attacker could perform remote control by installing remotely his own software on the device.,0.08458000421524048
 Data replay,Reprogramming the USB/CD device's firmware to execute malicious actions.,0.17372369766235352
 Data replay,An adversary can exploit the vulnerabilities o USB svstems on-board venice.,0.14603319764137268
 Data replay,An adversary can identify or track the vehicle from the sensor.,0.1937035620212555
@@ -1776,7 +1776,7 @@ Man-in-the-middle attack / Session hijacking,Attacker modifies the path of the s
 Man-in-the-middle attack / Session hijacking,Attacker remotely accesses via telematics systems (TCU).,0.233619824051857
 Man-in-the-middle attack / Session hijacking,"An adversary can capture, analyze, and replaye the messages.",0.3550686836242676
 Man-in-the-middle attack / Session hijacking,An adversary could link the messages to a specific vehicle.,0.23212048411369324
-Man-in-the-middle attack / Session hijacking,An adversarv can crack a weak password.,0.46296197175979614
+Man-in-the-middle attack / Session hijacking,An adversary can crack a weak password.,0.44434481859207153
 Man-in-the-middle attack / Session hijacking,An adversary can execute arbitrary code on the telematics unit (TCU) and take control of the device.,0.3803391456604004
 Man-in-the-middle attack / Session hijacking,The SS7 vulnerabilities can be exploited to compromise SMS system to intercept text user messages.,0.30117732286453247
 Man-in-the-middle attack / Session hijacking,"Spying, SMS Interception & Modification, User Tracking.",0.2845306396484375
@@ -1784,7 +1784,7 @@ Man-in-the-middle attack / Session hijacking,"Attacker can edit, add, manipuler 
 Man-in-the-middle attack / Session hijacking,Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,0.29187333583831787
 Man-in-the-middle attack / Session hijacking,"An attacker changes circuits of a device to extractsensitive data, such as cryptographic keys.",0.4455849528312683
 Man-in-the-middle attack / Session hijacking,Attacker operates phisically on the TC by tampering the device firmware.,0.35217785835266113
-Man-in-the-middle attack / Session hijacking,An attacker could perform remote control by installing remotely his own sottware on the device.,0.33006906509399414
+Man-in-the-middle attack / Session hijacking,An attacker could perform remote control by installing remotely his own software on the device.,0.270145446062088
 Man-in-the-middle attack / Session hijacking,Reprogramming the USB/CD device's firmware to execute malicious actions.,0.3214122951030731
 Man-in-the-middle attack / Session hijacking,An adversary can exploit the vulnerabilities o USB svstems on-board venice.,0.40145692229270935
 Man-in-the-middle attack / Session hijacking,An adversary can identify or track the vehicle from the sensor.,0.21783766150474548
@@ -1848,7 +1848,7 @@ Unintentional change of data or car components configuration,Attacker modifies t
 Unintentional change of data or car components configuration,Attacker remotely accesses via telematics systems (TCU).,0.26378393173217773
 Unintentional change of data or car components configuration,"An adversary can capture, analyze, and replaye the messages.",0.17782701551914215
 Unintentional change of data or car components configuration,An adversary could link the messages to a specific vehicle.,0.339679479598999
-Unintentional change of data or car components configuration,An adversarv can crack a weak password.,0.10727719962596893
+Unintentional change of data or car components configuration,An adversary can crack a weak password.,0.1187005341053009
 Unintentional change of data or car components configuration,An adversary can execute arbitrary code on the telematics unit (TCU) and take control of the device.,0.356571763753891
 Unintentional change of data or car components configuration,The SS7 vulnerabilities can be exploited to compromise SMS system to intercept text user messages.,0.20159298181533813
 Unintentional change of data or car components configuration,"Spying, SMS Interception & Modification, User Tracking.",0.26723772287368774
@@ -1856,7 +1856,7 @@ Unintentional change of data or car components configuration,"Attacker can edit,
 Unintentional change of data or car components configuration,Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,0.35517585277557373
 Unintentional change of data or car components configuration,"An attacker changes circuits of a device to extractsensitive data, such as cryptographic keys.",0.37395745515823364
 Unintentional change of data or car components configuration,Attacker operates phisically on the TC by tampering the device firmware.,0.35829687118530273
-Unintentional change of data or car components configuration,An attacker could perform remote control by installing remotely his own sottware on the device.,0.3240416944026947
+Unintentional change of data or car components configuration,An attacker could perform remote control by installing remotely his own software on the device.,0.33731433749198914
 Unintentional change of data or car components configuration,Reprogramming the USB/CD device's firmware to execute malicious actions.,0.3052749037742615
 Unintentional change of data or car components configuration,An adversary can exploit the vulnerabilities o USB svstems on-board venice.,0.16503509879112244
 Unintentional change of data or car components configuration,An adversary can identify or track the vehicle from the sensor.,0.30874741077423096
@@ -1919,7 +1919,7 @@ Information leakage,Attacker modifies the path of the sensitive data circulating
 Information leakage,Attacker remotely accesses via telematics systems (TCU).,0.1882992386817932
 Information leakage,"An adversary can capture, analyze, and replaye the messages.",0.3370397686958313
 Information leakage,An adversary could link the messages to a specific vehicle.,0.18358980119228363
-Information leakage,An adversarv can crack a weak password.,0.2698325514793396
+Information leakage,An adversary can crack a weak password.,0.2927211821079254
 Information leakage,An adversary can execute arbitrary code on the telematics unit (TCU) and take control of the device.,0.18821322917938232
 Information leakage,The SS7 vulnerabilities can be exploited to compromise SMS system to intercept text user messages.,0.23672059178352356
 Information leakage,"Spying, SMS Interception & Modification, User Tracking.",0.21863293647766113
@@ -1927,7 +1927,7 @@ Information leakage,"Attacker can edit, add, manipuler codes and framework of th
 Information leakage,Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,0.33966100215911865
 Information leakage,"An attacker changes circuits of a device to extractsensitive data, such as cryptographic keys.",0.376292884349823
 Information leakage,Attacker operates phisically on the TC by tampering the device firmware.,0.19847221672534943
-Information leakage,An attacker could perform remote control by installing remotely his own sottware on the device.,0.1851608157157898
+Information leakage,An attacker could perform remote control by installing remotely his own software on the device.,0.1852230429649353
 Information leakage,Reprogramming the USB/CD device's firmware to execute malicious actions.,0.11699976027011871
 Information leakage,An adversary can exploit the vulnerabilities o USB svstems on-board venice.,0.17963114380836487
 Information leakage,An adversary can identify or track the vehicle from the sensor.,0.30088603496551514
@@ -1989,7 +1989,7 @@ Using information and/or devices from an unreliable source,Attacker modifies the
 Using information and/or devices from an unreliable source,Attacker remotely accesses via telematics systems (TCU).,0.4130120277404785
 Using information and/or devices from an unreliable source,"An adversary can capture, analyze, and replaye the messages.",0.32800763845443726
 Using information and/or devices from an unreliable source,An adversary could link the messages to a specific vehicle.,0.29845571517944336
-Using information and/or devices from an unreliable source,An adversarv can crack a weak password.,0.21899986267089844
+Using information and/or devices from an unreliable source,An adversary can crack a weak password.,0.24475878477096558
 Using information and/or devices from an unreliable source,An adversary can execute arbitrary code on the telematics unit (TCU) and take control of the device.,0.45671045780181885
 Using information and/or devices from an unreliable source,The SS7 vulnerabilities can be exploited to compromise SMS system to intercept text user messages.,0.35935115814208984
 Using information and/or devices from an unreliable source,"Spying, SMS Interception & Modification, User Tracking.",0.49781543016433716
@@ -1997,7 +1997,7 @@ Using information and/or devices from an unreliable source,"Attacker can edit, a
 Using information and/or devices from an unreliable source,Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,0.4069307744503021
 Using information and/or devices from an unreliable source,"An attacker changes circuits of a device to extractsensitive data, such as cryptographic keys.",0.5266042947769165
 Using information and/or devices from an unreliable source,Attacker operates phisically on the TC by tampering the device firmware.,0.49651089310646057
-Using information and/or devices from an unreliable source,An attacker could perform remote control by installing remotely his own sottware on the device.,0.40874502062797546
+Using information and/or devices from an unreliable source,An attacker could perform remote control by installing remotely his own software on the device.,0.37965667247772217
 Using information and/or devices from an unreliable source,Reprogramming the USB/CD device's firmware to execute malicious actions.,0.31949687004089355
 Using information and/or devices from an unreliable source,An adversary can exploit the vulnerabilities o USB svstems on-board venice.,0.3196907937526703
 Using information and/or devices from an unreliable source,An adversary can identify or track the vehicle from the sensor.,0.3588504493236542
@@ -2058,7 +2058,7 @@ Erroneous use or configuration of car components,Attacker modifies the path of t
 Erroneous use or configuration of car components,Attacker remotely accesses via telematics systems (TCU).,0.3188468813896179
 Erroneous use or configuration of car components,"An adversary can capture, analyze, and replaye the messages.",0.15612037479877472
 Erroneous use or configuration of car components,An adversary could link the messages to a specific vehicle.,0.3677067458629608
-Erroneous use or configuration of car components,An adversarv can crack a weak password.,0.1550491601228714
+Erroneous use or configuration of car components,An adversary can crack a weak password.,0.13760806620121002
 Erroneous use or configuration of car components,An adversary can execute arbitrary code on the telematics unit (TCU) and take control of the device.,0.4021000266075134
 Erroneous use or configuration of car components,The SS7 vulnerabilities can be exploited to compromise SMS system to intercept text user messages.,0.19410976767539978
 Erroneous use or configuration of car components,"Spying, SMS Interception & Modification, User Tracking.",0.24299748241901398
@@ -2066,7 +2066,7 @@ Erroneous use or configuration of car components,"Attacker can edit, add, manipu
 Erroneous use or configuration of car components,Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,0.36960601806640625
 Erroneous use or configuration of car components,"An attacker changes circuits of a device to extractsensitive data, such as cryptographic keys.",0.3288300633430481
 Erroneous use or configuration of car components,Attacker operates phisically on the TC by tampering the device firmware.,0.3586723208427429
-Erroneous use or configuration of car components,An attacker could perform remote control by installing remotely his own sottware on the device.,0.4042949378490448
+Erroneous use or configuration of car components,An attacker could perform remote control by installing remotely his own software on the device.,0.37725064158439636
 Erroneous use or configuration of car components,Reprogramming the USB/CD device's firmware to execute malicious actions.,0.3351841866970062
 Erroneous use or configuration of car components,An adversary can exploit the vulnerabilities o USB svstems on-board venice.,0.28530415892601013
 Erroneous use or configuration of car components,An adversary can identify or track the vehicle from the sensor.,0.2990720570087433
@@ -2126,7 +2126,7 @@ Failure to meet contractual requirements,Attacker modifies the path of the sensi
 Failure to meet contractual requirements,Attacker remotely accesses via telematics systems (TCU).,-0.00047347042709589005
 Failure to meet contractual requirements,"An adversary can capture, analyze, and replaye the messages.",0.15432420372962952
 Failure to meet contractual requirements,An adversary could link the messages to a specific vehicle.,0.034304820001125336
-Failure to meet contractual requirements,An adversarv can crack a weak password.,0.13784731924533844
+Failure to meet contractual requirements,An adversary can crack a weak password.,0.14387887716293335
 Failure to meet contractual requirements,An adversary can execute arbitrary code on the telematics unit (TCU) and take control of the device.,0.0746147483587265
 Failure to meet contractual requirements,The SS7 vulnerabilities can be exploited to compromise SMS system to intercept text user messages.,0.0905131846666336
 Failure to meet contractual requirements,"Spying, SMS Interception & Modification, User Tracking.",0.07453885674476624
@@ -2134,7 +2134,7 @@ Failure to meet contractual requirements,"Attacker can edit, add, manipuler code
 Failure to meet contractual requirements,Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,-0.0024587903171777725
 Failure to meet contractual requirements,"An attacker changes circuits of a device to extractsensitive data, such as cryptographic keys.",0.11454582214355469
 Failure to meet contractual requirements,Attacker operates phisically on the TC by tampering the device firmware.,0.09269590675830841
-Failure to meet contractual requirements,An attacker could perform remote control by installing remotely his own sottware on the device.,-0.04067389667034149
+Failure to meet contractual requirements,An attacker could perform remote control by installing remotely his own software on the device.,-0.019500143826007843
 Failure to meet contractual requirements,Reprogramming the USB/CD device's firmware to execute malicious actions.,0.012907424010336399
 Failure to meet contractual requirements,An adversary can exploit the vulnerabilities o USB svstems on-board venice.,0.02665282040834427
 Failure to meet contractual requirements,An adversary can identify or track the vehicle from the sensor.,0.10185052454471588
@@ -2193,7 +2193,7 @@ Violation of rules and regulations/Breach of legislation/ Abuse of personal data
 Violation of rules and regulations/Breach of legislation/ Abuse of personal data,Attacker remotely accesses via telematics systems (TCU).,0.2850436866283417
 Violation of rules and regulations/Breach of legislation/ Abuse of personal data,"An adversary can capture, analyze, and replaye the messages.",0.27680760622024536
 Violation of rules and regulations/Breach of legislation/ Abuse of personal data,An adversary could link the messages to a specific vehicle.,0.1981794834136963
-Violation of rules and regulations/Breach of legislation/ Abuse of personal data,An adversarv can crack a weak password.,0.2201802134513855
+Violation of rules and regulations/Breach of legislation/ Abuse of personal data,An adversary can crack a weak password.,0.26746031641960144
 Violation of rules and regulations/Breach of legislation/ Abuse of personal data,An adversary can execute arbitrary code on the telematics unit (TCU) and take control of the device.,0.3691045045852661
 Violation of rules and regulations/Breach of legislation/ Abuse of personal data,The SS7 vulnerabilities can be exploited to compromise SMS system to intercept text user messages.,0.4088093042373657
 Violation of rules and regulations/Breach of legislation/ Abuse of personal data,"Spying, SMS Interception & Modification, User Tracking.",0.35598498582839966
@@ -2201,7 +2201,7 @@ Violation of rules and regulations/Breach of legislation/ Abuse of personal data
 Violation of rules and regulations/Breach of legislation/ Abuse of personal data,Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,0.2991154193878174
 Violation of rules and regulations/Breach of legislation/ Abuse of personal data,"An attacker changes circuits of a device to extractsensitive data, such as cryptographic keys.",0.4019574820995331
 Violation of rules and regulations/Breach of legislation/ Abuse of personal data,Attacker operates phisically on the TC by tampering the device firmware.,0.38000935316085815
-Violation of rules and regulations/Breach of legislation/ Abuse of personal data,An attacker could perform remote control by installing remotely his own sottware on the device.,0.3577488362789154
+Violation of rules and regulations/Breach of legislation/ Abuse of personal data,An attacker could perform remote control by installing remotely his own software on the device.,0.37020301818847656
 Violation of rules and regulations/Breach of legislation/ Abuse of personal data,Reprogramming the USB/CD device's firmware to execute malicious actions.,0.32081353664398193
 Violation of rules and regulations/Breach of legislation/ Abuse of personal data,An adversary can exploit the vulnerabilities o USB svstems on-board venice.,0.2929229140281677
 Violation of rules and regulations/Breach of legislation/ Abuse of personal data,An adversary can identify or track the vehicle from the sensor.,0.2749326229095459
@@ -2259,7 +2259,7 @@ Loss of GNSS signal,Attacker modifies the path of the sensitive data circulating
 Loss of GNSS signal,Attacker remotely accesses via telematics systems (TCU).,0.2832818925380707
 Loss of GNSS signal,"An adversary can capture, analyze, and replaye the messages.",0.15984758734703064
 Loss of GNSS signal,An adversary could link the messages to a specific vehicle.,0.03260547295212746
-Loss of GNSS signal,An adversarv can crack a weak password.,0.1876288652420044
+Loss of GNSS signal,An adversary can crack a weak password.,0.20459020137786865
 Loss of GNSS signal,An adversary can execute arbitrary code on the telematics unit (TCU) and take control of the device.,0.2365347445011139
 Loss of GNSS signal,The SS7 vulnerabilities can be exploited to compromise SMS system to intercept text user messages.,0.2741272449493408
 Loss of GNSS signal,"Spying, SMS Interception & Modification, User Tracking.",0.281878262758255
@@ -2267,7 +2267,7 @@ Loss of GNSS signal,"Attacker can edit, add, manipuler codes and framework of th
 Loss of GNSS signal,Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,0.21151432394981384
 Loss of GNSS signal,"An attacker changes circuits of a device to extractsensitive data, such as cryptographic keys.",0.27695539593696594
 Loss of GNSS signal,Attacker operates phisically on the TC by tampering the device firmware.,0.22520899772644043
-Loss of GNSS signal,An attacker could perform remote control by installing remotely his own sottware on the device.,0.12023954093456268
+Loss of GNSS signal,An attacker could perform remote control by installing remotely his own software on the device.,0.05360491946339607
 Loss of GNSS signal,Reprogramming the USB/CD device's firmware to execute malicious actions.,0.027245888486504555
 Loss of GNSS signal,An adversary can exploit the vulnerabilities o USB svstems on-board venice.,0.0953020229935646
 Loss of GNSS signal,An adversary can identify or track the vehicle from the sensor.,0.13481616973876953
@@ -2324,7 +2324,7 @@ Car depleted battery,Attacker modifies the path of the sensitive data circulatin
 Car depleted battery,Attacker remotely accesses via telematics systems (TCU).,-0.0007444201037287712
 Car depleted battery,"An adversary can capture, analyze, and replaye the messages.",0.1055707260966301
 Car depleted battery,An adversary could link the messages to a specific vehicle.,0.2385052740573883
-Car depleted battery,An adversarv can crack a weak password.,0.15858078002929688
+Car depleted battery,An adversary can crack a weak password.,0.14361116290092468
 Car depleted battery,An adversary can execute arbitrary code on the telematics unit (TCU) and take control of the device.,0.07951653003692627
 Car depleted battery,The SS7 vulnerabilities can be exploited to compromise SMS system to intercept text user messages.,0.05357877165079117
 Car depleted battery,"Spying, SMS Interception & Modification, User Tracking.",0.10971200466156006
@@ -2332,7 +2332,7 @@ Car depleted battery,"Attacker can edit, add, manipuler codes and framework of t
 Car depleted battery,Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,0.2095741629600525
 Car depleted battery,"An attacker changes circuits of a device to extractsensitive data, such as cryptographic keys.",0.20854628086090088
 Car depleted battery,Attacker operates phisically on the TC by tampering the device firmware.,0.12477823346853256
-Car depleted battery,An attacker could perform remote control by installing remotely his own sottware on the device.,0.10069314390420914
+Car depleted battery,An attacker could perform remote control by installing remotely his own software on the device.,0.07019194215536118
 Car depleted battery,Reprogramming the USB/CD device's firmware to execute malicious actions.,0.11278524994850159
 Car depleted battery,An adversary can exploit the vulnerabilities o USB svstems on-board venice.,0.15239840745925903
 Car depleted battery,An adversary can identify or track the vehicle from the sensor.,0.25973260402679443
@@ -2388,7 +2388,7 @@ Attacker injects CAN messages/codes via any ECUs connected to the bus.,Attacker 
 Attacker injects CAN messages/codes via any ECUs connected to the bus.,Attacker remotely accesses via telematics systems (TCU).,0.5383011102676392
 Attacker injects CAN messages/codes via any ECUs connected to the bus.,"An adversary can capture, analyze, and replaye the messages.",0.5017746686935425
 Attacker injects CAN messages/codes via any ECUs connected to the bus.,An adversary could link the messages to a specific vehicle.,0.43392711877822876
-Attacker injects CAN messages/codes via any ECUs connected to the bus.,An adversarv can crack a weak password.,0.525432288646698
+Attacker injects CAN messages/codes via any ECUs connected to the bus.,An adversary can crack a weak password.,0.5552257299423218
 Attacker injects CAN messages/codes via any ECUs connected to the bus.,An adversary can execute arbitrary code on the telematics unit (TCU) and take control of the device.,0.6557775735855103
 Attacker injects CAN messages/codes via any ECUs connected to the bus.,The SS7 vulnerabilities can be exploited to compromise SMS system to intercept text user messages.,0.4658567011356354
 Attacker injects CAN messages/codes via any ECUs connected to the bus.,"Spying, SMS Interception & Modification, User Tracking.",0.37858954071998596
@@ -2396,7 +2396,7 @@ Attacker injects CAN messages/codes via any ECUs connected to the bus.,"Attacker
 Attacker injects CAN messages/codes via any ECUs connected to the bus.,Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,0.5379763841629028
 Attacker injects CAN messages/codes via any ECUs connected to the bus.,"An attacker changes circuits of a device to extractsensitive data, such as cryptographic keys.",0.6068060398101807
 Attacker injects CAN messages/codes via any ECUs connected to the bus.,Attacker operates phisically on the TC by tampering the device firmware.,0.6072855591773987
-Attacker injects CAN messages/codes via any ECUs connected to the bus.,An attacker could perform remote control by installing remotely his own sottware on the device.,0.5316628217697144
+Attacker injects CAN messages/codes via any ECUs connected to the bus.,An attacker could perform remote control by installing remotely his own software on the device.,0.5354071259498596
 Attacker injects CAN messages/codes via any ECUs connected to the bus.,Reprogramming the USB/CD device's firmware to execute malicious actions.,0.5211126804351807
 Attacker injects CAN messages/codes via any ECUs connected to the bus.,An adversary can exploit the vulnerabilities o USB svstems on-board venice.,0.5559971332550049
 Attacker injects CAN messages/codes via any ECUs connected to the bus.,An adversary can identify or track the vehicle from the sensor.,0.3818601369857788
@@ -2451,7 +2451,7 @@ Attacker injects CAN messages/codes via any ECUs connected to the bus.,Form fiel
 Attacker modifies the path of the sensitive data circulating in the vehicle.,Attacker remotely accesses via telematics systems (TCU).,0.46096378564834595
 Attacker modifies the path of the sensitive data circulating in the vehicle.,"An adversary can capture, analyze, and replaye the messages.",0.30174851417541504
 Attacker modifies the path of the sensitive data circulating in the vehicle.,An adversary could link the messages to a specific vehicle.,0.4914453625679016
-Attacker modifies the path of the sensitive data circulating in the vehicle.,An adversarv can crack a weak password.,0.26633185148239136
+Attacker modifies the path of the sensitive data circulating in the vehicle.,An adversary can crack a weak password.,0.3052665591239929
 Attacker modifies the path of the sensitive data circulating in the vehicle.,An adversary can execute arbitrary code on the telematics unit (TCU) and take control of the device.,0.4587668776512146
 Attacker modifies the path of the sensitive data circulating in the vehicle.,The SS7 vulnerabilities can be exploited to compromise SMS system to intercept text user messages.,0.29678308963775635
 Attacker modifies the path of the sensitive data circulating in the vehicle.,"Spying, SMS Interception & Modification, User Tracking.",0.3411155641078949
@@ -2459,7 +2459,7 @@ Attacker modifies the path of the sensitive data circulating in the vehicle.,"At
 Attacker modifies the path of the sensitive data circulating in the vehicle.,Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,0.5030146837234497
 Attacker modifies the path of the sensitive data circulating in the vehicle.,"An attacker changes circuits of a device to extractsensitive data, such as cryptographic keys.",0.5927808880805969
 Attacker modifies the path of the sensitive data circulating in the vehicle.,Attacker operates phisically on the TC by tampering the device firmware.,0.44564902782440186
-Attacker modifies the path of the sensitive data circulating in the vehicle.,An attacker could perform remote control by installing remotely his own sottware on the device.,0.43102994561195374
+Attacker modifies the path of the sensitive data circulating in the vehicle.,An attacker could perform remote control by installing remotely his own software on the device.,0.43602144718170166
 Attacker modifies the path of the sensitive data circulating in the vehicle.,Reprogramming the USB/CD device's firmware to execute malicious actions.,0.3986476957798004
 Attacker modifies the path of the sensitive data circulating in the vehicle.,An adversary can exploit the vulnerabilities o USB svstems on-board venice.,0.38701727986335754
 Attacker modifies the path of the sensitive data circulating in the vehicle.,An adversary can identify or track the vehicle from the sensor.,0.4470154345035553
@@ -2513,7 +2513,7 @@ Attacker modifies the path of the sensitive data circulating in the vehicle.,Sec
 Attacker modifies the path of the sensitive data circulating in the vehicle.,Form field design issues,0.20285341143608093
 Attacker remotely accesses via telematics systems (TCU).,"An adversary can capture, analyze, and replaye the messages.",0.400846004486084
 Attacker remotely accesses via telematics systems (TCU).,An adversary could link the messages to a specific vehicle.,0.4138440191745758
-Attacker remotely accesses via telematics systems (TCU).,An adversarv can crack a weak password.,0.3325121998786926
+Attacker remotely accesses via telematics systems (TCU).,An adversary can crack a weak password.,0.36599627137184143
 Attacker remotely accesses via telematics systems (TCU).,An adversary can execute arbitrary code on the telematics unit (TCU) and take control of the device.,0.8148122429847717
 Attacker remotely accesses via telematics systems (TCU).,The SS7 vulnerabilities can be exploited to compromise SMS system to intercept text user messages.,0.4613417685031891
 Attacker remotely accesses via telematics systems (TCU).,"Spying, SMS Interception & Modification, User Tracking.",0.4615490436553955
@@ -2521,7 +2521,7 @@ Attacker remotely accesses via telematics systems (TCU).,"Attacker can edit, add
 Attacker remotely accesses via telematics systems (TCU).,Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,0.5706363916397095
 Attacker remotely accesses via telematics systems (TCU).,"An attacker changes circuits of a device to extractsensitive data, such as cryptographic keys.",0.5215775966644287
 Attacker remotely accesses via telematics systems (TCU).,Attacker operates phisically on the TC by tampering the device firmware.,0.5620277523994446
-Attacker remotely accesses via telematics systems (TCU).,An attacker could perform remote control by installing remotely his own sottware on the device.,0.636813223361969
+Attacker remotely accesses via telematics systems (TCU).,An attacker could perform remote control by installing remotely his own software on the device.,0.6380448341369629
 Attacker remotely accesses via telematics systems (TCU).,Reprogramming the USB/CD device's firmware to execute malicious actions.,0.3683220148086548
 Attacker remotely accesses via telematics systems (TCU).,An adversary can exploit the vulnerabilities o USB svstems on-board venice.,0.5190417766571045
 Attacker remotely accesses via telematics systems (TCU).,An adversary can identify or track the vehicle from the sensor.,0.431466281414032
@@ -2574,7 +2574,7 @@ Attacker remotely accesses via telematics systems (TCU).,Data Aggregation and Pr
 Attacker remotely accesses via telematics systems (TCU).,Secondary Use,0.23219935595989227
 Attacker remotely accesses via telematics systems (TCU).,Form field design issues,0.05232522636651993
 "An adversary can capture, analyze, and replaye the messages.",An adversary could link the messages to a specific vehicle.,0.5028916597366333
-"An adversary can capture, analyze, and replaye the messages.",An adversarv can crack a weak password.,0.4866853952407837
+"An adversary can capture, analyze, and replaye the messages.",An adversary can crack a weak password.,0.5130143165588379
 "An adversary can capture, analyze, and replaye the messages.",An adversary can execute arbitrary code on the telematics unit (TCU) and take control of the device.,0.5518953800201416
 "An adversary can capture, analyze, and replaye the messages.",The SS7 vulnerabilities can be exploited to compromise SMS system to intercept text user messages.,0.5060369968414307
 "An adversary can capture, analyze, and replaye the messages.","Spying, SMS Interception & Modification, User Tracking.",0.4373737573623657
@@ -2582,7 +2582,7 @@ Attacker remotely accesses via telematics systems (TCU).,Form field design issue
 "An adversary can capture, analyze, and replaye the messages.",Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,0.4978533089160919
 "An adversary can capture, analyze, and replaye the messages.","An attacker changes circuits of a device to extractsensitive data, such as cryptographic keys.",0.49639445543289185
 "An adversary can capture, analyze, and replaye the messages.",Attacker operates phisically on the TC by tampering the device firmware.,0.3798478841781616
-"An adversary can capture, analyze, and replaye the messages.",An attacker could perform remote control by installing remotely his own sottware on the device.,0.40698641538619995
+"An adversary can capture, analyze, and replaye the messages.",An attacker could perform remote control by installing remotely his own software on the device.,0.37547314167022705
 "An adversary can capture, analyze, and replaye the messages.",Reprogramming the USB/CD device's firmware to execute malicious actions.,0.3722735643386841
 "An adversary can capture, analyze, and replaye the messages.",An adversary can exploit the vulnerabilities o USB svstems on-board venice.,0.5588880777359009
 "An adversary can capture, analyze, and replaye the messages.",An adversary can identify or track the vehicle from the sensor.,0.5719748139381409
@@ -2634,7 +2634,7 @@ Attacker remotely accesses via telematics systems (TCU).,Form field design issue
 "An adversary can capture, analyze, and replaye the messages.",Data Aggregation and Profiling,0.298949658870697
 "An adversary can capture, analyze, and replaye the messages.",Secondary Use,0.24996095895767212
 "An adversary can capture, analyze, and replaye the messages.",Form field design issues,0.05314573645591736
-An adversary could link the messages to a specific vehicle.,An adversarv can crack a weak password.,0.34901657700538635
+An adversary could link the messages to a specific vehicle.,An adversary can crack a weak password.,0.38922154903411865
 An adversary could link the messages to a specific vehicle.,An adversary can execute arbitrary code on the telematics unit (TCU) and take control of the device.,0.4718993902206421
 An adversary could link the messages to a specific vehicle.,The SS7 vulnerabilities can be exploited to compromise SMS system to intercept text user messages.,0.30717048048973083
 An adversary could link the messages to a specific vehicle.,"Spying, SMS Interception & Modification, User Tracking.",0.2985829710960388
@@ -2642,7 +2642,7 @@ An adversary could link the messages to a specific vehicle.,"Attacker can edit, 
 An adversary could link the messages to a specific vehicle.,Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,0.3545420467853546
 An adversary could link the messages to a specific vehicle.,"An attacker changes circuits of a device to extractsensitive data, such as cryptographic keys.",0.327149361371994
 An adversary could link the messages to a specific vehicle.,Attacker operates phisically on the TC by tampering the device firmware.,0.27344173192977905
-An adversary could link the messages to a specific vehicle.,An attacker could perform remote control by installing remotely his own sottware on the device.,0.434955894947052
+An adversary could link the messages to a specific vehicle.,An attacker could perform remote control by installing remotely his own software on the device.,0.38625210523605347
 An adversary could link the messages to a specific vehicle.,Reprogramming the USB/CD device's firmware to execute malicious actions.,0.3096078634262085
 An adversary could link the messages to a specific vehicle.,An adversary can exploit the vulnerabilities o USB svstems on-board venice.,0.5017542243003845
 An adversary could link the messages to a specific vehicle.,An adversary can identify or track the vehicle from the sensor.,0.8186241984367371
@@ -2694,72 +2694,72 @@ An adversary could link the messages to a specific vehicle.,Collection without C
 An adversary could link the messages to a specific vehicle.,Data Aggregation and Profiling,0.28527411818504333
 An adversary could link the messages to a specific vehicle.,Secondary Use,0.12731079757213593
 An adversary could link the messages to a specific vehicle.,Form field design issues,0.05377011001110077
-An adversarv can crack a weak password.,An adversary can execute arbitrary code on the telematics unit (TCU) and take control of the device.,0.505413830280304
-An adversarv can crack a weak password.,The SS7 vulnerabilities can be exploited to compromise SMS system to intercept text user messages.,0.4182644784450531
-An adversarv can crack a weak password.,"Spying, SMS Interception & Modification, User Tracking.",0.18858300149440765
-An adversarv can crack a weak password.,"Attacker can edit, add, manipuler codes and framework of the must ECUs in the vehcles.",0.30373629927635193
-An adversarv can crack a weak password.,Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,0.5062846541404724
-An adversarv can crack a weak password.,"An attacker changes circuits of a device to extractsensitive data, such as cryptographic keys.",0.5871037244796753
-An adversarv can crack a weak password.,Attacker operates phisically on the TC by tampering the device firmware.,0.42214521765708923
-An adversarv can crack a weak password.,An attacker could perform remote control by installing remotely his own sottware on the device.,0.4480600655078888
-An adversarv can crack a weak password.,Reprogramming the USB/CD device's firmware to execute malicious actions.,0.3770933747291565
-An adversarv can crack a weak password.,An adversary can exploit the vulnerabilities o USB svstems on-board venice.,0.5559781789779663
-An adversarv can crack a weak password.,An adversary can identify or track the vehicle from the sensor.,0.35229334235191345
-An adversarv can crack a weak password.,"For wireless communication channel, messages can be captured, analyze, and replayed.",0.21791709959506989
-An adversarv can crack a weak password.,Possibility to discover and control the behaviour and profile of the driver.,0.21766142547130585
-An adversarv can crack a weak password.,An adversary relates pseudonymous positions to specific vehicles.,0.21053966879844666
-An adversarv can crack a weak password.,Mobile App spoofing,0.27967625856399536
-An adversarv can crack a weak password.,Smart key bruteforcing,0.5621205568313599
-An adversarv can crack a weak password.,Smart key cloning,0.4622487425804138
-An adversarv can crack a weak password.,GPS spoofing,0.2706892192363739
-An adversarv can crack a weak password.,V2X Message replay,0.19122400879859924
-An adversarv can crack a weak password.,Infotainment malware,0.32361650466918945
-An adversarv can crack a weak password.,Mobile App malware,0.34901100397109985
-An adversarv can crack a weak password.,ECU reflash,0.18796677887439728
-An adversarv can crack a weak password.,CAN frame injection,0.3213499188423157
-An adversarv can crack a weak password.,CAN frame tampering,0.42436301708221436
-An adversarv can crack a weak password.,V2X data tampering,0.3075389266014099
-An adversarv can crack a weak password.,CAN eavesdropping,0.27845442295074463
-An adversarv can crack a weak password.,Unauthorised diagnostic access,0.2933368682861328
-An adversarv can crack a weak password.,Infotainment reverse engineering,0.20537999272346497
-An adversarv can crack a weak password.,Insecure API endpoint,0.36103636026382446
-An adversarv can crack a weak password.,ECU firmware dump,0.31354278326034546
-An adversarv can crack a weak password.,Server violation,0.11584348231554031
-An adversarv can crack a weak password.,V2X eavesdropping,0.19762733578681946
-An adversarv can crack a weak password.,CAN bus flooding,0.23128077387809753
-An adversarv can crack a weak password.,Smart key jamming,0.5715479850769043
-An adversarv can crack a weak password.,Data loss,0.1556558907032013
-An adversarv can crack a weak password.,V2X DoS,0.123708575963974
-An adversarv can crack a weak password.,Infotainment Alteration,0.0027460958808660507
-An adversarv can crack a weak password.,Rogue OBD-II Device,0.22003397345542908
-An adversarv can crack a weak password.,Insider Threat,0.4358294606208801
-An adversarv can crack a weak password.,Web Application Vulnerabilities,0.42635396122932434
-An adversarv can crack a weak password.,Operator-sided Data Leakage,0.32340002059936523
-An adversarv can crack a weak password.,Insufficient Data Breach Response,0.18816719949245453
-An adversarv can crack a weak password.,Consent on Everything / Problems with getting Consent,0.16524818539619446
-An adversarv can crack a weak password.,"Non-transparent Policies, Agreements, Terms and Conditions",0.09375560283660889
-An adversarv can crack a weak password.,Insufficient Deletion of User Data,0.18658897280693054
-An adversarv can crack a weak password.,Insufficient Data Quality,0.09090922772884369
-An adversarv can crack a weak password.,Missing or Insufficient Session Expiration,0.060221992433071136
-An adversarv can crack a weak password.,Inability of users to access and modify data,0.16008545458316803
-An adversarv can crack a weak password.,Collection of data not required for the user-consented purpose,0.11042752116918564
-An adversarv can crack a weak password.,Insufficient Data Structure Model to handle user rights,0.1184847354888916
-An adversarv can crack a weak password.,Sharing of Data with 3rd Party,0.20339763164520264
-An adversarv can crack a weak password.,"Inappropriate Policies, Terms and Conditions",0.07963410019874573
-An adversarv can crack a weak password.,Insecure Data Transfer,0.3013152778148651
-An adversarv can crack a weak password.,Transfer or Processing through 3rd Party,0.21712836623191833
-An adversarv can crack a weak password.,Misleading Content,0.18472188711166382
-An adversarv can crack a weak password.,Collection without Consent,0.1447569727897644
-An adversarv can crack a weak password.,Data Aggregation and Profiling,0.1208655908703804
-An adversarv can crack a weak password.,Secondary Use,0.22454018890857697
-An adversarv can crack a weak password.,Form field design issues,0.09132720530033112
+An adversary can crack a weak password.,An adversary can execute arbitrary code on the telematics unit (TCU) and take control of the device.,0.5247231721878052
+An adversary can crack a weak password.,The SS7 vulnerabilities can be exploited to compromise SMS system to intercept text user messages.,0.4718908667564392
+An adversary can crack a weak password.,"Spying, SMS Interception & Modification, User Tracking.",0.21358796954154968
+An adversary can crack a weak password.,"Attacker can edit, add, manipuler codes and framework of the must ECUs in the vehcles.",0.2959825098514557
+An adversary can crack a weak password.,Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,0.48344579339027405
+An adversary can crack a weak password.,"An attacker changes circuits of a device to extractsensitive data, such as cryptographic keys.",0.622491717338562
+An adversary can crack a weak password.,Attacker operates phisically on the TC by tampering the device firmware.,0.4505426287651062
+An adversary can crack a weak password.,An attacker could perform remote control by installing remotely his own software on the device.,0.44907987117767334
+An adversary can crack a weak password.,Reprogramming the USB/CD device's firmware to execute malicious actions.,0.39940935373306274
+An adversary can crack a weak password.,An adversary can exploit the vulnerabilities o USB svstems on-board venice.,0.5698206424713135
+An adversary can crack a weak password.,An adversary can identify or track the vehicle from the sensor.,0.40193814039230347
+An adversary can crack a weak password.,"For wireless communication channel, messages can be captured, analyze, and replayed.",0.23839020729064941
+An adversary can crack a weak password.,Possibility to discover and control the behaviour and profile of the driver.,0.23298834264278412
+An adversary can crack a weak password.,An adversary relates pseudonymous positions to specific vehicles.,0.24991588294506073
+An adversary can crack a weak password.,Mobile App spoofing,0.30835220217704773
+An adversary can crack a weak password.,Smart key bruteforcing,0.5602108240127563
+An adversary can crack a weak password.,Smart key cloning,0.4584916830062866
+An adversary can crack a weak password.,GPS spoofing,0.2863212525844574
+An adversary can crack a weak password.,V2X Message replay,0.174958735704422
+An adversary can crack a weak password.,Infotainment malware,0.3237069249153137
+An adversary can crack a weak password.,Mobile App malware,0.4009309709072113
+An adversary can crack a weak password.,ECU reflash,0.17110124230384827
+An adversary can crack a weak password.,CAN frame injection,0.297738254070282
+An adversary can crack a weak password.,CAN frame tampering,0.43212592601776123
+An adversary can crack a weak password.,V2X data tampering,0.3030508756637573
+An adversary can crack a weak password.,CAN eavesdropping,0.32611438632011414
+An adversary can crack a weak password.,Unauthorised diagnostic access,0.27010077238082886
+An adversary can crack a weak password.,Infotainment reverse engineering,0.16047656536102295
+An adversary can crack a weak password.,Insecure API endpoint,0.3527921140193939
+An adversary can crack a weak password.,ECU firmware dump,0.30840644240379333
+An adversary can crack a weak password.,Server violation,0.11997676640748978
+An adversary can crack a weak password.,V2X eavesdropping,0.21923495829105377
+An adversary can crack a weak password.,CAN bus flooding,0.2278323769569397
+An adversary can crack a weak password.,Smart key jamming,0.5748885273933411
+An adversary can crack a weak password.,Data loss,0.18699242174625397
+An adversary can crack a weak password.,V2X DoS,0.10878721624612808
+An adversary can crack a weak password.,Infotainment Alteration,-0.015913527458906174
+An adversary can crack a weak password.,Rogue OBD-II Device,0.2006314992904663
+An adversary can crack a weak password.,Insider Threat,0.45524102449417114
+An adversary can crack a weak password.,Web Application Vulnerabilities,0.4412655532360077
+An adversary can crack a weak password.,Operator-sided Data Leakage,0.3451803922653198
+An adversary can crack a weak password.,Insufficient Data Breach Response,0.22187504172325134
+An adversary can crack a weak password.,Consent on Everything / Problems with getting Consent,0.14153313636779785
+An adversary can crack a weak password.,"Non-transparent Policies, Agreements, Terms and Conditions",0.11726275831460953
+An adversary can crack a weak password.,Insufficient Deletion of User Data,0.17896497249603271
+An adversary can crack a weak password.,Insufficient Data Quality,0.11456011980772018
+An adversary can crack a weak password.,Missing or Insufficient Session Expiration,0.05701790750026703
+An adversary can crack a weak password.,Inability of users to access and modify data,0.15329648554325104
+An adversary can crack a weak password.,Collection of data not required for the user-consented purpose,0.14545246958732605
+An adversary can crack a weak password.,Insufficient Data Structure Model to handle user rights,0.13972334563732147
+An adversary can crack a weak password.,Sharing of Data with 3rd Party,0.22420179843902588
+An adversary can crack a weak password.,"Inappropriate Policies, Terms and Conditions",0.09666994214057922
+An adversary can crack a weak password.,Insecure Data Transfer,0.3353111147880554
+An adversary can crack a weak password.,Transfer or Processing through 3rd Party,0.22263877093791962
+An adversary can crack a weak password.,Misleading Content,0.21518445014953613
+An adversary can crack a weak password.,Collection without Consent,0.13060909509658813
+An adversary can crack a weak password.,Data Aggregation and Profiling,0.15304860472679138
+An adversary can crack a weak password.,Secondary Use,0.23199766874313354
+An adversary can crack a weak password.,Form field design issues,0.09623955935239792
 An adversary can execute arbitrary code on the telematics unit (TCU) and take control of the device.,The SS7 vulnerabilities can be exploited to compromise SMS system to intercept text user messages.,0.5481927990913391
 An adversary can execute arbitrary code on the telematics unit (TCU) and take control of the device.,"Spying, SMS Interception & Modification, User Tracking.",0.4422071576118469
 An adversary can execute arbitrary code on the telematics unit (TCU) and take control of the device.,"Attacker can edit, add, manipuler codes and framework of the must ECUs in the vehcles.",0.49664199352264404
 An adversary can execute arbitrary code on the telematics unit (TCU) and take control of the device.,Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,0.6744290590286255
 An adversary can execute arbitrary code on the telematics unit (TCU) and take control of the device.,"An attacker changes circuits of a device to extractsensitive data, such as cryptographic keys.",0.6835857033729553
 An adversary can execute arbitrary code on the telematics unit (TCU) and take control of the device.,Attacker operates phisically on the TC by tampering the device firmware.,0.6938542723655701
-An adversary can execute arbitrary code on the telematics unit (TCU) and take control of the device.,An attacker could perform remote control by installing remotely his own sottware on the device.,0.738264799118042
+An adversary can execute arbitrary code on the telematics unit (TCU) and take control of the device.,An attacker could perform remote control by installing remotely his own software on the device.,0.7386872172355652
 An adversary can execute arbitrary code on the telematics unit (TCU) and take control of the device.,Reprogramming the USB/CD device's firmware to execute malicious actions.,0.5473923683166504
 An adversary can execute arbitrary code on the telematics unit (TCU) and take control of the device.,An adversary can exploit the vulnerabilities o USB svstems on-board venice.,0.6322742700576782
 An adversary can execute arbitrary code on the telematics unit (TCU) and take control of the device.,An adversary can identify or track the vehicle from the sensor.,0.4772951602935791
@@ -2816,7 +2816,7 @@ The SS7 vulnerabilities can be exploited to compromise SMS system to intercept t
 The SS7 vulnerabilities can be exploited to compromise SMS system to intercept text user messages.,Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,0.39258524775505066
 The SS7 vulnerabilities can be exploited to compromise SMS system to intercept text user messages.,"An attacker changes circuits of a device to extractsensitive data, such as cryptographic keys.",0.5314638614654541
 The SS7 vulnerabilities can be exploited to compromise SMS system to intercept text user messages.,Attacker operates phisically on the TC by tampering the device firmware.,0.47325804829597473
-The SS7 vulnerabilities can be exploited to compromise SMS system to intercept text user messages.,An attacker could perform remote control by installing remotely his own sottware on the device.,0.5239310264587402
+The SS7 vulnerabilities can be exploited to compromise SMS system to intercept text user messages.,An attacker could perform remote control by installing remotely his own software on the device.,0.4768025875091553
 The SS7 vulnerabilities can be exploited to compromise SMS system to intercept text user messages.,Reprogramming the USB/CD device's firmware to execute malicious actions.,0.4043451249599457
 The SS7 vulnerabilities can be exploited to compromise SMS system to intercept text user messages.,An adversary can exploit the vulnerabilities o USB svstems on-board venice.,0.5269540548324585
 The SS7 vulnerabilities can be exploited to compromise SMS system to intercept text user messages.,An adversary can identify or track the vehicle from the sensor.,0.3417398929595947
@@ -2872,7 +2872,7 @@ The SS7 vulnerabilities can be exploited to compromise SMS system to intercept t
 "Spying, SMS Interception & Modification, User Tracking.",Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,0.3673153817653656
 "Spying, SMS Interception & Modification, User Tracking.","An attacker changes circuits of a device to extractsensitive data, such as cryptographic keys.",0.4210835099220276
 "Spying, SMS Interception & Modification, User Tracking.",Attacker operates phisically on the TC by tampering the device firmware.,0.5245264768600464
-"Spying, SMS Interception & Modification, User Tracking.",An attacker could perform remote control by installing remotely his own sottware on the device.,0.39277487993240356
+"Spying, SMS Interception & Modification, User Tracking.",An attacker could perform remote control by installing remotely his own software on the device.,0.30861419439315796
 "Spying, SMS Interception & Modification, User Tracking.",Reprogramming the USB/CD device's firmware to execute malicious actions.,0.21156349778175354
 "Spying, SMS Interception & Modification, User Tracking.",An adversary can exploit the vulnerabilities o USB svstems on-board venice.,0.34516048431396484
 "Spying, SMS Interception & Modification, User Tracking.",An adversary can identify or track the vehicle from the sensor.,0.4105033576488495
@@ -2927,7 +2927,7 @@ The SS7 vulnerabilities can be exploited to compromise SMS system to intercept t
 "Attacker can edit, add, manipuler codes and framework of the must ECUs in the vehcles.",Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,0.5326464176177979
 "Attacker can edit, add, manipuler codes and framework of the must ECUs in the vehcles.","An attacker changes circuits of a device to extractsensitive data, such as cryptographic keys.",0.3655259609222412
 "Attacker can edit, add, manipuler codes and framework of the must ECUs in the vehcles.",Attacker operates phisically on the TC by tampering the device firmware.,0.39438191056251526
-"Attacker can edit, add, manipuler codes and framework of the must ECUs in the vehcles.",An attacker could perform remote control by installing remotely his own sottware on the device.,0.42872756719589233
+"Attacker can edit, add, manipuler codes and framework of the must ECUs in the vehcles.",An attacker could perform remote control by installing remotely his own software on the device.,0.42989301681518555
 "Attacker can edit, add, manipuler codes and framework of the must ECUs in the vehcles.",Reprogramming the USB/CD device's firmware to execute malicious actions.,0.36258798837661743
 "Attacker can edit, add, manipuler codes and framework of the must ECUs in the vehcles.",An adversary can exploit the vulnerabilities o USB svstems on-board venice.,0.34126603603363037
 "Attacker can edit, add, manipuler codes and framework of the must ECUs in the vehcles.",An adversary can identify or track the vehicle from the sensor.,0.39436787366867065
@@ -2981,7 +2981,7 @@ The SS7 vulnerabilities can be exploited to compromise SMS system to intercept t
 "Attacker can edit, add, manipuler codes and framework of the must ECUs in the vehcles.",Form field design issues,0.20450441539287567
 Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,"An attacker changes circuits of a device to extractsensitive data, such as cryptographic keys.",0.5855347514152527
 Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,Attacker operates phisically on the TC by tampering the device firmware.,0.5563750863075256
-Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,An attacker could perform remote control by installing remotely his own sottware on the device.,0.6665213704109192
+Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,An attacker could perform remote control by installing remotely his own software on the device.,0.6535707712173462
 Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,Reprogramming the USB/CD device's firmware to execute malicious actions.,0.5092148780822754
 Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,An adversary can exploit the vulnerabilities o USB svstems on-board venice.,0.5625617504119873
 Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,An adversary can identify or track the vehicle from the sensor.,0.3604028522968292
@@ -3034,7 +3034,7 @@ Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memor
 Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,Secondary Use,0.16312001645565033
 Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,Form field design issues,0.051867805421352386
 "An attacker changes circuits of a device to extractsensitive data, such as cryptographic keys.",Attacker operates phisically on the TC by tampering the device firmware.,0.6566984057426453
-"An attacker changes circuits of a device to extractsensitive data, such as cryptographic keys.",An attacker could perform remote control by installing remotely his own sottware on the device.,0.563683271408081
+"An attacker changes circuits of a device to extractsensitive data, such as cryptographic keys.",An attacker could perform remote control by installing remotely his own software on the device.,0.5641640424728394
 "An attacker changes circuits of a device to extractsensitive data, such as cryptographic keys.",Reprogramming the USB/CD device's firmware to execute malicious actions.,0.5208582282066345
 "An attacker changes circuits of a device to extractsensitive data, such as cryptographic keys.",An adversary can exploit the vulnerabilities o USB svstems on-board venice.,0.5321053862571716
 "An attacker changes circuits of a device to extractsensitive data, such as cryptographic keys.",An adversary can identify or track the vehicle from the sensor.,0.3862156271934509
@@ -3086,7 +3086,7 @@ Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memor
 "An attacker changes circuits of a device to extractsensitive data, such as cryptographic keys.",Data Aggregation and Profiling,0.19693589210510254
 "An attacker changes circuits of a device to extractsensitive data, such as cryptographic keys.",Secondary Use,0.21446910500526428
 "An attacker changes circuits of a device to extractsensitive data, such as cryptographic keys.",Form field design issues,0.1484912484884262
-Attacker operates phisically on the TC by tampering the device firmware.,An attacker could perform remote control by installing remotely his own sottware on the device.,0.6495145559310913
+Attacker operates phisically on the TC by tampering the device firmware.,An attacker could perform remote control by installing remotely his own software on the device.,0.6489132046699524
 Attacker operates phisically on the TC by tampering the device firmware.,Reprogramming the USB/CD device's firmware to execute malicious actions.,0.6411257386207581
 Attacker operates phisically on the TC by tampering the device firmware.,An adversary can exploit the vulnerabilities o USB svstems on-board venice.,0.5394045114517212
 Attacker operates phisically on the TC by tampering the device firmware.,An adversary can identify or track the vehicle from the sensor.,0.28546953201293945
@@ -3138,57 +3138,57 @@ Attacker operates phisically on the TC by tampering the device firmware.,Collect
 Attacker operates phisically on the TC by tampering the device firmware.,Data Aggregation and Profiling,0.11584417521953583
 Attacker operates phisically on the TC by tampering the device firmware.,Secondary Use,0.12865501642227173
 Attacker operates phisically on the TC by tampering the device firmware.,Form field design issues,0.12484971433877945
-An attacker could perform remote control by installing remotely his own sottware on the device.,Reprogramming the USB/CD device's firmware to execute malicious actions.,0.6202192306518555
-An attacker could perform remote control by installing remotely his own sottware on the device.,An adversary can exploit the vulnerabilities o USB svstems on-board venice.,0.6224786043167114
-An attacker could perform remote control by installing remotely his own sottware on the device.,An adversary can identify or track the vehicle from the sensor.,0.37803971767425537
-An attacker could perform remote control by installing remotely his own sottware on the device.,"For wireless communication channel, messages can be captured, analyze, and replayed.",0.22896578907966614
-An attacker could perform remote control by installing remotely his own sottware on the device.,Possibility to discover and control the behaviour and profile of the driver.,0.3741284906864166
-An attacker could perform remote control by installing remotely his own sottware on the device.,An adversary relates pseudonymous positions to specific vehicles.,0.33720895648002625
-An attacker could perform remote control by installing remotely his own sottware on the device.,Mobile App spoofing,0.4278548061847687
-An attacker could perform remote control by installing remotely his own sottware on the device.,Smart key bruteforcing,0.33747896552085876
-An attacker could perform remote control by installing remotely his own sottware on the device.,Smart key cloning,0.305372416973114
-An attacker could perform remote control by installing remotely his own sottware on the device.,GPS spoofing,0.2172033190727234
-An attacker could perform remote control by installing remotely his own sottware on the device.,V2X Message replay,0.2257407009601593
-An attacker could perform remote control by installing remotely his own sottware on the device.,Infotainment malware,0.4758302569389343
-An attacker could perform remote control by installing remotely his own sottware on the device.,Mobile App malware,0.4745289087295532
-An attacker could perform remote control by installing remotely his own sottware on the device.,ECU reflash,0.04837492108345032
-An attacker could perform remote control by installing remotely his own sottware on the device.,CAN frame injection,0.18859419226646423
-An attacker could perform remote control by installing remotely his own sottware on the device.,CAN frame tampering,0.4412041902542114
-An attacker could perform remote control by installing remotely his own sottware on the device.,V2X data tampering,0.4467387795448303
-An attacker could perform remote control by installing remotely his own sottware on the device.,CAN eavesdropping,0.3458748459815979
-An attacker could perform remote control by installing remotely his own sottware on the device.,Unauthorised diagnostic access,0.2961418628692627
-An attacker could perform remote control by installing remotely his own sottware on the device.,Infotainment reverse engineering,0.35675108432769775
-An attacker could perform remote control by installing remotely his own sottware on the device.,Insecure API endpoint,0.30827751755714417
-An attacker could perform remote control by installing remotely his own sottware on the device.,ECU firmware dump,0.20159713923931122
-An attacker could perform remote control by installing remotely his own sottware on the device.,Server violation,0.24100250005722046
-An attacker could perform remote control by installing remotely his own sottware on the device.,V2X eavesdropping,0.3445066213607788
-An attacker could perform remote control by installing remotely his own sottware on the device.,CAN bus flooding,0.23457057774066925
-An attacker could perform remote control by installing remotely his own sottware on the device.,Smart key jamming,0.40505850315093994
-An attacker could perform remote control by installing remotely his own sottware on the device.,Data loss,0.07176052033901215
-An attacker could perform remote control by installing remotely his own sottware on the device.,V2X DoS,0.21099160611629486
-An attacker could perform remote control by installing remotely his own sottware on the device.,Infotainment Alteration,0.2529473304748535
-An attacker could perform remote control by installing remotely his own sottware on the device.,Rogue OBD-II Device,0.40318551659584045
-An attacker could perform remote control by installing remotely his own sottware on the device.,Insider Threat,0.39170515537261963
-An attacker could perform remote control by installing remotely his own sottware on the device.,Web Application Vulnerabilities,0.3193267285823822
-An attacker could perform remote control by installing remotely his own sottware on the device.,Operator-sided Data Leakage,0.4186130166053772
-An attacker could perform remote control by installing remotely his own sottware on the device.,Insufficient Data Breach Response,0.03788480907678604
-An attacker could perform remote control by installing remotely his own sottware on the device.,Consent on Everything / Problems with getting Consent,0.1437663435935974
-An attacker could perform remote control by installing remotely his own sottware on the device.,"Non-transparent Policies, Agreements, Terms and Conditions",0.050521042197942734
-An attacker could perform remote control by installing remotely his own sottware on the device.,Insufficient Deletion of User Data,0.13415050506591797
-An attacker could perform remote control by installing remotely his own sottware on the device.,Insufficient Data Quality,0.05358842760324478
-An attacker could perform remote control by installing remotely his own sottware on the device.,Missing or Insufficient Session Expiration,0.11306893825531006
-An attacker could perform remote control by installing remotely his own sottware on the device.,Inability of users to access and modify data,0.2541827857494354
-An attacker could perform remote control by installing remotely his own sottware on the device.,Collection of data not required for the user-consented purpose,0.30946317315101624
-An attacker could perform remote control by installing remotely his own sottware on the device.,Insufficient Data Structure Model to handle user rights,0.19037526845932007
-An attacker could perform remote control by installing remotely his own sottware on the device.,Sharing of Data with 3rd Party,0.20415979623794556
-An attacker could perform remote control by installing remotely his own sottware on the device.,"Inappropriate Policies, Terms and Conditions",0.1421743929386139
-An attacker could perform remote control by installing remotely his own sottware on the device.,Insecure Data Transfer,0.18879079818725586
-An attacker could perform remote control by installing remotely his own sottware on the device.,Transfer or Processing through 3rd Party,0.2181357443332672
-An attacker could perform remote control by installing remotely his own sottware on the device.,Misleading Content,0.3179214596748352
-An attacker could perform remote control by installing remotely his own sottware on the device.,Collection without Consent,0.16691167652606964
-An attacker could perform remote control by installing remotely his own sottware on the device.,Data Aggregation and Profiling,0.07659605145454407
-An attacker could perform remote control by installing remotely his own sottware on the device.,Secondary Use,0.17960399389266968
-An attacker could perform remote control by installing remotely his own sottware on the device.,Form field design issues,0.0516793355345726
+An attacker could perform remote control by installing remotely his own software on the device.,Reprogramming the USB/CD device's firmware to execute malicious actions.,0.629921019077301
+An attacker could perform remote control by installing remotely his own software on the device.,An adversary can exploit the vulnerabilities o USB svstems on-board venice.,0.5573784112930298
+An attacker could perform remote control by installing remotely his own software on the device.,An adversary can identify or track the vehicle from the sensor.,0.34899526834487915
+An attacker could perform remote control by installing remotely his own software on the device.,"For wireless communication channel, messages can be captured, analyze, and replayed.",0.2633421719074249
+An attacker could perform remote control by installing remotely his own software on the device.,Possibility to discover and control the behaviour and profile of the driver.,0.38803964853286743
+An attacker could perform remote control by installing remotely his own software on the device.,An adversary relates pseudonymous positions to specific vehicles.,0.31814825534820557
+An attacker could perform remote control by installing remotely his own software on the device.,Mobile App spoofing,0.42159903049468994
+An attacker could perform remote control by installing remotely his own software on the device.,Smart key bruteforcing,0.30513134598731995
+An attacker could perform remote control by installing remotely his own software on the device.,Smart key cloning,0.3308866322040558
+An attacker could perform remote control by installing remotely his own software on the device.,GPS spoofing,0.21029970049858093
+An attacker could perform remote control by installing remotely his own software on the device.,V2X Message replay,0.1705816239118576
+An attacker could perform remote control by installing remotely his own software on the device.,Infotainment malware,0.4069720208644867
+An attacker could perform remote control by installing remotely his own software on the device.,Mobile App malware,0.46333974599838257
+An attacker could perform remote control by installing remotely his own software on the device.,ECU reflash,0.05267898365855217
+An attacker could perform remote control by installing remotely his own software on the device.,CAN frame injection,0.15302154421806335
+An attacker could perform remote control by installing remotely his own software on the device.,CAN frame tampering,0.39046359062194824
+An attacker could perform remote control by installing remotely his own software on the device.,V2X data tampering,0.41060012578964233
+An attacker could perform remote control by installing remotely his own software on the device.,CAN eavesdropping,0.2871147394180298
+An attacker could perform remote control by installing remotely his own software on the device.,Unauthorised diagnostic access,0.36055296659469604
+An attacker could perform remote control by installing remotely his own software on the device.,Infotainment reverse engineering,0.316993772983551
+An attacker could perform remote control by installing remotely his own software on the device.,Insecure API endpoint,0.25831979513168335
+An attacker could perform remote control by installing remotely his own software on the device.,ECU firmware dump,0.2237091064453125
+An attacker could perform remote control by installing remotely his own software on the device.,Server violation,0.22921952605247498
+An attacker could perform remote control by installing remotely his own software on the device.,V2X eavesdropping,0.29819485545158386
+An attacker could perform remote control by installing remotely his own software on the device.,CAN bus flooding,0.20336033403873444
+An attacker could perform remote control by installing remotely his own software on the device.,Smart key jamming,0.36997291445732117
+An attacker could perform remote control by installing remotely his own software on the device.,Data loss,0.088618203997612
+An attacker could perform remote control by installing remotely his own software on the device.,V2X DoS,0.1844578981399536
+An attacker could perform remote control by installing remotely his own software on the device.,Infotainment Alteration,0.25435712933540344
+An attacker could perform remote control by installing remotely his own software on the device.,Rogue OBD-II Device,0.31568649411201477
+An attacker could perform remote control by installing remotely his own software on the device.,Insider Threat,0.3441213071346283
+An attacker could perform remote control by installing remotely his own software on the device.,Web Application Vulnerabilities,0.3324955701828003
+An attacker could perform remote control by installing remotely his own software on the device.,Operator-sided Data Leakage,0.35538578033447266
+An attacker could perform remote control by installing remotely his own software on the device.,Insufficient Data Breach Response,0.07478969544172287
+An attacker could perform remote control by installing remotely his own software on the device.,Consent on Everything / Problems with getting Consent,0.10348531603813171
+An attacker could perform remote control by installing remotely his own software on the device.,"Non-transparent Policies, Agreements, Terms and Conditions",0.0705709382891655
+An attacker could perform remote control by installing remotely his own software on the device.,Insufficient Deletion of User Data,0.1736600697040558
+An attacker could perform remote control by installing remotely his own software on the device.,Insufficient Data Quality,0.09496081620454788
+An attacker could perform remote control by installing remotely his own software on the device.,Missing or Insufficient Session Expiration,0.12030188739299774
+An attacker could perform remote control by installing remotely his own software on the device.,Inability of users to access and modify data,0.28544163703918457
+An attacker could perform remote control by installing remotely his own software on the device.,Collection of data not required for the user-consented purpose,0.34613072872161865
+An attacker could perform remote control by installing remotely his own software on the device.,Insufficient Data Structure Model to handle user rights,0.20127424597740173
+An attacker could perform remote control by installing remotely his own software on the device.,Sharing of Data with 3rd Party,0.16259220242500305
+An attacker could perform remote control by installing remotely his own software on the device.,"Inappropriate Policies, Terms and Conditions",0.1821075975894928
+An attacker could perform remote control by installing remotely his own software on the device.,Insecure Data Transfer,0.19266214966773987
+An attacker could perform remote control by installing remotely his own software on the device.,Transfer or Processing through 3rd Party,0.14285019040107727
+An attacker could perform remote control by installing remotely his own software on the device.,Misleading Content,0.2970884442329407
+An attacker could perform remote control by installing remotely his own software on the device.,Collection without Consent,0.12917761504650116
+An attacker could perform remote control by installing remotely his own software on the device.,Data Aggregation and Profiling,0.06477230787277222
+An attacker could perform remote control by installing remotely his own software on the device.,Secondary Use,0.11119282990694046
+An attacker could perform remote control by installing remotely his own software on the device.,Form field design issues,0.09577570855617523
 Reprogramming the USB/CD device's firmware to execute malicious actions.,An adversary can exploit the vulnerabilities o USB svstems on-board venice.,0.6324176788330078
 Reprogramming the USB/CD device's firmware to execute malicious actions.,An adversary can identify or track the vehicle from the sensor.,0.19827386736869812
 Reprogramming the USB/CD device's firmware to execute malicious actions.,"For wireless communication channel, messages can be captured, analyze, and replayed.",0.13071170449256897
