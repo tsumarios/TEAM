@@ -126,7 +126,7 @@ def step1(path: str) -> tuple:
     Compute semantic similarity scores for each pair of sentences in the given input file.
     '''
     sentence_list= pandas.read_csv(path, index_col='P')['LB'].values.tolist()
-    ordered_sentences = list(itertools.combinations(sentence_list,2))   # (n(n-1))/2 pairs, where n = len(sentence_list)
+    ordered_sentences = list(itertools.combinations(sentence_list, 2))   # (n(n-1))/2 pairs, where n = len(sentence_list)
 
 
     scores_dict = {'sentence1': [], 'sentence2': [], 'score': []}
@@ -192,3 +192,29 @@ def step3(sentence1: str, sentence2: str) -> tuple:
                             is_partof = True
 
     return is_partof, is_typeof
+
+
+def step4(preliminary_path: str, scores_path: str, k=3) -> tuple:
+    '''
+    Gathers sentences per groups of k elements, then retrieve the previously computed similarity scores.
+    '''
+    ss_df = pandas.read_csv(scores_path)
+    sentence_list= pandas.read_csv(preliminary_path, index_col='P')['LB'].values.tolist()
+    ordered_sentences = list(itertools.combinations(sentence_list, k))   # binomial coefficient yields the total number of groups, where n = len(sentence_list)
+    
+    scores_dict = {'scores': []}
+    for i in range(1, k+1):
+        scores_dict[f'sentence{i}'] = []
+    
+    for tupl in ordered_sentences:
+        pairs = list(itertools.combinations(tupl,2))
+        scores = []
+        for p in pairs:
+            score = ss_df.iloc[((ss_df['sentence1'].values==p[0]) & (ss_df['sentence2'].values==p[1])) | ((ss_df['sentence1'].values==p[1]) & (ss_df['sentence2'].values==p[0]))]['score'].values[0]
+            scores.append(score)
+        for i in range(1, k+1):
+            scores_dict[f'sentence{i}'].append(tupl[i-1])
+        scores_dict['scores'].append(scores)
+
+    semantic_similarity_scores = pandas.DataFrame(scores_dict)
+    semantic_similarity_scores.to_csv(f'{preliminary_path.split(".csv")[0]}_ss_scores_by_{k}.csv', index=False, encoding='utf-8')
