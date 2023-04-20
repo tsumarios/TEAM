@@ -123,7 +123,7 @@ def check_partof_synset_relationship(term1: str, term2: str) -> bool:
 
 def step1(path: str) -> tuple:
     '''
-
+    Compute semantic similarity scores for each pair of sentences in the given input file.
     '''
     sentence_list= pandas.read_csv(path, index_col='P')['LB'].values.tolist()
     ordered_sentences = list(itertools.combinations(sentence_list,2))   # (n(n-1))/2 pairs, where n = len(sentence_list)
@@ -147,7 +147,7 @@ def step1(path: str) -> tuple:
 
 def step2(path: str, threshold: float) -> pandas.DataFrame:
     '''
-    
+    Filter semantic similarity scores dataframe greater or equal to given threshold.
     '''
     semantic_similarity_scores = pandas.read_csv(path)
     return semantic_similarity_scores.loc[semantic_similarity_scores['score'] >= threshold]
@@ -155,7 +155,7 @@ def step2(path: str, threshold: float) -> pandas.DataFrame:
 
 def step3(sentence1: str, sentence2: str) -> tuple:
     '''
-    
+    Look for synset relations between nouns in sentence pairs.
     '''
     is_partof, is_typeof = False, False
 

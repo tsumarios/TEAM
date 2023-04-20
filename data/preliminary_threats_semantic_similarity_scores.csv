@@ -38,7 +38,7 @@ Denial of Service,An adversary can execute arbitrary code on the telematics unit
 Denial of Service,The SS7 vulnerabilities can be exploited to compromise SMS system to intercept text user messages.,-0.05317452549934387
 Denial of Service,"Spying, SMS Interception & Modification, User Tracking.",0.06469128280878067
 Denial of Service,"Attacker can edit, add, manipuler codes and framework of the must ECUs in the vehcles.",-0.0712231993675232
-Denial of Service,Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,0.07958829402923584
+Denial of Service,"Attacker can modify the hardware or changing or disabling physical sensors, memories and features.",0.02764570713043213
 Denial of Service,"An attacker changes circuits of a device to extractsensitive data, such as cryptographic keys.",0.021331224590539932
 Denial of Service,Attacker operates phisically on the TC by tampering the device firmware.,0.03397362306714058
 Denial of Service,An attacker could perform remote control by installing remotely his own software on the device.,-0.04187924414873123
@@ -69,7 +69,7 @@ Denial of Service,V2X eavesdropping,-0.08850310742855072
 Denial of Service,CAN bus flooding,0.04116951674222946
 Denial of Service,Smart key jamming,0.07252723723649979
 Denial of Service,Data loss,0.26050078868865967
-Denial of Service,V2X DoS,-0.11760876327753067
+Denial of Service,V2X Denial of Service,0.5482309460639954
 Denial of Service,Infotainment Alteration,0.016187816858291626
 Denial of Service,Rogue OBD-II Device,-0.040024541318416595
 Denial of Service,Insider Threat,0.06799811124801636
@@ -131,7 +131,7 @@ Malware,An adversary can execute arbitrary code on the telematics unit (TCU) and
 Malware,The SS7 vulnerabilities can be exploited to compromise SMS system to intercept text user messages.,0.2832833528518677
 Malware,"Spying, SMS Interception & Modification, User Tracking.",0.4025859832763672
 Malware,"Attacker can edit, add, manipuler codes and framework of the must ECUs in the vehcles.",0.1452016979455948
-Malware,Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,0.3587911128997803
+Malware,"Attacker can modify the hardware or changing or disabling physical sensors, memories and features.",0.33243852853775024
 Malware,"An attacker changes circuits of a device to extractsensitive data, such as cryptographic keys.",0.31076884269714355
 Malware,Attacker operates phisically on the TC by tampering the device firmware.,0.42659634351730347
 Malware,An attacker could perform remote control by installing remotely his own software on the device.,0.3621565103530884
@@ -162,7 +162,7 @@ Malware,V2X eavesdropping,0.11242277920246124
 Malware,CAN bus flooding,0.22176887094974518
 Malware,Smart key jamming,0.3318129777908325
 Malware,Data loss,0.2390305995941162
-Malware,V2X DoS,0.06043795496225357
+Malware,V2X Denial of Service,0.04716084897518158
 Malware,Infotainment Alteration,0.18832549452781677
 Malware,Rogue OBD-II Device,0.16301223635673523
 Malware,Insider Threat,0.3696572482585907
@@ -223,7 +223,7 @@ Manipulation of hardware and software,An adversary can execute arbitrary code on
 Manipulation of hardware and software,The SS7 vulnerabilities can be exploited to compromise SMS system to intercept text user messages.,0.40602606534957886
 Manipulation of hardware and software,"Spying, SMS Interception & Modification, User Tracking.",0.40856778621673584
 Manipulation of hardware and software,"Attacker can edit, add, manipuler codes and framework of the must ECUs in the vehcles.",0.35304170846939087
-Manipulation of hardware and software,Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,0.6156917810440063
+Manipulation of hardware and software,"Attacker can modify the hardware or changing or disabling physical sensors, memories and features.",0.5828400254249573
 Manipulation of hardware and software,"An attacker changes circuits of a device to extractsensitive data, such as cryptographic keys.",0.5018975138664246
 Manipulation of hardware and software,Attacker operates phisically on the TC by tampering the device firmware.,0.5665546655654907
 Manipulation of hardware and software,An attacker could perform remote control by installing remotely his own software on the device.,0.5755610466003418
@@ -254,7 +254,7 @@ Manipulation of hardware and software,V2X eavesdropping,0.28402698040008545
 Manipulation of hardware and software,CAN bus flooding,0.19927269220352173
 Manipulation of hardware and software,Smart key jamming,0.41250187158584595
 Manipulation of hardware and software,Data loss,0.14656254649162292
-Manipulation of hardware and software,V2X DoS,0.20261791348457336
+Manipulation of hardware and software,V2X Denial of Service,0.09394139051437378
 Manipulation of hardware and software,Infotainment Alteration,0.21160495281219482
 Manipulation of hardware and software,Rogue OBD-II Device,0.26652875542640686
 Manipulation of hardware and software,Insider Threat,0.4838547706604004
@@ -314,7 +314,7 @@ Manipulation of information,An adversary can execute arbitrary code on the telem
 Manipulation of information,The SS7 vulnerabilities can be exploited to compromise SMS system to intercept text user messages.,0.4195133149623871
 Manipulation of information,"Spying, SMS Interception & Modification, User Tracking.",0.41967374086380005
 Manipulation of information,"Attacker can edit, add, manipuler codes and framework of the must ECUs in the vehcles.",0.18242761492729187
-Manipulation of information,Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,0.3834410309791565
+Manipulation of information,"Attacker can modify the hardware or changing or disabling physical sensors, memories and features.",0.36405375599861145
 Manipulation of information,"An attacker changes circuits of a device to extractsensitive data, such as cryptographic keys.",0.5266911387443542
 Manipulation of information,Attacker operates phisically on the TC by tampering the device firmware.,0.48872849345207214
 Manipulation of information,An attacker could perform remote control by installing remotely his own software on the device.,0.3925155699253082
@@ -345,7 +345,7 @@ Manipulation of information,V2X eavesdropping,0.19661343097686768
 Manipulation of information,CAN bus flooding,0.14400672912597656
 Manipulation of information,Smart key jamming,0.367065966129303
 Manipulation of information,Data loss,0.29115360975265503
-Manipulation of information,V2X DoS,0.10334287583827972
+Manipulation of information,V2X Denial of Service,0.03559686988592148
 Manipulation of information,Infotainment Alteration,0.17076656222343445
 Manipulation of information,Rogue OBD-II Device,0.20738385617733002
 Manipulation of information,Insider Threat,0.39845407009124756
@@ -404,7 +404,7 @@ Threats targeting autonomous sensors,An adversary can execute arbitrary code on 
 Threats targeting autonomous sensors,The SS7 vulnerabilities can be exploited to compromise SMS system to intercept text user messages.,0.3813328742980957
 Threats targeting autonomous sensors,"Spying, SMS Interception & Modification, User Tracking.",0.33538737893104553
 Threats targeting autonomous sensors,"Attacker can edit, add, manipuler codes and framework of the must ECUs in the vehcles.",0.21890661120414734
-Threats targeting autonomous sensors,Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,0.4189681112766266
+Threats targeting autonomous sensors,"Attacker can modify the hardware or changing or disabling physical sensors, memories and features.",0.4495279788970947
 Threats targeting autonomous sensors,"An attacker changes circuits of a device to extractsensitive data, such as cryptographic keys.",0.4665735363960266
 Threats targeting autonomous sensors,Attacker operates phisically on the TC by tampering the device firmware.,0.3130393624305725
 Threats targeting autonomous sensors,An attacker could perform remote control by installing remotely his own software on the device.,0.4412384033203125
@@ -435,7 +435,7 @@ Threats targeting autonomous sensors,V2X eavesdropping,0.2674352824687958
 Threats targeting autonomous sensors,CAN bus flooding,0.18810829520225525
 Threats targeting autonomous sensors,Smart key jamming,0.343623548746109
 Threats targeting autonomous sensors,Data loss,0.2156762331724167
-Threats targeting autonomous sensors,V2X DoS,0.07664753496646881
+Threats targeting autonomous sensors,V2X Denial of Service,0.12517568469047546
 Threats targeting autonomous sensors,Infotainment Alteration,0.1543216109275818
 Threats targeting autonomous sensors,Rogue OBD-II Device,0.22543731331825256
 Threats targeting autonomous sensors,Insider Threat,0.4467802047729492
@@ -493,7 +493,7 @@ Threats against AI and ML,An adversary can execute arbitrary code on the telemat
 Threats against AI and ML,The SS7 vulnerabilities can be exploited to compromise SMS system to intercept text user messages.,0.18142254650592804
 Threats against AI and ML,"Spying, SMS Interception & Modification, User Tracking.",0.1747170090675354
 Threats against AI and ML,"Attacker can edit, add, manipuler codes and framework of the must ECUs in the vehcles.",0.16474337875843048
-Threats against AI and ML,Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,0.1376463770866394
+Threats against AI and ML,"Attacker can modify the hardware or changing or disabling physical sensors, memories and features.",0.11889597773551941
 Threats against AI and ML,"An attacker changes circuits of a device to extractsensitive data, such as cryptographic keys.",0.1030978262424469
 Threats against AI and ML,Attacker operates phisically on the TC by tampering the device firmware.,0.11705200374126434
 Threats against AI and ML,An attacker could perform remote control by installing remotely his own software on the device.,0.0980459600687027
@@ -524,7 +524,7 @@ Threats against AI and ML,V2X eavesdropping,0.11401153355836868
 Threats against AI and ML,CAN bus flooding,0.13190032541751862
 Threats against AI and ML,Smart key jamming,0.09204615652561188
 Threats against AI and ML,Data loss,0.11916647851467133
-Threats against AI and ML,V2X DoS,0.08328749239444733
+Threats against AI and ML,V2X Denial of Service,0.03611399605870247
 Threats against AI and ML,Infotainment Alteration,0.13605265319347382
 Threats against AI and ML,Rogue OBD-II Device,0.21941164135932922
 Threats against AI and ML,Insider Threat,0.2560707926750183
@@ -581,7 +581,7 @@ Failure or malfunction of a sensor/actuator,An adversary can execute arbitrary c
 Failure or malfunction of a sensor/actuator,The SS7 vulnerabilities can be exploited to compromise SMS system to intercept text user messages.,0.2670469582080841
 Failure or malfunction of a sensor/actuator,"Spying, SMS Interception & Modification, User Tracking.",0.3122847378253937
 Failure or malfunction of a sensor/actuator,"Attacker can edit, add, manipuler codes and framework of the must ECUs in the vehcles.",0.30390194058418274
-Failure or malfunction of a sensor/actuator,Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,0.39188122749328613
+Failure or malfunction of a sensor/actuator,"Attacker can modify the hardware or changing or disabling physical sensors, memories and features.",0.3802565932273865
 Failure or malfunction of a sensor/actuator,"An attacker changes circuits of a device to extractsensitive data, such as cryptographic keys.",0.3544776439666748
 Failure or malfunction of a sensor/actuator,Attacker operates phisically on the TC by tampering the device firmware.,0.3362288475036621
 Failure or malfunction of a sensor/actuator,An attacker could perform remote control by installing remotely his own software on the device.,0.22737473249435425
@@ -612,7 +612,7 @@ Failure or malfunction of a sensor/actuator,V2X eavesdropping,0.1515350490808487
 Failure or malfunction of a sensor/actuator,CAN bus flooding,0.18559396266937256
 Failure or malfunction of a sensor/actuator,Smart key jamming,0.33355721831321716
 Failure or malfunction of a sensor/actuator,Data loss,0.3235020637512207
-Failure or malfunction of a sensor/actuator,V2X DoS,0.028208736330270767
+Failure or malfunction of a sensor/actuator,V2X Denial of Service,0.19526629149913788
 Failure or malfunction of a sensor/actuator,Infotainment Alteration,0.2727159261703491
 Failure or malfunction of a sensor/actuator,Rogue OBD-II Device,0.25628551840782166
 Failure or malfunction of a sensor/actuator,Insider Threat,0.14782419800758362
@@ -668,7 +668,7 @@ Vandalism,An adversary can execute arbitrary code on the telematics unit (TCU) a
 Vandalism,The SS7 vulnerabilities can be exploited to compromise SMS system to intercept text user messages.,0.19144004583358765
 Vandalism,"Spying, SMS Interception & Modification, User Tracking.",0.24131470918655396
 Vandalism,"Attacker can edit, add, manipuler codes and framework of the must ECUs in the vehcles.",0.07714711129665375
-Vandalism,Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,0.23495224118232727
+Vandalism,"Attacker can modify the hardware or changing or disabling physical sensors, memories and features.",0.2071630358695984
 Vandalism,"An attacker changes circuits of a device to extractsensitive data, such as cryptographic keys.",0.37637627124786377
 Vandalism,Attacker operates phisically on the TC by tampering the device firmware.,0.44002726674079895
 Vandalism,An attacker could perform remote control by installing remotely his own software on the device.,0.29712244868278503
@@ -699,7 +699,7 @@ Vandalism,V2X eavesdropping,0.07187369465827942
 Vandalism,CAN bus flooding,0.26565098762512207
 Vandalism,Smart key jamming,0.285905659198761
 Vandalism,Data loss,0.33963149785995483
-Vandalism,V2X DoS,0.032627783715724945
+Vandalism,V2X Denial of Service,0.04786244034767151
 Vandalism,Infotainment Alteration,0.16755682229995728
 Vandalism,Rogue OBD-II Device,0.19317254424095154
 Vandalism,Insider Threat,0.3871460556983948
@@ -754,7 +754,7 @@ Network outage,An adversary can execute arbitrary code on the telematics unit (T
 Network outage,The SS7 vulnerabilities can be exploited to compromise SMS system to intercept text user messages.,0.09963203966617584
 Network outage,"Spying, SMS Interception & Modification, User Tracking.",0.14247384667396545
 Network outage,"Attacker can edit, add, manipuler codes and framework of the must ECUs in the vehcles.",-0.029545241966843605
-Network outage,Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,0.16806542873382568
+Network outage,"Attacker can modify the hardware or changing or disabling physical sensors, memories and features.",0.15961429476737976
 Network outage,"An attacker changes circuits of a device to extractsensitive data, such as cryptographic keys.",0.31490379571914673
 Network outage,Attacker operates phisically on the TC by tampering the device firmware.,0.21297045052051544
 Network outage,An attacker could perform remote control by installing remotely his own software on the device.,0.11369995772838593
@@ -785,7 +785,7 @@ Network outage,V2X eavesdropping,-0.08416856080293655
 Network outage,CAN bus flooding,0.15484878420829773
 Network outage,Smart key jamming,0.2627663314342499
 Network outage,Data loss,0.36399513483047485
-Network outage,V2X DoS,-0.04099397733807564
+Network outage,V2X Denial of Service,0.1685054898262024
 Network outage,Infotainment Alteration,0.11709608882665634
 Network outage,Rogue OBD-II Device,0.06733854115009308
 Network outage,Insider Threat,0.12423093616962433
@@ -839,7 +839,7 @@ OEM Targeted attacks,An adversary can execute arbitrary code on the telematics u
 OEM Targeted attacks,The SS7 vulnerabilities can be exploited to compromise SMS system to intercept text user messages.,0.160547137260437
 OEM Targeted attacks,"Spying, SMS Interception & Modification, User Tracking.",0.16085708141326904
 OEM Targeted attacks,"Attacker can edit, add, manipuler codes and framework of the must ECUs in the vehcles.",0.30350762605667114
-OEM Targeted attacks,Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,0.2690274715423584
+OEM Targeted attacks,"Attacker can modify the hardware or changing or disabling physical sensors, memories and features.",0.24723291397094727
 OEM Targeted attacks,"An attacker changes circuits of a device to extractsensitive data, such as cryptographic keys.",0.18259340524673462
 OEM Targeted attacks,Attacker operates phisically on the TC by tampering the device firmware.,0.18883724510669708
 OEM Targeted attacks,An attacker could perform remote control by installing remotely his own software on the device.,0.1647339016199112
@@ -870,7 +870,7 @@ OEM Targeted attacks,V2X eavesdropping,0.14451956748962402
 OEM Targeted attacks,CAN bus flooding,0.27560800313949585
 OEM Targeted attacks,Smart key jamming,0.21640615165233612
 OEM Targeted attacks,Data loss,0.04940802976489067
-OEM Targeted attacks,V2X DoS,0.11830723285675049
+OEM Targeted attacks,V2X Denial of Service,0.053229138255119324
 OEM Targeted attacks,Infotainment Alteration,0.21671506762504578
 OEM Targeted attacks,Rogue OBD-II Device,0.2526686489582062
 OEM Targeted attacks,Insider Threat,0.2218872606754303
@@ -923,7 +923,7 @@ Unauthorised activities,An adversary can execute arbitrary code on the telematic
 Unauthorised activities,The SS7 vulnerabilities can be exploited to compromise SMS system to intercept text user messages.,0.3144773542881012
 Unauthorised activities,"Spying, SMS Interception & Modification, User Tracking.",0.2242840975522995
 Unauthorised activities,"Attacker can edit, add, manipuler codes and framework of the must ECUs in the vehcles.",0.22799675166606903
-Unauthorised activities,Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,0.29187312722206116
+Unauthorised activities,"Attacker can modify the hardware or changing or disabling physical sensors, memories and features.",0.22138559818267822
 Unauthorised activities,"An attacker changes circuits of a device to extractsensitive data, such as cryptographic keys.",0.2448502779006958
 Unauthorised activities,Attacker operates phisically on the TC by tampering the device firmware.,0.2971002459526062
 Unauthorised activities,An attacker could perform remote control by installing remotely his own software on the device.,0.37723687291145325
@@ -954,7 +954,7 @@ Unauthorised activities,V2X eavesdropping,0.3313567638397217
 Unauthorised activities,CAN bus flooding,0.19912323355674744
 Unauthorised activities,Smart key jamming,0.12732192873954773
 Unauthorised activities,Data loss,0.3646700978279114
-Unauthorised activities,V2X DoS,0.2053363025188446
+Unauthorised activities,V2X Denial of Service,0.1961306780576706
 Unauthorised activities,Infotainment Alteration,0.18051709234714508
 Unauthorised activities,Rogue OBD-II Device,0.388974666595459
 Unauthorised activities,Insider Threat,0.11371789872646332
@@ -1006,7 +1006,7 @@ Identity theft,An adversary can execute arbitrary code on the telematics unit (T
 Identity theft,The SS7 vulnerabilities can be exploited to compromise SMS system to intercept text user messages.,0.3205627202987671
 Identity theft,"Spying, SMS Interception & Modification, User Tracking.",0.2796747088432312
 Identity theft,"Attacker can edit, add, manipuler codes and framework of the must ECUs in the vehcles.",0.16295766830444336
-Identity theft,Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,0.3329818546772003
+Identity theft,"Attacker can modify the hardware or changing or disabling physical sensors, memories and features.",0.3013398051261902
 Identity theft,"An attacker changes circuits of a device to extractsensitive data, such as cryptographic keys.",0.4793604612350464
 Identity theft,Attacker operates phisically on the TC by tampering the device firmware.,0.31393009424209595
 Identity theft,An attacker could perform remote control by installing remotely his own software on the device.,0.3262917995452881
@@ -1037,7 +1037,7 @@ Identity theft,V2X eavesdropping,0.27152884006500244
 Identity theft,CAN bus flooding,0.15639647841453552
 Identity theft,Smart key jamming,0.45827096700668335
 Identity theft,Data loss,0.3034666180610657
-Identity theft,V2X DoS,0.22302545607089996
+Identity theft,V2X Denial of Service,0.13118675351142883
 Identity theft,Infotainment Alteration,0.08964890986680984
 Identity theft,Rogue OBD-II Device,0.23159533739089966
 Identity theft,Insider Threat,0.3855346441268921
@@ -1088,7 +1088,7 @@ Abuse of authorizations,An adversary can execute arbitrary code on the telematic
 Abuse of authorizations,The SS7 vulnerabilities can be exploited to compromise SMS system to intercept text user messages.,0.35648494958877563
 Abuse of authorizations,"Spying, SMS Interception & Modification, User Tracking.",0.2981324791908264
 Abuse of authorizations,"Attacker can edit, add, manipuler codes and framework of the must ECUs in the vehcles.",0.37969958782196045
-Abuse of authorizations,Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,0.2934395968914032
+Abuse of authorizations,"Attacker can modify the hardware or changing or disabling physical sensors, memories and features.",0.24102582037448883
 Abuse of authorizations,"An attacker changes circuits of a device to extractsensitive data, such as cryptographic keys.",0.3006868362426758
 Abuse of authorizations,Attacker operates phisically on the TC by tampering the device firmware.,0.3246559500694275
 Abuse of authorizations,An attacker could perform remote control by installing remotely his own software on the device.,0.3722074329853058
@@ -1119,7 +1119,7 @@ Abuse of authorizations,V2X eavesdropping,0.29350829124450684
 Abuse of authorizations,CAN bus flooding,0.22411324083805084
 Abuse of authorizations,Smart key jamming,0.3213348984718323
 Abuse of authorizations,Data loss,0.132095068693161
-Abuse of authorizations,V2X DoS,0.23438948392868042
+Abuse of authorizations,V2X Denial of Service,0.21347454190254211
 Abuse of authorizations,Infotainment Alteration,0.1708330661058426
 Abuse of authorizations,Rogue OBD-II Device,0.25210079550743103
 Abuse of authorizations,Insider Threat,0.23738719522953033
@@ -1169,7 +1169,7 @@ Sabotage,An adversary can execute arbitrary code on the telematics unit (TCU) an
 Sabotage,The SS7 vulnerabilities can be exploited to compromise SMS system to intercept text user messages.,0.2633039951324463
 Sabotage,"Spying, SMS Interception & Modification, User Tracking.",0.1789594441652298
 Sabotage,"Attacker can edit, add, manipuler codes and framework of the must ECUs in the vehcles.",0.20271548628807068
-Sabotage,Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,0.23101221024990082
+Sabotage,"Attacker can modify the hardware or changing or disabling physical sensors, memories and features.",0.1697428673505783
 Sabotage,"An attacker changes circuits of a device to extractsensitive data, such as cryptographic keys.",0.33706367015838623
 Sabotage,Attacker operates phisically on the TC by tampering the device firmware.,0.3089282512664795
 Sabotage,An attacker could perform remote control by installing remotely his own software on the device.,0.28865402936935425
@@ -1200,7 +1200,7 @@ Sabotage,V2X eavesdropping,0.11596880108118057
 Sabotage,CAN bus flooding,0.2589051127433777
 Sabotage,Smart key jamming,0.22496217489242554
 Sabotage,Data loss,0.2618073523044586
-Sabotage,V2X DoS,0.057853590697050095
+Sabotage,V2X Denial of Service,0.054729122668504715
 Sabotage,Infotainment Alteration,0.19548167288303375
 Sabotage,Rogue OBD-II Device,0.3549423813819885
 Sabotage,Insider Threat,0.23584476113319397
@@ -1249,7 +1249,7 @@ Theft,An adversary can execute arbitrary code on the telematics unit (TCU) and t
 Theft,The SS7 vulnerabilities can be exploited to compromise SMS system to intercept text user messages.,0.23717814683914185
 Theft,"Spying, SMS Interception & Modification, User Tracking.",0.23444299399852753
 Theft,"Attacker can edit, add, manipuler codes and framework of the must ECUs in the vehcles.",0.01362663134932518
-Theft,Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,0.19916783273220062
+Theft,"Attacker can modify the hardware or changing or disabling physical sensors, memories and features.",0.19614115357398987
 Theft,"An attacker changes circuits of a device to extractsensitive data, such as cryptographic keys.",0.3850197196006775
 Theft,Attacker operates phisically on the TC by tampering the device firmware.,0.3299623131752014
 Theft,An attacker could perform remote control by installing remotely his own software on the device.,0.17777769267559052
@@ -1280,7 +1280,7 @@ Theft,V2X eavesdropping,0.10043279826641083
 Theft,CAN bus flooding,0.21674206852912903
 Theft,Smart key jamming,0.3440515995025635
 Theft,Data loss,0.3186025619506836
-Theft,V2X DoS,0.07824303954839706
+Theft,V2X Denial of Service,0.0594438761472702
 Theft,Infotainment Alteration,0.05176763981580734
 Theft,Rogue OBD-II Device,0.16604165732860565
 Theft,Insider Threat,0.3296382427215576
@@ -1328,7 +1328,7 @@ Side-channel attacks,An adversary can execute arbitrary code on the telematics u
 Side-channel attacks,The SS7 vulnerabilities can be exploited to compromise SMS system to intercept text user messages.,0.23988249897956848
 Side-channel attacks,"Spying, SMS Interception & Modification, User Tracking.",0.28137218952178955
 Side-channel attacks,"Attacker can edit, add, manipuler codes and framework of the must ECUs in the vehcles.",0.2335672229528427
-Side-channel attacks,Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,0.29371631145477295
+Side-channel attacks,"Attacker can modify the hardware or changing or disabling physical sensors, memories and features.",0.2539215087890625
 Side-channel attacks,"An attacker changes circuits of a device to extractsensitive data, such as cryptographic keys.",0.25256770849227905
 Side-channel attacks,Attacker operates phisically on the TC by tampering the device firmware.,0.19554506242275238
 Side-channel attacks,An attacker could perform remote control by installing remotely his own software on the device.,0.19407467544078827
@@ -1359,7 +1359,7 @@ Side-channel attacks,V2X eavesdropping,0.21346436440944672
 Side-channel attacks,CAN bus flooding,0.21380679309368134
 Side-channel attacks,Smart key jamming,0.1786351501941681
 Side-channel attacks,Data loss,0.1642783284187317
-Side-channel attacks,V2X DoS,0.15929514169692993
+Side-channel attacks,V2X Denial of Service,0.21511217951774597
 Side-channel attacks,Infotainment Alteration,0.24885232746601105
 Side-channel attacks,Rogue OBD-II Device,0.22116181254386902
 Side-channel attacks,Insider Threat,0.3359665274620056
@@ -1406,7 +1406,7 @@ Fault injection,An adversary can execute arbitrary code on the telematics unit (
 Fault injection,The SS7 vulnerabilities can be exploited to compromise SMS system to intercept text user messages.,0.09981919825077057
 Fault injection,"Spying, SMS Interception & Modification, User Tracking.",0.11390242725610733
 Fault injection,"Attacker can edit, add, manipuler codes and framework of the must ECUs in the vehcles.",0.28134551644325256
-Fault injection,Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,0.29411783814430237
+Fault injection,"Attacker can modify the hardware or changing or disabling physical sensors, memories and features.",0.28271356225013733
 Fault injection,"An attacker changes circuits of a device to extractsensitive data, such as cryptographic keys.",0.2915858328342438
 Fault injection,Attacker operates phisically on the TC by tampering the device firmware.,0.31047049164772034
 Fault injection,An attacker could perform remote control by installing remotely his own software on the device.,0.19249755144119263
@@ -1437,7 +1437,7 @@ Fault injection,V2X eavesdropping,0.014141988009214401
 Fault injection,CAN bus flooding,0.21009109914302826
 Fault injection,Smart key jamming,0.42336344718933105
 Fault injection,Data loss,0.2662220597267151
-Fault injection,V2X DoS,0.09421341121196747
+Fault injection,V2X Denial of Service,0.09608756005764008
 Fault injection,Infotainment Alteration,0.2847120761871338
 Fault injection,Rogue OBD-II Device,0.2584991455078125
 Fault injection,Insider Threat,0.3481411933898926
@@ -1483,7 +1483,7 @@ Software vulnerabilities exploitation,An adversary can execute arbitrary code on
 Software vulnerabilities exploitation,The SS7 vulnerabilities can be exploited to compromise SMS system to intercept text user messages.,0.4570503830909729
 Software vulnerabilities exploitation,"Spying, SMS Interception & Modification, User Tracking.",0.24367298185825348
 Software vulnerabilities exploitation,"Attacker can edit, add, manipuler codes and framework of the must ECUs in the vehcles.",0.2513674199581146
-Software vulnerabilities exploitation,Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,0.4289843738079071
+Software vulnerabilities exploitation,"Attacker can modify the hardware or changing or disabling physical sensors, memories and features.",0.3672494888305664
 Software vulnerabilities exploitation,"An attacker changes circuits of a device to extractsensitive data, such as cryptographic keys.",0.367409348487854
 Software vulnerabilities exploitation,Attacker operates phisically on the TC by tampering the device firmware.,0.3720185160636902
 Software vulnerabilities exploitation,An attacker could perform remote control by installing remotely his own software on the device.,0.4537522494792938
@@ -1514,7 +1514,7 @@ Software vulnerabilities exploitation,V2X eavesdropping,0.24657508730888367
 Software vulnerabilities exploitation,CAN bus flooding,0.21325571835041046
 Software vulnerabilities exploitation,Smart key jamming,0.30864447355270386
 Software vulnerabilities exploitation,Data loss,0.1841999739408493
-Software vulnerabilities exploitation,V2X DoS,0.15087516605854034
+Software vulnerabilities exploitation,V2X Denial of Service,0.12920904159545898
 Software vulnerabilities exploitation,Infotainment Alteration,0.07490114122629166
 Software vulnerabilities exploitation,Rogue OBD-II Device,0.2245059311389923
 Software vulnerabilities exploitation,Insider Threat,0.32647451758384705
@@ -1559,7 +1559,7 @@ Failure or Disruption of service,An adversary can execute arbitrary code on the 
 Failure or Disruption of service,The SS7 vulnerabilities can be exploited to compromise SMS system to intercept text user messages.,0.2174789309501648
 Failure or Disruption of service,"Spying, SMS Interception & Modification, User Tracking.",0.11804327368736267
 Failure or Disruption of service,"Attacker can edit, add, manipuler codes and framework of the must ECUs in the vehcles.",0.056860972195863724
-Failure or Disruption of service,Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,0.11867095530033112
+Failure or Disruption of service,"Attacker can modify the hardware or changing or disabling physical sensors, memories and features.",0.08571510016918182
 Failure or Disruption of service,"An attacker changes circuits of a device to extractsensitive data, such as cryptographic keys.",0.2718770503997803
 Failure or Disruption of service,Attacker operates phisically on the TC by tampering the device firmware.,0.1909722536802292
 Failure or Disruption of service,An attacker could perform remote control by installing remotely his own software on the device.,0.07577630877494812
@@ -1590,7 +1590,7 @@ Failure or Disruption of service,V2X eavesdropping,-0.07273460924625397
 Failure or Disruption of service,CAN bus flooding,0.21873489022254944
 Failure or Disruption of service,Smart key jamming,0.25439149141311646
 Failure or Disruption of service,Data loss,0.3081611692905426
-Failure or Disruption of service,V2X DoS,-0.04874735325574875
+Failure or Disruption of service,V2X Denial of Service,0.3055461049079895
 Failure or Disruption of service,Infotainment Alteration,0.1513650119304657
 Failure or Disruption of service,Rogue OBD-II Device,0.11678078025579453
 Failure or Disruption of service,Insider Threat,0.03927702084183693
@@ -1634,7 +1634,7 @@ Communication protocol hijacking,An adversary can execute arbitrary code on the 
 Communication protocol hijacking,The SS7 vulnerabilities can be exploited to compromise SMS system to intercept text user messages.,0.4175991415977478
 Communication protocol hijacking,"Spying, SMS Interception & Modification, User Tracking.",0.42537277936935425
 Communication protocol hijacking,"Attacker can edit, add, manipuler codes and framework of the must ECUs in the vehcles.",0.21538443863391876
-Communication protocol hijacking,Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,0.28919297456741333
+Communication protocol hijacking,"Attacker can modify the hardware or changing or disabling physical sensors, memories and features.",0.27296194434165955
 Communication protocol hijacking,"An attacker changes circuits of a device to extractsensitive data, such as cryptographic keys.",0.51854407787323
 Communication protocol hijacking,Attacker operates phisically on the TC by tampering the device firmware.,0.42193877696990967
 Communication protocol hijacking,An attacker could perform remote control by installing remotely his own software on the device.,0.32813137769699097
@@ -1665,7 +1665,7 @@ Communication protocol hijacking,V2X eavesdropping,0.1962781697511673
 Communication protocol hijacking,CAN bus flooding,0.1629885882139206
 Communication protocol hijacking,Smart key jamming,0.4816850423812866
 Communication protocol hijacking,Data loss,0.12822894752025604
-Communication protocol hijacking,V2X DoS,0.1288074553012848
+Communication protocol hijacking,V2X Denial of Service,0.10946329683065414
 Communication protocol hijacking,Infotainment Alteration,0.10222979635000229
 Communication protocol hijacking,Rogue OBD-II Device,0.19020621478557587
 Communication protocol hijacking,Insider Threat,0.2935418486595154
@@ -1708,7 +1708,7 @@ Data replay,An adversary can execute arbitrary code on the telematics unit (TCU)
 Data replay,The SS7 vulnerabilities can be exploited to compromise SMS system to intercept text user messages.,0.1346377432346344
 Data replay,"Spying, SMS Interception & Modification, User Tracking.",0.28347012400627136
 Data replay,"Attacker can edit, add, manipuler codes and framework of the must ECUs in the vehcles.",0.117803193628788
-Data replay,Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,0.2522055506706238
+Data replay,"Attacker can modify the hardware or changing or disabling physical sensors, memories and features.",0.2599467635154724
 Data replay,"An attacker changes circuits of a device to extractsensitive data, such as cryptographic keys.",0.27062517404556274
 Data replay,Attacker operates phisically on the TC by tampering the device firmware.,0.23427876830101013
 Data replay,An attacker could perform remote control by installing remotely his own software on the device.,0.08458000421524048
@@ -1739,7 +1739,7 @@ Data replay,V2X eavesdropping,0.1858757883310318
 Data replay,CAN bus flooding,0.1576995551586151
 Data replay,Smart key jamming,0.2728990316390991
 Data replay,Data loss,0.38616451621055603
-Data replay,V2X DoS,0.14935347437858582
+Data replay,V2X Denial of Service,0.11553683876991272
 Data replay,Infotainment Alteration,0.2403385043144226
 Data replay,Rogue OBD-II Device,0.13140085339546204
 Data replay,Insider Threat,0.16908591985702515
@@ -1781,7 +1781,7 @@ Man-in-the-middle attack / Session hijacking,An adversary can execute arbitrary 
 Man-in-the-middle attack / Session hijacking,The SS7 vulnerabilities can be exploited to compromise SMS system to intercept text user messages.,0.30117732286453247
 Man-in-the-middle attack / Session hijacking,"Spying, SMS Interception & Modification, User Tracking.",0.2845306396484375
 Man-in-the-middle attack / Session hijacking,"Attacker can edit, add, manipuler codes and framework of the must ECUs in the vehcles.",0.22534261643886566
-Man-in-the-middle attack / Session hijacking,Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,0.29187333583831787
+Man-in-the-middle attack / Session hijacking,"Attacker can modify the hardware or changing or disabling physical sensors, memories and features.",0.2516627311706543
 Man-in-the-middle attack / Session hijacking,"An attacker changes circuits of a device to extractsensitive data, such as cryptographic keys.",0.4455849528312683
 Man-in-the-middle attack / Session hijacking,Attacker operates phisically on the TC by tampering the device firmware.,0.35217785835266113
 Man-in-the-middle attack / Session hijacking,An attacker could perform remote control by installing remotely his own software on the device.,0.270145446062088
@@ -1812,7 +1812,7 @@ Man-in-the-middle attack / Session hijacking,V2X eavesdropping,0.138901934027671
 Man-in-the-middle attack / Session hijacking,CAN bus flooding,0.18373583257198334
 Man-in-the-middle attack / Session hijacking,Smart key jamming,0.4134383499622345
 Man-in-the-middle attack / Session hijacking,Data loss,0.0236591137945652
-Man-in-the-middle attack / Session hijacking,V2X DoS,0.06625909358263016
+Man-in-the-middle attack / Session hijacking,V2X Denial of Service,0.08238066732883453
 Man-in-the-middle attack / Session hijacking,Infotainment Alteration,0.056505292654037476
 Man-in-the-middle attack / Session hijacking,Rogue OBD-II Device,0.22977378964424133
 Man-in-the-middle attack / Session hijacking,Insider Threat,0.41173404455184937
@@ -1853,7 +1853,7 @@ Unintentional change of data or car components configuration,An adversary can ex
 Unintentional change of data or car components configuration,The SS7 vulnerabilities can be exploited to compromise SMS system to intercept text user messages.,0.20159298181533813
 Unintentional change of data or car components configuration,"Spying, SMS Interception & Modification, User Tracking.",0.26723772287368774
 Unintentional change of data or car components configuration,"Attacker can edit, add, manipuler codes and framework of the must ECUs in the vehcles.",0.43713366985321045
-Unintentional change of data or car components configuration,Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,0.35517585277557373
+Unintentional change of data or car components configuration,"Attacker can modify the hardware or changing or disabling physical sensors, memories and features.",0.3157491683959961
 Unintentional change of data or car components configuration,"An attacker changes circuits of a device to extractsensitive data, such as cryptographic keys.",0.37395745515823364
 Unintentional change of data or car components configuration,Attacker operates phisically on the TC by tampering the device firmware.,0.35829687118530273
 Unintentional change of data or car components configuration,An attacker could perform remote control by installing remotely his own software on the device.,0.33731433749198914
@@ -1884,7 +1884,7 @@ Unintentional change of data or car components configuration,V2X eavesdropping,0
 Unintentional change of data or car components configuration,CAN bus flooding,0.20682349801063538
 Unintentional change of data or car components configuration,Smart key jamming,0.28657758235931396
 Unintentional change of data or car components configuration,Data loss,0.2665037512779236
-Unintentional change of data or car components configuration,V2X DoS,0.09562551230192184
+Unintentional change of data or car components configuration,V2X Denial of Service,0.10325807332992554
 Unintentional change of data or car components configuration,Infotainment Alteration,0.5689947605133057
 Unintentional change of data or car components configuration,Rogue OBD-II Device,0.26807576417922974
 Unintentional change of data or car components configuration,Insider Threat,0.05817141383886337
@@ -1924,7 +1924,7 @@ Information leakage,An adversary can execute arbitrary code on the telematics un
 Information leakage,The SS7 vulnerabilities can be exploited to compromise SMS system to intercept text user messages.,0.23672059178352356
 Information leakage,"Spying, SMS Interception & Modification, User Tracking.",0.21863293647766113
 Information leakage,"Attacker can edit, add, manipuler codes and framework of the must ECUs in the vehcles.",0.1071036159992218
-Information leakage,Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,0.33966100215911865
+Information leakage,"Attacker can modify the hardware or changing or disabling physical sensors, memories and features.",0.3151644766330719
 Information leakage,"An attacker changes circuits of a device to extractsensitive data, such as cryptographic keys.",0.376292884349823
 Information leakage,Attacker operates phisically on the TC by tampering the device firmware.,0.19847221672534943
 Information leakage,An attacker could perform remote control by installing remotely his own software on the device.,0.1852230429649353
@@ -1955,7 +1955,7 @@ Information leakage,V2X eavesdropping,0.21960154175758362
 Information leakage,CAN bus flooding,0.2109326422214508
 Information leakage,Smart key jamming,0.24569112062454224
 Information leakage,Data loss,0.5742379426956177
-Information leakage,V2X DoS,0.02497120201587677
+Information leakage,V2X Denial of Service,0.09721080958843231
 Information leakage,Infotainment Alteration,0.20011869072914124
 Information leakage,Rogue OBD-II Device,0.19047832489013672
 Information leakage,Insider Threat,0.22769801318645477
@@ -1994,7 +1994,7 @@ Using information and/or devices from an unreliable source,An adversary can exec
 Using information and/or devices from an unreliable source,The SS7 vulnerabilities can be exploited to compromise SMS system to intercept text user messages.,0.35935115814208984
 Using information and/or devices from an unreliable source,"Spying, SMS Interception & Modification, User Tracking.",0.49781543016433716
 Using information and/or devices from an unreliable source,"Attacker can edit, add, manipuler codes and framework of the must ECUs in the vehcles.",0.14586764574050903
-Using information and/or devices from an unreliable source,Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,0.4069307744503021
+Using information and/or devices from an unreliable source,"Attacker can modify the hardware or changing or disabling physical sensors, memories and features.",0.4250437021255493
 Using information and/or devices from an unreliable source,"An attacker changes circuits of a device to extractsensitive data, such as cryptographic keys.",0.5266042947769165
 Using information and/or devices from an unreliable source,Attacker operates phisically on the TC by tampering the device firmware.,0.49651089310646057
 Using information and/or devices from an unreliable source,An attacker could perform remote control by installing remotely his own software on the device.,0.37965667247772217
@@ -2025,7 +2025,7 @@ Using information and/or devices from an unreliable source,V2X eavesdropping,0.2
 Using information and/or devices from an unreliable source,CAN bus flooding,0.20213091373443604
 Using information and/or devices from an unreliable source,Smart key jamming,0.3106672465801239
 Using information and/or devices from an unreliable source,Data loss,0.4819687306880951
-Using information and/or devices from an unreliable source,V2X DoS,0.03555746003985405
+Using information and/or devices from an unreliable source,V2X Denial of Service,0.09714220464229584
 Using information and/or devices from an unreliable source,Infotainment Alteration,0.33263474702835083
 Using information and/or devices from an unreliable source,Rogue OBD-II Device,0.32744133472442627
 Using information and/or devices from an unreliable source,Insider Threat,0.2924581468105316
@@ -2063,7 +2063,7 @@ Erroneous use or configuration of car components,An adversary can execute arbitr
 Erroneous use or configuration of car components,The SS7 vulnerabilities can be exploited to compromise SMS system to intercept text user messages.,0.19410976767539978
 Erroneous use or configuration of car components,"Spying, SMS Interception & Modification, User Tracking.",0.24299748241901398
 Erroneous use or configuration of car components,"Attacker can edit, add, manipuler codes and framework of the must ECUs in the vehcles.",0.48711228370666504
-Erroneous use or configuration of car components,Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,0.36960601806640625
+Erroneous use or configuration of car components,"Attacker can modify the hardware or changing or disabling physical sensors, memories and features.",0.28894686698913574
 Erroneous use or configuration of car components,"An attacker changes circuits of a device to extractsensitive data, such as cryptographic keys.",0.3288300633430481
 Erroneous use or configuration of car components,Attacker operates phisically on the TC by tampering the device firmware.,0.3586723208427429
 Erroneous use or configuration of car components,An attacker could perform remote control by installing remotely his own software on the device.,0.37725064158439636
@@ -2094,7 +2094,7 @@ Erroneous use or configuration of car components,V2X eavesdropping,0.25281044840
 Erroneous use or configuration of car components,CAN bus flooding,0.24132615327835083
 Erroneous use or configuration of car components,Smart key jamming,0.3186684250831604
 Erroneous use or configuration of car components,Data loss,0.16280107200145721
-Erroneous use or configuration of car components,V2X DoS,0.20780673623085022
+Erroneous use or configuration of car components,V2X Denial of Service,0.12381561845541
 Erroneous use or configuration of car components,Infotainment Alteration,0.4989566206932068
 Erroneous use or configuration of car components,Rogue OBD-II Device,0.41888880729675293
 Erroneous use or configuration of car components,Insider Threat,0.0807381197810173
@@ -2131,7 +2131,7 @@ Failure to meet contractual requirements,An adversary can execute arbitrary code
 Failure to meet contractual requirements,The SS7 vulnerabilities can be exploited to compromise SMS system to intercept text user messages.,0.0905131846666336
 Failure to meet contractual requirements,"Spying, SMS Interception & Modification, User Tracking.",0.07453885674476624
 Failure to meet contractual requirements,"Attacker can edit, add, manipuler codes and framework of the must ECUs in the vehcles.",0.12470226734876633
-Failure to meet contractual requirements,Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,-0.0024587903171777725
+Failure to meet contractual requirements,"Attacker can modify the hardware or changing or disabling physical sensors, memories and features.",0.020360518246889114
 Failure to meet contractual requirements,"An attacker changes circuits of a device to extractsensitive data, such as cryptographic keys.",0.11454582214355469
 Failure to meet contractual requirements,Attacker operates phisically on the TC by tampering the device firmware.,0.09269590675830841
 Failure to meet contractual requirements,An attacker could perform remote control by installing remotely his own software on the device.,-0.019500143826007843
@@ -2162,7 +2162,7 @@ Failure to meet contractual requirements,V2X eavesdropping,-0.018021980300545692
 Failure to meet contractual requirements,CAN bus flooding,0.08420372754335403
 Failure to meet contractual requirements,Smart key jamming,0.11052169650793076
 Failure to meet contractual requirements,Data loss,0.2392076700925827
-Failure to meet contractual requirements,V2X DoS,0.02413705177605152
+Failure to meet contractual requirements,V2X Denial of Service,0.22947901487350464
 Failure to meet contractual requirements,Infotainment Alteration,0.05343854799866676
 Failure to meet contractual requirements,Rogue OBD-II Device,0.06539400666952133
 Failure to meet contractual requirements,Insider Threat,0.08947858214378357
@@ -2198,7 +2198,7 @@ Violation of rules and regulations/Breach of legislation/ Abuse of personal data
 Violation of rules and regulations/Breach of legislation/ Abuse of personal data,The SS7 vulnerabilities can be exploited to compromise SMS system to intercept text user messages.,0.4088093042373657
 Violation of rules and regulations/Breach of legislation/ Abuse of personal data,"Spying, SMS Interception & Modification, User Tracking.",0.35598498582839966
 Violation of rules and regulations/Breach of legislation/ Abuse of personal data,"Attacker can edit, add, manipuler codes and framework of the must ECUs in the vehcles.",0.2524102032184601
-Violation of rules and regulations/Breach of legislation/ Abuse of personal data,Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,0.2991154193878174
+Violation of rules and regulations/Breach of legislation/ Abuse of personal data,"Attacker can modify the hardware or changing or disabling physical sensors, memories and features.",0.2912554442882538
 Violation of rules and regulations/Breach of legislation/ Abuse of personal data,"An attacker changes circuits of a device to extractsensitive data, such as cryptographic keys.",0.4019574820995331
 Violation of rules and regulations/Breach of legislation/ Abuse of personal data,Attacker operates phisically on the TC by tampering the device firmware.,0.38000935316085815
 Violation of rules and regulations/Breach of legislation/ Abuse of personal data,An attacker could perform remote control by installing remotely his own software on the device.,0.37020301818847656
@@ -2229,7 +2229,7 @@ Violation of rules and regulations/Breach of legislation/ Abuse of personal data
 Violation of rules and regulations/Breach of legislation/ Abuse of personal data,CAN bus flooding,0.0614541620016098
 Violation of rules and regulations/Breach of legislation/ Abuse of personal data,Smart key jamming,0.19715645909309387
 Violation of rules and regulations/Breach of legislation/ Abuse of personal data,Data loss,0.23041097819805145
-Violation of rules and regulations/Breach of legislation/ Abuse of personal data,V2X DoS,0.022073276340961456
+Violation of rules and regulations/Breach of legislation/ Abuse of personal data,V2X Denial of Service,0.09552331268787384
 Violation of rules and regulations/Breach of legislation/ Abuse of personal data,Infotainment Alteration,0.09134219586849213
 Violation of rules and regulations/Breach of legislation/ Abuse of personal data,Rogue OBD-II Device,0.13979502022266388
 Violation of rules and regulations/Breach of legislation/ Abuse of personal data,Insider Threat,0.28299057483673096
@@ -2264,7 +2264,7 @@ Loss of GNSS signal,An adversary can execute arbitrary code on the telematics un
 Loss of GNSS signal,The SS7 vulnerabilities can be exploited to compromise SMS system to intercept text user messages.,0.2741272449493408
 Loss of GNSS signal,"Spying, SMS Interception & Modification, User Tracking.",0.281878262758255
 Loss of GNSS signal,"Attacker can edit, add, manipuler codes and framework of the must ECUs in the vehcles.",0.031653985381126404
-Loss of GNSS signal,Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,0.21151432394981384
+Loss of GNSS signal,"Attacker can modify the hardware or changing or disabling physical sensors, memories and features.",0.1844061315059662
 Loss of GNSS signal,"An attacker changes circuits of a device to extractsensitive data, such as cryptographic keys.",0.27695539593696594
 Loss of GNSS signal,Attacker operates phisically on the TC by tampering the device firmware.,0.22520899772644043
 Loss of GNSS signal,An attacker could perform remote control by installing remotely his own software on the device.,0.05360491946339607
@@ -2295,7 +2295,7 @@ Loss of GNSS signal,V2X eavesdropping,0.17754793167114258
 Loss of GNSS signal,CAN bus flooding,0.18889513611793518
 Loss of GNSS signal,Smart key jamming,0.22511377930641174
 Loss of GNSS signal,Data loss,0.5317035913467407
-Loss of GNSS signal,V2X DoS,0.10191895067691803
+Loss of GNSS signal,V2X Denial of Service,0.23069630563259125
 Loss of GNSS signal,Infotainment Alteration,0.13391655683517456
 Loss of GNSS signal,Rogue OBD-II Device,0.2705758810043335
 Loss of GNSS signal,Insider Threat,0.10888931900262833
@@ -2329,7 +2329,7 @@ Car depleted battery,An adversary can execute arbitrary code on the telematics u
 Car depleted battery,The SS7 vulnerabilities can be exploited to compromise SMS system to intercept text user messages.,0.05357877165079117
 Car depleted battery,"Spying, SMS Interception & Modification, User Tracking.",0.10971200466156006
 Car depleted battery,"Attacker can edit, add, manipuler codes and framework of the must ECUs in the vehcles.",0.19530801475048065
-Car depleted battery,Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,0.2095741629600525
+Car depleted battery,"Attacker can modify the hardware or changing or disabling physical sensors, memories and features.",0.16404803097248077
 Car depleted battery,"An attacker changes circuits of a device to extractsensitive data, such as cryptographic keys.",0.20854628086090088
 Car depleted battery,Attacker operates phisically on the TC by tampering the device firmware.,0.12477823346853256
 Car depleted battery,An attacker could perform remote control by installing remotely his own software on the device.,0.07019194215536118
@@ -2360,7 +2360,7 @@ Car depleted battery,V2X eavesdropping,0.04313007369637489
 Car depleted battery,CAN bus flooding,0.15732374787330627
 Car depleted battery,Smart key jamming,0.2731301486492157
 Car depleted battery,Data loss,0.27741512656211853
-Car depleted battery,V2X DoS,0.023316796869039536
+Car depleted battery,V2X Denial of Service,0.06990093737840652
 Car depleted battery,Infotainment Alteration,0.2936239242553711
 Car depleted battery,Rogue OBD-II Device,0.17478424310684204
 Car depleted battery,Insider Threat,0.05908829718828201
@@ -2393,7 +2393,7 @@ Attacker injects CAN messages/codes via any ECUs connected to the bus.,An advers
 Attacker injects CAN messages/codes via any ECUs connected to the bus.,The SS7 vulnerabilities can be exploited to compromise SMS system to intercept text user messages.,0.4658567011356354
 Attacker injects CAN messages/codes via any ECUs connected to the bus.,"Spying, SMS Interception & Modification, User Tracking.",0.37858954071998596
 Attacker injects CAN messages/codes via any ECUs connected to the bus.,"Attacker can edit, add, manipuler codes and framework of the must ECUs in the vehcles.",0.5617694854736328
-Attacker injects CAN messages/codes via any ECUs connected to the bus.,Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,0.5379763841629028
+Attacker injects CAN messages/codes via any ECUs connected to the bus.,"Attacker can modify the hardware or changing or disabling physical sensors, memories and features.",0.5140302181243896
 Attacker injects CAN messages/codes via any ECUs connected to the bus.,"An attacker changes circuits of a device to extractsensitive data, such as cryptographic keys.",0.6068060398101807
 Attacker injects CAN messages/codes via any ECUs connected to the bus.,Attacker operates phisically on the TC by tampering the device firmware.,0.6072855591773987
 Attacker injects CAN messages/codes via any ECUs connected to the bus.,An attacker could perform remote control by installing remotely his own software on the device.,0.5354071259498596
@@ -2424,7 +2424,7 @@ Attacker injects CAN messages/codes via any ECUs connected to the bus.,V2X eaves
 Attacker injects CAN messages/codes via any ECUs connected to the bus.,CAN bus flooding,0.3443063199520111
 Attacker injects CAN messages/codes via any ECUs connected to the bus.,Smart key jamming,0.5315535068511963
 Attacker injects CAN messages/codes via any ECUs connected to the bus.,Data loss,0.08777733147144318
-Attacker injects CAN messages/codes via any ECUs connected to the bus.,V2X DoS,0.13858306407928467
+Attacker injects CAN messages/codes via any ECUs connected to the bus.,V2X Denial of Service,0.06872726231813431
 Attacker injects CAN messages/codes via any ECUs connected to the bus.,Infotainment Alteration,0.2393423318862915
 Attacker injects CAN messages/codes via any ECUs connected to the bus.,Rogue OBD-II Device,0.23367246985435486
 Attacker injects CAN messages/codes via any ECUs connected to the bus.,Insider Threat,0.45537489652633667
@@ -2456,7 +2456,7 @@ Attacker modifies the path of the sensitive data circulating in the vehicle.,An 
 Attacker modifies the path of the sensitive data circulating in the vehicle.,The SS7 vulnerabilities can be exploited to compromise SMS system to intercept text user messages.,0.29678308963775635
 Attacker modifies the path of the sensitive data circulating in the vehicle.,"Spying, SMS Interception & Modification, User Tracking.",0.3411155641078949
 Attacker modifies the path of the sensitive data circulating in the vehicle.,"Attacker can edit, add, manipuler codes and framework of the must ECUs in the vehcles.",0.5263239145278931
-Attacker modifies the path of the sensitive data circulating in the vehicle.,Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,0.5030146837234497
+Attacker modifies the path of the sensitive data circulating in the vehicle.,"Attacker can modify the hardware or changing or disabling physical sensors, memories and features.",0.4751189351081848
 Attacker modifies the path of the sensitive data circulating in the vehicle.,"An attacker changes circuits of a device to extractsensitive data, such as cryptographic keys.",0.5927808880805969
 Attacker modifies the path of the sensitive data circulating in the vehicle.,Attacker operates phisically on the TC by tampering the device firmware.,0.44564902782440186
 Attacker modifies the path of the sensitive data circulating in the vehicle.,An attacker could perform remote control by installing remotely his own software on the device.,0.43602144718170166
@@ -2487,7 +2487,7 @@ Attacker modifies the path of the sensitive data circulating in the vehicle.,V2X
 Attacker modifies the path of the sensitive data circulating in the vehicle.,CAN bus flooding,0.2608908712863922
 Attacker modifies the path of the sensitive data circulating in the vehicle.,Smart key jamming,0.36942583322525024
 Attacker modifies the path of the sensitive data circulating in the vehicle.,Data loss,0.17442885041236877
-Attacker modifies the path of the sensitive data circulating in the vehicle.,V2X DoS,0.04267444461584091
+Attacker modifies the path of the sensitive data circulating in the vehicle.,V2X Denial of Service,0.058162957429885864
 Attacker modifies the path of the sensitive data circulating in the vehicle.,Infotainment Alteration,0.5550501346588135
 Attacker modifies the path of the sensitive data circulating in the vehicle.,Rogue OBD-II Device,0.23741313815116882
 Attacker modifies the path of the sensitive data circulating in the vehicle.,Insider Threat,0.28795844316482544
@@ -2518,7 +2518,7 @@ Attacker remotely accesses via telematics systems (TCU).,An adversary can execut
 Attacker remotely accesses via telematics systems (TCU).,The SS7 vulnerabilities can be exploited to compromise SMS system to intercept text user messages.,0.4613417685031891
 Attacker remotely accesses via telematics systems (TCU).,"Spying, SMS Interception & Modification, User Tracking.",0.4615490436553955
 Attacker remotely accesses via telematics systems (TCU).,"Attacker can edit, add, manipuler codes and framework of the must ECUs in the vehcles.",0.3779621422290802
-Attacker remotely accesses via telematics systems (TCU).,Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,0.5706363916397095
+Attacker remotely accesses via telematics systems (TCU).,"Attacker can modify the hardware or changing or disabling physical sensors, memories and features.",0.48739194869995117
 Attacker remotely accesses via telematics systems (TCU).,"An attacker changes circuits of a device to extractsensitive data, such as cryptographic keys.",0.5215775966644287
 Attacker remotely accesses via telematics systems (TCU).,Attacker operates phisically on the TC by tampering the device firmware.,0.5620277523994446
 Attacker remotely accesses via telematics systems (TCU).,An attacker could perform remote control by installing remotely his own software on the device.,0.6380448341369629
@@ -2549,7 +2549,7 @@ Attacker remotely accesses via telematics systems (TCU).,V2X eavesdropping,0.378
 Attacker remotely accesses via telematics systems (TCU).,CAN bus flooding,0.26632457971572876
 Attacker remotely accesses via telematics systems (TCU).,Smart key jamming,0.34313535690307617
 Attacker remotely accesses via telematics systems (TCU).,Data loss,0.16951319575309753
-Attacker remotely accesses via telematics systems (TCU).,V2X DoS,0.22418078780174255
+Attacker remotely accesses via telematics systems (TCU).,V2X Denial of Service,0.1718381643295288
 Attacker remotely accesses via telematics systems (TCU).,Infotainment Alteration,0.256507009267807
 Attacker remotely accesses via telematics systems (TCU).,Rogue OBD-II Device,0.23627251386642456
 Attacker remotely accesses via telematics systems (TCU).,Insider Threat,0.31942763924598694
@@ -2579,7 +2579,7 @@ Attacker remotely accesses via telematics systems (TCU).,Form field design issue
 "An adversary can capture, analyze, and replaye the messages.",The SS7 vulnerabilities can be exploited to compromise SMS system to intercept text user messages.,0.5060369968414307
 "An adversary can capture, analyze, and replaye the messages.","Spying, SMS Interception & Modification, User Tracking.",0.4373737573623657
 "An adversary can capture, analyze, and replaye the messages.","Attacker can edit, add, manipuler codes and framework of the must ECUs in the vehcles.",0.3659284710884094
-"An adversary can capture, analyze, and replaye the messages.",Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,0.4978533089160919
+"An adversary can capture, analyze, and replaye the messages.","Attacker can modify the hardware or changing or disabling physical sensors, memories and features.",0.4423309564590454
 "An adversary can capture, analyze, and replaye the messages.","An attacker changes circuits of a device to extractsensitive data, such as cryptographic keys.",0.49639445543289185
 "An adversary can capture, analyze, and replaye the messages.",Attacker operates phisically on the TC by tampering the device firmware.,0.3798478841781616
 "An adversary can capture, analyze, and replaye the messages.",An attacker could perform remote control by installing remotely his own software on the device.,0.37547314167022705
@@ -2610,7 +2610,7 @@ Attacker remotely accesses via telematics systems (TCU).,Form field design issue
 "An adversary can capture, analyze, and replaye the messages.",CAN bus flooding,0.24170932173728943
 "An adversary can capture, analyze, and replaye the messages.",Smart key jamming,0.37872016429901123
 "An adversary can capture, analyze, and replaye the messages.",Data loss,0.2092932164669037
-"An adversary can capture, analyze, and replaye the messages.",V2X DoS,0.1407947689294815
+"An adversary can capture, analyze, and replaye the messages.",V2X Denial of Service,0.12710151076316833
 "An adversary can capture, analyze, and replaye the messages.",Infotainment Alteration,0.14012418687343597
 "An adversary can capture, analyze, and replaye the messages.",Rogue OBD-II Device,0.17541378736495972
 "An adversary can capture, analyze, and replaye the messages.",Insider Threat,0.29493552446365356
@@ -2639,7 +2639,7 @@ An adversary could link the messages to a specific vehicle.,An adversary can exe
 An adversary could link the messages to a specific vehicle.,The SS7 vulnerabilities can be exploited to compromise SMS system to intercept text user messages.,0.30717048048973083
 An adversary could link the messages to a specific vehicle.,"Spying, SMS Interception & Modification, User Tracking.",0.2985829710960388
 An adversary could link the messages to a specific vehicle.,"Attacker can edit, add, manipuler codes and framework of the must ECUs in the vehcles.",0.46669408679008484
-An adversary could link the messages to a specific vehicle.,Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,0.3545420467853546
+An adversary could link the messages to a specific vehicle.,"Attacker can modify the hardware or changing or disabling physical sensors, memories and features.",0.28447866439819336
 An adversary could link the messages to a specific vehicle.,"An attacker changes circuits of a device to extractsensitive data, such as cryptographic keys.",0.327149361371994
 An adversary could link the messages to a specific vehicle.,Attacker operates phisically on the TC by tampering the device firmware.,0.27344173192977905
 An adversary could link the messages to a specific vehicle.,An attacker could perform remote control by installing remotely his own software on the device.,0.38625210523605347
@@ -2670,7 +2670,7 @@ An adversary could link the messages to a specific vehicle.,V2X eavesdropping,0.
 An adversary could link the messages to a specific vehicle.,CAN bus flooding,0.19896233081817627
 An adversary could link the messages to a specific vehicle.,Smart key jamming,0.3000301420688629
 An adversary could link the messages to a specific vehicle.,Data loss,0.09245289862155914
-An adversary could link the messages to a specific vehicle.,V2X DoS,0.1347624510526657
+An adversary could link the messages to a specific vehicle.,V2X Denial of Service,0.0720146968960762
 An adversary could link the messages to a specific vehicle.,Infotainment Alteration,0.2650105059146881
 An adversary could link the messages to a specific vehicle.,Rogue OBD-II Device,0.19658762216567993
 An adversary could link the messages to a specific vehicle.,Insider Threat,0.2562151849269867
@@ -2698,7 +2698,7 @@ An adversary can crack a weak password.,An adversary can execute arbitrary code 
 An adversary can crack a weak password.,The SS7 vulnerabilities can be exploited to compromise SMS system to intercept text user messages.,0.4718908667564392
 An adversary can crack a weak password.,"Spying, SMS Interception & Modification, User Tracking.",0.21358796954154968
 An adversary can crack a weak password.,"Attacker can edit, add, manipuler codes and framework of the must ECUs in the vehcles.",0.2959825098514557
-An adversary can crack a weak password.,Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,0.48344579339027405
+An adversary can crack a weak password.,"Attacker can modify the hardware or changing or disabling physical sensors, memories and features.",0.4187963008880615
 An adversary can crack a weak password.,"An attacker changes circuits of a device to extractsensitive data, such as cryptographic keys.",0.622491717338562
 An adversary can crack a weak password.,Attacker operates phisically on the TC by tampering the device firmware.,0.4505426287651062
 An adversary can crack a weak password.,An attacker could perform remote control by installing remotely his own software on the device.,0.44907987117767334
@@ -2729,7 +2729,7 @@ An adversary can crack a weak password.,V2X eavesdropping,0.21923495829105377
 An adversary can crack a weak password.,CAN bus flooding,0.2278323769569397
 An adversary can crack a weak password.,Smart key jamming,0.5748885273933411
 An adversary can crack a weak password.,Data loss,0.18699242174625397
-An adversary can crack a weak password.,V2X DoS,0.10878721624612808
+An adversary can crack a weak password.,V2X Denial of Service,0.06807917356491089
 An adversary can crack a weak password.,Infotainment Alteration,-0.015913527458906174
 An adversary can crack a weak password.,Rogue OBD-II Device,0.2006314992904663
 An adversary can crack a weak password.,Insider Threat,0.45524102449417114
@@ -2756,7 +2756,7 @@ An adversary can crack a weak password.,Form field design issues,0.0962395593523
 An adversary can execute arbitrary code on the telematics unit (TCU) and take control of the device.,The SS7 vulnerabilities can be exploited to compromise SMS system to intercept text user messages.,0.5481927990913391
 An adversary can execute arbitrary code on the telematics unit (TCU) and take control of the device.,"Spying, SMS Interception & Modification, User Tracking.",0.4422071576118469
 An adversary can execute arbitrary code on the telematics unit (TCU) and take control of the device.,"Attacker can edit, add, manipuler codes and framework of the must ECUs in the vehcles.",0.49664199352264404
-An adversary can execute arbitrary code on the telematics unit (TCU) and take control of the device.,Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,0.6744290590286255
+An adversary can execute arbitrary code on the telematics unit (TCU) and take control of the device.,"Attacker can modify the hardware or changing or disabling physical sensors, memories and features.",0.5853945016860962
 An adversary can execute arbitrary code on the telematics unit (TCU) and take control of the device.,"An attacker changes circuits of a device to extractsensitive data, such as cryptographic keys.",0.6835857033729553
 An adversary can execute arbitrary code on the telematics unit (TCU) and take control of the device.,Attacker operates phisically on the TC by tampering the device firmware.,0.6938542723655701
 An adversary can execute arbitrary code on the telematics unit (TCU) and take control of the device.,An attacker could perform remote control by installing remotely his own software on the device.,0.7386872172355652
@@ -2787,7 +2787,7 @@ An adversary can execute arbitrary code on the telematics unit (TCU) and take co
 An adversary can execute arbitrary code on the telematics unit (TCU) and take control of the device.,CAN bus flooding,0.2442050278186798
 An adversary can execute arbitrary code on the telematics unit (TCU) and take control of the device.,Smart key jamming,0.479239284992218
 An adversary can execute arbitrary code on the telematics unit (TCU) and take control of the device.,Data loss,0.1573387235403061
-An adversary can execute arbitrary code on the telematics unit (TCU) and take control of the device.,V2X DoS,0.18183636665344238
+An adversary can execute arbitrary code on the telematics unit (TCU) and take control of the device.,V2X Denial of Service,0.153611958026886
 An adversary can execute arbitrary code on the telematics unit (TCU) and take control of the device.,Infotainment Alteration,0.23259487748146057
 An adversary can execute arbitrary code on the telematics unit (TCU) and take control of the device.,Rogue OBD-II Device,0.2770223915576935
 An adversary can execute arbitrary code on the telematics unit (TCU) and take control of the device.,Insider Threat,0.3778132200241089
@@ -2813,7 +2813,7 @@ An adversary can execute arbitrary code on the telematics unit (TCU) and take co
 An adversary can execute arbitrary code on the telematics unit (TCU) and take control of the device.,Form field design issues,0.0714958980679512
 The SS7 vulnerabilities can be exploited to compromise SMS system to intercept text user messages.,"Spying, SMS Interception & Modification, User Tracking.",0.46100491285324097
 The SS7 vulnerabilities can be exploited to compromise SMS system to intercept text user messages.,"Attacker can edit, add, manipuler codes and framework of the must ECUs in the vehcles.",0.2657126188278198
-The SS7 vulnerabilities can be exploited to compromise SMS system to intercept text user messages.,Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,0.39258524775505066
+The SS7 vulnerabilities can be exploited to compromise SMS system to intercept text user messages.,"Attacker can modify the hardware or changing or disabling physical sensors, memories and features.",0.3566228151321411
 The SS7 vulnerabilities can be exploited to compromise SMS system to intercept text user messages.,"An attacker changes circuits of a device to extractsensitive data, such as cryptographic keys.",0.5314638614654541
 The SS7 vulnerabilities can be exploited to compromise SMS system to intercept text user messages.,Attacker operates phisically on the TC by tampering the device firmware.,0.47325804829597473
 The SS7 vulnerabilities can be exploited to compromise SMS system to intercept text user messages.,An attacker could perform remote control by installing remotely his own software on the device.,0.4768025875091553
@@ -2844,7 +2844,7 @@ The SS7 vulnerabilities can be exploited to compromise SMS system to intercept t
 The SS7 vulnerabilities can be exploited to compromise SMS system to intercept text user messages.,CAN bus flooding,0.19412586092948914
 The SS7 vulnerabilities can be exploited to compromise SMS system to intercept text user messages.,Smart key jamming,0.3841125965118408
 The SS7 vulnerabilities can be exploited to compromise SMS system to intercept text user messages.,Data loss,0.12831637263298035
-The SS7 vulnerabilities can be exploited to compromise SMS system to intercept text user messages.,V2X DoS,0.08868300914764404
+The SS7 vulnerabilities can be exploited to compromise SMS system to intercept text user messages.,V2X Denial of Service,0.07836258411407471
 The SS7 vulnerabilities can be exploited to compromise SMS system to intercept text user messages.,Infotainment Alteration,0.004738667514175177
 The SS7 vulnerabilities can be exploited to compromise SMS system to intercept text user messages.,Rogue OBD-II Device,0.2596030533313751
 The SS7 vulnerabilities can be exploited to compromise SMS system to intercept text user messages.,Insider Threat,0.19278444349765778
@@ -2869,7 +2869,7 @@ The SS7 vulnerabilities can be exploited to compromise SMS system to intercept t
 The SS7 vulnerabilities can be exploited to compromise SMS system to intercept text user messages.,Secondary Use,0.20493356883525848
 The SS7 vulnerabilities can be exploited to compromise SMS system to intercept text user messages.,Form field design issues,0.01643991284072399
 "Spying, SMS Interception & Modification, User Tracking.","Attacker can edit, add, manipuler codes and framework of the must ECUs in the vehcles.",0.27388179302215576
-"Spying, SMS Interception & Modification, User Tracking.",Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,0.3673153817653656
+"Spying, SMS Interception & Modification, User Tracking.","Attacker can modify the hardware or changing or disabling physical sensors, memories and features.",0.3885033130645752
 "Spying, SMS Interception & Modification, User Tracking.","An attacker changes circuits of a device to extractsensitive data, such as cryptographic keys.",0.4210835099220276
 "Spying, SMS Interception & Modification, User Tracking.",Attacker operates phisically on the TC by tampering the device firmware.,0.5245264768600464
 "Spying, SMS Interception & Modification, User Tracking.",An attacker could perform remote control by installing remotely his own software on the device.,0.30861419439315796
@@ -2900,7 +2900,7 @@ The SS7 vulnerabilities can be exploited to compromise SMS system to intercept t
 "Spying, SMS Interception & Modification, User Tracking.",CAN bus flooding,0.19827142357826233
 "Spying, SMS Interception & Modification, User Tracking.",Smart key jamming,0.33977511525154114
 "Spying, SMS Interception & Modification, User Tracking.",Data loss,0.1915544718503952
-"Spying, SMS Interception & Modification, User Tracking.",V2X DoS,0.021644413471221924
+"Spying, SMS Interception & Modification, User Tracking.",V2X Denial of Service,0.05331617221236229
 "Spying, SMS Interception & Modification, User Tracking.",Infotainment Alteration,0.29267001152038574
 "Spying, SMS Interception & Modification, User Tracking.",Rogue OBD-II Device,0.14793311059474945
 "Spying, SMS Interception & Modification, User Tracking.",Insider Threat,0.26667550206184387
@@ -2924,7 +2924,7 @@ The SS7 vulnerabilities can be exploited to compromise SMS system to intercept t
 "Spying, SMS Interception & Modification, User Tracking.",Data Aggregation and Profiling,0.3491029143333435
 "Spying, SMS Interception & Modification, User Tracking.",Secondary Use,0.18253999948501587
 "Spying, SMS Interception & Modification, User Tracking.",Form field design issues,0.08505351096391678
-"Attacker can edit, add, manipuler codes and framework of the must ECUs in the vehcles.",Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,0.5326464176177979
+"Attacker can edit, add, manipuler codes and framework of the must ECUs in the vehcles.","Attacker can modify the hardware or changing or disabling physical sensors, memories and features.",0.4757118821144104
 "Attacker can edit, add, manipuler codes and framework of the must ECUs in the vehcles.","An attacker changes circuits of a device to extractsensitive data, such as cryptographic keys.",0.3655259609222412
 "Attacker can edit, add, manipuler codes and framework of the must ECUs in the vehcles.",Attacker operates phisically on the TC by tampering the device firmware.,0.39438191056251526
 "Attacker can edit, add, manipuler codes and framework of the must ECUs in the vehcles.",An attacker could perform remote control by installing remotely his own software on the device.,0.42989301681518555
@@ -2955,7 +2955,7 @@ The SS7 vulnerabilities can be exploited to compromise SMS system to intercept t
 "Attacker can edit, add, manipuler codes and framework of the must ECUs in the vehcles.",CAN bus flooding,0.2044891119003296
 "Attacker can edit, add, manipuler codes and framework of the must ECUs in the vehcles.",Smart key jamming,0.354615718126297
 "Attacker can edit, add, manipuler codes and framework of the must ECUs in the vehcles.",Data loss,-0.08788906037807465
-"Attacker can edit, add, manipuler codes and framework of the must ECUs in the vehcles.",V2X DoS,0.16627788543701172
+"Attacker can edit, add, manipuler codes and framework of the must ECUs in the vehcles.",V2X Denial of Service,0.03861936181783676
 "Attacker can edit, add, manipuler codes and framework of the must ECUs in the vehcles.",Infotainment Alteration,0.4900372624397278
 "Attacker can edit, add, manipuler codes and framework of the must ECUs in the vehcles.",Rogue OBD-II Device,0.28137558698654175
 "Attacker can edit, add, manipuler codes and framework of the must ECUs in the vehcles.",Insider Threat,0.20640552043914795
@@ -2979,60 +2979,60 @@ The SS7 vulnerabilities can be exploited to compromise SMS system to intercept t
 "Attacker can edit, add, manipuler codes and framework of the must ECUs in the vehcles.",Data Aggregation and Profiling,0.23923763632774353
 "Attacker can edit, add, manipuler codes and framework of the must ECUs in the vehcles.",Secondary Use,0.12281148880720139
 "Attacker can edit, add, manipuler codes and framework of the must ECUs in the vehcles.",Form field design issues,0.20450441539287567
-Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,"An attacker changes circuits of a device to extractsensitive data, such as cryptographic keys.",0.5855347514152527
-Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,Attacker operates phisically on the TC by tampering the device firmware.,0.5563750863075256
-Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,An attacker could perform remote control by installing remotely his own software on the device.,0.6535707712173462
-Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,Reprogramming the USB/CD device's firmware to execute malicious actions.,0.5092148780822754
-Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,An adversary can exploit the vulnerabilities o USB svstems on-board venice.,0.5625617504119873
-Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,An adversary can identify or track the vehicle from the sensor.,0.3604028522968292
-Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,"For wireless communication channel, messages can be captured, analyze, and replayed.",0.3350411355495453
-Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,Possibility to discover and control the behaviour and profile of the driver.,0.37849894165992737
-Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,An adversary relates pseudonymous positions to specific vehicles.,0.3222067356109619
-Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,Mobile App spoofing,0.3087896704673767
-Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,Smart key bruteforcing,0.35417070984840393
-Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,Smart key cloning,0.33497509360313416
-Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,GPS spoofing,0.19539019465446472
-Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,V2X Message replay,0.2639084756374359
-Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,Infotainment malware,0.4139399826526642
-Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,Mobile App malware,0.32548245787620544
-Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,ECU reflash,0.14550931751728058
-Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,CAN frame injection,0.3446665406227112
-Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,CAN frame tampering,0.43229228258132935
-Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,V2X data tampering,0.4165976643562317
-Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,CAN eavesdropping,0.3567928075790405
-Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,Unauthorised diagnostic access,0.3238263726234436
-Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,Infotainment reverse engineering,0.48065268993377686
-Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,Insecure API endpoint,0.2708998918533325
-Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,ECU firmware dump,0.40824466943740845
-Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,Server violation,0.2917499542236328
-Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,V2X eavesdropping,0.2841947078704834
-Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,CAN bus flooding,0.2549199163913727
-Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,Smart key jamming,0.453441858291626
-Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,Data loss,0.21847158670425415
-Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,V2X DoS,0.13754446804523468
-Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,Infotainment Alteration,0.36312246322631836
-Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,Rogue OBD-II Device,0.29243603348731995
-Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,Insider Threat,0.31183499097824097
-Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,Web Application Vulnerabilities,0.35809326171875
-Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,Operator-sided Data Leakage,0.5009362101554871
-Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,Insufficient Data Breach Response,0.08530302345752716
-Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,Consent on Everything / Problems with getting Consent,0.17562295496463776
-Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,"Non-transparent Policies, Agreements, Terms and Conditions",0.13330510258674622
-Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,Insufficient Deletion of User Data,0.43907487392425537
-Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,Insufficient Data Quality,0.07886654883623123
-Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,Missing or Insufficient Session Expiration,0.22524908185005188
-Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,Inability of users to access and modify data,0.44415879249572754
-Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,Collection of data not required for the user-consented purpose,0.46643900871276855
-Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,Insufficient Data Structure Model to handle user rights,0.16896700859069824
-Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,Sharing of Data with 3rd Party,0.26594114303588867
-Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,"Inappropriate Policies, Terms and Conditions",0.08787937462329865
-Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,Insecure Data Transfer,0.18680746853351593
-Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,Transfer or Processing through 3rd Party,0.2381255179643631
-Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,Misleading Content,0.2957457900047302
-Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,Collection without Consent,0.20155490934848785
-Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,Data Aggregation and Profiling,0.14345937967300415
-Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,Secondary Use,0.16312001645565033
-Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,Form field design issues,0.051867805421352386
+"Attacker can modify the hardware or changing or disabling physical sensors, memories and features.","An attacker changes circuits of a device to extractsensitive data, such as cryptographic keys.",0.5829356908798218
+"Attacker can modify the hardware or changing or disabling physical sensors, memories and features.",Attacker operates phisically on the TC by tampering the device firmware.,0.5221233367919922
+"Attacker can modify the hardware or changing or disabling physical sensors, memories and features.",An attacker could perform remote control by installing remotely his own software on the device.,0.5728501081466675
+"Attacker can modify the hardware or changing or disabling physical sensors, memories and features.",Reprogramming the USB/CD device's firmware to execute malicious actions.,0.42997750639915466
+"Attacker can modify the hardware or changing or disabling physical sensors, memories and features.",An adversary can exploit the vulnerabilities o USB svstems on-board venice.,0.43010979890823364
+"Attacker can modify the hardware or changing or disabling physical sensors, memories and features.",An adversary can identify or track the vehicle from the sensor.,0.32453444600105286
+"Attacker can modify the hardware or changing or disabling physical sensors, memories and features.","For wireless communication channel, messages can be captured, analyze, and replayed.",0.349088579416275
+"Attacker can modify the hardware or changing or disabling physical sensors, memories and features.",Possibility to discover and control the behaviour and profile of the driver.,0.37212812900543213
+"Attacker can modify the hardware or changing or disabling physical sensors, memories and features.",An adversary relates pseudonymous positions to specific vehicles.,0.276930034160614
+"Attacker can modify the hardware or changing or disabling physical sensors, memories and features.",Mobile App spoofing,0.2988341748714447
+"Attacker can modify the hardware or changing or disabling physical sensors, memories and features.",Smart key bruteforcing,0.34503084421157837
+"Attacker can modify the hardware or changing or disabling physical sensors, memories and features.",Smart key cloning,0.3732115924358368
+"Attacker can modify the hardware or changing or disabling physical sensors, memories and features.",GPS spoofing,0.2404412031173706
+"Attacker can modify the hardware or changing or disabling physical sensors, memories and features.",V2X Message replay,0.17082220315933228
+"Attacker can modify the hardware or changing or disabling physical sensors, memories and features.",Infotainment malware,0.30375799536705017
+"Attacker can modify the hardware or changing or disabling physical sensors, memories and features.",Mobile App malware,0.2827470898628235
+"Attacker can modify the hardware or changing or disabling physical sensors, memories and features.",ECU reflash,0.0828009843826294
+"Attacker can modify the hardware or changing or disabling physical sensors, memories and features.",CAN frame injection,0.36687931418418884
+"Attacker can modify the hardware or changing or disabling physical sensors, memories and features.",CAN frame tampering,0.4201752543449402
+"Attacker can modify the hardware or changing or disabling physical sensors, memories and features.",V2X data tampering,0.3214806318283081
+"Attacker can modify the hardware or changing or disabling physical sensors, memories and features.",CAN eavesdropping,0.3449046015739441
+"Attacker can modify the hardware or changing or disabling physical sensors, memories and features.",Unauthorised diagnostic access,0.2833409011363983
+"Attacker can modify the hardware or changing or disabling physical sensors, memories and features.",Infotainment reverse engineering,0.38525837659835815
+"Attacker can modify the hardware or changing or disabling physical sensors, memories and features.",Insecure API endpoint,0.26202327013015747
+"Attacker can modify the hardware or changing or disabling physical sensors, memories and features.",ECU firmware dump,0.3530564606189728
+"Attacker can modify the hardware or changing or disabling physical sensors, memories and features.",Server violation,0.2144334316253662
+"Attacker can modify the hardware or changing or disabling physical sensors, memories and features.",V2X eavesdropping,0.18851172924041748
+"Attacker can modify the hardware or changing or disabling physical sensors, memories and features.",CAN bus flooding,0.2138308882713318
+"Attacker can modify the hardware or changing or disabling physical sensors, memories and features.",Smart key jamming,0.46628397703170776
+"Attacker can modify the hardware or changing or disabling physical sensors, memories and features.",Data loss,0.2122032344341278
+"Attacker can modify the hardware or changing or disabling physical sensors, memories and features.",V2X Denial of Service,0.0486583337187767
+"Attacker can modify the hardware or changing or disabling physical sensors, memories and features.",Infotainment Alteration,0.33986207842826843
+"Attacker can modify the hardware or changing or disabling physical sensors, memories and features.",Rogue OBD-II Device,0.19131192564964294
+"Attacker can modify the hardware or changing or disabling physical sensors, memories and features.",Insider Threat,0.33440667390823364
+"Attacker can modify the hardware or changing or disabling physical sensors, memories and features.",Web Application Vulnerabilities,0.32857653498649597
+"Attacker can modify the hardware or changing or disabling physical sensors, memories and features.",Operator-sided Data Leakage,0.4008120894432068
+"Attacker can modify the hardware or changing or disabling physical sensors, memories and features.",Insufficient Data Breach Response,0.06227409094572067
+"Attacker can modify the hardware or changing or disabling physical sensors, memories and features.",Consent on Everything / Problems with getting Consent,0.18139290809631348
+"Attacker can modify the hardware or changing or disabling physical sensors, memories and features.","Non-transparent Policies, Agreements, Terms and Conditions",0.15700650215148926
+"Attacker can modify the hardware or changing or disabling physical sensors, memories and features.",Insufficient Deletion of User Data,0.4147496223449707
+"Attacker can modify the hardware or changing or disabling physical sensors, memories and features.",Insufficient Data Quality,0.06337430328130722
+"Attacker can modify the hardware or changing or disabling physical sensors, memories and features.",Missing or Insufficient Session Expiration,0.2507586181163788
+"Attacker can modify the hardware or changing or disabling physical sensors, memories and features.",Inability of users to access and modify data,0.4381648004055023
+"Attacker can modify the hardware or changing or disabling physical sensors, memories and features.",Collection of data not required for the user-consented purpose,0.45566052198410034
+"Attacker can modify the hardware or changing or disabling physical sensors, memories and features.",Insufficient Data Structure Model to handle user rights,0.13563428819179535
+"Attacker can modify the hardware or changing or disabling physical sensors, memories and features.",Sharing of Data with 3rd Party,0.20485512912273407
+"Attacker can modify the hardware or changing or disabling physical sensors, memories and features.","Inappropriate Policies, Terms and Conditions",0.10899674892425537
+"Attacker can modify the hardware or changing or disabling physical sensors, memories and features.",Insecure Data Transfer,0.1859898567199707
+"Attacker can modify the hardware or changing or disabling physical sensors, memories and features.",Transfer or Processing through 3rd Party,0.14883287250995636
+"Attacker can modify the hardware or changing or disabling physical sensors, memories and features.",Misleading Content,0.2807970345020294
+"Attacker can modify the hardware or changing or disabling physical sensors, memories and features.",Collection without Consent,0.15555623173713684
+"Attacker can modify the hardware or changing or disabling physical sensors, memories and features.",Data Aggregation and Profiling,0.20940950512886047
+"Attacker can modify the hardware or changing or disabling physical sensors, memories and features.",Secondary Use,0.14046120643615723
+"Attacker can modify the hardware or changing or disabling physical sensors, memories and features.",Form field design issues,0.11054939776659012
 "An attacker changes circuits of a device to extractsensitive data, such as cryptographic keys.",Attacker operates phisically on the TC by tampering the device firmware.,0.6566984057426453
 "An attacker changes circuits of a device to extractsensitive data, such as cryptographic keys.",An attacker could perform remote control by installing remotely his own software on the device.,0.5641640424728394
 "An attacker changes circuits of a device to extractsensitive data, such as cryptographic keys.",Reprogramming the USB/CD device's firmware to execute malicious actions.,0.5208582282066345
@@ -3062,7 +3062,7 @@ Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memor
 "An attacker changes circuits of a device to extractsensitive data, such as cryptographic keys.",CAN bus flooding,0.17043709754943848
 "An attacker changes circuits of a device to extractsensitive data, such as cryptographic keys.",Smart key jamming,0.649383544921875
 "An attacker changes circuits of a device to extractsensitive data, such as cryptographic keys.",Data loss,0.21882981061935425
-"An attacker changes circuits of a device to extractsensitive data, such as cryptographic keys.",V2X DoS,0.06243658810853958
+"An attacker changes circuits of a device to extractsensitive data, such as cryptographic keys.",V2X Denial of Service,0.03697631135582924
 "An attacker changes circuits of a device to extractsensitive data, such as cryptographic keys.",Infotainment Alteration,0.2593895196914673
 "An attacker changes circuits of a device to extractsensitive data, such as cryptographic keys.",Rogue OBD-II Device,0.2631620764732361
 "An attacker changes circuits of a device to extractsensitive data, such as cryptographic keys.",Insider Threat,0.4872753620147705
@@ -3114,7 +3114,7 @@ Attacker operates phisically on the TC by tampering the device firmware.,V2X eav
 Attacker operates phisically on the TC by tampering the device firmware.,CAN bus flooding,0.2148699015378952
 Attacker operates phisically on the TC by tampering the device firmware.,Smart key jamming,0.4920908510684967
 Attacker operates phisically on the TC by tampering the device firmware.,Data loss,0.18673887848854065
-Attacker operates phisically on the TC by tampering the device firmware.,V2X DoS,0.0593380369246006
+Attacker operates phisically on the TC by tampering the device firmware.,V2X Denial of Service,0.02994712069630623
 Attacker operates phisically on the TC by tampering the device firmware.,Infotainment Alteration,0.32740795612335205
 Attacker operates phisically on the TC by tampering the device firmware.,Rogue OBD-II Device,0.21925726532936096
 Attacker operates phisically on the TC by tampering the device firmware.,Insider Threat,0.3517785370349884
@@ -3165,7 +3165,7 @@ An attacker could perform remote control by installing remotely his own software
 An attacker could perform remote control by installing remotely his own software on the device.,CAN bus flooding,0.20336033403873444
 An attacker could perform remote control by installing remotely his own software on the device.,Smart key jamming,0.36997291445732117
 An attacker could perform remote control by installing remotely his own software on the device.,Data loss,0.088618203997612
-An attacker could perform remote control by installing remotely his own software on the device.,V2X DoS,0.1844578981399536
+An attacker could perform remote control by installing remotely his own software on the device.,V2X Denial of Service,0.10022839903831482
 An attacker could perform remote control by installing remotely his own software on the device.,Infotainment Alteration,0.25435712933540344
 An attacker could perform remote control by installing remotely his own software on the device.,Rogue OBD-II Device,0.31568649411201477
 An attacker could perform remote control by installing remotely his own software on the device.,Insider Threat,0.3441213071346283
@@ -3215,7 +3215,7 @@ Reprogramming the USB/CD device's firmware to execute malicious actions.,V2X eav
 Reprogramming the USB/CD device's firmware to execute malicious actions.,CAN bus flooding,0.14846950769424438
 Reprogramming the USB/CD device's firmware to execute malicious actions.,Smart key jamming,0.3918386697769165
 Reprogramming the USB/CD device's firmware to execute malicious actions.,Data loss,0.12272701412439346
-Reprogramming the USB/CD device's firmware to execute malicious actions.,V2X DoS,0.1404249221086502
+Reprogramming the USB/CD device's firmware to execute malicious actions.,V2X Denial of Service,0.04211646318435669
 Reprogramming the USB/CD device's firmware to execute malicious actions.,Infotainment Alteration,0.23854349553585052
 Reprogramming the USB/CD device's firmware to execute malicious actions.,Rogue OBD-II Device,0.35501617193222046
 Reprogramming the USB/CD device's firmware to execute malicious actions.,Insider Threat,0.38357052206993103
@@ -3264,7 +3264,7 @@ An adversary can exploit the vulnerabilities o USB svstems on-board venice.,V2X 
 An adversary can exploit the vulnerabilities o USB svstems on-board venice.,CAN bus flooding,0.27521464228630066
 An adversary can exploit the vulnerabilities o USB svstems on-board venice.,Smart key jamming,0.3560299575328827
 An adversary can exploit the vulnerabilities o USB svstems on-board venice.,Data loss,0.08927290141582489
-An adversary can exploit the vulnerabilities o USB svstems on-board venice.,V2X DoS,0.22503790259361267
+An adversary can exploit the vulnerabilities o USB svstems on-board venice.,V2X Denial of Service,0.15015006065368652
 An adversary can exploit the vulnerabilities o USB svstems on-board venice.,Infotainment Alteration,0.1450342833995819
 An adversary can exploit the vulnerabilities o USB svstems on-board venice.,Rogue OBD-II Device,0.371615469455719
 An adversary can exploit the vulnerabilities o USB svstems on-board venice.,Insider Threat,0.3924707770347595
@@ -3312,7 +3312,7 @@ An adversary can identify or track the vehicle from the sensor.,V2X eavesdroppin
 An adversary can identify or track the vehicle from the sensor.,CAN bus flooding,0.18108293414115906
 An adversary can identify or track the vehicle from the sensor.,Smart key jamming,0.3055979609489441
 An adversary can identify or track the vehicle from the sensor.,Data loss,0.20745447278022766
-An adversary can identify or track the vehicle from the sensor.,V2X DoS,0.06317375600337982
+An adversary can identify or track the vehicle from the sensor.,V2X Denial of Service,0.08928069472312927
 An adversary can identify or track the vehicle from the sensor.,Infotainment Alteration,0.18764641880989075
 An adversary can identify or track the vehicle from the sensor.,Rogue OBD-II Device,0.12904345989227295
 An adversary can identify or track the vehicle from the sensor.,Insider Threat,0.23571310937404633
@@ -3359,7 +3359,7 @@ An adversary can identify or track the vehicle from the sensor.,Form field desig
 "For wireless communication channel, messages can be captured, analyze, and replayed.",CAN bus flooding,0.22638684511184692
 "For wireless communication channel, messages can be captured, analyze, and replayed.",Smart key jamming,0.2459636777639389
 "For wireless communication channel, messages can be captured, analyze, and replayed.",Data loss,0.17816707491874695
-"For wireless communication channel, messages can be captured, analyze, and replayed.",V2X DoS,0.15391282737255096
+"For wireless communication channel, messages can be captured, analyze, and replayed.",V2X Denial of Service,0.10839423537254333
 "For wireless communication channel, messages can be captured, analyze, and replayed.",Infotainment Alteration,0.2512892782688141
 "For wireless communication channel, messages can be captured, analyze, and replayed.",Rogue OBD-II Device,0.14635637402534485
 "For wireless communication channel, messages can be captured, analyze, and replayed.",Insider Threat,0.10180362313985825
@@ -3405,7 +3405,7 @@ Possibility to discover and control the behaviour and profile of the driver.,V2X
 Possibility to discover and control the behaviour and profile of the driver.,CAN bus flooding,0.2816537618637085
 Possibility to discover and control the behaviour and profile of the driver.,Smart key jamming,0.286712110042572
 Possibility to discover and control the behaviour and profile of the driver.,Data loss,0.07585409283638
-Possibility to discover and control the behaviour and profile of the driver.,V2X DoS,0.09803355485200882
+Possibility to discover and control the behaviour and profile of the driver.,V2X Denial of Service,0.05152549222111702
 Possibility to discover and control the behaviour and profile of the driver.,Infotainment Alteration,0.42212313413619995
 Possibility to discover and control the behaviour and profile of the driver.,Rogue OBD-II Device,0.1681244969367981
 Possibility to discover and control the behaviour and profile of the driver.,Insider Threat,0.20206649601459503
@@ -3450,7 +3450,7 @@ An adversary relates pseudonymous positions to specific vehicles.,V2X eavesdropp
 An adversary relates pseudonymous positions to specific vehicles.,CAN bus flooding,0.0896383672952652
 An adversary relates pseudonymous positions to specific vehicles.,Smart key jamming,0.14204728603363037
 An adversary relates pseudonymous positions to specific vehicles.,Data loss,0.201222762465477
-An adversary relates pseudonymous positions to specific vehicles.,V2X DoS,0.1336878091096878
+An adversary relates pseudonymous positions to specific vehicles.,V2X Denial of Service,0.17870447039604187
 An adversary relates pseudonymous positions to specific vehicles.,Infotainment Alteration,0.21113133430480957
 An adversary relates pseudonymous positions to specific vehicles.,Rogue OBD-II Device,0.2571718096733093
 An adversary relates pseudonymous positions to specific vehicles.,Insider Threat,0.2791430950164795
@@ -3494,7 +3494,7 @@ Mobile App spoofing,V2X eavesdropping,0.13861650228500366
 Mobile App spoofing,CAN bus flooding,0.150652676820755
 Mobile App spoofing,Smart key jamming,0.3828747868537903
 Mobile App spoofing,Data loss,0.26677465438842773
-Mobile App spoofing,V2X DoS,0.04339170083403587
+Mobile App spoofing,V2X Denial of Service,0.04041159152984619
 Mobile App spoofing,Infotainment Alteration,0.18145598471164703
 Mobile App spoofing,Rogue OBD-II Device,0.1727050393819809
 Mobile App spoofing,Insider Threat,0.15349140763282776
@@ -3537,7 +3537,7 @@ Smart key bruteforcing,V2X eavesdropping,0.15874740481376648
 Smart key bruteforcing,CAN bus flooding,0.3086974024772644
 Smart key bruteforcing,Smart key jamming,0.6130801439285278
 Smart key bruteforcing,Data loss,0.11937206983566284
-Smart key bruteforcing,V2X DoS,0.14802196621894836
+Smart key bruteforcing,V2X Denial of Service,-0.04912961274385452
 Smart key bruteforcing,Infotainment Alteration,0.12952104210853577
 Smart key bruteforcing,Rogue OBD-II Device,0.20604415237903595
 Smart key bruteforcing,Insider Threat,0.3375672698020935
@@ -3579,7 +3579,7 @@ Smart key cloning,V2X eavesdropping,0.1322886049747467
 Smart key cloning,CAN bus flooding,0.07973629236221313
 Smart key cloning,Smart key jamming,0.6459373235702515
 Smart key cloning,Data loss,0.18146762251853943
-Smart key cloning,V2X DoS,0.10787303000688553
+Smart key cloning,V2X Denial of Service,-0.0034169151913374662
 Smart key cloning,Infotainment Alteration,0.08701791614294052
 Smart key cloning,Rogue OBD-II Device,0.15310880541801453
 Smart key cloning,Insider Threat,0.3189343810081482
@@ -3620,7 +3620,7 @@ GPS spoofing,V2X eavesdropping,0.19510868191719055
 GPS spoofing,CAN bus flooding,0.21245649456977844
 GPS spoofing,Smart key jamming,0.39594653248786926
 GPS spoofing,Data loss,0.29497861862182617
-GPS spoofing,V2X DoS,0.11376328766345978
+GPS spoofing,V2X Denial of Service,0.04114659130573273
 GPS spoofing,Infotainment Alteration,0.1873255968093872
 GPS spoofing,Rogue OBD-II Device,0.0973254069685936
 GPS spoofing,Insider Threat,0.15805594623088837
@@ -3660,7 +3660,7 @@ V2X Message replay,V2X eavesdropping,0.6215173602104187
 V2X Message replay,CAN bus flooding,0.14772069454193115
 V2X Message replay,Smart key jamming,0.1659601926803589
 V2X Message replay,Data loss,0.04315853863954544
-V2X Message replay,V2X DoS,0.6488940715789795
+V2X Message replay,V2X Denial of Service,0.48601090908050537
 V2X Message replay,Infotainment Alteration,0.16894876956939697
 V2X Message replay,Rogue OBD-II Device,0.3777748942375183
 V2X Message replay,Insider Threat,0.12139333784580231
@@ -3699,7 +3699,7 @@ Infotainment malware,V2X eavesdropping,0.24841177463531494
 Infotainment malware,CAN bus flooding,0.25899946689605713
 Infotainment malware,Smart key jamming,0.41948214173316956
 Infotainment malware,Data loss,0.1561345010995865
-Infotainment malware,V2X DoS,0.17505323886871338
+Infotainment malware,V2X Denial of Service,0.15337353944778442
 Infotainment malware,Infotainment Alteration,0.42846226692199707
 Infotainment malware,Rogue OBD-II Device,0.31967368721961975
 Infotainment malware,Insider Threat,0.34173649549484253
@@ -3737,7 +3737,7 @@ Mobile App malware,V2X eavesdropping,0.12545454502105713
 Mobile App malware,CAN bus flooding,0.18635055422782898
 Mobile App malware,Smart key jamming,0.4067504405975342
 Mobile App malware,Data loss,0.22903278470039368
-Mobile App malware,V2X DoS,0.016579246148467064
+Mobile App malware,V2X Denial of Service,0.06224370002746582
 Mobile App malware,Infotainment Alteration,0.05591629445552826
 Mobile App malware,Rogue OBD-II Device,0.15060830116271973
 Mobile App malware,Insider Threat,0.28195661306381226
@@ -3774,7 +3774,7 @@ ECU reflash,V2X eavesdropping,0.17632031440734863
 ECU reflash,CAN bus flooding,0.2514461278915405
 ECU reflash,Smart key jamming,0.12414110451936722
 ECU reflash,Data loss,0.07144773751497269
-ECU reflash,V2X DoS,0.18891389667987823
+ECU reflash,V2X Denial of Service,0.06502784043550491
 ECU reflash,Infotainment Alteration,0.2612541615962982
 ECU reflash,Rogue OBD-II Device,0.20465277135372162
 ECU reflash,Insider Threat,0.006213009357452393
@@ -3810,7 +3810,7 @@ CAN frame injection,V2X eavesdropping,0.0817069560289383
 CAN frame injection,CAN bus flooding,0.2656421661376953
 CAN frame injection,Smart key jamming,0.4065512716770172
 CAN frame injection,Data loss,0.056879814714193344
-CAN frame injection,V2X DoS,0.10156965255737305
+CAN frame injection,V2X Denial of Service,0.09575596451759338
 CAN frame injection,Infotainment Alteration,0.2538507580757141
 CAN frame injection,Rogue OBD-II Device,0.1776384860277176
 CAN frame injection,Insider Threat,0.2658231258392334
@@ -3845,7 +3845,7 @@ CAN frame tampering,V2X eavesdropping,0.18485623598098755
 CAN frame tampering,CAN bus flooding,0.27340787649154663
 CAN frame tampering,Smart key jamming,0.38297760486602783
 CAN frame tampering,Data loss,0.13965490460395813
-CAN frame tampering,V2X DoS,0.1154034435749054
+CAN frame tampering,V2X Denial of Service,0.03869049996137619
 CAN frame tampering,Infotainment Alteration,0.26446181535720825
 CAN frame tampering,Rogue OBD-II Device,0.28337353467941284
 CAN frame tampering,Insider Threat,0.3282574415206909
@@ -3879,7 +3879,7 @@ V2X data tampering,V2X eavesdropping,0.6793672442436218
 V2X data tampering,CAN bus flooding,0.120172880589962
 V2X data tampering,Smart key jamming,0.28380006551742554
 V2X data tampering,Data loss,0.22933486104011536
-V2X data tampering,V2X DoS,0.6827539801597595
+V2X data tampering,V2X Denial of Service,0.4559643268585205
 V2X data tampering,Infotainment Alteration,0.18590480089187622
 V2X data tampering,Rogue OBD-II Device,0.4630947709083557
 V2X data tampering,Insider Threat,0.26681026816368103
@@ -3912,7 +3912,7 @@ CAN eavesdropping,V2X eavesdropping,0.6183042526245117
 CAN eavesdropping,CAN bus flooding,0.2624639868736267
 CAN eavesdropping,Smart key jamming,0.3069168031215668
 CAN eavesdropping,Data loss,0.29542654752731323
-CAN eavesdropping,V2X DoS,0.11980470269918442
+CAN eavesdropping,V2X Denial of Service,0.11783260107040405
 CAN eavesdropping,Infotainment Alteration,0.12271834164857864
 CAN eavesdropping,Rogue OBD-II Device,0.2059079110622406
 CAN eavesdropping,Insider Threat,0.35499826073646545
@@ -3944,7 +3944,7 @@ Unauthorised diagnostic access,V2X eavesdropping,0.11649821698665619
 Unauthorised diagnostic access,CAN bus flooding,0.24114787578582764
 Unauthorised diagnostic access,Smart key jamming,0.22122350335121155
 Unauthorised diagnostic access,Data loss,0.2181195765733719
-Unauthorised diagnostic access,V2X DoS,0.08046145737171173
+Unauthorised diagnostic access,V2X Denial of Service,0.24584521353244781
 Unauthorised diagnostic access,Infotainment Alteration,0.1564333736896515
 Unauthorised diagnostic access,Rogue OBD-II Device,0.17582717537879944
 Unauthorised diagnostic access,Insider Threat,0.095869280397892
@@ -3975,7 +3975,7 @@ Infotainment reverse engineering,V2X eavesdropping,0.3058522343635559
 Infotainment reverse engineering,CAN bus flooding,0.21630927920341492
 Infotainment reverse engineering,Smart key jamming,0.3375782072544098
 Infotainment reverse engineering,Data loss,0.15723872184753418
-Infotainment reverse engineering,V2X DoS,0.2884679436683655
+Infotainment reverse engineering,V2X Denial of Service,0.23122906684875488
 Infotainment reverse engineering,Infotainment Alteration,0.6006132960319519
 Infotainment reverse engineering,Rogue OBD-II Device,0.4380432367324829
 Infotainment reverse engineering,Insider Threat,0.13717825710773468
@@ -4005,7 +4005,7 @@ Insecure API endpoint,V2X eavesdropping,0.16761718690395355
 Insecure API endpoint,CAN bus flooding,0.22565075755119324
 Insecure API endpoint,Smart key jamming,0.36070334911346436
 Insecure API endpoint,Data loss,0.2729490399360657
-Insecure API endpoint,V2X DoS,0.05639968067407608
+Insecure API endpoint,V2X Denial of Service,0.2080272138118744
 Insecure API endpoint,Infotainment Alteration,0.07508568465709686
 Insecure API endpoint,Rogue OBD-II Device,0.24766582250595093
 Insecure API endpoint,Insider Threat,0.42970719933509827
@@ -4034,7 +4034,7 @@ ECU firmware dump,V2X eavesdropping,0.13730360567569733
 ECU firmware dump,CAN bus flooding,0.3086543083190918
 ECU firmware dump,Smart key jamming,0.3025038242340088
 ECU firmware dump,Data loss,0.35215312242507935
-ECU firmware dump,V2X DoS,0.12162057310342789
+ECU firmware dump,V2X Denial of Service,0.03771357983350754
 ECU firmware dump,Infotainment Alteration,0.23205986618995667
 ECU firmware dump,Rogue OBD-II Device,0.20008918642997742
 ECU firmware dump,Insider Threat,0.08843062818050385
@@ -4062,7 +4062,7 @@ Server violation,V2X eavesdropping,0.2462785691022873
 Server violation,CAN bus flooding,0.1513897031545639
 Server violation,Smart key jamming,0.17379239201545715
 Server violation,Data loss,0.28435879945755005
-Server violation,V2X DoS,0.17529025673866272
+Server violation,V2X Denial of Service,0.2917476296424866
 Server violation,Infotainment Alteration,0.2669217586517334
 Server violation,Rogue OBD-II Device,0.2603631019592285
 Server violation,Insider Threat,0.1453908383846283
@@ -4089,7 +4089,7 @@ Server violation,Form field design issues,0.2202347218990326
 V2X eavesdropping,CAN bus flooding,0.1257416307926178
 V2X eavesdropping,Smart key jamming,0.16961213946342468
 V2X eavesdropping,Data loss,0.11082898080348969
-V2X eavesdropping,V2X DoS,0.6541257500648499
+V2X eavesdropping,V2X Denial of Service,0.4389759302139282
 V2X eavesdropping,Infotainment Alteration,0.11793816834688187
 V2X eavesdropping,Rogue OBD-II Device,0.43923211097717285
 V2X eavesdropping,Insider Threat,0.22315460443496704
@@ -4115,7 +4115,7 @@ V2X eavesdropping,Secondary Use,0.4120562672615051
 V2X eavesdropping,Form field design issues,0.0046621267683804035
 CAN bus flooding,Smart key jamming,0.2920270562171936
 CAN bus flooding,Data loss,0.10717043280601501
-CAN bus flooding,V2X DoS,0.15403026342391968
+CAN bus flooding,V2X Denial of Service,0.08076121658086777
 CAN bus flooding,Infotainment Alteration,0.2306332290172577
 CAN bus flooding,Rogue OBD-II Device,0.14949089288711548
 CAN bus flooding,Insider Threat,0.06813046336174011
@@ -4140,7 +4140,7 @@ CAN bus flooding,Data Aggregation and Profiling,0.09928196668624878
 CAN bus flooding,Secondary Use,0.2003631293773651
 CAN bus flooding,Form field design issues,0.08437761664390564
 Smart key jamming,Data loss,0.13726070523262024
-Smart key jamming,V2X DoS,0.10438938438892365
+Smart key jamming,V2X Denial of Service,0.05661008134484291
 Smart key jamming,Infotainment Alteration,0.15626193583011627
 Smart key jamming,Rogue OBD-II Device,0.19441597163677216
 Smart key jamming,Insider Threat,0.4018748700618744
@@ -4164,7 +4164,7 @@ Smart key jamming,Collection without Consent,0.1036786437034607
 Smart key jamming,Data Aggregation and Profiling,0.21719937026500702
 Smart key jamming,Secondary Use,0.24606923758983612
 Smart key jamming,Form field design issues,0.21522916853427887
-Data loss,V2X DoS,0.004631863906979561
+Data loss,V2X Denial of Service,0.1991267055273056
 Data loss,Infotainment Alteration,0.10782609134912491
 Data loss,Rogue OBD-II Device,0.11846715211868286
 Data loss,Insider Threat,0.11920296400785446
@@ -4188,29 +4188,29 @@ Data loss,Collection without Consent,0.2947128415107727
 Data loss,Data Aggregation and Profiling,0.1621861457824707
 Data loss,Secondary Use,0.2239513397216797
 Data loss,Form field design issues,0.04396362230181694
-V2X DoS,Infotainment Alteration,0.08143460750579834
-V2X DoS,Rogue OBD-II Device,0.5001339316368103
-V2X DoS,Insider Threat,0.1564146876335144
-V2X DoS,Web Application Vulnerabilities,0.020477095618844032
-V2X DoS,Operator-sided Data Leakage,0.1698148250579834
-V2X DoS,Insufficient Data Breach Response,-0.020170990377664566
-V2X DoS,Consent on Everything / Problems with getting Consent,0.032385990023612976
-V2X DoS,"Non-transparent Policies, Agreements, Terms and Conditions",0.08919057250022888
-V2X DoS,Insufficient Deletion of User Data,-0.008570559322834015
-V2X DoS,Insufficient Data Quality,0.026946304365992546
-V2X DoS,Missing or Insufficient Session Expiration,0.07332178205251694
-V2X DoS,Inability of users to access and modify data,-0.006270690821111202
-V2X DoS,Collection of data not required for the user-consented purpose,-0.01048353686928749
-V2X DoS,Insufficient Data Structure Model to handle user rights,-0.003684667870402336
-V2X DoS,Sharing of Data with 3rd Party,0.05823798105120659
-V2X DoS,"Inappropriate Policies, Terms and Conditions",0.09368088841438293
-V2X DoS,Insecure Data Transfer,0.03311030939221382
-V2X DoS,Transfer or Processing through 3rd Party,0.16223278641700745
-V2X DoS,Misleading Content,0.04797697439789772
-V2X DoS,Collection without Consent,0.026273932307958603
-V2X DoS,Data Aggregation and Profiling,-0.05441402643918991
-V2X DoS,Secondary Use,0.5178253650665283
-V2X DoS,Form field design issues,0.040066152811050415
+V2X Denial of Service,Infotainment Alteration,0.033362552523612976
+V2X Denial of Service,Rogue OBD-II Device,0.31063875555992126
+V2X Denial of Service,Insider Threat,0.0904957577586174
+V2X Denial of Service,Web Application Vulnerabilities,0.11443130671977997
+V2X Denial of Service,Operator-sided Data Leakage,0.2221853882074356
+V2X Denial of Service,Insufficient Data Breach Response,0.2008109986782074
+V2X Denial of Service,Consent on Everything / Problems with getting Consent,0.15234830975532532
+V2X Denial of Service,"Non-transparent Policies, Agreements, Terms and Conditions",0.31891298294067383
+V2X Denial of Service,Insufficient Deletion of User Data,0.2833835184574127
+V2X Denial of Service,Insufficient Data Quality,0.1015346348285675
+V2X Denial of Service,Missing or Insufficient Session Expiration,0.1872251033782959
+V2X Denial of Service,Inability of users to access and modify data,0.3023300766944885
+V2X Denial of Service,Collection of data not required for the user-consented purpose,0.20932722091674805
+V2X Denial of Service,Insufficient Data Structure Model to handle user rights,0.21059131622314453
+V2X Denial of Service,Sharing of Data with 3rd Party,0.032062828540802
+V2X Denial of Service,"Inappropriate Policies, Terms and Conditions",0.2202841192483902
+V2X Denial of Service,Insecure Data Transfer,0.1804661601781845
+V2X Denial of Service,Transfer or Processing through 3rd Party,0.13674794137477875
+V2X Denial of Service,Misleading Content,0.03442569822072983
+V2X Denial of Service,Collection without Consent,0.27536019682884216
+V2X Denial of Service,Data Aggregation and Profiling,-0.06454876810312271
+V2X Denial of Service,Secondary Use,0.31440967321395874
+V2X Denial of Service,Form field design issues,-0.005436108447611332
 Infotainment Alteration,Rogue OBD-II Device,0.2510594129562378
 Infotainment Alteration,Insider Threat,0.07050156593322754
 Infotainment Alteration,Web Application Vulnerabilities,0.09379982203245163
