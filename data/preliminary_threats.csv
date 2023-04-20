@@ -34,7 +34,7 @@ p_32,Attacker modifies the path of the sensitive data circulating in the vehicle
 p_33,Attacker remotely accesses via telematics systems (TCU).,Chah et al.
 p_34,"An adversary can capture, analyze, and replaye the messages.",Chah et al.
 p_35,An adversary could link the messages to a specific vehicle.,Chah et al.
-p_36,An adversarv can crack a weak password.,Chah et al.
+p_36,An adversary can crack a weak password.,Chah et al.
 p_37,An adversary can execute arbitrary code on the telematics unit (TCU) and take control of the device.,Chah et al.
 p_38,The SS7 vulnerabilities can be exploited to compromise SMS system to intercept text user messages.,Chah et al.
 p_39,"Spying, SMS Interception & Modification, User Tracking.",Chah et al.
@@ -42,7 +42,7 @@ p_40,"Attacker can edit, add, manipuler codes and framework of the must ECUs in 
 p_41,Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,Chah et al.
 p_42,"An attacker changes circuits of a device to extractsensitive data, such as cryptographic keys.",Chah et al.
 p_43,Attacker operates phisically on the TC by tampering the device firmware.,Chah et al.
-p_44,An attacker could perform remote control by installing remotely his own sottware on the device.,Chah et al.
+p_44,An attacker could perform remote control by installing remotely his own software on the device.,Chah et al.
 p_45,Reprogramming the USB/CD device's firmware to execute malicious actions.,Chah et al.
 p_46,An adversary can exploit the vulnerabilities o USB svstems on-board venice.,Chah et al.
 p_47,An adversary can identify or track the vehicle from the sensor.,Chah et al.
