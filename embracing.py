@@ -206,7 +206,7 @@ def step4(preliminary_path: str, scores_path: str, k=3) -> tuple:
         return
 
     ss_df = pandas.read_csv(scores_path)
-    sentence_list= pandas.read_csv(preliminary_path, index_col='P')['LB'].values.tolist()
+    sentence_list = pandas.read_csv(preliminary_path, index_col='P')['LB'].values.tolist()
     ordered_sentences = list(itertools.combinations(sentence_list, k))   # binomial coefficient yields the total number of groups, where n = len(sentence_list)
     
     scores_dict = {'max': [], 'mean': [], 'min': [], 'scores': []}
