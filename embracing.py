@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 '''
 Semi-Automated Embracing Approach Core
 '''
@@ -9,6 +11,7 @@ import spacy
 import warnings
 from nltk.corpus import wordnet as wn
 from sentence_transformers import SentenceTransformer, util
+from statistics import mean
 
 
 warnings.filterwarnings('ignore')
@@ -123,10 +126,10 @@ def check_partof_synset_relationship(term1: str, term2: str) -> bool:
 
 def step1(path: str) -> tuple:
     '''
-
+    Compute semantic similarity scores for each pair of sentences in the given input file.
     '''
     sentence_list= pandas.read_csv(path, index_col='P')['LB'].values.tolist()
-    ordered_sentences = list(itertools.combinations(sentence_list,2))   # (n(n-1))/2 pairs, where n = len(sentence_list)
+    ordered_sentences = list(itertools.combinations(sentence_list, 2))   # (n(n-1))/2 pairs, where n = len(sentence_list)
 
 
     scores_dict = {'sentence1': [], 'sentence2': [], 'score': []}
@@ -147,7 +150,7 @@ def step1(path: str) -> tuple:
 
 def step2(path: str, threshold: float) -> pandas.DataFrame:
     '''
-    
+    Filter semantic similarity scores dataframe greater or equal to given threshold.
     '''
     semantic_similarity_scores = pandas.read_csv(path)
     return semantic_similarity_scores.loc[semantic_similarity_scores['score'] >= threshold]
@@ -155,7 +158,7 @@ def step2(path: str, threshold: float) -> pandas.DataFrame:
 
 def step3(sentence1: str, sentence2: str) -> tuple:
     '''
-    
+    Look for synset relations between nouns in sentence pairs.
     '''
     is_partof, is_typeof = False, False
 
@@ -192,3 +195,36 @@ def step3(sentence1: str, sentence2: str) -> tuple:
                             is_partof = True
 
     return is_partof, is_typeof
+
+
+def step4(preliminary_path: str, scores_path: str, k=3) -> tuple:
+    '''
+    Gathers sentences per groups of k elements, then retrieve the previously computed similarity scores.
+    '''
+    if k < 3:
+        print('Please specify a cardinality greater or equal to 3.')
+        return
+
+    ss_df = pandas.read_csv(scores_path)
+    sentence_list = pandas.read_csv(preliminary_path, index_col='P')['LB'].values.tolist()
+    ordered_sentences = list(itertools.combinations(sentence_list, k))   # binomial coefficient yields the total number of groups, where n = len(sentence_list)
+    
+    scores_dict = {'max': [], 'mean': [], 'min': [], 'scores': []}
+    for i in range(1, k+1):
+        scores_dict[f'sentence{i}'] = []
+    
+    for tupl in ordered_sentences:
+        pairs = list(itertools.combinations(tupl,2))
+        scores = []
+        for p in pairs:
+            scores.append(ss_df.iloc[((ss_df['sentence1'].values==p[0]) & (ss_df['sentence2'].values==p[1])) |
+                                     ((ss_df['sentence1'].values==p[1]) & (ss_df['sentence2'].values==p[0]))]['score'].values[0])
+        for i in range(1, k+1):
+            scores_dict[f'sentence{i}'].append(tupl[i-1])
+        scores_dict['scores'].append(scores)
+        scores_dict['max'].append(max(scores))
+        scores_dict['mean'].append(mean(scores))
+        scores_dict['min'].append(min(scores))
+
+    semantic_similarity_scores = pandas.DataFrame(scores_dict)
+    semantic_similarity_scores.to_csv(f'{preliminary_path.split(".csv")[0]}_ss_scores_with_cardinality_{k}.csv', index=False, encoding='utf-8')

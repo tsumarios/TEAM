@@ -39,7 +39,7 @@ p_37,An adversary can execute arbitrary code on the telematics unit (TCU) and ta
 p_38,The SS7 vulnerabilities can be exploited to compromise SMS system to intercept text user messages.,Chah et al.
 p_39,"Spying, SMS Interception & Modification, User Tracking.",Chah et al.
 p_40,"Attacker can edit, add, manipuler codes and framework of the must ECUs in the vehcles.",Chah et al.
-p_41,Attacker can moditv the hardware ov changina or disabling ohvsica sensors. memories and features.,Chah et al.
+p_41,"Attacker can modify the hardware or changing or disabling physical sensors, memories and features.",Chah et al.
 p_42,"An attacker changes circuits of a device to extractsensitive data, such as cryptographic keys.",Chah et al.
 p_43,Attacker operates phisically on the TC by tampering the device firmware.,Chah et al.
 p_44,An attacker could perform remote control by installing remotely his own software on the device.,Chah et al.
@@ -70,7 +70,7 @@ p_68,V2X eavesdropping,Bella et al.
 p_69,CAN bus flooding,Bella et al.
 p_70,Smart key jamming,Bella et al.
 p_71,Data loss,Bella et al.
-p_72,V2X DoS,Bella et al.
+p_72,V2X Denial of Service,Bella et al.
 p_73,Infotainment Alteration,Bella et al.
 p_74,Rogue OBD-II Device,Bella et al.
 p_75,Insider Threat,Bella et al.
