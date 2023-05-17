@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 '''
-Step 4 of the Semi-Automated Embracing Approach Core
+Compute Similarity Scores for tuples with cardinality k - Semi-Automated Embracing Approach Core
 '''
 
 import itertools
@@ -88,11 +88,12 @@ def step4(preliminary_path: str, scores_path: str, k=3) -> None:
 
 
 def main():
-    k = 5
+    k = 5   # NOTE: Change me!
     start = datetime.now()
     step4(preliminary_threats_path, scores_path, k)
     end = datetime.now()
     print(f'Started at {start}\nFinished at {end}')
+
 
 if __name__ == '__main__':
     main()
