@@ -4,11 +4,12 @@
 Compute Similarity Scores for tuples with cardinality k - Semi-Automated Embracing Approach Core
 '''
 
+import os
 import itertools
+import numpy as np
 import pandas as pd
+from concurrent.futures import ProcessPoolExecutor
 from datetime import datetime
-from statistics import mean
-from concurrent.futures import ThreadPoolExecutor
 
 
 preliminary_threats_path = './data/preliminary_threats.csv'
@@ -16,28 +17,32 @@ scores_path = './data/preliminary_threats_semantic_similarity_scores.csv'
 
 
 def compute_scores(pair, ss_df):
-    """
+    '''
     Computes the similarity score for a pair of sentences.
-    """
-    return ss_df.loc[
-        ((ss_df['sentence1'] == pair[0]) & (ss_df['sentence2'] == pair[1])) |
-        ((ss_df['sentence1'] == pair[1]) & (ss_df['sentence2'] == pair[0]))
-    ]['score'].values[0]
+    '''
+    mask = ((ss_df['sentence1'] == pair[0]) & (ss_df['sentence2'] == pair[1])) | \
+           ((ss_df['sentence1'] == pair[1]) & (ss_df['sentence2'] == pair[0]))
+    return ss_df.loc[mask, 'score'].values[0]
 
 
-def compute_combination_scores(combinations, ss_df):
-    """
+def compute_combination_scores(combination, ss_df):
+    '''
     Computes the similarity scores for a batch of sentence combinations.
-    """
-    scores = []
-    for combination in combinations:
-        pairs = list(itertools.combinations(combination, 2))
-        combination_scores = [compute_scores(pair, ss_df) for pair in pairs]
-        scores.append(combination_scores)
+    '''
+    pairs = np.array(list(itertools.combinations(combination, 2)))
+    scores = np.array([compute_scores(pair, ss_df) for pair in pairs])
     return scores
 
 
-def step4(preliminary_path: str, scores_path: str, k=3) -> None:
+def save_scores_to_csv(scores_dict, output_file):
+    '''
+    Saves scores to a CSV file.
+    '''
+    semantic_similarity_scores = pd.DataFrame(scores_dict)
+    semantic_similarity_scores.to_csv(output_file, mode='a', header=not os.path.exists(output_file), index=False, encoding='utf-8')
+
+
+def step4(preliminary_path: str, scores_path: str, k=3, start_time=None) -> None:
     '''
     Gathers sentences per groups of k elements, then retrieve the previously computed similarity scores.
     '''
@@ -48,51 +53,70 @@ def step4(preliminary_path: str, scores_path: str, k=3) -> None:
     ss_df = pd.read_csv(scores_path)
     sentence_list = pd.read_csv(preliminary_path, index_col='P')['LB'].values.tolist()
     ordered_sentences = itertools.combinations(sentence_list, k)
+    sentences_len = len(list(ordered_sentences))  # Just for statistics
 
     scores_dict = {'max': [], 'mean': [], 'min': [], 'scores': []}
     sentence_keys = [f'sentence{i}' for i in range(1, k + 1)]
     scores_dict.update({key: [] for key in sentence_keys})
 
-    print('Starting:')
-    print(scores_dict)
+    j = 0   # Just for statistics
+    batch_size = 1000  # Adjust the batch size for optimal performance
+    combinations_batch = list(itertools.islice(ordered_sentences, batch_size))
 
-    with ThreadPoolExecutor() as executor:
-        batch_size = 50000  # Adjust the batch size for optimal performance
-        combinations_batch = list(itertools.islice(ordered_sentences, batch_size))
-
-        j = 0
+    with ProcessPoolExecutor(max_workers=8) as executor:
         while combinations_batch:
             futures = []
             for combination in combinations_batch:
-                future = executor.submit(compute_combination_scores, [combination], ss_df)
+                future = executor.submit(compute_combination_scores, combination, ss_df)
                 futures.append((combination, future))
 
             for combination, future in futures:
-                scores = future.result()[0]
+                scores = future.result()
 
+                # Store results in scores_dict
                 for i, sentence in enumerate(combination):
                     scores_dict[sentence_keys[i]].append(sentence)
-
                 scores_dict['scores'].append(scores)
                 scores_dict['max'].append(max(scores))
-                scores_dict['mean'].append(mean(scores))
+                scores_dict['mean'].append(np.mean(scores))
                 scores_dict['min'].append(min(scores))
 
-            combinations_batch = list(itertools.islice(ordered_sentences, batch_size))
-            print(f'Iteration {j} of 1158')
-            j = j + 1
+            # Save scores to a batch file
+            output_file = f'{preliminary_path.split(".csv")[0]}_ss_scores_with_cardinality_{k}_batch{j}.csv'
+            save_scores_to_csv(scores_dict, output_file)
 
-    semantic_similarity_scores = pd.DataFrame(scores_dict)
+            # Clear scores_dict to free up memory
+            scores_dict = {'max': [], 'mean': [], 'min': [], 'scores': []}
+            scores_dict.update({key: [] for key in sentence_keys})
+
+            combinations_batch = list(itertools.islice(ordered_sentences, batch_size))
+
+            # Print statistics
+            now = datetime.now()
+            print(f'{now} - Iteration {j} of {round(sentences_len/batch_size)}')
+            print(f'Elapsed time {now-start_time}')
+            # Next iteration
+            j += 1
+
+    # Merge batch files
     output_file = f'{preliminary_path.split(".csv")[0]}_ss_scores_with_cardinality_{k}.csv'
-    semantic_similarity_scores.to_csv(output_file, index=False, encoding='utf-8')
+    with open(output_file, 'w') as output_csv:
+        for batch_index in range(j):
+            batch_file = f'{preliminary_path.split(".csv")[0]}_ss_scores_with_cardinality_{k}_batch{batch_index}.csv'
+            with open(batch_file, 'r') as batch_csv:
+                if batch_index > 0:
+                    next(batch_csv)  # Skip the header of subsequent batch files
+                output_csv.write(batch_csv.read())
+
+            os.remove(batch_file)  # Remove the merged batch file
 
 
 def main():
-    k = 5   # NOTE: Change me!
+    k = 6   # NOTE: Change me!
     start = datetime.now()
-    step4(preliminary_threats_path, scores_path, k)
+    step4(preliminary_threats_path, scores_path, k, start)
     end = datetime.now()
-    print(f'Started at {start}\nFinished at {end}')
+    print(f'Started at {start}\nFinished at {end}\nDelta {end-start}')
 
 
 if __name__ == '__main__':
