@@ -53,6 +53,7 @@ def step4(preliminary_path: str, scores_path: str, k=3, start_time=None) -> None
     ss_df = pd.read_csv(scores_path)
     sentence_list = pd.read_csv(preliminary_path, index_col='P')['LB'].values.tolist()
     ordered_sentences = itertools.combinations(sentence_list, k)
+    sentences_len = len(list(ordered_sentences))  # Just for statistics
 
     scores_dict = {'max': [], 'mean': [], 'min': [], 'scores': []}
     sentence_keys = [f'sentence{i}' for i in range(1, k + 1)]
@@ -92,8 +93,9 @@ def step4(preliminary_path: str, scores_path: str, k=3, start_time=None) -> None
 
             # Print statistics
             now = datetime.now()
-            print(f'{now} - Iteration {j} of 57,941')
+            print(f'{now} - Iteration {j} of {round(sentences_len/batch_size)}')
             print(f'Elapsed time {now-start_time}')
+            # Next iteration
             j += 1
 
     # Merge batch files
