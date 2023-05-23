@@ -6,13 +6,11 @@ Semi-Automated Embracing Approach Core
 
 # Imports and setup
 import itertools
-import pandas
+import pandas as pd
 import spacy
 import warnings
 from nltk.corpus import wordnet as wn
-from nltk.tokenize import word_tokenize
 from sentence_transformers import SentenceTransformer, util
-from statistics import mean
 
 
 warnings.filterwarnings('ignore')
@@ -148,11 +146,11 @@ def check_partof_synset_relationship(term1: str, term2: str) -> bool:
     return result
 
 
-def step1(path: str) -> tuple:
+def compute_semantic_similarity_scores(path: str) -> tuple:
     '''
     Compute semantic similarity scores for each pair of sentences in the given input file.
     '''
-    sentence_list= pandas.read_csv(path, index_col='P')['LB'].values.tolist()
+    sentence_list= pd.read_csv(path, index_col='P')['LB'].values.tolist()
     ordered_sentences = list(itertools.combinations(sentence_list, 2))   # (n(n-1))/2 pairs, where n = len(sentence_list)
 
 
@@ -164,7 +162,7 @@ def step1(path: str) -> tuple:
         scores_dict['sentence2'].append(pair[1])
         scores_dict['score'].append(similarity_score)
     
-    semantic_similarity_scores = pandas.DataFrame(scores_dict)
+    semantic_similarity_scores = pd.DataFrame(scores_dict)
     semantic_similarity_scores.to_csv(f'{path.split(".csv")[0]}_semantic_similarity_scores.csv', index=False, encoding='utf-8')
 
     min_score = semantic_similarity_scores['score'].round(2).min()
@@ -172,15 +170,14 @@ def step1(path: str) -> tuple:
     return min_score, max_score
 
 
-def step2(path: str, threshold: float) -> pandas.DataFrame:
+def filter_dataframe_by_threshold(df: pd.DataFrame, column: str, threshold: float) -> pd.DataFrame:
     '''
-    Filter semantic similarity scores dataframe greater or equal to given threshold.
+    Filter dataframe items where column values are greater or equal to given threshold.
     '''
-    semantic_similarity_scores = pandas.read_csv(path)
-    return semantic_similarity_scores.loc[semantic_similarity_scores['score'] >= threshold]
+    return df.loc[df[column] >= threshold]
 
 
-def step3(sentence1: str, sentence2: str) -> tuple:
+def find_synset_relations(sentence1: str, sentence2: str) -> tuple:
     '''
     Look for synset relations between nouns in sentence pairs.
     '''
