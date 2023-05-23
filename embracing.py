@@ -6,6 +6,7 @@ Semi-Automated Embracing Approach Core
 
 # Imports and setup
 import itertools
+import nltk
 import pandas as pd
 import spacy
 import warnings
@@ -15,6 +16,8 @@ from sentence_transformers import SentenceTransformer, util
 
 warnings.filterwarnings('ignore')
 
+# Wordnet
+nltk.download('wordnet')
 # Semantic similarity model
 model = SentenceTransformer('stsb-roberta-large')
 # Spacy setup
