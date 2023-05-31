@@ -1,0 +1,6 @@
+jamming and cloning are not related ("part of")
+jamming and cloning have common hypernyms: act
+jamming and cloning are not related ("type of")
+
+
+Part of relation(s) found: False	Type of relation(s) found: False

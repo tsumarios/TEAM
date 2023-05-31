@@ -1,0 +1,43 @@
+firmware and device are not related ("part of")
+firmware and device have common hypernyms: entity, abstraction, communication
+firmware and device are not related ("type of")
+
+
+firmware and vehicle are not related ("part of")
+firmware and vehicle have common hypernyms: entity
+firmware and vehicle are not related ("type of")
+
+firmware and manipulation are not related ("part of")
+firmware and manipulation have common hypernyms: abstraction
+firmware and manipulation are not related ("type of")
+
+unit and device are not related ("part of")
+unit is a hypernym of device
+unit and device have common hypernyms: entity, physical_entity, psychological_feature, whole, abstraction
+
+unit and firmware are not related ("part of")
+unit and firmware have common hypernyms: entity, abstraction
+unit and firmware are not related ("type of")
+
+unit and vehicle are not related ("part of")
+unit and vehicle have common hypernyms: whole, physical_entity, object, entity
+unit and vehicle are not related ("type of")
+
+unit and manipulation are not related ("part of")
+unit and manipulation have common hypernyms: entity, abstraction, psychological_feature
+unit and manipulation are not related ("type of")
+
+One or both terms do not have synsets in WordNet.
+One or both terms do not have synsets in WordNet.
+
+One or both terms do not have synsets in WordNet.
+One or both terms do not have synsets in WordNet.
+
+One or both terms do not have synsets in WordNet.
+One or both terms do not have synsets in WordNet.
+
+One or both terms do not have synsets in WordNet.
+One or both terms do not have synsets in WordNet.
+
+
+Part of relation(s) found: False	Type of relation(s) found: True

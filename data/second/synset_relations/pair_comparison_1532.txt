@@ -1,0 +1,59 @@
+data and inability are not related ("part of")
+data and inability have common hypernyms: cognition, abstraction
+data and inability are not related ("type of")
+
+data and driver are not related ("part of")
+data and driver have common hypernyms: entity, abstraction
+data and driver are not related ("type of")
+
+data and datum are not related ("part of")
+data and datum have common hypernyms: datum, abstraction
+data and datum are not related ("type of")
+
+right and inability are not related ("part of")
+right and inability have common hypernyms: quality, cognition, entity, psychological_feature, abstraction
+right and inability are not related ("type of")
+
+right and driver are not related ("part of")
+right and driver have common hypernyms: object, physical_entity, entity, abstraction
+right and driver are not related ("type of")
+
+right and datum are not related ("part of")
+right and datum have common hypernyms: cognition, entity, abstraction, psychological_feature
+right and datum are not related ("type of")
+
+driver and inability are not related ("part of")
+driver and inability have common hypernyms: entity, abstraction
+driver and inability are not related ("type of")
+
+
+driver and datum are not related ("part of")
+driver and datum have common hypernyms: entity, abstraction
+driver and datum are not related ("type of")
+
+structure and inability are not related ("part of")
+structure and inability have common hypernyms: cognition, entity, abstraction, attribute
+structure and inability are not related ("type of")
+
+structure and driver are not related ("part of")
+structure and driver have common hypernyms: entity, physical_entity, whole, artifact, abstraction
+structure and driver are not related ("type of")
+
+structure and datum are not related ("part of")
+structure and datum have common hypernyms: cognition, entity, abstraction
+structure and datum are not related ("type of")
+
+model and inability are not related ("part of")
+model and inability have common hypernyms: cognition, entity, abstraction, psychological_feature
+model and inability are not related ("type of")
+
+model and driver are not related ("part of")
+model and driver have common hypernyms: entity, physical_entity, person, causal_agent, whole, artifact, worker, abstraction
+model and driver are not related ("type of")
+
+model and datum are not related ("part of")
+model and datum have common hypernyms: cognition, entity, psychological_feature
+model and datum are not related ("type of")
+
+
+Part of relation(s) found: False	Type of relation(s) found: False

@@ -1,0 +1,39 @@
+access and firmware are not related ("part of")
+access and firmware have common hypernyms: entity, coding_system, abstraction
+access and firmware are not related ("type of")
+
+access and unit are not related ("part of")
+access is a hyponym of unit
+access and unit have common hypernyms: entity, physical_entity, psychological_feature, whole, concept, abstraction
+
+One or both terms do not have synsets in WordNet.
+One or both terms do not have synsets in WordNet.
+
+access and datum are not related ("part of")
+access and datum have common hypernyms: cognition, entity, abstraction, psychological_feature
+access and datum are not related ("type of")
+
+unit and firmware are not related ("part of")
+unit and firmware have common hypernyms: entity, abstraction
+unit and firmware are not related ("type of")
+
+
+One or both terms do not have synsets in WordNet.
+One or both terms do not have synsets in WordNet.
+
+unit and datum are not related ("part of")
+unit and datum have common hypernyms: cognition, entity, abstraction
+unit and datum are not related ("type of")
+
+One or both terms do not have synsets in WordNet.
+One or both terms do not have synsets in WordNet.
+
+One or both terms do not have synsets in WordNet.
+One or both terms do not have synsets in WordNet.
+
+
+One or both terms do not have synsets in WordNet.
+One or both terms do not have synsets in WordNet.
+
+
+Part of relation(s) found: False	Type of relation(s) found: True

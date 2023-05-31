@@ -1,0 +1,35 @@
+software and application are not related ("part of")
+software is a hypernym of application
+software and application have common hypernyms: software, entity, abstraction, communication
+
+software and vulnerability are not related ("part of")
+software and vulnerability have common hypernyms: abstraction
+software and vulnerability are not related ("type of")
+
+software and web are not related ("part of")
+software and web have common hypernyms: entity, abstraction
+software and web are not related ("type of")
+
+vulnerability and application are not related ("part of")
+vulnerability and application have common hypernyms: entity, abstraction
+vulnerability and application are not related ("type of")
+
+
+vulnerability and web are not related ("part of")
+vulnerability and web have common hypernyms: entity, abstraction
+vulnerability and web are not related ("type of")
+
+exploitation and application are not related ("part of")
+exploitation and application have common hypernyms: entity, act, use, activity, abstraction
+exploitation and application are not related ("type of")
+
+exploitation and vulnerability are not related ("part of")
+exploitation and vulnerability have common hypernyms: abstraction
+exploitation and vulnerability are not related ("type of")
+
+exploitation and web are not related ("part of")
+exploitation and web have common hypernyms: entity, abstraction
+exploitation and web are not related ("type of")
+
+
+Part of relation(s) found: False	Type of relation(s) found: True

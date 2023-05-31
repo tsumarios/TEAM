@@ -1,0 +1,1541 @@
+sentence1,sentence2,score
+Abuse of authorisations in OEM and/or car services,CAN bus flooding,0.2739444375038147
+Abuse of authorisations in OEM and/or car services,CAN eavesdropping,0.29850414395332336
+Abuse of authorisations in OEM and/or car services,CAN frame injection,0.248632550239563
+Abuse of authorisations in OEM and/or car services,CAN frame tampering,0.3315959870815277
+Abuse of authorisations in OEM and/or car services,Change of data or car components configuration,0.3418979346752167
+Abuse of authorisations in OEM and/or car services,Communication protocol hijacking in car devices,0.5805934071540833
+Abuse of authorisations in OEM and/or car services,Data aggregation and profiling of driver,0.3757932484149933
+Abuse of authorisations in OEM and/or car services,Data loss in OEM and/or car services,0.599014401435852
+Abuse of authorisations in OEM and/or car services,ECU firmware dump,0.26199889183044434
+Abuse of authorisations in OEM and/or car services,ECU reflash,0.1584118753671646
+Abuse of authorisations in OEM and/or car services,Erroneous use or configuration of car components,0.5172825455665588
+Abuse of authorisations in OEM and/or car services,Failure to meet contractual requirements with driver,0.31172236800193787
+Abuse of authorisations in OEM and/or car services,Failures or sabotage of car components,0.5155702829360962
+Abuse of authorisations in OEM and/or car services,GPS spoofing,0.19088417291641235
+Abuse of authorisations in OEM and/or car services,Identity theft of driver,0.4815249443054199
+Abuse of authorisations in OEM and/or car services,Infotainment alteration,0.27246373891830444
+Abuse of authorisations in OEM and/or car services,Infotainment malware,0.36948904395103455
+Abuse of authorisations in OEM and/or car services,Infotainment reverse engineering,0.3472384512424469
+Abuse of authorisations in OEM and/or car services,Loss of GNSS signal,0.1121029406785965
+Abuse of authorisations in OEM and/or car services,Man-in-the-middle attack / Session hijacking in OEM and/or car services,0.5353381633758545
+Abuse of authorisations in OEM and/or car services,Manipulation of information in OEM and/or car services,0.755009114742279
+Abuse of authorisations in OEM and/or car services,Mobile app malware,0.2838694751262665
+Abuse of authorisations in OEM and/or car services,Mobile app spoofing,0.2828218340873718
+Abuse of authorisations in OEM and/or car services,OEM targeted attacks,0.3573596179485321
+Abuse of authorisations in OEM and/or car services,OEM servers information leakage,0.48055168986320496
+Abuse of authorisations in OEM and/or car services,Servers violation in OEM services,0.6177340149879456
+Abuse of authorisations in OEM and/or car services,Side-channel attacks against car components,0.5087541937828064
+Abuse of authorisations in OEM and/or car services,Smart key bruteforcing,0.30250638723373413
+Abuse of authorisations in OEM and/or car services,Smart key cloning,0.15701013803482056
+Abuse of authorisations in OEM and/or car services,Smart key jamming,0.3041725754737854
+Abuse of authorisations in OEM and/or car services,Software vulnerabilities exploitation in OEM and/or car services,0.8003703355789185
+Abuse of authorisations in OEM and/or car services,Theft of car,0.5248194336891174
+Abuse of authorisations in OEM and/or car services,Threats targeting autonomous sensors,0.30035924911499023
+Abuse of authorisations in OEM and/or car services,Unauthorised access in OEM and/or car services,0.763096034526825
+Abuse of authorisations in OEM and/or car services,Unreliable sources of information and/or rogue car components,0.4700421690940857
+Abuse of authorisations in OEM and/or car services,V2X data tampering,0.34530502557754517
+Abuse of authorisations in OEM and/or car services,V2X Denial of Service,0.17931398749351501
+Abuse of authorisations in OEM and/or car services,V2X eavesdropping,0.3282926678657532
+Abuse of authorisations in OEM and/or car services,V2X message replay,0.2815931439399719
+Abuse of authorisations in OEM and/or car services,Violation of rules and regulations/Breach of legislation/ Abuse of driver personal data,0.6396913528442383
+Abuse of authorisations in OEM and/or car services,Collection of data not required for the driver-consented purpose,0.4372776448726654
+Abuse of authorisations in OEM and/or car services,Consent-related issues with driver,0.40005090832710266
+Abuse of authorisations in OEM and/or car services,Data aggregation and profiling of driver,0.3757932484149933
+Abuse of authorisations in OEM and/or car services,Inability of driver to access and modify data,0.3619788885116577
+Abuse of authorisations in OEM and/or car services,"Inappropriate or non-transparent policies, agreements, terms and conditions to driver",0.5251688361167908
+Abuse of authorisations in OEM and/or car services,Insecure data transfer in OEM and/or car services,0.6198952198028564
+Abuse of authorisations in OEM and/or car services,Insufficient data breach response from OEM,0.2640717625617981
+Abuse of authorisations in OEM and/or car services,Insufficient data quality in OEM and/or car services,0.5507088303565979
+Abuse of authorisations in OEM and/or car services,Insufficient data structure model to handle driver rights,0.46761131286621094
+Abuse of authorisations in OEM and/or car services,Insufficient deletion of driver data,0.3249112367630005
+Abuse of authorisations in OEM and/or car services,Misleading content in OEM services,0.47002243995666504
+Abuse of authorisations in OEM and/or car services,Operator-sided data leakage in OEM and/or car devices,0.6853750348091125
+Abuse of authorisations in OEM and/or car services,Secondary use of driver data,0.4297845661640167
+Abuse of authorisations in OEM and/or car services,"Sharing, transfer or processing through 3rd party of driver data",0.4212220311164856
+Abuse of authorisations in OEM and/or car services,Software vulnerabilities exploitation in OEM and/or car services,0.8003703355789185
+CAN bus flooding,CAN eavesdropping,0.2624639868736267
+CAN bus flooding,CAN frame injection,0.2656421661376953
+CAN bus flooding,CAN frame tampering,0.27340787649154663
+CAN bus flooding,Change of data or car components configuration,0.22377294301986694
+CAN bus flooding,Communication protocol hijacking in car devices,0.19950994849205017
+CAN bus flooding,Data aggregation and profiling of driver,0.15254178643226624
+CAN bus flooding,Data loss in OEM and/or car services,0.1991678923368454
+CAN bus flooding,ECU firmware dump,0.3086543083190918
+CAN bus flooding,ECU reflash,0.2514461278915405
+CAN bus flooding,Erroneous use or configuration of car components,0.24132615327835083
+CAN bus flooding,Failure to meet contractual requirements with driver,0.10411831736564636
+CAN bus flooding,Failures or sabotage of car components,0.15311653912067413
+CAN bus flooding,GPS spoofing,0.21245649456977844
+CAN bus flooding,Identity theft of driver,0.1829618364572525
+CAN bus flooding,Infotainment alteration,0.2306332290172577
+CAN bus flooding,Infotainment malware,0.25899946689605713
+CAN bus flooding,Infotainment reverse engineering,0.21630927920341492
+CAN bus flooding,Loss of GNSS signal,0.18889513611793518
+CAN bus flooding,Man-in-the-middle attack / Session hijacking in OEM and/or car services,0.18098288774490356
+CAN bus flooding,Manipulation of information in OEM and/or car services,0.23106813430786133
+CAN bus flooding,Mobile app malware,0.18635055422782898
+CAN bus flooding,Mobile app spoofing,0.150652676820755
+CAN bus flooding,OEM targeted attacks,0.27560800313949585
+CAN bus flooding,OEM servers information leakage,0.29676708579063416
+CAN bus flooding,Servers violation in OEM services,0.2899618446826935
+CAN bus flooding,Side-channel attacks against car components,0.15152035653591156
+CAN bus flooding,Smart key bruteforcing,0.3086974024772644
+CAN bus flooding,Smart key cloning,0.07973629236221313
+CAN bus flooding,Smart key jamming,0.2920270562171936
+CAN bus flooding,Software vulnerabilities exploitation in OEM and/or car services,0.26478350162506104
+CAN bus flooding,Theft of car,0.15485510230064392
+CAN bus flooding,Threats targeting autonomous sensors,0.18810829520225525
+CAN bus flooding,Unauthorised access in OEM and/or car services,0.28177717328071594
+CAN bus flooding,Unreliable sources of information and/or rogue car components,0.14844246208667755
+CAN bus flooding,V2X data tampering,0.120172880589962
+CAN bus flooding,V2X Denial of Service,0.08076121658086777
+CAN bus flooding,V2X eavesdropping,0.1257416307926178
+CAN bus flooding,V2X message replay,0.14772069454193115
+CAN bus flooding,Violation of rules and regulations/Breach of legislation/ Abuse of driver personal data,0.11754975467920303
+CAN bus flooding,Collection of data not required for the driver-consented purpose,0.21764987707138062
+CAN bus flooding,Consent-related issues with driver,0.3064754605293274
+CAN bus flooding,Data aggregation and profiling of driver,0.15254178643226624
+CAN bus flooding,Inability of driver to access and modify data,0.20723974704742432
+CAN bus flooding,"Inappropriate or non-transparent policies, agreements, terms and conditions to driver",0.20977245271205902
+CAN bus flooding,Insecure data transfer in OEM and/or car services,0.27481839060783386
+CAN bus flooding,Insufficient data breach response from OEM,0.12196767330169678
+CAN bus flooding,Insufficient data quality in OEM and/or car services,0.15501686930656433
+CAN bus flooding,Insufficient data structure model to handle driver rights,0.2095353901386261
+CAN bus flooding,Insufficient deletion of driver data,0.1652846336364746
+CAN bus flooding,Misleading content in OEM services,0.230807825922966
+CAN bus flooding,Operator-sided data leakage in OEM and/or car devices,0.2532695531845093
+CAN bus flooding,Secondary use of driver data,0.15635548532009125
+CAN bus flooding,"Sharing, transfer or processing through 3rd party of driver data",0.25568991899490356
+CAN bus flooding,Software vulnerabilities exploitation in OEM and/or car services,0.26478350162506104
+CAN eavesdropping,CAN frame injection,0.21357223391532898
+CAN eavesdropping,CAN frame tampering,0.374408483505249
+CAN eavesdropping,Change of data or car components configuration,0.16966046392917633
+CAN eavesdropping,Communication protocol hijacking in car devices,0.3024165630340576
+CAN eavesdropping,Data aggregation and profiling of driver,0.2937973141670227
+CAN eavesdropping,Data loss in OEM and/or car services,0.25445622205734253
+CAN eavesdropping,ECU firmware dump,0.19185110926628113
+CAN eavesdropping,ECU reflash,0.1357632577419281
+CAN eavesdropping,Erroneous use or configuration of car components,0.22767354547977448
+CAN eavesdropping,Failure to meet contractual requirements with driver,0.12116867303848267
+CAN eavesdropping,Failures or sabotage of car components,0.23046758770942688
+CAN eavesdropping,GPS spoofing,0.3079320192337036
+CAN eavesdropping,Identity theft of driver,0.24584347009658813
+CAN eavesdropping,Infotainment alteration,0.12271834164857864
+CAN eavesdropping,Infotainment malware,0.2742408514022827
+CAN eavesdropping,Infotainment reverse engineering,0.19616812467575073
+CAN eavesdropping,Loss of GNSS signal,0.29773929715156555
+CAN eavesdropping,Man-in-the-middle attack / Session hijacking in OEM and/or car services,0.15815457701683044
+CAN eavesdropping,Manipulation of information in OEM and/or car services,0.31657397747039795
+CAN eavesdropping,Mobile app malware,0.2815527319908142
+CAN eavesdropping,Mobile app spoofing,0.2629057765007019
+CAN eavesdropping,OEM targeted attacks,0.21190407872200012
+CAN eavesdropping,OEM servers information leakage,0.3713359832763672
+CAN eavesdropping,Servers violation in OEM services,0.3021337389945984
+CAN eavesdropping,Side-channel attacks against car components,0.3208893835544586
+CAN eavesdropping,Smart key bruteforcing,0.22743943333625793
+CAN eavesdropping,Smart key cloning,0.2055748552083969
+CAN eavesdropping,Smart key jamming,0.3069168031215668
+CAN eavesdropping,Software vulnerabilities exploitation in OEM and/or car services,0.27087268233299255
+CAN eavesdropping,Theft of car,0.136128768324852
+CAN eavesdropping,Threats targeting autonomous sensors,0.4146803617477417
+CAN eavesdropping,Unauthorised access in OEM and/or car services,0.24263177812099457
+CAN eavesdropping,Unreliable sources of information and/or rogue car components,0.2785199284553528
+CAN eavesdropping,V2X data tampering,0.28228560090065
+CAN eavesdropping,V2X Denial of Service,0.11783260107040405
+CAN eavesdropping,V2X eavesdropping,0.6183042526245117
+CAN eavesdropping,V2X message replay,0.22656568884849548
+CAN eavesdropping,Violation of rules and regulations/Breach of legislation/ Abuse of driver personal data,0.3018617630004883
+CAN eavesdropping,Collection of data not required for the driver-consented purpose,0.4064600467681885
+CAN eavesdropping,Consent-related issues with driver,0.27739226818084717
+CAN eavesdropping,Data aggregation and profiling of driver,0.2937973141670227
+CAN eavesdropping,Inability of driver to access and modify data,0.20334471762180328
+CAN eavesdropping,"Inappropriate or non-transparent policies, agreements, terms and conditions to driver",0.23888245224952698
+CAN eavesdropping,Insecure data transfer in OEM and/or car services,0.32518017292022705
+CAN eavesdropping,Insufficient data breach response from OEM,0.1951417624950409
+CAN eavesdropping,Insufficient data quality in OEM and/or car services,0.17643840610980988
+CAN eavesdropping,Insufficient data structure model to handle driver rights,0.17650963366031647
+CAN eavesdropping,Insufficient deletion of driver data,0.2848980724811554
+CAN eavesdropping,Misleading content in OEM services,0.17821171879768372
+CAN eavesdropping,Operator-sided data leakage in OEM and/or car devices,0.38470742106437683
+CAN eavesdropping,Secondary use of driver data,0.3359224796295166
+CAN eavesdropping,"Sharing, transfer or processing through 3rd party of driver data",0.2458345890045166
+CAN eavesdropping,Software vulnerabilities exploitation in OEM and/or car services,0.27087268233299255
+CAN frame injection,CAN frame tampering,0.5150319933891296
+CAN frame injection,Change of data or car components configuration,0.24163055419921875
+CAN frame injection,Communication protocol hijacking in car devices,0.2483525425195694
+CAN frame injection,Data aggregation and profiling of driver,0.2914476990699768
+CAN frame injection,Data loss in OEM and/or car services,0.12069668620824814
+CAN frame injection,ECU firmware dump,0.3412701189517975
+CAN frame injection,ECU reflash,0.21839141845703125
+CAN frame injection,Erroneous use or configuration of car components,0.14598160982131958
+CAN frame injection,Failure to meet contractual requirements with driver,0.24181681871414185
+CAN frame injection,Failures or sabotage of car components,0.20555275678634644
+CAN frame injection,GPS spoofing,0.20580151677131653
+CAN frame injection,Identity theft of driver,0.2267509400844574
+CAN frame injection,Infotainment alteration,0.2538507580757141
+CAN frame injection,Infotainment malware,0.36384373903274536
+CAN frame injection,Infotainment reverse engineering,0.30647099018096924
+CAN frame injection,Loss of GNSS signal,0.1452547162771225
+CAN frame injection,Man-in-the-middle attack / Session hijacking in OEM and/or car services,0.22490406036376953
+CAN frame injection,Manipulation of information in OEM and/or car services,0.20479360222816467
+CAN frame injection,Mobile app malware,0.17640967667102814
+CAN frame injection,Mobile app spoofing,0.13883471488952637
+CAN frame injection,OEM targeted attacks,0.35493117570877075
+CAN frame injection,OEM servers information leakage,0.26923730969429016
+CAN frame injection,Servers violation in OEM services,0.32724064588546753
+CAN frame injection,Side-channel attacks against car components,0.19823242723941803
+CAN frame injection,Smart key bruteforcing,0.40379732847213745
+CAN frame injection,Smart key cloning,0.33064672350883484
+CAN frame injection,Smart key jamming,0.4065512716770172
+CAN frame injection,Software vulnerabilities exploitation in OEM and/or car services,0.24534714221954346
+CAN frame injection,Theft of car,0.13466912508010864
+CAN frame injection,Threats targeting autonomous sensors,0.21074575185775757
+CAN frame injection,Unauthorised access in OEM and/or car services,0.25071805715560913
+CAN frame injection,Unreliable sources of information and/or rogue car components,0.07644888013601303
+CAN frame injection,V2X data tampering,0.15120834112167358
+CAN frame injection,V2X Denial of Service,0.09575596451759338
+CAN frame injection,V2X eavesdropping,0.0817069560289383
+CAN frame injection,V2X message replay,0.19545045495033264
+CAN frame injection,Violation of rules and regulations/Breach of legislation/ Abuse of driver personal data,0.198838472366333
+CAN frame injection,Collection of data not required for the driver-consented purpose,0.19144627451896667
+CAN frame injection,Consent-related issues with driver,0.24905690550804138
+CAN frame injection,Data aggregation and profiling of driver,0.2914476990699768
+CAN frame injection,Inability of driver to access and modify data,0.30128926038742065
+CAN frame injection,"Inappropriate or non-transparent policies, agreements, terms and conditions to driver",0.20798292756080627
+CAN frame injection,Insecure data transfer in OEM and/or car services,0.20989277958869934
+CAN frame injection,Insufficient data breach response from OEM,0.08577808737754822
+CAN frame injection,Insufficient data quality in OEM and/or car services,0.08534768223762512
+CAN frame injection,Insufficient data structure model to handle driver rights,0.1913745403289795
+CAN frame injection,Insufficient deletion of driver data,0.1267070770263672
+CAN frame injection,Misleading content in OEM services,0.16156530380249023
+CAN frame injection,Operator-sided data leakage in OEM and/or car devices,0.2336461842060089
+CAN frame injection,Secondary use of driver data,0.15767177939414978
+CAN frame injection,"Sharing, transfer or processing through 3rd party of driver data",0.19390073418617249
+CAN frame injection,Software vulnerabilities exploitation in OEM and/or car services,0.24534714221954346
+CAN frame tampering,Change of data or car components configuration,0.2765986919403076
+CAN frame tampering,Communication protocol hijacking in car devices,0.2972453832626343
+CAN frame tampering,Data aggregation and profiling of driver,0.18205082416534424
+CAN frame tampering,Data loss in OEM and/or car services,0.11190742254257202
+CAN frame tampering,ECU firmware dump,0.2500460743904114
+CAN frame tampering,ECU reflash,0.2602465748786926
+CAN frame tampering,Erroneous use or configuration of car components,0.3799510598182678
+CAN frame tampering,Failure to meet contractual requirements with driver,0.22782577574253082
+CAN frame tampering,Failures or sabotage of car components,0.33859536051750183
+CAN frame tampering,GPS spoofing,0.400004506111145
+CAN frame tampering,Identity theft of driver,0.22936385869979858
+CAN frame tampering,Infotainment alteration,0.26446181535720825
+CAN frame tampering,Infotainment malware,0.32628893852233887
+CAN frame tampering,Infotainment reverse engineering,0.3035585284233093
+CAN frame tampering,Loss of GNSS signal,0.21071097254753113
+CAN frame tampering,Man-in-the-middle attack / Session hijacking in OEM and/or car services,0.24328556656837463
+CAN frame tampering,Manipulation of information in OEM and/or car services,0.35149484872817993
+CAN frame tampering,Mobile app malware,0.3594179153442383
+CAN frame tampering,Mobile app spoofing,0.44671496748924255
+CAN frame tampering,OEM targeted attacks,0.2878268361091614
+CAN frame tampering,OEM servers information leakage,0.2568519115447998
+CAN frame tampering,Servers violation in OEM services,0.33003631234169006
+CAN frame tampering,Side-channel attacks against car components,0.28489527106285095
+CAN frame tampering,Smart key bruteforcing,0.34661561250686646
+CAN frame tampering,Smart key cloning,0.27491021156311035
+CAN frame tampering,Smart key jamming,0.38297760486602783
+CAN frame tampering,Software vulnerabilities exploitation in OEM and/or car services,0.2859821319580078
+CAN frame tampering,Theft of car,0.16153401136398315
+CAN frame tampering,Threats targeting autonomous sensors,0.2700730860233307
+CAN frame tampering,Unauthorised access in OEM and/or car services,0.24272872507572174
+CAN frame tampering,Unreliable sources of information and/or rogue car components,0.2859436273574829
+CAN frame tampering,V2X data tampering,0.4226951003074646
+CAN frame tampering,V2X Denial of Service,0.03869049996137619
+CAN frame tampering,V2X eavesdropping,0.18485623598098755
+CAN frame tampering,V2X message replay,0.2251867651939392
+CAN frame tampering,Violation of rules and regulations/Breach of legislation/ Abuse of driver personal data,0.3439112603664398
+CAN frame tampering,Collection of data not required for the driver-consented purpose,0.3057808578014374
+CAN frame tampering,Consent-related issues with driver,0.2622799873352051
+CAN frame tampering,Data aggregation and profiling of driver,0.18205082416534424
+CAN frame tampering,Inability of driver to access and modify data,0.2875709533691406
+CAN frame tampering,"Inappropriate or non-transparent policies, agreements, terms and conditions to driver",0.3168075680732727
+CAN frame tampering,Insecure data transfer in OEM and/or car services,0.16338220238685608
+CAN frame tampering,Insufficient data breach response from OEM,0.07211141288280487
+CAN frame tampering,Insufficient data quality in OEM and/or car services,0.08647063374519348
+CAN frame tampering,Insufficient data structure model to handle driver rights,0.16896477341651917
+CAN frame tampering,Insufficient deletion of driver data,0.14162717759609222
+CAN frame tampering,Misleading content in OEM services,0.37612324953079224
+CAN frame tampering,Operator-sided data leakage in OEM and/or car devices,0.21511954069137573
+CAN frame tampering,Secondary use of driver data,0.1929698884487152
+CAN frame tampering,"Sharing, transfer or processing through 3rd party of driver data",0.19763317704200745
+CAN frame tampering,Software vulnerabilities exploitation in OEM and/or car services,0.2859821319580078
+Change of data or car components configuration,Communication protocol hijacking in car devices,0.4123440682888031
+Change of data or car components configuration,Data aggregation and profiling of driver,0.5053194761276245
+Change of data or car components configuration,Data loss in OEM and/or car services,0.46662637591362
+Change of data or car components configuration,ECU firmware dump,0.2574213743209839
+Change of data or car components configuration,ECU reflash,0.24240824580192566
+Change of data or car components configuration,Erroneous use or configuration of car components,0.5660654902458191
+Change of data or car components configuration,Failure to meet contractual requirements with driver,0.3138899803161621
+Change of data or car components configuration,Failures or sabotage of car components,0.37462955713272095
+Change of data or car components configuration,GPS spoofing,0.25429797172546387
+Change of data or car components configuration,Identity theft of driver,0.3711778223514557
+Change of data or car components configuration,Infotainment alteration,0.7791684865951538
+Change of data or car components configuration,Infotainment malware,0.3130477964878082
+Change of data or car components configuration,Infotainment reverse engineering,0.4731293022632599
+Change of data or car components configuration,Loss of GNSS signal,0.20483672618865967
+Change of data or car components configuration,Man-in-the-middle attack / Session hijacking in OEM and/or car services,0.25400933623313904
+Change of data or car components configuration,Manipulation of information in OEM and/or car services,0.45803913474082947
+Change of data or car components configuration,Mobile app malware,0.07970034331083298
+Change of data or car components configuration,Mobile app spoofing,0.21598732471466064
+Change of data or car components configuration,OEM targeted attacks,0.15906067192554474
+Change of data or car components configuration,OEM servers information leakage,0.21246425807476044
+Change of data or car components configuration,Servers violation in OEM services,0.19885405898094177
+Change of data or car components configuration,Side-channel attacks against car components,0.45424383878707886
+Change of data or car components configuration,Smart key bruteforcing,0.2097111940383911
+Change of data or car components configuration,Smart key cloning,0.12027257680892944
+Change of data or car components configuration,Smart key jamming,0.22616201639175415
+Change of data or car components configuration,Software vulnerabilities exploitation in OEM and/or car services,0.3540648818016052
+Change of data or car components configuration,Theft of car,0.398490309715271
+Change of data or car components configuration,Threats targeting autonomous sensors,0.1807011067867279
+Change of data or car components configuration,Unauthorised access in OEM and/or car services,0.3812671899795532
+Change of data or car components configuration,Unreliable sources of information and/or rogue car components,0.4574996531009674
+Change of data or car components configuration,V2X data tampering,0.1731216311454773
+Change of data or car components configuration,V2X Denial of Service,-0.000893961638212204
+Change of data or car components configuration,V2X eavesdropping,0.10324851423501968
+Change of data or car components configuration,V2X message replay,0.13658863306045532
+Change of data or car components configuration,Violation of rules and regulations/Breach of legislation/ Abuse of driver personal data,0.2808435559272766
+Change of data or car components configuration,Collection of data not required for the driver-consented purpose,0.44405215978622437
+Change of data or car components configuration,Consent-related issues with driver,0.39694011211395264
+Change of data or car components configuration,Data aggregation and profiling of driver,0.5053194761276245
+Change of data or car components configuration,Inability of driver to access and modify data,0.5263410210609436
+Change of data or car components configuration,"Inappropriate or non-transparent policies, agreements, terms and conditions to driver",0.38799649477005005
+Change of data or car components configuration,Insecure data transfer in OEM and/or car services,0.36342278122901917
+Change of data or car components configuration,Insufficient data breach response from OEM,-0.04293153062462807
+Change of data or car components configuration,Insufficient data quality in OEM and/or car services,0.3733457922935486
+Change of data or car components configuration,Insufficient data structure model to handle driver rights,0.38233819603919983
+Change of data or car components configuration,Insufficient deletion of driver data,0.2999967336654663
+Change of data or car components configuration,Misleading content in OEM services,0.2614896297454834
+Change of data or car components configuration,Operator-sided data leakage in OEM and/or car devices,0.4339328408241272
+Change of data or car components configuration,Secondary use of driver data,0.40200895071029663
+Change of data or car components configuration,"Sharing, transfer or processing through 3rd party of driver data",0.39553532004356384
+Change of data or car components configuration,Software vulnerabilities exploitation in OEM and/or car services,0.3540648818016052
+Communication protocol hijacking in car devices,Data aggregation and profiling of driver,0.360521137714386
+Communication protocol hijacking in car devices,Data loss in OEM and/or car services,0.45119792222976685
+Communication protocol hijacking in car devices,ECU firmware dump,0.20220118761062622
+Communication protocol hijacking in car devices,ECU reflash,0.06666933745145798
+Communication protocol hijacking in car devices,Erroneous use or configuration of car components,0.5095643401145935
+Communication protocol hijacking in car devices,Failure to meet contractual requirements with driver,0.2723369598388672
+Communication protocol hijacking in car devices,Failures or sabotage of car components,0.6072664260864258
+Communication protocol hijacking in car devices,GPS spoofing,0.3535119891166687
+Communication protocol hijacking in car devices,Identity theft of driver,0.6357920169830322
+Communication protocol hijacking in car devices,Infotainment alteration,0.3182653784751892
+Communication protocol hijacking in car devices,Infotainment malware,0.5034114122390747
+Communication protocol hijacking in car devices,Infotainment reverse engineering,0.46693918108940125
+Communication protocol hijacking in car devices,Loss of GNSS signal,0.1773303598165512
+Communication protocol hijacking in car devices,Man-in-the-middle attack / Session hijacking in OEM and/or car services,0.5901339054107666
+Communication protocol hijacking in car devices,Manipulation of information in OEM and/or car services,0.6701071262359619
+Communication protocol hijacking in car devices,Mobile app malware,0.377428263425827
+Communication protocol hijacking in car devices,Mobile app spoofing,0.41079363226890564
+Communication protocol hijacking in car devices,OEM targeted attacks,0.05181894823908806
+Communication protocol hijacking in car devices,OEM servers information leakage,0.30308765172958374
+Communication protocol hijacking in car devices,Servers violation in OEM services,0.27034813165664673
+Communication protocol hijacking in car devices,Side-channel attacks against car components,0.5172483921051025
+Communication protocol hijacking in car devices,Smart key bruteforcing,0.3258461356163025
+Communication protocol hijacking in car devices,Smart key cloning,0.31759610772132874
+Communication protocol hijacking in car devices,Smart key jamming,0.5319710969924927
+Communication protocol hijacking in car devices,Software vulnerabilities exploitation in OEM and/or car services,0.5691527724266052
+Communication protocol hijacking in car devices,Theft of car,0.7158240079879761
+Communication protocol hijacking in car devices,Threats targeting autonomous sensors,0.2871818542480469
+Communication protocol hijacking in car devices,Unauthorised access in OEM and/or car services,0.5692754983901978
+Communication protocol hijacking in car devices,Unreliable sources of information and/or rogue car components,0.4762119650840759
+Communication protocol hijacking in car devices,V2X data tampering,0.3555411100387573
+Communication protocol hijacking in car devices,V2X Denial of Service,0.15286201238632202
+Communication protocol hijacking in car devices,V2X eavesdropping,0.2940892279148102
+Communication protocol hijacking in car devices,V2X message replay,0.219557985663414
+Communication protocol hijacking in car devices,Violation of rules and regulations/Breach of legislation/ Abuse of driver personal data,0.508545994758606
+Communication protocol hijacking in car devices,Collection of data not required for the driver-consented purpose,0.33828896284103394
+Communication protocol hijacking in car devices,Consent-related issues with driver,0.3283013105392456
+Communication protocol hijacking in car devices,Data aggregation and profiling of driver,0.360521137714386
+Communication protocol hijacking in car devices,Inability of driver to access and modify data,0.39947831630706787
+Communication protocol hijacking in car devices,"Inappropriate or non-transparent policies, agreements, terms and conditions to driver",0.4132125675678253
+Communication protocol hijacking in car devices,Insecure data transfer in OEM and/or car services,0.5584821701049805
+Communication protocol hijacking in car devices,Insufficient data breach response from OEM,-0.05238471180200577
+Communication protocol hijacking in car devices,Insufficient data quality in OEM and/or car services,0.31085705757141113
+Communication protocol hijacking in car devices,Insufficient data structure model to handle driver rights,0.3844985365867615
+Communication protocol hijacking in car devices,Insufficient deletion of driver data,0.2730207145214081
+Communication protocol hijacking in car devices,Misleading content in OEM services,0.20593608915805817
+Communication protocol hijacking in car devices,Operator-sided data leakage in OEM and/or car devices,0.6048151254653931
+Communication protocol hijacking in car devices,Secondary use of driver data,0.38442158699035645
+Communication protocol hijacking in car devices,"Sharing, transfer or processing through 3rd party of driver data",0.42379775643348694
+Communication protocol hijacking in car devices,Software vulnerabilities exploitation in OEM and/or car services,0.5691527724266052
+Data aggregation and profiling of driver,Data loss in OEM and/or car services,0.3388260006904602
+Data aggregation and profiling of driver,ECU firmware dump,0.11838369816541672
+Data aggregation and profiling of driver,ECU reflash,0.05769187957048416
+Data aggregation and profiling of driver,Erroneous use or configuration of car components,0.28351283073425293
+Data aggregation and profiling of driver,Failure to meet contractual requirements with driver,0.302290141582489
+Data aggregation and profiling of driver,Failures or sabotage of car components,0.2770657241344452
+Data aggregation and profiling of driver,GPS spoofing,0.21869230270385742
+Data aggregation and profiling of driver,Identity theft of driver,0.4722476899623871
+Data aggregation and profiling of driver,Infotainment alteration,0.3666136860847473
+Data aggregation and profiling of driver,Infotainment malware,0.34967073798179626
+Data aggregation and profiling of driver,Infotainment reverse engineering,0.3170424699783325
+Data aggregation and profiling of driver,Loss of GNSS signal,0.0264628604054451
+Data aggregation and profiling of driver,Man-in-the-middle attack / Session hijacking in OEM and/or car services,0.20015794038772583
+Data aggregation and profiling of driver,Manipulation of information in OEM and/or car services,0.42350858449935913
+Data aggregation and profiling of driver,Mobile app malware,0.13795378804206848
+Data aggregation and profiling of driver,Mobile app spoofing,0.12243741005659103
+Data aggregation and profiling of driver,OEM targeted attacks,0.225459486246109
+Data aggregation and profiling of driver,OEM servers information leakage,0.18801933526992798
+Data aggregation and profiling of driver,Servers violation in OEM services,0.18649187684059143
+Data aggregation and profiling of driver,Side-channel attacks against car components,0.3229403793811798
+Data aggregation and profiling of driver,Smart key bruteforcing,0.2261301428079605
+Data aggregation and profiling of driver,Smart key cloning,0.14939437806606293
+Data aggregation and profiling of driver,Smart key jamming,0.24423010647296906
+Data aggregation and profiling of driver,Software vulnerabilities exploitation in OEM and/or car services,0.4022710919380188
+Data aggregation and profiling of driver,Theft of car,0.31623536348342896
+Data aggregation and profiling of driver,Threats targeting autonomous sensors,0.3214699923992157
+Data aggregation and profiling of driver,Unauthorised access in OEM and/or car services,0.2972455620765686
+Data aggregation and profiling of driver,Unreliable sources of information and/or rogue car components,0.25801098346710205
+Data aggregation and profiling of driver,V2X data tampering,0.08998031169176102
+Data aggregation and profiling of driver,V2X Denial of Service,0.017420634627342224
+Data aggregation and profiling of driver,V2X eavesdropping,0.183174729347229
+Data aggregation and profiling of driver,V2X message replay,0.09705810993909836
+Data aggregation and profiling of driver,Violation of rules and regulations/Breach of legislation/ Abuse of driver personal data,0.42747044563293457
+Data aggregation and profiling of driver,Collection of data not required for the driver-consented purpose,0.47787871956825256
+Data aggregation and profiling of driver,Consent-related issues with driver,0.4569099247455597
+Data aggregation and profiling of driver,Data aggregation and profiling of driver,1.0
+Data aggregation and profiling of driver,Inability of driver to access and modify data,0.4537443518638611
+Data aggregation and profiling of driver,"Inappropriate or non-transparent policies, agreements, terms and conditions to driver",0.33031773567199707
+Data aggregation and profiling of driver,Insecure data transfer in OEM and/or car services,0.3926217555999756
+Data aggregation and profiling of driver,Insufficient data breach response from OEM,0.012228650972247124
+Data aggregation and profiling of driver,Insufficient data quality in OEM and/or car services,0.335496723651886
+Data aggregation and profiling of driver,Insufficient data structure model to handle driver rights,0.4949762225151062
+Data aggregation and profiling of driver,Insufficient deletion of driver data,0.3297654986381531
+Data aggregation and profiling of driver,Misleading content in OEM services,0.05723588913679123
+Data aggregation and profiling of driver,Operator-sided data leakage in OEM and/or car devices,0.37542957067489624
+Data aggregation and profiling of driver,Secondary use of driver data,0.48392707109451294
+Data aggregation and profiling of driver,"Sharing, transfer or processing through 3rd party of driver data",0.453454852104187
+Data aggregation and profiling of driver,Software vulnerabilities exploitation in OEM and/or car services,0.4022710919380188
+Data loss in OEM and/or car services,ECU firmware dump,0.37111562490463257
+Data loss in OEM and/or car services,ECU reflash,0.1308000087738037
+Data loss in OEM and/or car services,Erroneous use or configuration of car components,0.47043442726135254
+Data loss in OEM and/or car services,Failure to meet contractual requirements with driver,0.3577795624732971
+Data loss in OEM and/or car services,Failures or sabotage of car components,0.5471278429031372
+Data loss in OEM and/or car services,GPS spoofing,0.1924751102924347
+Data loss in OEM and/or car services,Identity theft of driver,0.4945559799671173
+Data loss in OEM and/or car services,Infotainment alteration,0.3401416838169098
+Data loss in OEM and/or car services,Infotainment malware,0.3372596502304077
+Data loss in OEM and/or car services,Infotainment reverse engineering,0.41292256116867065
+Data loss in OEM and/or car services,Loss of GNSS signal,0.405384361743927
+Data loss in OEM and/or car services,Man-in-the-middle attack / Session hijacking in OEM and/or car services,0.48268216848373413
+Data loss in OEM and/or car services,Manipulation of information in OEM and/or car services,0.6416701078414917
+Data loss in OEM and/or car services,Mobile app malware,0.18110211193561554
+Data loss in OEM and/or car services,Mobile app spoofing,0.21915501356124878
+Data loss in OEM and/or car services,OEM targeted attacks,0.24756672978401184
+Data loss in OEM and/or car services,OEM servers information leakage,0.5591898560523987
+Data loss in OEM and/or car services,Servers violation in OEM services,0.4861033856868744
+Data loss in OEM and/or car services,Side-channel attacks against car components,0.420402467250824
+Data loss in OEM and/or car services,Smart key bruteforcing,0.19095958769321442
+Data loss in OEM and/or car services,Smart key cloning,0.13418978452682495
+Data loss in OEM and/or car services,Smart key jamming,0.21321219205856323
+Data loss in OEM and/or car services,Software vulnerabilities exploitation in OEM and/or car services,0.6346796751022339
+Data loss in OEM and/or car services,Theft of car,0.5307226777076721
+Data loss in OEM and/or car services,Threats targeting autonomous sensors,0.21394948661327362
+Data loss in OEM and/or car services,Unauthorised access in OEM and/or car services,0.6788261532783508
+Data loss in OEM and/or car services,Unreliable sources of information and/or rogue car components,0.574812650680542
+Data loss in OEM and/or car services,V2X data tampering,0.21868625283241272
+Data loss in OEM and/or car services,V2X Denial of Service,0.20027890801429749
+Data loss in OEM and/or car services,V2X eavesdropping,0.21726921200752258
+Data loss in OEM and/or car services,V2X message replay,0.150298610329628
+Data loss in OEM and/or car services,Violation of rules and regulations/Breach of legislation/ Abuse of driver personal data,0.38350117206573486
+Data loss in OEM and/or car services,Collection of data not required for the driver-consented purpose,0.484605610370636
+Data loss in OEM and/or car services,Consent-related issues with driver,0.3470015525817871
+Data loss in OEM and/or car services,Data aggregation and profiling of driver,0.3388260006904602
+Data loss in OEM and/or car services,Inability of driver to access and modify data,0.46559271216392517
+Data loss in OEM and/or car services,"Inappropriate or non-transparent policies, agreements, terms and conditions to driver",0.4285431504249573
+Data loss in OEM and/or car services,Insecure data transfer in OEM and/or car services,0.6717426776885986
+Data loss in OEM and/or car services,Insufficient data breach response from OEM,0.3834678530693054
+Data loss in OEM and/or car services,Insufficient data quality in OEM and/or car services,0.7406726479530334
+Data loss in OEM and/or car services,Insufficient data structure model to handle driver rights,0.5033085346221924
+Data loss in OEM and/or car services,Insufficient deletion of driver data,0.5609612464904785
+Data loss in OEM and/or car services,Misleading content in OEM services,0.5038731098175049
+Data loss in OEM and/or car services,Operator-sided data leakage in OEM and/or car devices,0.7690128087997437
+Data loss in OEM and/or car services,Secondary use of driver data,0.47260773181915283
+Data loss in OEM and/or car services,"Sharing, transfer or processing through 3rd party of driver data",0.44693470001220703
+Data loss in OEM and/or car services,Software vulnerabilities exploitation in OEM and/or car services,0.6346796751022339
+ECU firmware dump,ECU reflash,0.4772103428840637
+ECU firmware dump,Erroneous use or configuration of car components,0.21213439106941223
+ECU firmware dump,Failure to meet contractual requirements with driver,0.09544079005718231
+ECU firmware dump,Failures or sabotage of car components,0.1945926547050476
+ECU firmware dump,GPS spoofing,0.23975422978401184
+ECU firmware dump,Identity theft of driver,0.2546390891075134
+ECU firmware dump,Infotainment alteration,0.23205986618995667
+ECU firmware dump,Infotainment malware,0.2812976837158203
+ECU firmware dump,Infotainment reverse engineering,0.29551661014556885
+ECU firmware dump,Loss of GNSS signal,0.3695547878742218
+ECU firmware dump,Man-in-the-middle attack / Session hijacking in OEM and/or car services,0.14554359018802643
+ECU firmware dump,Manipulation of information in OEM and/or car services,0.2199440598487854
+ECU firmware dump,Mobile app malware,0.1799856424331665
+ECU firmware dump,Mobile app spoofing,0.15501312911510468
+ECU firmware dump,OEM targeted attacks,0.2854957580566406
+ECU firmware dump,OEM servers information leakage,0.5783014893531799
+ECU firmware dump,Servers violation in OEM services,0.32356321811676025
+ECU firmware dump,Side-channel attacks against car components,0.10032910853624344
+ECU firmware dump,Smart key bruteforcing,0.3291859030723572
+ECU firmware dump,Smart key cloning,0.28524380922317505
+ECU firmware dump,Smart key jamming,0.3025038242340088
+ECU firmware dump,Software vulnerabilities exploitation in OEM and/or car services,0.313819944858551
+ECU firmware dump,Theft of car,0.167971670627594
+ECU firmware dump,Threats targeting autonomous sensors,0.12074220925569534
+ECU firmware dump,Unauthorised access in OEM and/or car services,0.3544335663318634
+ECU firmware dump,Unreliable sources of information and/or rogue car components,0.227705717086792
+ECU firmware dump,V2X data tampering,0.23810595273971558
+ECU firmware dump,V2X Denial of Service,0.03771357983350754
+ECU firmware dump,V2X eavesdropping,0.13730360567569733
+ECU firmware dump,V2X message replay,0.16368770599365234
+ECU firmware dump,Violation of rules and regulations/Breach of legislation/ Abuse of driver personal data,0.19010330736637115
+ECU firmware dump,Collection of data not required for the driver-consented purpose,0.28408676385879517
+ECU firmware dump,Consent-related issues with driver,0.13913339376449585
+ECU firmware dump,Data aggregation and profiling of driver,0.11838369816541672
+ECU firmware dump,Inability of driver to access and modify data,0.1599298119544983
+ECU firmware dump,"Inappropriate or non-transparent policies, agreements, terms and conditions to driver",0.16182774305343628
+ECU firmware dump,Insecure data transfer in OEM and/or car services,0.2535346448421478
+ECU firmware dump,Insufficient data breach response from OEM,0.23085038363933563
+ECU firmware dump,Insufficient data quality in OEM and/or car services,0.2514987587928772
+ECU firmware dump,Insufficient data structure model to handle driver rights,0.16645166277885437
+ECU firmware dump,Insufficient deletion of driver data,0.3177460730075836
+ECU firmware dump,Misleading content in OEM services,0.313768595457077
+ECU firmware dump,Operator-sided data leakage in OEM and/or car devices,0.40428802371025085
+ECU firmware dump,Secondary use of driver data,0.19909566640853882
+ECU firmware dump,"Sharing, transfer or processing through 3rd party of driver data",0.23762297630310059
+ECU firmware dump,Software vulnerabilities exploitation in OEM and/or car services,0.313819944858551
+ECU reflash,Erroneous use or configuration of car components,0.19447624683380127
+ECU reflash,Failure to meet contractual requirements with driver,0.0662388801574707
+ECU reflash,Failures or sabotage of car components,0.05366247892379761
+ECU reflash,GPS spoofing,0.340395450592041
+ECU reflash,Identity theft of driver,0.03301973640918732
+ECU reflash,Infotainment alteration,0.2612541615962982
+ECU reflash,Infotainment malware,0.08282175660133362
+ECU reflash,Infotainment reverse engineering,0.33700132369995117
+ECU reflash,Loss of GNSS signal,0.2585020661354065
+ECU reflash,Man-in-the-middle attack / Session hijacking in OEM and/or car services,0.14576563239097595
+ECU reflash,Manipulation of information in OEM and/or car services,0.15114307403564453
+ECU reflash,Mobile app malware,-0.005994342267513275
+ECU reflash,Mobile app spoofing,0.13281485438346863
+ECU reflash,OEM targeted attacks,0.30151671171188354
+ECU reflash,OEM servers information leakage,0.26692715287208557
+ECU reflash,Servers violation in OEM services,0.2765922546386719
+ECU reflash,Side-channel attacks against car components,0.11781057715415955
+ECU reflash,Smart key bruteforcing,0.2507500946521759
+ECU reflash,Smart key cloning,0.12072043865919113
+ECU reflash,Smart key jamming,0.12414110451936722
+ECU reflash,Software vulnerabilities exploitation in OEM and/or car services,0.08338902145624161
+ECU reflash,Theft of car,0.01984209567308426
+ECU reflash,Threats targeting autonomous sensors,-0.040518347173929214
+ECU reflash,Unauthorised access in OEM and/or car services,0.11093243211507797
+ECU reflash,Unreliable sources of information and/or rogue car components,0.15839549899101257
+ECU reflash,V2X data tampering,0.18179965019226074
+ECU reflash,V2X Denial of Service,0.06502784043550491
+ECU reflash,V2X eavesdropping,0.17632031440734863
+ECU reflash,V2X message replay,0.341076135635376
+ECU reflash,Violation of rules and regulations/Breach of legislation/ Abuse of driver personal data,0.02779170498251915
+ECU reflash,Collection of data not required for the driver-consented purpose,0.10798495262861252
+ECU reflash,Consent-related issues with driver,0.06844326853752136
+ECU reflash,Data aggregation and profiling of driver,0.05769187957048416
+ECU reflash,Inability of driver to access and modify data,0.05665897578001022
+ECU reflash,"Inappropriate or non-transparent policies, agreements, terms and conditions to driver",0.04440389573574066
+ECU reflash,Insecure data transfer in OEM and/or car services,0.10398763418197632
+ECU reflash,Insufficient data breach response from OEM,0.21558305621147156
+ECU reflash,Insufficient data quality in OEM and/or car services,0.06447752565145493
+ECU reflash,Insufficient data structure model to handle driver rights,0.009459439665079117
+ECU reflash,Insufficient deletion of driver data,0.06840339303016663
+ECU reflash,Misleading content in OEM services,0.3589209318161011
+ECU reflash,Operator-sided data leakage in OEM and/or car devices,0.1252160370349884
+ECU reflash,Secondary use of driver data,0.23957854509353638
+ECU reflash,"Sharing, transfer or processing through 3rd party of driver data",0.20243984460830688
+ECU reflash,Software vulnerabilities exploitation in OEM and/or car services,0.08338902145624161
+Erroneous use or configuration of car components,Failure to meet contractual requirements with driver,0.29075610637664795
+Erroneous use or configuration of car components,Failures or sabotage of car components,0.6423773765563965
+Erroneous use or configuration of car components,GPS spoofing,0.2696285843849182
+Erroneous use or configuration of car components,Identity theft of driver,0.37910497188568115
+Erroneous use or configuration of car components,Infotainment alteration,0.4989566206932068
+Erroneous use or configuration of car components,Infotainment malware,0.42239511013031006
+Erroneous use or configuration of car components,Infotainment reverse engineering,0.5650824904441833
+Erroneous use or configuration of car components,Loss of GNSS signal,0.1577080488204956
+Erroneous use or configuration of car components,Man-in-the-middle attack / Session hijacking in OEM and/or car services,0.3958439826965332
+Erroneous use or configuration of car components,Manipulation of information in OEM and/or car services,0.5065352916717529
+Erroneous use or configuration of car components,Mobile app malware,0.24967655539512634
+Erroneous use or configuration of car components,Mobile app spoofing,0.3652556538581848
+Erroneous use or configuration of car components,OEM targeted attacks,0.059065770357847214
+Erroneous use or configuration of car components,OEM servers information leakage,0.18629908561706543
+Erroneous use or configuration of car components,Servers violation in OEM services,0.27105796337127686
+Erroneous use or configuration of car components,Side-channel attacks against car components,0.48618096113204956
+Erroneous use or configuration of car components,Smart key bruteforcing,0.23186776041984558
+Erroneous use or configuration of car components,Smart key cloning,0.2257760614156723
+Erroneous use or configuration of car components,Smart key jamming,0.3186684250831604
+Erroneous use or configuration of car components,Software vulnerabilities exploitation in OEM and/or car services,0.4771018624305725
+Erroneous use or configuration of car components,Theft of car,0.4827054738998413
+Erroneous use or configuration of car components,Threats targeting autonomous sensors,0.2499130368232727
+Erroneous use or configuration of car components,Unauthorised access in OEM and/or car services,0.5231978893280029
+Erroneous use or configuration of car components,Unreliable sources of information and/or rogue car components,0.6837863922119141
+Erroneous use or configuration of car components,V2X data tampering,0.35507768392562866
+Erroneous use or configuration of car components,V2X Denial of Service,0.12381561845541
+Erroneous use or configuration of car components,V2X eavesdropping,0.25281044840812683
+Erroneous use or configuration of car components,V2X message replay,0.14428111910820007
+Erroneous use or configuration of car components,Violation of rules and regulations/Breach of legislation/ Abuse of driver personal data,0.42691418528556824
+Erroneous use or configuration of car components,Collection of data not required for the driver-consented purpose,0.45516300201416016
+Erroneous use or configuration of car components,Consent-related issues with driver,0.36822640895843506
+Erroneous use or configuration of car components,Data aggregation and profiling of driver,0.28351283073425293
+Erroneous use or configuration of car components,Inability of driver to access and modify data,0.42549076676368713
+Erroneous use or configuration of car components,"Inappropriate or non-transparent policies, agreements, terms and conditions to driver",0.5452563762664795
+Erroneous use or configuration of car components,Insecure data transfer in OEM and/or car services,0.354663610458374
+Erroneous use or configuration of car components,Insufficient data breach response from OEM,0.06668227910995483
+Erroneous use or configuration of car components,Insufficient data quality in OEM and/or car services,0.48627227544784546
+Erroneous use or configuration of car components,Insufficient data structure model to handle driver rights,0.47132450342178345
+Erroneous use or configuration of car components,Insufficient deletion of driver data,0.3754764497280121
+Erroneous use or configuration of car components,Misleading content in OEM services,0.39991652965545654
+Erroneous use or configuration of car components,Operator-sided data leakage in OEM and/or car devices,0.48229092359542847
+Erroneous use or configuration of car components,Secondary use of driver data,0.43082502484321594
+Erroneous use or configuration of car components,"Sharing, transfer or processing through 3rd party of driver data",0.30463382601737976
+Erroneous use or configuration of car components,Software vulnerabilities exploitation in OEM and/or car services,0.4771018624305725
+Failure to meet contractual requirements with driver,Failures or sabotage of car components,0.4414869248867035
+Failure to meet contractual requirements with driver,GPS spoofing,0.1640738695859909
+Failure to meet contractual requirements with driver,Identity theft of driver,0.3646698594093323
+Failure to meet contractual requirements with driver,Infotainment alteration,0.19497917592525482
+Failure to meet contractual requirements with driver,Infotainment malware,0.1867590844631195
+Failure to meet contractual requirements with driver,Infotainment reverse engineering,0.1799626648426056
+Failure to meet contractual requirements with driver,Loss of GNSS signal,0.1896851807832718
+Failure to meet contractual requirements with driver,Man-in-the-middle attack / Session hijacking in OEM and/or car services,0.17068980634212494
+Failure to meet contractual requirements with driver,Manipulation of information in OEM and/or car services,0.1752827763557434
+Failure to meet contractual requirements with driver,Mobile app malware,0.027135996147990227
+Failure to meet contractual requirements with driver,Mobile app spoofing,0.09005174040794373
+Failure to meet contractual requirements with driver,OEM targeted attacks,-0.030868448317050934
+Failure to meet contractual requirements with driver,OEM servers information leakage,0.0862550362944603
+Failure to meet contractual requirements with driver,Servers violation in OEM services,0.23595228791236877
+Failure to meet contractual requirements with driver,Side-channel attacks against car components,0.18485099077224731
+Failure to meet contractual requirements with driver,Smart key bruteforcing,0.06433349847793579
+Failure to meet contractual requirements with driver,Smart key cloning,0.029371492564678192
+Failure to meet contractual requirements with driver,Smart key jamming,0.18745392560958862
+Failure to meet contractual requirements with driver,Software vulnerabilities exploitation in OEM and/or car services,0.2641247808933258
+Failure to meet contractual requirements with driver,Theft of car,0.30432769656181335
+Failure to meet contractual requirements with driver,Threats targeting autonomous sensors,0.09645387530326843
+Failure to meet contractual requirements with driver,Unauthorised access in OEM and/or car services,0.27641117572784424
+Failure to meet contractual requirements with driver,Unreliable sources of information and/or rogue car components,0.28676411509513855
+Failure to meet contractual requirements with driver,V2X data tampering,0.049128223210573196
+Failure to meet contractual requirements with driver,V2X Denial of Service,0.2394220530986786
+Failure to meet contractual requirements with driver,V2X eavesdropping,-0.009217513725161552
+Failure to meet contractual requirements with driver,V2X message replay,0.10982280969619751
+Failure to meet contractual requirements with driver,Violation of rules and regulations/Breach of legislation/ Abuse of driver personal data,0.33541277050971985
+Failure to meet contractual requirements with driver,Collection of data not required for the driver-consented purpose,0.38309594988822937
+Failure to meet contractual requirements with driver,Consent-related issues with driver,0.3918863534927368
+Failure to meet contractual requirements with driver,Data aggregation and profiling of driver,0.302290141582489
+Failure to meet contractual requirements with driver,Inability of driver to access and modify data,0.5412620902061462
+Failure to meet contractual requirements with driver,"Inappropriate or non-transparent policies, agreements, terms and conditions to driver",0.6467180252075195
+Failure to meet contractual requirements with driver,Insecure data transfer in OEM and/or car services,0.31695204973220825
+Failure to meet contractual requirements with driver,Insufficient data breach response from OEM,0.15972138941287994
+Failure to meet contractual requirements with driver,Insufficient data quality in OEM and/or car services,0.397561252117157
+Failure to meet contractual requirements with driver,Insufficient data structure model to handle driver rights,0.5221346616744995
+Failure to meet contractual requirements with driver,Insufficient deletion of driver data,0.4211590588092804
+Failure to meet contractual requirements with driver,Misleading content in OEM services,0.04805213212966919
+Failure to meet contractual requirements with driver,Operator-sided data leakage in OEM and/or car devices,0.18837445974349976
+Failure to meet contractual requirements with driver,Secondary use of driver data,0.17548534274101257
+Failure to meet contractual requirements with driver,"Sharing, transfer or processing through 3rd party of driver data",0.25407397747039795
+Failure to meet contractual requirements with driver,Software vulnerabilities exploitation in OEM and/or car services,0.2641247808933258
+Failures or sabotage of car components,GPS spoofing,0.2714034616947174
+Failures or sabotage of car components,Identity theft of driver,0.5293086767196655
+Failures or sabotage of car components,Infotainment alteration,0.2870614528656006
+Failures or sabotage of car components,Infotainment malware,0.5352206230163574
+Failures or sabotage of car components,Infotainment reverse engineering,0.40772026777267456
+Failures or sabotage of car components,Loss of GNSS signal,0.13610264658927917
+Failures or sabotage of car components,Man-in-the-middle attack / Session hijacking in OEM and/or car services,0.4865206182003021
+Failures or sabotage of car components,Manipulation of information in OEM and/or car services,0.5339142680168152
+Failures or sabotage of car components,Mobile app malware,0.3737291097640991
+Failures or sabotage of car components,Mobile app spoofing,0.37123382091522217
+Failures or sabotage of car components,OEM targeted attacks,0.08497614413499832
+Failures or sabotage of car components,OEM servers information leakage,0.16491150856018066
+Failures or sabotage of car components,Servers violation in OEM services,0.23549580574035645
+Failures or sabotage of car components,Side-channel attacks against car components,0.5845683813095093
+Failures or sabotage of car components,Smart key bruteforcing,0.27313700318336487
+Failures or sabotage of car components,Smart key cloning,0.24804630875587463
+Failures or sabotage of car components,Smart key jamming,0.4065181612968445
+Failures or sabotage of car components,Software vulnerabilities exploitation in OEM and/or car services,0.5782452821731567
+Failures or sabotage of car components,Theft of car,0.6264749765396118
+Failures or sabotage of car components,Threats targeting autonomous sensors,0.3026375472545624
+Failures or sabotage of car components,Unauthorised access in OEM and/or car services,0.48166465759277344
+Failures or sabotage of car components,Unreliable sources of information and/or rogue car components,0.6477469801902771
+Failures or sabotage of car components,V2X data tampering,0.2281206250190735
+Failures or sabotage of car components,V2X Denial of Service,0.13673695921897888
+Failures or sabotage of car components,V2X eavesdropping,0.12490147352218628
+Failures or sabotage of car components,V2X message replay,0.052475981414318085
+Failures or sabotage of car components,Violation of rules and regulations/Breach of legislation/ Abuse of driver personal data,0.5079013109207153
+Failures or sabotage of car components,Collection of data not required for the driver-consented purpose,0.3479769825935364
+Failures or sabotage of car components,Consent-related issues with driver,0.35145044326782227
+Failures or sabotage of car components,Data aggregation and profiling of driver,0.2770657241344452
+Failures or sabotage of car components,Inability of driver to access and modify data,0.3840819001197815
+Failures or sabotage of car components,"Inappropriate or non-transparent policies, agreements, terms and conditions to driver",0.5443921089172363
+Failures or sabotage of car components,Insecure data transfer in OEM and/or car services,0.4275752305984497
+Failures or sabotage of car components,Insufficient data breach response from OEM,0.14369119703769684
+Failures or sabotage of car components,Insufficient data quality in OEM and/or car services,0.5691533088684082
+Failures or sabotage of car components,Insufficient data structure model to handle driver rights,0.44970202445983887
+Failures or sabotage of car components,Insufficient deletion of driver data,0.38229185342788696
+Failures or sabotage of car components,Misleading content in OEM services,0.3042804002761841
+Failures or sabotage of car components,Operator-sided data leakage in OEM and/or car devices,0.548436164855957
+Failures or sabotage of car components,Secondary use of driver data,0.31868481636047363
+Failures or sabotage of car components,"Sharing, transfer or processing through 3rd party of driver data",0.2722351551055908
+Failures or sabotage of car components,Software vulnerabilities exploitation in OEM and/or car services,0.5782452821731567
+GPS spoofing,Identity theft of driver,0.34862810373306274
+GPS spoofing,Infotainment alteration,0.1873255968093872
+GPS spoofing,Infotainment malware,0.25826653838157654
+GPS spoofing,Infotainment reverse engineering,0.3417336046695709
+GPS spoofing,Loss of GNSS signal,0.42600175738334656
+GPS spoofing,Man-in-the-middle attack / Session hijacking in OEM and/or car services,0.10466080158948898
+GPS spoofing,Manipulation of information in OEM and/or car services,0.27672281861305237
+GPS spoofing,Mobile app malware,0.3103138208389282
+GPS spoofing,Mobile app spoofing,0.5466857552528381
+GPS spoofing,OEM targeted attacks,0.1039339154958725
+GPS spoofing,OEM servers information leakage,0.18675027787685394
+GPS spoofing,Servers violation in OEM services,0.15742047131061554
+GPS spoofing,Side-channel attacks against car components,0.13241997361183167
+GPS spoofing,Smart key bruteforcing,0.32815611362457275
+GPS spoofing,Smart key cloning,0.31700122356414795
+GPS spoofing,Smart key jamming,0.39594653248786926
+GPS spoofing,Software vulnerabilities exploitation in OEM and/or car services,0.13711042702198029
+GPS spoofing,Theft of car,0.2380501925945282
+GPS spoofing,Threats targeting autonomous sensors,0.23074181377887726
+GPS spoofing,Unauthorised access in OEM and/or car services,0.16622695326805115
+GPS spoofing,Unreliable sources of information and/or rogue car components,0.2613660395145416
+GPS spoofing,V2X data tampering,0.34046846628189087
+GPS spoofing,V2X Denial of Service,0.04114659130573273
+GPS spoofing,V2X eavesdropping,0.19510868191719055
+GPS spoofing,V2X message replay,0.19671717286109924
+GPS spoofing,Violation of rules and regulations/Breach of legislation/ Abuse of driver personal data,0.2209872454404831
+GPS spoofing,Collection of data not required for the driver-consented purpose,0.2239830642938614
+GPS spoofing,Consent-related issues with driver,0.14272019267082214
+GPS spoofing,Data aggregation and profiling of driver,0.21869230270385742
+GPS spoofing,Inability of driver to access and modify data,0.21587038040161133
+GPS spoofing,"Inappropriate or non-transparent policies, agreements, terms and conditions to driver",0.16669708490371704
+GPS spoofing,Insecure data transfer in OEM and/or car services,0.1922117918729782
+GPS spoofing,Insufficient data breach response from OEM,-0.0005956683307886124
+GPS spoofing,Insufficient data quality in OEM and/or car services,0.14017117023468018
+GPS spoofing,Insufficient data structure model to handle driver rights,0.17646551132202148
+GPS spoofing,Insufficient deletion of driver data,0.14703448116779327
+GPS spoofing,Misleading content in OEM services,0.3195115625858307
+GPS spoofing,Operator-sided data leakage in OEM and/or car devices,0.18233400583267212
+GPS spoofing,Secondary use of driver data,0.24353599548339844
+GPS spoofing,"Sharing, transfer or processing through 3rd party of driver data",0.2141450047492981
+GPS spoofing,Software vulnerabilities exploitation in OEM and/or car services,0.13711042702198029
+Identity theft of driver,Infotainment alteration,0.24278052151203156
+Identity theft of driver,Infotainment malware,0.44830161333084106
+Identity theft of driver,Infotainment reverse engineering,0.3533346354961395
+Identity theft of driver,Loss of GNSS signal,0.19566023349761963
+Identity theft of driver,Man-in-the-middle attack / Session hijacking in OEM and/or car services,0.4362209737300873
+Identity theft of driver,Manipulation of information in OEM and/or car services,0.5066131353378296
+Identity theft of driver,Mobile app malware,0.32478415966033936
+Identity theft of driver,Mobile app spoofing,0.28333914279937744
+Identity theft of driver,OEM targeted attacks,0.0838993638753891
+Identity theft of driver,OEM servers information leakage,0.3532062768936157
+Identity theft of driver,Servers violation in OEM services,0.20964616537094116
+Identity theft of driver,Side-channel attacks against car components,0.3863942623138428
+Identity theft of driver,Smart key bruteforcing,0.4146566390991211
+Identity theft of driver,Smart key cloning,0.3483090102672577
+Identity theft of driver,Smart key jamming,0.406821072101593
+Identity theft of driver,Software vulnerabilities exploitation in OEM and/or car services,0.4975220561027527
+Identity theft of driver,Theft of car,0.7810202240943909
+Identity theft of driver,Threats targeting autonomous sensors,0.33996057510375977
+Identity theft of driver,Unauthorised access in OEM and/or car services,0.4850456118583679
+Identity theft of driver,Unreliable sources of information and/or rogue car components,0.46783655881881714
+Identity theft of driver,V2X data tampering,0.292606920003891
+Identity theft of driver,V2X Denial of Service,0.10089068859815598
+Identity theft of driver,V2X eavesdropping,0.2056908905506134
+Identity theft of driver,V2X message replay,0.1184612363576889
+Identity theft of driver,Violation of rules and regulations/Breach of legislation/ Abuse of driver personal data,0.47306808829307556
+Identity theft of driver,Collection of data not required for the driver-consented purpose,0.3657079339027405
+Identity theft of driver,Consent-related issues with driver,0.29156333208084106
+Identity theft of driver,Data aggregation and profiling of driver,0.4722476899623871
+Identity theft of driver,Inability of driver to access and modify data,0.3887472152709961
+Identity theft of driver,"Inappropriate or non-transparent policies, agreements, terms and conditions to driver",0.3477433919906616
+Identity theft of driver,Insecure data transfer in OEM and/or car services,0.4750984311103821
+Identity theft of driver,Insufficient data breach response from OEM,-0.0010875985026359558
+Identity theft of driver,Insufficient data quality in OEM and/or car services,0.38370636105537415
+Identity theft of driver,Insufficient data structure model to handle driver rights,0.3810350000858307
+Identity theft of driver,Insufficient deletion of driver data,0.3987765312194824
+Identity theft of driver,Misleading content in OEM services,0.17360156774520874
+Identity theft of driver,Operator-sided data leakage in OEM and/or car devices,0.5555895566940308
+Identity theft of driver,Secondary use of driver data,0.41168949007987976
+Identity theft of driver,"Sharing, transfer or processing through 3rd party of driver data",0.3866475820541382
+Identity theft of driver,Software vulnerabilities exploitation in OEM and/or car services,0.4975220561027527
+Infotainment alteration,Infotainment malware,0.42846226692199707
+Infotainment alteration,Infotainment reverse engineering,0.6006132960319519
+Infotainment alteration,Loss of GNSS signal,0.13391655683517456
+Infotainment alteration,Man-in-the-middle attack / Session hijacking in OEM and/or car services,0.2025069296360016
+Infotainment alteration,Manipulation of information in OEM and/or car services,0.3470737934112549
+Infotainment alteration,Mobile app malware,0.05591629445552826
+Infotainment alteration,Mobile app spoofing,0.18145598471164703
+Infotainment alteration,OEM targeted attacks,0.21671506762504578
+Infotainment alteration,OEM servers information leakage,0.18677029013633728
+Infotainment alteration,Servers violation in OEM services,0.25075626373291016
+Infotainment alteration,Side-channel attacks against car components,0.3813849985599518
+Infotainment alteration,Smart key bruteforcing,0.12952104210853577
+Infotainment alteration,Smart key cloning,0.08701791614294052
+Infotainment alteration,Smart key jamming,0.15626193583011627
+Infotainment alteration,Software vulnerabilities exploitation in OEM and/or car services,0.28976738452911377
+Infotainment alteration,Theft of car,0.2545106112957001
+Infotainment alteration,Threats targeting autonomous sensors,0.1543216109275818
+Infotainment alteration,Unauthorised access in OEM and/or car services,0.3220035433769226
+Infotainment alteration,Unreliable sources of information and/or rogue car components,0.3588818609714508
+Infotainment alteration,V2X data tampering,0.18590480089187622
+Infotainment alteration,V2X Denial of Service,0.033362552523612976
+Infotainment alteration,V2X eavesdropping,0.11793816834688187
+Infotainment alteration,V2X message replay,0.16894876956939697
+Infotainment alteration,Violation of rules and regulations/Breach of legislation/ Abuse of driver personal data,0.2256268560886383
+Infotainment alteration,Collection of data not required for the driver-consented purpose,0.32751303911209106
+Infotainment alteration,Consent-related issues with driver,0.31409263610839844
+Infotainment alteration,Data aggregation and profiling of driver,0.3666136860847473
+Infotainment alteration,Inability of driver to access and modify data,0.48940110206604004
+Infotainment alteration,"Inappropriate or non-transparent policies, agreements, terms and conditions to driver",0.3115115165710449
+Infotainment alteration,Insecure data transfer in OEM and/or car services,0.20976929366588593
+Infotainment alteration,Insufficient data breach response from OEM,0.021881407126784325
+Infotainment alteration,Insufficient data quality in OEM and/or car services,0.3034631013870239
+Infotainment alteration,Insufficient data structure model to handle driver rights,0.3011506199836731
+Infotainment alteration,Insufficient deletion of driver data,0.29558485746383667
+Infotainment alteration,Misleading content in OEM services,0.29417845606803894
+Infotainment alteration,Operator-sided data leakage in OEM and/or car devices,0.33799225091934204
+Infotainment alteration,Secondary use of driver data,0.2912861406803131
+Infotainment alteration,"Sharing, transfer or processing through 3rd party of driver data",0.23300009965896606
+Infotainment alteration,Software vulnerabilities exploitation in OEM and/or car services,0.28976738452911377
+Infotainment malware,Infotainment reverse engineering,0.49067407846450806
+Infotainment malware,Loss of GNSS signal,0.09941212832927704
+Infotainment malware,Man-in-the-middle attack / Session hijacking in OEM and/or car services,0.3925513029098511
+Infotainment malware,Manipulation of information in OEM and/or car services,0.4864040017127991
+Infotainment malware,Mobile app malware,0.4883323311805725
+Infotainment malware,Mobile app spoofing,0.31791526079177856
+Infotainment malware,OEM targeted attacks,0.2324671447277069
+Infotainment malware,OEM servers information leakage,0.27028870582580566
+Infotainment malware,Servers violation in OEM services,0.3612421154975891
+Infotainment malware,Side-channel attacks against car components,0.46733012795448303
+Infotainment malware,Smart key bruteforcing,0.39687660336494446
+Infotainment malware,Smart key cloning,0.34709155559539795
+Infotainment malware,Smart key jamming,0.41948214173316956
+Infotainment malware,Software vulnerabilities exploitation in OEM and/or car services,0.495943546295166
+Infotainment malware,Theft of car,0.43179598450660706
+Infotainment malware,Threats targeting autonomous sensors,0.3660334348678589
+Infotainment malware,Unauthorised access in OEM and/or car services,0.3845835328102112
+Infotainment malware,Unreliable sources of information and/or rogue car components,0.3891175389289856
+Infotainment malware,V2X data tampering,0.36927855014801025
+Infotainment malware,V2X Denial of Service,0.15337353944778442
+Infotainment malware,V2X eavesdropping,0.24841177463531494
+Infotainment malware,V2X message replay,0.17289912700653076
+Infotainment malware,Violation of rules and regulations/Breach of legislation/ Abuse of driver personal data,0.3714717626571655
+Infotainment malware,Collection of data not required for the driver-consented purpose,0.2945364713668823
+Infotainment malware,Consent-related issues with driver,0.42231690883636475
+Infotainment malware,Data aggregation and profiling of driver,0.34967073798179626
+Infotainment malware,Inability of driver to access and modify data,0.2618064880371094
+Infotainment malware,"Inappropriate or non-transparent policies, agreements, terms and conditions to driver",0.31366732716560364
+Infotainment malware,Insecure data transfer in OEM and/or car services,0.41168084740638733
+Infotainment malware,Insufficient data breach response from OEM,0.06816653162240982
+Infotainment malware,Insufficient data quality in OEM and/or car services,0.3322157859802246
+Infotainment malware,Insufficient data structure model to handle driver rights,0.25093525648117065
+Infotainment malware,Insufficient deletion of driver data,0.2615855634212494
+Infotainment malware,Misleading content in OEM services,0.2788432836532593
+Infotainment malware,Operator-sided data leakage in OEM and/or car devices,0.47242945432662964
+Infotainment malware,Secondary use of driver data,0.3514115810394287
+Infotainment malware,"Sharing, transfer or processing through 3rd party of driver data",0.2520003914833069
+Infotainment malware,Software vulnerabilities exploitation in OEM and/or car services,0.495943546295166
+Infotainment reverse engineering,Loss of GNSS signal,0.20314018428325653
+Infotainment reverse engineering,Man-in-the-middle attack / Session hijacking in OEM and/or car services,0.3357502520084381
+Infotainment reverse engineering,Manipulation of information in OEM and/or car services,0.428301602602005
+Infotainment reverse engineering,Mobile app malware,0.11884917318820953
+Infotainment reverse engineering,Mobile app spoofing,0.2791590690612793
+Infotainment reverse engineering,OEM targeted attacks,0.16918393969535828
+Infotainment reverse engineering,OEM servers information leakage,0.3263067901134491
+Infotainment reverse engineering,Servers violation in OEM services,0.3063320517539978
+Infotainment reverse engineering,Side-channel attacks against car components,0.3586589992046356
+Infotainment reverse engineering,Smart key bruteforcing,0.2284875065088272
+Infotainment reverse engineering,Smart key cloning,0.2629435062408447
+Infotainment reverse engineering,Smart key jamming,0.3375782072544098
+Infotainment reverse engineering,Software vulnerabilities exploitation in OEM and/or car services,0.3242741525173187
+Infotainment reverse engineering,Theft of car,0.32070863246917725
+Infotainment reverse engineering,Threats targeting autonomous sensors,0.26475030183792114
+Infotainment reverse engineering,Unauthorised access in OEM and/or car services,0.3839312791824341
+Infotainment reverse engineering,Unreliable sources of information and/or rogue car components,0.411657452583313
+Infotainment reverse engineering,V2X data tampering,0.38764411211013794
+Infotainment reverse engineering,V2X Denial of Service,0.23122906684875488
+Infotainment reverse engineering,V2X eavesdropping,0.3058522343635559
+Infotainment reverse engineering,V2X message replay,0.39079105854034424
+Infotainment reverse engineering,Violation of rules and regulations/Breach of legislation/ Abuse of driver personal data,0.23266275227069855
+Infotainment reverse engineering,Collection of data not required for the driver-consented purpose,0.3196280002593994
+Infotainment reverse engineering,Consent-related issues with driver,0.22804668545722961
+Infotainment reverse engineering,Data aggregation and profiling of driver,0.3170424699783325
+Infotainment reverse engineering,Inability of driver to access and modify data,0.43111032247543335
+Infotainment reverse engineering,"Inappropriate or non-transparent policies, agreements, terms and conditions to driver",0.29424914717674255
+Infotainment reverse engineering,Insecure data transfer in OEM and/or car services,0.27675819396972656
+Infotainment reverse engineering,Insufficient data breach response from OEM,0.07346011698246002
+Infotainment reverse engineering,Insufficient data quality in OEM and/or car services,0.2956406772136688
+Infotainment reverse engineering,Insufficient data structure model to handle driver rights,0.31246644258499146
+Infotainment reverse engineering,Insufficient deletion of driver data,0.3351762294769287
+Infotainment reverse engineering,Misleading content in OEM services,0.38851693272590637
+Infotainment reverse engineering,Operator-sided data leakage in OEM and/or car devices,0.4520374536514282
+Infotainment reverse engineering,Secondary use of driver data,0.46443137526512146
+Infotainment reverse engineering,"Sharing, transfer or processing through 3rd party of driver data",0.29513680934906006
+Infotainment reverse engineering,Software vulnerabilities exploitation in OEM and/or car services,0.3242741525173187
+Loss of GNSS signal,Man-in-the-middle attack / Session hijacking in OEM and/or car services,0.07844868302345276
+Loss of GNSS signal,Manipulation of information in OEM and/or car services,0.14606955647468567
+Loss of GNSS signal,Mobile app malware,0.16835975646972656
+Loss of GNSS signal,Mobile app spoofing,0.21148279309272766
+Loss of GNSS signal,OEM targeted attacks,0.1218724399805069
+Loss of GNSS signal,OEM servers information leakage,0.3389762043952942
+Loss of GNSS signal,Servers violation in OEM services,0.28425779938697815
+Loss of GNSS signal,Side-channel attacks against car components,0.07089683413505554
+Loss of GNSS signal,Smart key bruteforcing,0.18753579258918762
+Loss of GNSS signal,Smart key cloning,0.1569301038980484
+Loss of GNSS signal,Smart key jamming,0.22511377930641174
+Loss of GNSS signal,Software vulnerabilities exploitation in OEM and/or car services,0.10319455713033676
+Loss of GNSS signal,Theft of car,0.13370724022388458
+Loss of GNSS signal,Threats targeting autonomous sensors,0.12856973707675934
+Loss of GNSS signal,Unauthorised access in OEM and/or car services,0.20937488973140717
+Loss of GNSS signal,Unreliable sources of information and/or rogue car components,0.1662190854549408
+Loss of GNSS signal,V2X data tampering,0.14436639845371246
+Loss of GNSS signal,V2X Denial of Service,0.23069630563259125
+Loss of GNSS signal,V2X eavesdropping,0.17754793167114258
+Loss of GNSS signal,V2X message replay,0.15201197564601898
+Loss of GNSS signal,Violation of rules and regulations/Breach of legislation/ Abuse of driver personal data,0.085027776658535
+Loss of GNSS signal,Collection of data not required for the driver-consented purpose,0.2519489526748657
+Loss of GNSS signal,Consent-related issues with driver,0.1933535784482956
+Loss of GNSS signal,Data aggregation and profiling of driver,0.0264628604054451
+Loss of GNSS signal,Inability of driver to access and modify data,0.25629204511642456
+Loss of GNSS signal,"Inappropriate or non-transparent policies, agreements, terms and conditions to driver",0.17703229188919067
+Loss of GNSS signal,Insecure data transfer in OEM and/or car services,0.24411657452583313
+Loss of GNSS signal,Insufficient data breach response from OEM,0.23614400625228882
+Loss of GNSS signal,Insufficient data quality in OEM and/or car services,0.20016390085220337
+Loss of GNSS signal,Insufficient data structure model to handle driver rights,0.18768230080604553
+Loss of GNSS signal,Insufficient deletion of driver data,0.2927555441856384
+Loss of GNSS signal,Misleading content in OEM services,0.25506678223609924
+Loss of GNSS signal,Operator-sided data leakage in OEM and/or car devices,0.2452128827571869
+Loss of GNSS signal,Secondary use of driver data,0.1657576560974121
+Loss of GNSS signal,"Sharing, transfer or processing through 3rd party of driver data",0.19914013147354126
+Loss of GNSS signal,Software vulnerabilities exploitation in OEM and/or car services,0.10319455713033676
+Man-in-the-middle attack / Session hijacking in OEM and/or car services,Manipulation of information in OEM and/or car services,0.6848543882369995
+Man-in-the-middle attack / Session hijacking in OEM and/or car services,Mobile app malware,0.18476155400276184
+Man-in-the-middle attack / Session hijacking in OEM and/or car services,Mobile app spoofing,0.15913748741149902
+Man-in-the-middle attack / Session hijacking in OEM and/or car services,OEM targeted attacks,0.31724536418914795
+Man-in-the-middle attack / Session hijacking in OEM and/or car services,OEM servers information leakage,0.3249324560165405
+Man-in-the-middle attack / Session hijacking in OEM and/or car services,Servers violation in OEM services,0.4073181450366974
+Man-in-the-middle attack / Session hijacking in OEM and/or car services,Side-channel attacks against car components,0.44156935811042786
+Man-in-the-middle attack / Session hijacking in OEM and/or car services,Smart key bruteforcing,0.2912626266479492
+Man-in-the-middle attack / Session hijacking in OEM and/or car services,Smart key cloning,0.11352123320102692
+Man-in-the-middle attack / Session hijacking in OEM and/or car services,Smart key jamming,0.31039971113204956
+Man-in-the-middle attack / Session hijacking in OEM and/or car services,Software vulnerabilities exploitation in OEM and/or car services,0.5901058912277222
+Man-in-the-middle attack / Session hijacking in OEM and/or car services,Theft of car,0.5343626141548157
+Man-in-the-middle attack / Session hijacking in OEM and/or car services,Threats targeting autonomous sensors,0.07739516347646713
+Man-in-the-middle attack / Session hijacking in OEM and/or car services,Unauthorised access in OEM and/or car services,0.5370311141014099
+Man-in-the-middle attack / Session hijacking in OEM and/or car services,Unreliable sources of information and/or rogue car components,0.44059571623802185
+Man-in-the-middle attack / Session hijacking in OEM and/or car services,V2X data tampering,0.26899850368499756
+Man-in-the-middle attack / Session hijacking in OEM and/or car services,V2X Denial of Service,0.11678658425807953
+Man-in-the-middle attack / Session hijacking in OEM and/or car services,V2X eavesdropping,0.23546305298805237
+Man-in-the-middle attack / Session hijacking in OEM and/or car services,V2X message replay,0.14230194687843323
+Man-in-the-middle attack / Session hijacking in OEM and/or car services,Violation of rules and regulations/Breach of legislation/ Abuse of driver personal data,0.34635764360427856
+Man-in-the-middle attack / Session hijacking in OEM and/or car services,Collection of data not required for the driver-consented purpose,0.20479872822761536
+Man-in-the-middle attack / Session hijacking in OEM and/or car services,Consent-related issues with driver,0.19494274258613586
+Man-in-the-middle attack / Session hijacking in OEM and/or car services,Data aggregation and profiling of driver,0.20015794038772583
+Man-in-the-middle attack / Session hijacking in OEM and/or car services,Inability of driver to access and modify data,0.27880069613456726
+Man-in-the-middle attack / Session hijacking in OEM and/or car services,"Inappropriate or non-transparent policies, agreements, terms and conditions to driver",0.28896254301071167
+Man-in-the-middle attack / Session hijacking in OEM and/or car services,Insecure data transfer in OEM and/or car services,0.566579282283783
+Man-in-the-middle attack / Session hijacking in OEM and/or car services,Insufficient data breach response from OEM,0.26973453164100647
+Man-in-the-middle attack / Session hijacking in OEM and/or car services,Insufficient data quality in OEM and/or car services,0.41197821497917175
+Man-in-the-middle attack / Session hijacking in OEM and/or car services,Insufficient data structure model to handle driver rights,0.2801908254623413
+Man-in-the-middle attack / Session hijacking in OEM and/or car services,Insufficient deletion of driver data,0.12022443860769272
+Man-in-the-middle attack / Session hijacking in OEM and/or car services,Misleading content in OEM services,0.41299641132354736
+Man-in-the-middle attack / Session hijacking in OEM and/or car services,Operator-sided data leakage in OEM and/or car devices,0.6100483536720276
+Man-in-the-middle attack / Session hijacking in OEM and/or car services,Secondary use of driver data,0.2922205328941345
+Man-in-the-middle attack / Session hijacking in OEM and/or car services,"Sharing, transfer or processing through 3rd party of driver data",0.3297492563724518
+Man-in-the-middle attack / Session hijacking in OEM and/or car services,Software vulnerabilities exploitation in OEM and/or car services,0.5901058912277222
+Manipulation of information in OEM and/or car services,Mobile app malware,0.36108365654945374
+Manipulation of information in OEM and/or car services,Mobile app spoofing,0.3831539452075958
+Manipulation of information in OEM and/or car services,OEM targeted attacks,0.3477594554424286
+Manipulation of information in OEM and/or car services,OEM servers information leakage,0.49087029695510864
+Manipulation of information in OEM and/or car services,Servers violation in OEM services,0.49175435304641724
+Manipulation of information in OEM and/or car services,Side-channel attacks against car components,0.5799731016159058
+Manipulation of information in OEM and/or car services,Smart key bruteforcing,0.3544044494628906
+Manipulation of information in OEM and/or car services,Smart key cloning,0.17869539558887482
+Manipulation of information in OEM and/or car services,Smart key jamming,0.35230594873428345
+Manipulation of information in OEM and/or car services,Software vulnerabilities exploitation in OEM and/or car services,0.767742395401001
+Manipulation of information in OEM and/or car services,Theft of car,0.5871103405952454
+Manipulation of information in OEM and/or car services,Threats targeting autonomous sensors,0.28882288932800293
+Manipulation of information in OEM and/or car services,Unauthorised access in OEM and/or car services,0.6922862529754639
+Manipulation of information in OEM and/or car services,Unreliable sources of information and/or rogue car components,0.5643157362937927
+Manipulation of information in OEM and/or car services,V2X data tampering,0.4282824695110321
+Manipulation of information in OEM and/or car services,V2X Denial of Service,0.1086086854338646
+Manipulation of information in OEM and/or car services,V2X eavesdropping,0.3311045467853546
+Manipulation of information in OEM and/or car services,V2X message replay,0.22731652855873108
+Manipulation of information in OEM and/or car services,Violation of rules and regulations/Breach of legislation/ Abuse of driver personal data,0.5722403526306152
+Manipulation of information in OEM and/or car services,Collection of data not required for the driver-consented purpose,0.4408426880836487
+Manipulation of information in OEM and/or car services,Consent-related issues with driver,0.3695141673088074
+Manipulation of information in OEM and/or car services,Data aggregation and profiling of driver,0.42350858449935913
+Manipulation of information in OEM and/or car services,Inability of driver to access and modify data,0.34712162613868713
+Manipulation of information in OEM and/or car services,"Inappropriate or non-transparent policies, agreements, terms and conditions to driver",0.38901665806770325
+Manipulation of information in OEM and/or car services,Insecure data transfer in OEM and/or car services,0.7016009092330933
+Manipulation of information in OEM and/or car services,Insufficient data breach response from OEM,0.22981619834899902
+Manipulation of information in OEM and/or car services,Insufficient data quality in OEM and/or car services,0.5273863077163696
+Manipulation of information in OEM and/or car services,Insufficient data structure model to handle driver rights,0.3673588037490845
+Manipulation of information in OEM and/or car services,Insufficient deletion of driver data,0.24972888827323914
+Manipulation of information in OEM and/or car services,Misleading content in OEM services,0.5673037171363831
+Manipulation of information in OEM and/or car services,Operator-sided data leakage in OEM and/or car devices,0.7715514302253723
+Manipulation of information in OEM and/or car services,Secondary use of driver data,0.4976002871990204
+Manipulation of information in OEM and/or car services,"Sharing, transfer or processing through 3rd party of driver data",0.49069175124168396
+Manipulation of information in OEM and/or car services,Software vulnerabilities exploitation in OEM and/or car services,0.767742395401001
+Mobile app malware,Mobile app spoofing,0.7585324048995972
+Mobile app malware,OEM targeted attacks,0.19170820713043213
+Mobile app malware,OEM servers information leakage,0.18060539662837982
+Mobile app malware,Servers violation in OEM services,0.22294989228248596
+Mobile app malware,Side-channel attacks against car components,0.26928138732910156
+Mobile app malware,Smart key bruteforcing,0.3407699465751648
+Mobile app malware,Smart key cloning,0.4140632152557373
+Mobile app malware,Smart key jamming,0.4067504405975342
+Mobile app malware,Software vulnerabilities exploitation in OEM and/or car services,0.39626652002334595
+Mobile app malware,Theft of car,0.2827569246292114
+Mobile app malware,Threats targeting autonomous sensors,0.4408924877643585
+Mobile app malware,Unauthorised access in OEM and/or car services,0.2708134651184082
+Mobile app malware,Unreliable sources of information and/or rogue car components,0.236270010471344
+Mobile app malware,V2X data tampering,0.30904388427734375
+Mobile app malware,V2X Denial of Service,0.06224370002746582
+Mobile app malware,V2X eavesdropping,0.12545454502105713
+Mobile app malware,V2X message replay,0.060261182487010956
+Mobile app malware,Violation of rules and regulations/Breach of legislation/ Abuse of driver personal data,0.34871527552604675
+Mobile app malware,Collection of data not required for the driver-consented purpose,0.17708538472652435
+Mobile app malware,Consent-related issues with driver,0.23775067925453186
+Mobile app malware,Data aggregation and profiling of driver,0.13795378804206848
+Mobile app malware,Inability of driver to access and modify data,0.0777115523815155
+Mobile app malware,"Inappropriate or non-transparent policies, agreements, terms and conditions to driver",0.13811111450195312
+Mobile app malware,Insecure data transfer in OEM and/or car services,0.24933168292045593
+Mobile app malware,Insufficient data breach response from OEM,0.07296068966388702
+Mobile app malware,Insufficient data quality in OEM and/or car services,0.14771240949630737
+Mobile app malware,Insufficient data structure model to handle driver rights,0.09010826796293259
+Mobile app malware,Insufficient deletion of driver data,0.11881992220878601
+Mobile app malware,Misleading content in OEM services,0.3121401071548462
+Mobile app malware,Operator-sided data leakage in OEM and/or car devices,0.2953249216079712
+Mobile app malware,Secondary use of driver data,0.12211547046899796
+Mobile app malware,"Sharing, transfer or processing through 3rd party of driver data",0.09055525809526443
+Mobile app malware,Software vulnerabilities exploitation in OEM and/or car services,0.39626652002334595
+Mobile app spoofing,OEM targeted attacks,0.11082803457975388
+Mobile app spoofing,OEM servers information leakage,0.13279633224010468
+Mobile app spoofing,Servers violation in OEM services,0.18124613165855408
+Mobile app spoofing,Side-channel attacks against car components,0.23216286301612854
+Mobile app spoofing,Smart key bruteforcing,0.24205660820007324
+Mobile app spoofing,Smart key cloning,0.3948533535003662
+Mobile app spoofing,Smart key jamming,0.3828747868537903
+Mobile app spoofing,Software vulnerabilities exploitation in OEM and/or car services,0.27589666843414307
+Mobile app spoofing,Theft of car,0.26995593309402466
+Mobile app spoofing,Threats targeting autonomous sensors,0.3425804674625397
+Mobile app spoofing,Unauthorised access in OEM and/or car services,0.2589048147201538
+Mobile app spoofing,Unreliable sources of information and/or rogue car components,0.33466413617134094
+Mobile app spoofing,V2X data tampering,0.39577406644821167
+Mobile app spoofing,V2X Denial of Service,0.04041159152984619
+Mobile app spoofing,V2X eavesdropping,0.13861650228500366
+Mobile app spoofing,V2X message replay,0.1434677690267563
+Mobile app spoofing,Violation of rules and regulations/Breach of legislation/ Abuse of driver personal data,0.3151019811630249
+Mobile app spoofing,Collection of data not required for the driver-consented purpose,0.20031973719596863
+Mobile app spoofing,Consent-related issues with driver,0.1930168867111206
+Mobile app spoofing,Data aggregation and profiling of driver,0.12243741005659103
+Mobile app spoofing,Inability of driver to access and modify data,0.16318264603614807
+Mobile app spoofing,"Inappropriate or non-transparent policies, agreements, terms and conditions to driver",0.17086361348628998
+Mobile app spoofing,Insecure data transfer in OEM and/or car services,0.1947549283504486
+Mobile app spoofing,Insufficient data breach response from OEM,0.033880628645420074
+Mobile app spoofing,Insufficient data quality in OEM and/or car services,0.17237789928913116
+Mobile app spoofing,Insufficient data structure model to handle driver rights,0.15971198678016663
+Mobile app spoofing,Insufficient deletion of driver data,0.17309747636318207
+Mobile app spoofing,Misleading content in OEM services,0.4366580843925476
+Mobile app spoofing,Operator-sided data leakage in OEM and/or car devices,0.24661709368228912
+Mobile app spoofing,Secondary use of driver data,0.1662215143442154
+Mobile app spoofing,"Sharing, transfer or processing through 3rd party of driver data",0.13353782892227173
+Mobile app spoofing,Software vulnerabilities exploitation in OEM and/or car services,0.27589666843414307
+OEM targeted attacks,OEM servers information leakage,0.4369390606880188
+OEM targeted attacks,Servers violation in OEM services,0.47912412881851196
+OEM targeted attacks,Side-channel attacks against car components,0.2241368442773819
+OEM targeted attacks,Smart key bruteforcing,0.28800755739212036
+OEM targeted attacks,Smart key cloning,0.142691969871521
+OEM targeted attacks,Smart key jamming,0.21640615165233612
+OEM targeted attacks,Software vulnerabilities exploitation in OEM and/or car services,0.41697877645492554
+OEM targeted attacks,Theft of car,-0.01061229407787323
+OEM targeted attacks,Threats targeting autonomous sensors,0.3107645809650421
+OEM targeted attacks,Unauthorised access in OEM and/or car services,0.2407793551683426
+OEM targeted attacks,Unreliable sources of information and/or rogue car components,-0.003289696993306279
+OEM targeted attacks,V2X data tampering,0.0836658775806427
+OEM targeted attacks,V2X Denial of Service,0.053229138255119324
+OEM targeted attacks,V2X eavesdropping,0.14451956748962402
+OEM targeted attacks,V2X message replay,0.17914603650569916
+OEM targeted attacks,Violation of rules and regulations/Breach of legislation/ Abuse of driver personal data,0.08009837567806244
+OEM targeted attacks,Collection of data not required for the driver-consented purpose,0.11146730184555054
+OEM targeted attacks,Consent-related issues with driver,0.1187838464975357
+OEM targeted attacks,Data aggregation and profiling of driver,0.225459486246109
+OEM targeted attacks,Inability of driver to access and modify data,0.10199208557605743
+OEM targeted attacks,"Inappropriate or non-transparent policies, agreements, terms and conditions to driver",0.03721414878964424
+OEM targeted attacks,Insecure data transfer in OEM and/or car services,0.3185422718524933
+OEM targeted attacks,Insufficient data breach response from OEM,0.45591455698013306
+OEM targeted attacks,Insufficient data quality in OEM and/or car services,0.17194409668445587
+OEM targeted attacks,Insufficient data structure model to handle driver rights,0.03257579356431961
+OEM targeted attacks,Insufficient deletion of driver data,0.00036370474845170975
+OEM targeted attacks,Misleading content in OEM services,0.4601612091064453
+OEM targeted attacks,Operator-sided data leakage in OEM and/or car devices,0.2739739418029785
+OEM targeted attacks,Secondary use of driver data,0.12678265571594238
+OEM targeted attacks,"Sharing, transfer or processing through 3rd party of driver data",0.10299868881702423
+OEM targeted attacks,Software vulnerabilities exploitation in OEM and/or car services,0.41697877645492554
+OEM servers information leakage,Servers violation in OEM services,0.6318939924240112
+OEM servers information leakage,Side-channel attacks against car components,0.22429873049259186
+OEM servers information leakage,Smart key bruteforcing,0.2741349935531616
+OEM servers information leakage,Smart key cloning,0.16204290091991425
+OEM servers information leakage,Smart key jamming,0.2827194929122925
+OEM servers information leakage,Software vulnerabilities exploitation in OEM and/or car services,0.4888012409210205
+OEM servers information leakage,Theft of car,0.21288543939590454
+OEM servers information leakage,Threats targeting autonomous sensors,0.29049938917160034
+OEM servers information leakage,Unauthorised access in OEM and/or car services,0.5685040354728699
+OEM servers information leakage,Unreliable sources of information and/or rogue car components,0.3279057443141937
+OEM servers information leakage,V2X data tampering,0.38608449697494507
+OEM servers information leakage,V2X Denial of Service,0.183631032705307
+OEM servers information leakage,V2X eavesdropping,0.34097594022750854
+OEM servers information leakage,V2X message replay,0.33592915534973145
+OEM servers information leakage,Violation of rules and regulations/Breach of legislation/ Abuse of driver personal data,0.2748759090900421
+OEM servers information leakage,Collection of data not required for the driver-consented purpose,0.39134737849235535
+OEM servers information leakage,Consent-related issues with driver,0.16070011258125305
+OEM servers information leakage,Data aggregation and profiling of driver,0.18801933526992798
+OEM servers information leakage,Inability of driver to access and modify data,0.23764267563819885
+OEM servers information leakage,"Inappropriate or non-transparent policies, agreements, terms and conditions to driver",0.20012637972831726
+OEM servers information leakage,Insecure data transfer in OEM and/or car services,0.5109009742736816
+OEM servers information leakage,Insufficient data breach response from OEM,0.4005158543586731
+OEM servers information leakage,Insufficient data quality in OEM and/or car services,0.35178670287132263
+OEM servers information leakage,Insufficient data structure model to handle driver rights,0.20829501748085022
+OEM servers information leakage,Insufficient deletion of driver data,0.3535809814929962
+OEM servers information leakage,Misleading content in OEM services,0.5501847863197327
+OEM servers information leakage,Operator-sided data leakage in OEM and/or car devices,0.6530495882034302
+OEM servers information leakage,Secondary use of driver data,0.36753222346305847
+OEM servers information leakage,"Sharing, transfer or processing through 3rd party of driver data",0.4045078754425049
+OEM servers information leakage,Software vulnerabilities exploitation in OEM and/or car services,0.4888012409210205
+Servers violation in OEM services,Side-channel attacks against car components,0.2832852303981781
+Servers violation in OEM services,Smart key bruteforcing,0.2327715903520584
+Servers violation in OEM services,Smart key cloning,0.06297314167022705
+Servers violation in OEM services,Smart key jamming,0.24522005021572113
+Servers violation in OEM services,Software vulnerabilities exploitation in OEM and/or car services,0.523525595664978
+Servers violation in OEM services,Theft of car,0.1522112637758255
+Servers violation in OEM services,Threats targeting autonomous sensors,0.20785577595233917
+Servers violation in OEM services,Unauthorised access in OEM and/or car services,0.5511192679405212
+Servers violation in OEM services,Unreliable sources of information and/or rogue car components,0.21524199843406677
+Servers violation in OEM services,V2X data tampering,0.31847089529037476
+Servers violation in OEM services,V2X Denial of Service,0.3159494400024414
+Servers violation in OEM services,V2X eavesdropping,0.26823094487190247
+Servers violation in OEM services,V2X message replay,0.3183208405971527
+Servers violation in OEM services,Violation of rules and regulations/Breach of legislation/ Abuse of driver personal data,0.42727550864219666
+Servers violation in OEM services,Collection of data not required for the driver-consented purpose,0.3435179591178894
+Servers violation in OEM services,Consent-related issues with driver,0.3494618833065033
+Servers violation in OEM services,Data aggregation and profiling of driver,0.18649187684059143
+Servers violation in OEM services,Inability of driver to access and modify data,0.27832627296447754
+Servers violation in OEM services,"Inappropriate or non-transparent policies, agreements, terms and conditions to driver",0.3688441514968872
+Servers violation in OEM services,Insecure data transfer in OEM and/or car services,0.4620240330696106
+Servers violation in OEM services,Insufficient data breach response from OEM,0.45457589626312256
+Servers violation in OEM services,Insufficient data quality in OEM and/or car services,0.3803282380104065
+Servers violation in OEM services,Insufficient data structure model to handle driver rights,0.2834675908088684
+Servers violation in OEM services,Insufficient deletion of driver data,0.2923220992088318
+Servers violation in OEM services,Misleading content in OEM services,0.575971245765686
+Servers violation in OEM services,Operator-sided data leakage in OEM and/or car devices,0.5035992860794067
+Servers violation in OEM services,Secondary use of driver data,0.2530018985271454
+Servers violation in OEM services,"Sharing, transfer or processing through 3rd party of driver data",0.29874661564826965
+Servers violation in OEM services,Software vulnerabilities exploitation in OEM and/or car services,0.523525595664978
+Side-channel attacks against car components,Smart key bruteforcing,0.23098525404930115
+Side-channel attacks against car components,Smart key cloning,0.12888841331005096
+Side-channel attacks against car components,Smart key jamming,0.20975039899349213
+Side-channel attacks against car components,Software vulnerabilities exploitation in OEM and/or car services,0.5645808577537537
+Side-channel attacks against car components,Theft of car,0.49049827456474304
+Side-channel attacks against car components,Threats targeting autonomous sensors,0.3728829026222229
+Side-channel attacks against car components,Unauthorised access in OEM and/or car services,0.40977048873901367
+Side-channel attacks against car components,Unreliable sources of information and/or rogue car components,0.5355198979377747
+Side-channel attacks against car components,V2X data tampering,0.30107539892196655
+Side-channel attacks against car components,V2X Denial of Service,0.16803258657455444
+Side-channel attacks against car components,V2X eavesdropping,0.3437283933162689
+Side-channel attacks against car components,V2X message replay,0.21475505828857422
+Side-channel attacks against car components,Violation of rules and regulations/Breach of legislation/ Abuse of driver personal data,0.4980504512786865
+Side-channel attacks against car components,Collection of data not required for the driver-consented purpose,0.3889869451522827
+Side-channel attacks against car components,Consent-related issues with driver,0.36206093430519104
+Side-channel attacks against car components,Data aggregation and profiling of driver,0.3229403793811798
+Side-channel attacks against car components,Inability of driver to access and modify data,0.22856169939041138
+Side-channel attacks against car components,"Inappropriate or non-transparent policies, agreements, terms and conditions to driver",0.3858928680419922
+Side-channel attacks against car components,Insecure data transfer in OEM and/or car services,0.4535554349422455
+Side-channel attacks against car components,Insufficient data breach response from OEM,0.047094058245420456
+Side-channel attacks against car components,Insufficient data quality in OEM and/or car services,0.3500669598579407
+Side-channel attacks against car components,Insufficient data structure model to handle driver rights,0.24396225810050964
+Side-channel attacks against car components,Insufficient deletion of driver data,0.22305600345134735
+Side-channel attacks against car components,Misleading content in OEM services,0.27834510803222656
+Side-channel attacks against car components,Operator-sided data leakage in OEM and/or car devices,0.6155607104301453
+Side-channel attacks against car components,Secondary use of driver data,0.4902106523513794
+Side-channel attacks against car components,"Sharing, transfer or processing through 3rd party of driver data",0.31040793657302856
+Side-channel attacks against car components,Software vulnerabilities exploitation in OEM and/or car services,0.5645808577537537
+Smart key bruteforcing,Smart key cloning,0.552172839641571
+Smart key bruteforcing,Smart key jamming,0.6130801439285278
+Smart key bruteforcing,Software vulnerabilities exploitation in OEM and/or car services,0.3304845690727234
+Smart key bruteforcing,Theft of car,0.2659200429916382
+Smart key bruteforcing,Threats targeting autonomous sensors,0.2941954731941223
+Smart key bruteforcing,Unauthorised access in OEM and/or car services,0.27329277992248535
+Smart key bruteforcing,Unreliable sources of information and/or rogue car components,0.228434756398201
+Smart key bruteforcing,V2X data tampering,0.2469845414161682
+Smart key bruteforcing,V2X Denial of Service,-0.04912961274385452
+Smart key bruteforcing,V2X eavesdropping,0.15874740481376648
+Smart key bruteforcing,V2X message replay,0.1192370355129242
+Smart key bruteforcing,Violation of rules and regulations/Breach of legislation/ Abuse of driver personal data,0.26096808910369873
+Smart key bruteforcing,Collection of data not required for the driver-consented purpose,0.13714024424552917
+Smart key bruteforcing,Consent-related issues with driver,0.15551941096782684
+Smart key bruteforcing,Data aggregation and profiling of driver,0.2261301428079605
+Smart key bruteforcing,Inability of driver to access and modify data,0.07387656718492508
+Smart key bruteforcing,"Inappropriate or non-transparent policies, agreements, terms and conditions to driver",0.12298444658517838
+Smart key bruteforcing,Insecure data transfer in OEM and/or car services,0.30594050884246826
+Smart key bruteforcing,Insufficient data breach response from OEM,0.054670363664627075
+Smart key bruteforcing,Insufficient data quality in OEM and/or car services,0.17497357726097107
+Smart key bruteforcing,Insufficient data structure model to handle driver rights,0.09032299369573593
+Smart key bruteforcing,Insufficient deletion of driver data,0.09506581723690033
+Smart key bruteforcing,Misleading content in OEM services,0.25087055563926697
+Smart key bruteforcing,Operator-sided data leakage in OEM and/or car devices,0.32617250084877014
+Smart key bruteforcing,Secondary use of driver data,0.22501173615455627
+Smart key bruteforcing,"Sharing, transfer or processing through 3rd party of driver data",0.2411685287952423
+Smart key bruteforcing,Software vulnerabilities exploitation in OEM and/or car services,0.3304845690727234
+Smart key cloning,Smart key jamming,0.6459373235702515
+Smart key cloning,Software vulnerabilities exploitation in OEM and/or car services,0.21671956777572632
+Smart key cloning,Theft of car,0.20350557565689087
+Smart key cloning,Threats targeting autonomous sensors,0.336250364780426
+Smart key cloning,Unauthorised access in OEM and/or car services,0.20230180025100708
+Smart key cloning,Unreliable sources of information and/or rogue car components,0.15020869672298431
+Smart key cloning,V2X data tampering,0.2535046637058258
+Smart key cloning,V2X Denial of Service,-0.0034169151913374662
+Smart key cloning,V2X eavesdropping,0.1322886049747467
+Smart key cloning,V2X message replay,0.08076968789100647
+Smart key cloning,Violation of rules and regulations/Breach of legislation/ Abuse of driver personal data,0.1314205378293991
+Smart key cloning,Collection of data not required for the driver-consented purpose,0.082160085439682
+Smart key cloning,Consent-related issues with driver,0.06443673372268677
+Smart key cloning,Data aggregation and profiling of driver,0.14939437806606293
+Smart key cloning,Inability of driver to access and modify data,0.08855739235877991
+Smart key cloning,"Inappropriate or non-transparent policies, agreements, terms and conditions to driver",0.05642051622271538
+Smart key cloning,Insecure data transfer in OEM and/or car services,0.16752849519252777
+Smart key cloning,Insufficient data breach response from OEM,-0.014752786606550217
+Smart key cloning,Insufficient data quality in OEM and/or car services,0.12958677113056183
+Smart key cloning,Insufficient data structure model to handle driver rights,0.029081668704748154
+Smart key cloning,Insufficient deletion of driver data,0.16301168501377106
+Smart key cloning,Misleading content in OEM services,0.1286887526512146
+Smart key cloning,Operator-sided data leakage in OEM and/or car devices,0.2063828408718109
+Smart key cloning,Secondary use of driver data,0.16385844349861145
+Smart key cloning,"Sharing, transfer or processing through 3rd party of driver data",0.024015821516513824
+Smart key cloning,Software vulnerabilities exploitation in OEM and/or car services,0.21671956777572632
+Smart key jamming,Software vulnerabilities exploitation in OEM and/or car services,0.31513354182243347
+Smart key jamming,Theft of car,0.2600387632846832
+Smart key jamming,Threats targeting autonomous sensors,0.343623548746109
+Smart key jamming,Unauthorised access in OEM and/or car services,0.327856183052063
+Smart key jamming,Unreliable sources of information and/or rogue car components,0.20195937156677246
+Smart key jamming,V2X data tampering,0.28380006551742554
+Smart key jamming,V2X Denial of Service,0.05661008134484291
+Smart key jamming,V2X eavesdropping,0.16961213946342468
+Smart key jamming,V2X message replay,0.1659601926803589
+Smart key jamming,Violation of rules and regulations/Breach of legislation/ Abuse of driver personal data,0.26552534103393555
+Smart key jamming,Collection of data not required for the driver-consented purpose,0.20126953721046448
+Smart key jamming,Consent-related issues with driver,0.2221878170967102
+Smart key jamming,Data aggregation and profiling of driver,0.24423010647296906
+Smart key jamming,Inability of driver to access and modify data,0.2716645300388336
+Smart key jamming,"Inappropriate or non-transparent policies, agreements, terms and conditions to driver",0.2565159201622009
+Smart key jamming,Insecure data transfer in OEM and/or car services,0.3441604673862457
+Smart key jamming,Insufficient data breach response from OEM,0.007073581218719482
+Smart key jamming,Insufficient data quality in OEM and/or car services,0.1560884416103363
+Smart key jamming,Insufficient data structure model to handle driver rights,0.1812843680381775
+Smart key jamming,Insufficient deletion of driver data,0.21659314632415771
+Smart key jamming,Misleading content in OEM services,0.21834859251976013
+Smart key jamming,Operator-sided data leakage in OEM and/or car devices,0.3466818630695343
+Smart key jamming,Secondary use of driver data,0.23001033067703247
+Smart key jamming,"Sharing, transfer or processing through 3rd party of driver data",0.2084810435771942
+Smart key jamming,Software vulnerabilities exploitation in OEM and/or car services,0.31513354182243347
+Software vulnerabilities exploitation in OEM and/or car services,Theft of car,0.5272623300552368
+Software vulnerabilities exploitation in OEM and/or car services,Threats targeting autonomous sensors,0.3685520589351654
+Software vulnerabilities exploitation in OEM and/or car services,Unauthorised access in OEM and/or car services,0.7025938034057617
+Software vulnerabilities exploitation in OEM and/or car services,Unreliable sources of information and/or rogue car components,0.4670209288597107
+Software vulnerabilities exploitation in OEM and/or car services,V2X data tampering,0.31183409690856934
+Software vulnerabilities exploitation in OEM and/or car services,V2X Denial of Service,0.1386057734489441
+Software vulnerabilities exploitation in OEM and/or car services,V2X eavesdropping,0.2919590473175049
+Software vulnerabilities exploitation in OEM and/or car services,V2X message replay,0.18824800848960876
+Software vulnerabilities exploitation in OEM and/or car services,Violation of rules and regulations/Breach of legislation/ Abuse of driver personal data,0.5922698974609375
+Software vulnerabilities exploitation in OEM and/or car services,Collection of data not required for the driver-consented purpose,0.40258973836898804
+Software vulnerabilities exploitation in OEM and/or car services,Consent-related issues with driver,0.36954981088638306
+Software vulnerabilities exploitation in OEM and/or car services,Data aggregation and profiling of driver,0.4022710919380188
+Software vulnerabilities exploitation in OEM and/or car services,Inability of driver to access and modify data,0.3330762982368469
+Software vulnerabilities exploitation in OEM and/or car services,"Inappropriate or non-transparent policies, agreements, terms and conditions to driver",0.4348761737346649
+Software vulnerabilities exploitation in OEM and/or car services,Insecure data transfer in OEM and/or car services,0.6690794229507446
+Software vulnerabilities exploitation in OEM and/or car services,Insufficient data breach response from OEM,0.3049655556678772
+Software vulnerabilities exploitation in OEM and/or car services,Insufficient data quality in OEM and/or car services,0.5974773168563843
+Software vulnerabilities exploitation in OEM and/or car services,Insufficient data structure model to handle driver rights,0.42351990938186646
+Software vulnerabilities exploitation in OEM and/or car services,Insufficient deletion of driver data,0.2752137780189514
+Software vulnerabilities exploitation in OEM and/or car services,Misleading content in OEM services,0.45553478598594666
+Software vulnerabilities exploitation in OEM and/or car services,Operator-sided data leakage in OEM and/or car devices,0.7451269626617432
+Software vulnerabilities exploitation in OEM and/or car services,Secondary use of driver data,0.38784024119377136
+Software vulnerabilities exploitation in OEM and/or car services,"Sharing, transfer or processing through 3rd party of driver data",0.3664554953575134
+Software vulnerabilities exploitation in OEM and/or car services,Software vulnerabilities exploitation in OEM and/or car services,0.9999999403953552
+Theft of car,Threats targeting autonomous sensors,0.15982192754745483
+Theft of car,Unauthorised access in OEM and/or car services,0.5257651209831238
+Theft of car,Unreliable sources of information and/or rogue car components,0.5269966125488281
+Theft of car,V2X data tampering,0.23085778951644897
+Theft of car,V2X Denial of Service,0.06674270331859589
+Theft of car,V2X eavesdropping,0.1431807577610016
+Theft of car,V2X message replay,0.04616057872772217
+Theft of car,Violation of rules and regulations/Breach of legislation/ Abuse of driver personal data,0.4388658106327057
+Theft of car,Collection of data not required for the driver-consented purpose,0.25862595438957214
+Theft of car,Consent-related issues with driver,0.28768110275268555
+Theft of car,Data aggregation and profiling of driver,0.31623536348342896
+Theft of car,Inability of driver to access and modify data,0.30052870512008667
+Theft of car,"Inappropriate or non-transparent policies, agreements, terms and conditions to driver",0.32551419734954834
+Theft of car,Insecure data transfer in OEM and/or car services,0.46465960144996643
+Theft of car,Insufficient data breach response from OEM,-0.029532415792346
+Theft of car,Insufficient data quality in OEM and/or car services,0.4331452250480652
+Theft of car,Insufficient data structure model to handle driver rights,0.33691930770874023
+Theft of car,Insufficient deletion of driver data,0.2775194048881531
+Theft of car,Misleading content in OEM services,0.1703052520751953
+Theft of car,Operator-sided data leakage in OEM and/or car devices,0.5552787184715271
+Theft of car,Secondary use of driver data,0.36971545219421387
+Theft of car,"Sharing, transfer or processing through 3rd party of driver data",0.3368217349052429
+Theft of car,Software vulnerabilities exploitation in OEM and/or car services,0.5272623300552368
+Threats targeting autonomous sensors,Unauthorised access in OEM and/or car services,0.21907037496566772
+Threats targeting autonomous sensors,Unreliable sources of information and/or rogue car components,0.25178784132003784
+Threats targeting autonomous sensors,V2X data tampering,0.19702544808387756
+Threats targeting autonomous sensors,V2X Denial of Service,0.12517568469047546
+Threats targeting autonomous sensors,V2X eavesdropping,0.2674352824687958
+Threats targeting autonomous sensors,V2X message replay,0.14440210163593292
+Threats targeting autonomous sensors,Violation of rules and regulations/Breach of legislation/ Abuse of driver personal data,0.3288421630859375
+Threats targeting autonomous sensors,Collection of data not required for the driver-consented purpose,0.3377031087875366
+Threats targeting autonomous sensors,Consent-related issues with driver,0.2740520238876343
+Threats targeting autonomous sensors,Data aggregation and profiling of driver,0.3214699923992157
+Threats targeting autonomous sensors,Inability of driver to access and modify data,0.19096136093139648
+Threats targeting autonomous sensors,"Inappropriate or non-transparent policies, agreements, terms and conditions to driver",0.20240721106529236
+Threats targeting autonomous sensors,Insecure data transfer in OEM and/or car services,0.3989908695220947
+Threats targeting autonomous sensors,Insufficient data breach response from OEM,0.1048269271850586
+Threats targeting autonomous sensors,Insufficient data quality in OEM and/or car services,0.16697798669338226
+Threats targeting autonomous sensors,Insufficient data structure model to handle driver rights,0.1405680924654007
+Threats targeting autonomous sensors,Insufficient deletion of driver data,0.23920801281929016
+Threats targeting autonomous sensors,Misleading content in OEM services,0.21889936923980713
+Threats targeting autonomous sensors,Operator-sided data leakage in OEM and/or car devices,0.3320351243019104
+Threats targeting autonomous sensors,Secondary use of driver data,0.26826027035713196
+Threats targeting autonomous sensors,"Sharing, transfer or processing through 3rd party of driver data",0.11105068027973175
+Threats targeting autonomous sensors,Software vulnerabilities exploitation in OEM and/or car services,0.3685520589351654
+Unauthorised access in OEM and/or car services,Unreliable sources of information and/or rogue car components,0.5561196804046631
+Unauthorised access in OEM and/or car services,V2X data tampering,0.33085834980010986
+Unauthorised access in OEM and/or car services,V2X Denial of Service,0.25208741426467896
+Unauthorised access in OEM and/or car services,V2X eavesdropping,0.267024427652359
+Unauthorised access in OEM and/or car services,V2X message replay,0.187949538230896
+Unauthorised access in OEM and/or car services,Violation of rules and regulations/Breach of legislation/ Abuse of driver personal data,0.49299970269203186
+Unauthorised access in OEM and/or car services,Collection of data not required for the driver-consented purpose,0.4997159540653229
+Unauthorised access in OEM and/or car services,Consent-related issues with driver,0.374557226896286
+Unauthorised access in OEM and/or car services,Data aggregation and profiling of driver,0.2972455620765686
+Unauthorised access in OEM and/or car services,Inability of driver to access and modify data,0.47956064343452454
+Unauthorised access in OEM and/or car services,"Inappropriate or non-transparent policies, agreements, terms and conditions to driver",0.4898998737335205
+Unauthorised access in OEM and/or car services,Insecure data transfer in OEM and/or car services,0.6759382486343384
+Unauthorised access in OEM and/or car services,Insufficient data breach response from OEM,0.28892457485198975
+Unauthorised access in OEM and/or car services,Insufficient data quality in OEM and/or car services,0.5699958801269531
+Unauthorised access in OEM and/or car services,Insufficient data structure model to handle driver rights,0.5257939100265503
+Unauthorised access in OEM and/or car services,Insufficient deletion of driver data,0.3723323345184326
+Unauthorised access in OEM and/or car services,Misleading content in OEM services,0.469320148229599
+Unauthorised access in OEM and/or car services,Operator-sided data leakage in OEM and/or car devices,0.7331372499465942
+Unauthorised access in OEM and/or car services,Secondary use of driver data,0.4337911307811737
+Unauthorised access in OEM and/or car services,"Sharing, transfer or processing through 3rd party of driver data",0.442501425743103
+Unauthorised access in OEM and/or car services,Software vulnerabilities exploitation in OEM and/or car services,0.7025938034057617
+Unreliable sources of information and/or rogue car components,V2X data tampering,0.3817988634109497
+Unreliable sources of information and/or rogue car components,V2X Denial of Service,0.12145812809467316
+Unreliable sources of information and/or rogue car components,V2X eavesdropping,0.2635650634765625
+Unreliable sources of information and/or rogue car components,V2X message replay,0.10116302222013474
+Unreliable sources of information and/or rogue car components,Violation of rules and regulations/Breach of legislation/ Abuse of driver personal data,0.4944014251232147
+Unreliable sources of information and/or rogue car components,Collection of data not required for the driver-consented purpose,0.5603131055831909
+Unreliable sources of information and/or rogue car components,Consent-related issues with driver,0.3104957640171051
+Unreliable sources of information and/or rogue car components,Data aggregation and profiling of driver,0.25801098346710205
+Unreliable sources of information and/or rogue car components,Inability of driver to access and modify data,0.3794782757759094
+Unreliable sources of information and/or rogue car components,"Inappropriate or non-transparent policies, agreements, terms and conditions to driver",0.503227949142456
+Unreliable sources of information and/or rogue car components,Insecure data transfer in OEM and/or car services,0.48459452390670776
+Unreliable sources of information and/or rogue car components,Insufficient data breach response from OEM,0.18294757604599
+Unreliable sources of information and/or rogue car components,Insufficient data quality in OEM and/or car services,0.5814543962478638
+Unreliable sources of information and/or rogue car components,Insufficient data structure model to handle driver rights,0.44419896602630615
+Unreliable sources of information and/or rogue car components,Insufficient deletion of driver data,0.4636172652244568
+Unreliable sources of information and/or rogue car components,Misleading content in OEM services,0.4797850251197815
+Unreliable sources of information and/or rogue car components,Operator-sided data leakage in OEM and/or car devices,0.6125274896621704
+Unreliable sources of information and/or rogue car components,Secondary use of driver data,0.4403396546840668
+Unreliable sources of information and/or rogue car components,"Sharing, transfer or processing through 3rd party of driver data",0.3423384726047516
+Unreliable sources of information and/or rogue car components,Software vulnerabilities exploitation in OEM and/or car services,0.4670209288597107
+V2X data tampering,V2X Denial of Service,0.4559643268585205
+V2X data tampering,V2X eavesdropping,0.6793672442436218
+V2X data tampering,V2X message replay,0.6005666851997375
+V2X data tampering,Violation of rules and regulations/Breach of legislation/ Abuse of driver personal data,0.3439093232154846
+V2X data tampering,Collection of data not required for the driver-consented purpose,0.2771049737930298
+V2X data tampering,Consent-related issues with driver,0.10081803798675537
+V2X data tampering,Data aggregation and profiling of driver,0.08998031169176102
+V2X data tampering,Inability of driver to access and modify data,0.16897942125797272
+V2X data tampering,"Inappropriate or non-transparent policies, agreements, terms and conditions to driver",0.18455320596694946
+V2X data tampering,Insecure data transfer in OEM and/or car services,0.242015540599823
+V2X data tampering,Insufficient data breach response from OEM,0.13551446795463562
+V2X data tampering,Insufficient data quality in OEM and/or car services,0.18540161848068237
+V2X data tampering,Insufficient data structure model to handle driver rights,0.1442597210407257
+V2X data tampering,Insufficient deletion of driver data,0.2329597771167755
+V2X data tampering,Misleading content in OEM services,0.3932951092720032
+V2X data tampering,Operator-sided data leakage in OEM and/or car devices,0.38233742117881775
+V2X data tampering,Secondary use of driver data,0.49518731236457825
+V2X data tampering,"Sharing, transfer or processing through 3rd party of driver data",0.18769079446792603
+V2X data tampering,Software vulnerabilities exploitation in OEM and/or car services,0.31183409690856934
+V2X Denial of Service,V2X eavesdropping,0.4389759302139282
+V2X Denial of Service,V2X message replay,0.48601090908050537
+V2X Denial of Service,Violation of rules and regulations/Breach of legislation/ Abuse of driver personal data,0.08188153803348541
+V2X Denial of Service,Collection of data not required for the driver-consented purpose,0.2512599229812622
+V2X Denial of Service,Consent-related issues with driver,0.17804810404777527
+V2X Denial of Service,Data aggregation and profiling of driver,0.017420634627342224
+V2X Denial of Service,Inability of driver to access and modify data,0.2946698069572449
+V2X Denial of Service,"Inappropriate or non-transparent policies, agreements, terms and conditions to driver",0.26952970027923584
+V2X Denial of Service,Insecure data transfer in OEM and/or car services,0.2073582261800766
+V2X Denial of Service,Insufficient data breach response from OEM,0.24455077946186066
+V2X Denial of Service,Insufficient data quality in OEM and/or car services,0.12043917179107666
+V2X Denial of Service,Insufficient data structure model to handle driver rights,0.21506762504577637
+V2X Denial of Service,Insufficient deletion of driver data,0.2639923691749573
+V2X Denial of Service,Misleading content in OEM services,0.12135189771652222
+V2X Denial of Service,Operator-sided data leakage in OEM and/or car devices,0.15400587022304535
+V2X Denial of Service,Secondary use of driver data,0.3221922814846039
+V2X Denial of Service,"Sharing, transfer or processing through 3rd party of driver data",0.06934294104576111
+V2X Denial of Service,Software vulnerabilities exploitation in OEM and/or car services,0.1386057734489441
+V2X eavesdropping,V2X message replay,0.6215173602104187
+V2X eavesdropping,Violation of rules and regulations/Breach of legislation/ Abuse of driver personal data,0.2426922768354416
+V2X eavesdropping,Collection of data not required for the driver-consented purpose,0.2697320282459259
+V2X eavesdropping,Consent-related issues with driver,0.1182582750916481
+V2X eavesdropping,Data aggregation and profiling of driver,0.183174729347229
+V2X eavesdropping,Inability of driver to access and modify data,0.07628193497657776
+V2X eavesdropping,"Inappropriate or non-transparent policies, agreements, terms and conditions to driver",0.1551470011472702
+V2X eavesdropping,Insecure data transfer in OEM and/or car services,0.28305524587631226
+V2X eavesdropping,Insufficient data breach response from OEM,0.175519660115242
+V2X eavesdropping,Insufficient data quality in OEM and/or car services,0.1701289862394333
+V2X eavesdropping,Insufficient data structure model to handle driver rights,0.13912975788116455
+V2X eavesdropping,Insufficient deletion of driver data,0.16333243250846863
+V2X eavesdropping,Misleading content in OEM services,0.1809297651052475
+V2X eavesdropping,Operator-sided data leakage in OEM and/or car devices,0.40154218673706055
+V2X eavesdropping,Secondary use of driver data,0.5234834551811218
+V2X eavesdropping,"Sharing, transfer or processing through 3rd party of driver data",0.20679005980491638
+V2X eavesdropping,Software vulnerabilities exploitation in OEM and/or car services,0.2919590473175049
+V2X message replay,Violation of rules and regulations/Breach of legislation/ Abuse of driver personal data,0.08560150861740112
+V2X message replay,Collection of data not required for the driver-consented purpose,0.11841662973165512
+V2X message replay,Consent-related issues with driver,0.04270799458026886
+V2X message replay,Data aggregation and profiling of driver,0.09705810993909836
+V2X message replay,Inability of driver to access and modify data,0.17897504568099976
+V2X message replay,"Inappropriate or non-transparent policies, agreements, terms and conditions to driver",0.12972067296504974
+V2X message replay,Insecure data transfer in OEM and/or car services,0.18607120215892792
+V2X message replay,Insufficient data breach response from OEM,0.12449648976325989
+V2X message replay,Insufficient data quality in OEM and/or car services,0.10321874171495438
+V2X message replay,Insufficient data structure model to handle driver rights,0.07970888167619705
+V2X message replay,Insufficient deletion of driver data,0.15432992577552795
+V2X message replay,Misleading content in OEM services,0.30401888489723206
+V2X message replay,Operator-sided data leakage in OEM and/or car devices,0.24781417846679688
+V2X message replay,Secondary use of driver data,0.46479400992393494
+V2X message replay,"Sharing, transfer or processing through 3rd party of driver data",0.21637743711471558
+V2X message replay,Software vulnerabilities exploitation in OEM and/or car services,0.18824800848960876
+Violation of rules and regulations/Breach of legislation/ Abuse of driver personal data,Collection of data not required for the driver-consented purpose,0.5050667524337769
+Violation of rules and regulations/Breach of legislation/ Abuse of driver personal data,Consent-related issues with driver,0.4763113856315613
+Violation of rules and regulations/Breach of legislation/ Abuse of driver personal data,Data aggregation and profiling of driver,0.42747044563293457
+Violation of rules and regulations/Breach of legislation/ Abuse of driver personal data,Inability of driver to access and modify data,0.3473176956176758
+Violation of rules and regulations/Breach of legislation/ Abuse of driver personal data,"Inappropriate or non-transparent policies, agreements, terms and conditions to driver",0.6063680648803711
+Violation of rules and regulations/Breach of legislation/ Abuse of driver personal data,Insecure data transfer in OEM and/or car services,0.4586983025074005
+Violation of rules and regulations/Breach of legislation/ Abuse of driver personal data,Insufficient data breach response from OEM,0.14248257875442505
+Violation of rules and regulations/Breach of legislation/ Abuse of driver personal data,Insufficient data quality in OEM and/or car services,0.37671828269958496
+Violation of rules and regulations/Breach of legislation/ Abuse of driver personal data,Insufficient data structure model to handle driver rights,0.48945122957229614
+Violation of rules and regulations/Breach of legislation/ Abuse of driver personal data,Insufficient deletion of driver data,0.39533692598342896
+Violation of rules and regulations/Breach of legislation/ Abuse of driver personal data,Misleading content in OEM services,0.2659797668457031
+Violation of rules and regulations/Breach of legislation/ Abuse of driver personal data,Operator-sided data leakage in OEM and/or car devices,0.5232676863670349
+Violation of rules and regulations/Breach of legislation/ Abuse of driver personal data,Secondary use of driver data,0.3638917803764343
+Violation of rules and regulations/Breach of legislation/ Abuse of driver personal data,"Sharing, transfer or processing through 3rd party of driver data",0.3627850413322449
+Violation of rules and regulations/Breach of legislation/ Abuse of driver personal data,Software vulnerabilities exploitation in OEM and/or car services,0.5922698974609375
+Collection of data not required for the driver-consented purpose,Consent-related issues with driver,0.5574462413787842
+Collection of data not required for the driver-consented purpose,Data aggregation and profiling of driver,0.47787871956825256
+Collection of data not required for the driver-consented purpose,Inability of driver to access and modify data,0.4938991963863373
+Collection of data not required for the driver-consented purpose,"Inappropriate or non-transparent policies, agreements, terms and conditions to driver",0.5876961946487427
+Collection of data not required for the driver-consented purpose,Insecure data transfer in OEM and/or car services,0.46194034814834595
+Collection of data not required for the driver-consented purpose,Insufficient data breach response from OEM,0.17888253927230835
+Collection of data not required for the driver-consented purpose,Insufficient data quality in OEM and/or car services,0.39278119802474976
+Collection of data not required for the driver-consented purpose,Insufficient data structure model to handle driver rights,0.5218234062194824
+Collection of data not required for the driver-consented purpose,Insufficient deletion of driver data,0.5470269918441772
+Collection of data not required for the driver-consented purpose,Misleading content in OEM services,0.31593015789985657
+Collection of data not required for the driver-consented purpose,Operator-sided data leakage in OEM and/or car devices,0.5082265734672546
+Collection of data not required for the driver-consented purpose,Secondary use of driver data,0.4900705814361572
+Collection of data not required for the driver-consented purpose,"Sharing, transfer or processing through 3rd party of driver data",0.44948235154151917
+Collection of data not required for the driver-consented purpose,Software vulnerabilities exploitation in OEM and/or car services,0.40258973836898804
+Consent-related issues with driver,Data aggregation and profiling of driver,0.4569099247455597
+Consent-related issues with driver,Inability of driver to access and modify data,0.3890678286552429
+Consent-related issues with driver,"Inappropriate or non-transparent policies, agreements, terms and conditions to driver",0.5676629543304443
+Consent-related issues with driver,Insecure data transfer in OEM and/or car services,0.4402369260787964
+Consent-related issues with driver,Insufficient data breach response from OEM,0.08335267007350922
+Consent-related issues with driver,Insufficient data quality in OEM and/or car services,0.32552117109298706
+Consent-related issues with driver,Insufficient data structure model to handle driver rights,0.48875439167022705
+Consent-related issues with driver,Insufficient deletion of driver data,0.271343857049942
+Consent-related issues with driver,Misleading content in OEM services,0.13910984992980957
+Consent-related issues with driver,Operator-sided data leakage in OEM and/or car devices,0.33296507596969604
+Consent-related issues with driver,Secondary use of driver data,0.3349689543247223
+Consent-related issues with driver,"Sharing, transfer or processing through 3rd party of driver data",0.37010809779167175
+Consent-related issues with driver,Software vulnerabilities exploitation in OEM and/or car services,0.36954981088638306
+Data aggregation and profiling of driver,Inability of driver to access and modify data,0.4537443518638611
+Data aggregation and profiling of driver,"Inappropriate or non-transparent policies, agreements, terms and conditions to driver",0.33031773567199707
+Data aggregation and profiling of driver,Insecure data transfer in OEM and/or car services,0.3926217555999756
+Data aggregation and profiling of driver,Insufficient data breach response from OEM,0.012228650972247124
+Data aggregation and profiling of driver,Insufficient data quality in OEM and/or car services,0.335496723651886
+Data aggregation and profiling of driver,Insufficient data structure model to handle driver rights,0.4949762225151062
+Data aggregation and profiling of driver,Insufficient deletion of driver data,0.3297654986381531
+Data aggregation and profiling of driver,Misleading content in OEM services,0.05723588913679123
+Data aggregation and profiling of driver,Operator-sided data leakage in OEM and/or car devices,0.37542957067489624
+Data aggregation and profiling of driver,Secondary use of driver data,0.48392707109451294
+Data aggregation and profiling of driver,"Sharing, transfer or processing through 3rd party of driver data",0.453454852104187
+Data aggregation and profiling of driver,Software vulnerabilities exploitation in OEM and/or car services,0.4022710919380188
+Inability of driver to access and modify data,"Inappropriate or non-transparent policies, agreements, terms and conditions to driver",0.5285471081733704
+Inability of driver to access and modify data,Insecure data transfer in OEM and/or car services,0.4334986209869385
+Inability of driver to access and modify data,Insufficient data breach response from OEM,0.2346825748682022
+Inability of driver to access and modify data,Insufficient data quality in OEM and/or car services,0.4117927849292755
+Inability of driver to access and modify data,Insufficient data structure model to handle driver rights,0.6678492426872253
+Inability of driver to access and modify data,Insufficient deletion of driver data,0.5260456204414368
+Inability of driver to access and modify data,Misleading content in OEM services,0.18973302841186523
+Inability of driver to access and modify data,Operator-sided data leakage in OEM and/or car devices,0.3520938754081726
+Inability of driver to access and modify data,Secondary use of driver data,0.308226078748703
+Inability of driver to access and modify data,"Sharing, transfer or processing through 3rd party of driver data",0.33361101150512695
+Inability of driver to access and modify data,Software vulnerabilities exploitation in OEM and/or car services,0.3330762982368469
+"Inappropriate or non-transparent policies, agreements, terms and conditions to driver",Insecure data transfer in OEM and/or car services,0.41051316261291504
+"Inappropriate or non-transparent policies, agreements, terms and conditions to driver",Insufficient data breach response from OEM,0.11628776043653488
+"Inappropriate or non-transparent policies, agreements, terms and conditions to driver",Insufficient data quality in OEM and/or car services,0.4891473650932312
+"Inappropriate or non-transparent policies, agreements, terms and conditions to driver",Insufficient data structure model to handle driver rights,0.6172686815261841
+"Inappropriate or non-transparent policies, agreements, terms and conditions to driver",Insufficient deletion of driver data,0.4591599702835083
+"Inappropriate or non-transparent policies, agreements, terms and conditions to driver",Misleading content in OEM services,0.23986822366714478
+"Inappropriate or non-transparent policies, agreements, terms and conditions to driver",Operator-sided data leakage in OEM and/or car devices,0.40314412117004395
+"Inappropriate or non-transparent policies, agreements, terms and conditions to driver",Secondary use of driver data,0.3218180537223816
+"Inappropriate or non-transparent policies, agreements, terms and conditions to driver","Sharing, transfer or processing through 3rd party of driver data",0.36615344882011414
+"Inappropriate or non-transparent policies, agreements, terms and conditions to driver",Software vulnerabilities exploitation in OEM and/or car services,0.4348761737346649
+Insecure data transfer in OEM and/or car services,Insufficient data breach response from OEM,0.3555167317390442
+Insecure data transfer in OEM and/or car services,Insufficient data quality in OEM and/or car services,0.5424340963363647
+Insecure data transfer in OEM and/or car services,Insufficient data structure model to handle driver rights,0.47283029556274414
+Insecure data transfer in OEM and/or car services,Insufficient deletion of driver data,0.3071560561656952
+Insecure data transfer in OEM and/or car services,Misleading content in OEM services,0.3887512683868408
+Insecure data transfer in OEM and/or car services,Operator-sided data leakage in OEM and/or car devices,0.6740127801895142
+Insecure data transfer in OEM and/or car services,Secondary use of driver data,0.4259375333786011
+Insecure data transfer in OEM and/or car services,"Sharing, transfer or processing through 3rd party of driver data",0.5094439387321472
+Insecure data transfer in OEM and/or car services,Software vulnerabilities exploitation in OEM and/or car services,0.6690794229507446
+Insufficient data breach response from OEM,Insufficient data quality in OEM and/or car services,0.4529663324356079
+Insufficient data breach response from OEM,Insufficient data structure model to handle driver rights,0.3329089283943176
+Insufficient data breach response from OEM,Insufficient deletion of driver data,0.3310871720314026
+Insufficient data breach response from OEM,Misleading content in OEM services,0.387440949678421
+Insufficient data breach response from OEM,Operator-sided data leakage in OEM and/or car devices,0.2506225109100342
+Insufficient data breach response from OEM,Secondary use of driver data,0.08557017147541046
+Insufficient data breach response from OEM,"Sharing, transfer or processing through 3rd party of driver data",0.07131116837263107
+Insufficient data breach response from OEM,Software vulnerabilities exploitation in OEM and/or car services,0.3049655556678772
+Insufficient data quality in OEM and/or car services,Insufficient data structure model to handle driver rights,0.621225118637085
+Insufficient data quality in OEM and/or car services,Insufficient deletion of driver data,0.5148921608924866
+Insufficient data quality in OEM and/or car services,Misleading content in OEM services,0.4458591341972351
+Insufficient data quality in OEM and/or car services,Operator-sided data leakage in OEM and/or car devices,0.5811386108398438
+Insufficient data quality in OEM and/or car services,Secondary use of driver data,0.40717366337776184
+Insufficient data quality in OEM and/or car services,"Sharing, transfer or processing through 3rd party of driver data",0.2967424988746643
+Insufficient data quality in OEM and/or car services,Software vulnerabilities exploitation in OEM and/or car services,0.5974773168563843
+Insufficient data structure model to handle driver rights,Insufficient deletion of driver data,0.5578873157501221
+Insufficient data structure model to handle driver rights,Misleading content in OEM services,0.1657017469406128
+Insufficient data structure model to handle driver rights,Operator-sided data leakage in OEM and/or car devices,0.37420347332954407
+Insufficient data structure model to handle driver rights,Secondary use of driver data,0.37496840953826904
+Insufficient data structure model to handle driver rights,"Sharing, transfer or processing through 3rd party of driver data",0.42472314834594727
+Insufficient data structure model to handle driver rights,Software vulnerabilities exploitation in OEM and/or car services,0.42351990938186646
+Insufficient deletion of driver data,Misleading content in OEM services,0.23396378755569458
+Insufficient deletion of driver data,Operator-sided data leakage in OEM and/or car devices,0.4184325635433197
+Insufficient deletion of driver data,Secondary use of driver data,0.3672451972961426
+Insufficient deletion of driver data,"Sharing, transfer or processing through 3rd party of driver data",0.3027377724647522
+Insufficient deletion of driver data,Software vulnerabilities exploitation in OEM and/or car services,0.2752137780189514
+Misleading content in OEM services,Operator-sided data leakage in OEM and/or car devices,0.4977077841758728
+Misleading content in OEM services,Secondary use of driver data,0.3100811243057251
+Misleading content in OEM services,"Sharing, transfer or processing through 3rd party of driver data",0.23826122283935547
+Misleading content in OEM services,Software vulnerabilities exploitation in OEM and/or car services,0.45553478598594666
+Operator-sided data leakage in OEM and/or car devices,Secondary use of driver data,0.5522542595863342
+Operator-sided data leakage in OEM and/or car devices,"Sharing, transfer or processing through 3rd party of driver data",0.4521837830543518
+Operator-sided data leakage in OEM and/or car devices,Software vulnerabilities exploitation in OEM and/or car services,0.7451269626617432
+Secondary use of driver data,"Sharing, transfer or processing through 3rd party of driver data",0.4125541150569916
+Secondary use of driver data,Software vulnerabilities exploitation in OEM and/or car services,0.38784024119377136
+"Sharing, transfer or processing through 3rd party of driver data",Software vulnerabilities exploitation in OEM and/or car services,0.3664554953575134

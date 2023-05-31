@@ -1,0 +1,96 @@
+P,LB,S
+p_1,Denial of Service,ENISA
+p_2,Malware,ENISA
+p_3,Manipulation of hardware and software,ENISA
+p_4,Manipulation of information,ENISA
+p_5,Threats targeting autonomous sensors,ENISA
+p_6,Threats against AI and ML,ENISA
+p_7,Failure or malfunction of a sensor/actuator,ENISA
+p_8,Vandalism,ENISA
+p_9,Network outage,ENISA
+p_10,OEM Targeted attacks,ENISA
+p_11,Unauthorised activities,ENISA
+p_12,Identity theft,ENISA
+p_13,Abuse of authorizations,ENISA
+p_14,Sabotage,ENISA
+p_15,Theft,ENISA
+p_16,Side-channel attacks,ENISA
+p_17,Fault injection,ENISA
+p_18,Software vulnerabilities exploitation,ENISA
+p_19,Failure or Disruption of service,ENISA
+p_20,Communication protocol hijacking,ENISA
+p_21,Data replay,ENISA
+p_22,Man-in-the-middle attack / Session hijacking,ENISA
+p_23,Unintentional change of data or car components configuration,ENISA
+p_24,Information leakage,ENISA
+p_25,Using information and/or devices from an unreliable source,ENISA
+p_26,Erroneous use or configuration of car components,ENISA
+p_27,Failure to meet contractual requirements,ENISA
+p_28,Violation of rules and regulations/Breach of legislation/ Abuse of personal data,ENISA
+p_29,Loss of GNSS signal,ENISA
+p_30,Car depleted battery,ENISA
+p_31,Attacker injects CAN messages/codes via any ECUs connected to the bus.,Chah et al.
+p_32,Attacker modifies the path of the sensitive data circulating in the vehicle.,Chah et al.
+p_33,Attacker remotely accesses via telematics systems (TCU).,Chah et al.
+p_34,"An adversary can capture, analyze, and replaye the messages.",Chah et al.
+p_35,An adversary could link the messages to a specific vehicle.,Chah et al.
+p_36,An adversary can crack a weak password.,Chah et al.
+p_37,An adversary can execute arbitrary code on the telematics unit (TCU) and take control of the device.,Chah et al.
+p_38,The SS7 vulnerabilities can be exploited to compromise SMS system to intercept text user messages.,Chah et al.
+p_39,"Spying, SMS Interception & Modification, User Tracking.",Chah et al.
+p_40,"Attacker can edit, add, manipuler codes and framework of the must ECUs in the vehcles.",Chah et al.
+p_41,"Attacker can modify the hardware or changing or disabling physical sensors, memories and features.",Chah et al.
+p_42,"An attacker changes circuits of a device to extractsensitive data, such as cryptographic keys.",Chah et al.
+p_43,Attacker operates phisically on the TC by tampering the device firmware.,Chah et al.
+p_44,An attacker could perform remote control by installing remotely his own software on the device.,Chah et al.
+p_45,Reprogramming the USB/CD device's firmware to execute malicious actions.,Chah et al.
+p_46,An adversary can exploit the vulnerabilities o USB svstems on-board venice.,Chah et al.
+p_47,An adversary can identify or track the vehicle from the sensor.,Chah et al.
+p_48,"For wireless communication channel, messages can be captured, analyze, and replayed.",Chah et al.
+p_49,Possibility to discover and control the behaviour and profile of the driver.,Chah et al.
+p_50,An adversary relates pseudonymous positions to specific vehicles.,Chah et al.
+p_51,Mobile App spoofing,Bella et al.
+p_52,Smart key bruteforcing,Bella et al.
+p_53,Smart key cloning,Bella et al.
+p_54,GPS spoofing,Bella et al.
+p_55,V2X Message replay,Bella et al.
+p_56,Infotainment malware,Bella et al.
+p_57,Mobile App malware,Bella et al.
+p_58,ECU reflash,Bella et al.
+p_59,CAN frame injection,Bella et al.
+p_60,CAN frame tampering,Bella et al.
+p_61,V2X data tampering,Bella et al.
+p_62,CAN eavesdropping,Bella et al.
+p_63,Unauthorised diagnostic access,Bella et al.
+p_64,Infotainment reverse engineering,Bella et al.
+p_65,Insecure API endpoint,Bella et al.
+p_66,ECU firmware dump,Bella et al.
+p_67,Server violation,Bella et al.
+p_68,V2X eavesdropping,Bella et al.
+p_69,CAN bus flooding,Bella et al.
+p_70,Smart key jamming,Bella et al.
+p_71,Data loss,Bella et al.
+p_72,V2X Denial of Service,Bella et al.
+p_73,Infotainment Alteration,Bella et al.
+p_74,Rogue OBD-II Device,Bella et al.
+p_75,Insider Threat,Bella et al.
+p_76,Web Application Vulnerabilities,OWASP
+p_77,Operator-sided Data Leakage,OWASP
+p_78,Insufficient Data Breach Response,OWASP
+p_79,Consent on Everything / Problems with getting Consent,OWASP
+p_80,"Non-transparent Policies, Agreements, Terms and Conditions",OWASP
+p_81,Insufficient Deletion of User Data,OWASP
+p_82,Insufficient Data Quality,OWASP
+p_83,Missing or Insufficient Session Expiration,OWASP
+p_84,Inability of users to access and modify data,OWASP
+p_85,Collection of data not required for the user-consented purpose,OWASP
+p_86,Insufficient Data Structure Model to handle user rights,OWASP
+p_87,Sharing of Data with 3rd Party,OWASP
+p_88,"Inappropriate Policies, Terms and Conditions",OWASP
+p_89,Insecure Data Transfer,OWASP
+p_90,Transfer or Processing through 3rd Party,OWASP
+p_91,Misleading Content,OWASP
+p_92,Collection without Consent,OWASP
+p_93,Data Aggregation and Profiling,OWASP
+p_94,Secondary Use,OWASP
+p_95,Form field design issues,OWASP

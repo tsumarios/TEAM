@@ -1,0 +1,79 @@
+data and term are not related ("part of")
+data and term have common hypernyms: group, cognition, abstraction
+data and term are not related ("type of")
+
+data and driver are not related ("part of")
+data and driver have common hypernyms: entity, abstraction
+data and driver are not related ("type of")
+
+data and policy are not related ("part of")
+data and policy have common hypernyms: cognition, abstraction
+data and policy are not related ("type of")
+
+data and condition are not related ("part of")
+data and condition have common hypernyms: information, abstraction, psychological_feature
+data and condition are not related ("type of")
+
+right and term are not related ("part of")
+right and term have common hypernyms: entity, group, relation, physical_entity, attribute, psychological_feature, object, concept, abstraction
+right and term are not related ("type of")
+
+right and driver are not related ("part of")
+right and driver have common hypernyms: object, physical_entity, entity, abstraction
+right and driver are not related ("type of")
+
+right and policy are not related ("part of")
+right and policy have common hypernyms: cognition, entity, idea, psychological_feature, abstraction
+right and policy are not related ("type of")
+
+right and condition are not related ("part of")
+right and condition have common hypernyms: cognition, act, entity, psychological_feature, attribute, change, abstraction
+right and condition are not related ("type of")
+
+driver and term are not related ("part of")
+driver and term have common hypernyms: entity, physical_entity, communication, whole, artifact, abstraction
+driver and term are not related ("type of")
+
+
+driver and policy are not related ("part of")
+driver and policy have common hypernyms: written_communication, entity, abstraction
+driver and policy are not related ("type of")
+
+driver and condition are not related ("part of")
+driver and condition have common hypernyms: entity, abstraction, communication
+driver and condition are not related ("type of")
+
+structure and term are not related ("part of")
+structure and term have common hypernyms: cognition, entity, group, physical_entity, attribute, artifact, abstraction
+structure and term are not related ("type of")
+
+structure and driver are not related ("part of")
+structure and driver have common hypernyms: entity, physical_entity, whole, artifact, abstraction
+structure and driver are not related ("type of")
+
+structure and policy are not related ("part of")
+structure and policy have common hypernyms: cognition, entity, abstraction
+structure and policy are not related ("type of")
+
+structure and condition are not related ("part of")
+structure and condition have common hypernyms: cognition, entity, psychological_feature, attribute, abstraction
+structure and condition are not related ("type of")
+
+model and term are not related ("part of")
+model and term have common hypernyms: content, entity, idea, psychological_feature, creation, whole, concept, abstraction
+model and term are not related ("type of")
+
+model and driver are not related ("part of")
+model and driver have common hypernyms: entity, physical_entity, person, causal_agent, whole, artifact, worker, abstraction
+model and driver are not related ("type of")
+
+model and policy are not related ("part of")
+model and policy have common hypernyms: cognition, content, entity, idea, psychological_feature, abstraction
+model and policy are not related ("type of")
+
+model and condition are not related ("part of")
+model and condition have common hypernyms: cognition, entity, psychological_feature, activity, abstraction
+model and condition are not related ("type of")
+
+
+Part of relation(s) found: False	Type of relation(s) found: False
