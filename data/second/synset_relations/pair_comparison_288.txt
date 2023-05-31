@@ -1,0 +1,28 @@
+firmware and access are not related ("part of")
+firmware and access have common hypernyms: entity, coding_system, abstraction
+firmware and access are not related ("type of")
+
+firmware and unit are not related ("part of")
+firmware and unit have common hypernyms: entity, abstraction
+firmware and unit are not related ("type of")
+
+One or both terms do not have synsets in WordNet.
+One or both terms do not have synsets in WordNet.
+
+unit and access are not related ("part of")
+unit is a hypernym of access
+unit and access have common hypernyms: entity, physical_entity, psychological_feature, whole, concept, abstraction
+
+
+One or both terms do not have synsets in WordNet.
+One or both terms do not have synsets in WordNet.
+
+One or both terms do not have synsets in WordNet.
+One or both terms do not have synsets in WordNet.
+
+One or both terms do not have synsets in WordNet.
+One or both terms do not have synsets in WordNet.
+
+
+
+Part of relation(s) found: False	Type of relation(s) found: True

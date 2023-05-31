@@ -1,0 +1,28 @@
+capture and replay are not related ("part of")
+capture and replay have common hypernyms: re-create, entity, act, event, activity
+capture and replay are not related ("type of")
+
+capture and message are not related ("part of")
+capture and message have common hypernyms: entity, abstraction
+capture and message are not related ("type of")
+
+
+replay and message are not related ("part of")
+replay and message have common hypernyms: abstraction
+replay and message are not related ("type of")
+
+message and replay are not related ("part of")
+message and replay have common hypernyms: abstraction
+message and replay are not related ("type of")
+
+
+analysis and replay are not related ("part of")
+analysis and replay have common hypernyms: activity, event, abstraction, psychological_feature
+analysis and replay are not related ("type of")
+
+analysis and message are not related ("part of")
+analysis and message have common hypernyms: abstraction, communication
+analysis and message are not related ("type of")
+
+
+Part of relation(s) found: False	Type of relation(s) found: False

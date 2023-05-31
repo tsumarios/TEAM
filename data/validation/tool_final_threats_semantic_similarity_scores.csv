@@ -1,0 +1,1276 @@
+sentence1,sentence2,score
+Abuse of authorisations,Arbitrary code execution on telematics unit (TCU),0.32159870862960815
+Abuse of authorisations,CAN bus flooding,0.2186415195465088
+Abuse of authorisations,CAN frame injection,0.22518151998519897
+Abuse of authorisations,CAN frame tampering,0.4656524658203125
+Abuse of authorisations,Car theft,0.2220727801322937
+Abuse of authorisations,Change of data or car components configuration,0.1503044068813324
+Abuse of authorisations,Collection without consent,0.36735573410987854
+Abuse of authorisations,Communication eavesdropping in vehicle components,0.24158984422683716
+Abuse of authorisations,Communication protocol and/or session hijacking,0.47783350944519043
+Abuse of authorisations,Consent on everything / Problems with getting consent,0.34545546770095825
+Abuse of authorisations,Data aggregation and profiling of the driver and/or vehicle,0.1555679589509964
+Abuse of authorisations,Data loss,0.12754298746585846
+Abuse of authorisations,Data replay,0.27310284972190857
+Abuse of authorisations,ECU firmware dump,0.19282172620296478
+Abuse of authorisations,ECU reflash,0.12696826457977295
+Abuse of authorisations,Failure or disruption of service,0.2545962333679199
+Abuse of authorisations,Failure or malfunction of a sensor/actuator,0.2580271363258362
+Abuse of authorisations,Failure to meet contractual requirements,0.3303884267807007
+Abuse of authorisations,Form field design issues,0.27479416131973267
+Abuse of authorisations,GPS spoofing,0.24025589227676392
+Abuse of authorisations,Identity theft of driver,0.2985398769378662
+Abuse of authorisations,Infotainment malware,0.2650855481624603
+Abuse of authorisations,Infotainment reverse engineering and alteration,0.18656164407730103
+Abuse of authorisations,Insecure data transfer in OEM and/or car services,0.22082602977752686
+Abuse of authorisations,Insider threat,0.26130518317222595
+Abuse of authorisations,Insufficient data breach response from OEM,0.10633594542741776
+Abuse of authorisations,Insufficient deletion of driver data,0.2125019133090973
+Abuse of authorisations,Loss of GNSS signal,0.14759257435798645
+Abuse of authorisations,"Manipulation of physical sensors, memories and features",0.20082056522369385
+Abuse of authorisations,Misleading information in OEM services,0.21666273474693298
+Abuse of authorisations,Missing or insufficient session expiration,0.3197435736656189
+Abuse of authorisations,Network outage,0.19785067439079285
+Abuse of authorisations,OEM targeted attacks,0.159643292427063
+Abuse of authorisations,Operator-sided data leakage in OEM and/or car devices,0.2600664496421814
+Abuse of authorisations,Remote access via telematics unit (TCU),0.12480093538761139
+Abuse of authorisations,Rogue OBD-II Device,0.2505992650985718
+Abuse of authorisations,Secondary use,0.31929224729537964
+Abuse of authorisations,Server violation,0.395267516374588
+Abuse of authorisations,"Sharing, transfer or processing through 3rd party of driver data",0.17127984762191772
+Abuse of authorisations,Side-channel attacks,0.23209793865680695
+Abuse of authorisations,Smart key compromise,0.2345178723335266
+Abuse of authorisations,SS7 vulnerabilities exploitation,0.4144914150238037
+Abuse of authorisations,Tampering with telematics unit (TCU) firmware,0.3125702738761902
+Abuse of authorisations,Threats targeting autonomous sensors,0.2846744656562805
+Abuse of authorisations,Unauthorised diagnostic access,0.45356059074401855
+Abuse of authorisations,Unauthorised violation of rules and regulations / breach of legislation / abuse of personal data,0.5346381664276123
+Abuse of authorisations,USB vulnerabilitiies exploitation,0.3883170783519745
+Abuse of authorisations,Using information and/or devices from an unreliable source,0.2837555408477783
+Abuse of authorisations,V2X Denial of Service,0.21187172830104828
+Abuse of authorisations,Weak password,0.26031023263931274
+Arbitrary code execution on telematics unit (TCU),CAN bus flooding,0.196176677942276
+Arbitrary code execution on telematics unit (TCU),CAN frame injection,0.2595568001270294
+Arbitrary code execution on telematics unit (TCU),CAN frame tampering,0.42983055114746094
+Arbitrary code execution on telematics unit (TCU),Car theft,0.17534227669239044
+Arbitrary code execution on telematics unit (TCU),Change of data or car components configuration,0.24691936373710632
+Arbitrary code execution on telematics unit (TCU),Collection without consent,0.25205764174461365
+Arbitrary code execution on telematics unit (TCU),Communication eavesdropping in vehicle components,0.3495512008666992
+Arbitrary code execution on telematics unit (TCU),Communication protocol and/or session hijacking,0.3494229316711426
+Arbitrary code execution on telematics unit (TCU),Consent on everything / Problems with getting consent,0.15258269011974335
+Arbitrary code execution on telematics unit (TCU),Data aggregation and profiling of the driver and/or vehicle,0.22633783519268036
+Arbitrary code execution on telematics unit (TCU),Data loss,0.18740436434745789
+Arbitrary code execution on telematics unit (TCU),Data replay,0.1937406212091446
+Arbitrary code execution on telematics unit (TCU),ECU firmware dump,0.2933185398578644
+Arbitrary code execution on telematics unit (TCU),ECU reflash,0.2544829249382019
+Arbitrary code execution on telematics unit (TCU),Failure or disruption of service,0.20883618295192719
+Arbitrary code execution on telematics unit (TCU),Failure or malfunction of a sensor/actuator,0.43237975239753723
+Arbitrary code execution on telematics unit (TCU),Failure to meet contractual requirements,0.18856030702590942
+Arbitrary code execution on telematics unit (TCU),Form field design issues,0.1328558474779129
+Arbitrary code execution on telematics unit (TCU),GPS spoofing,0.35269856452941895
+Arbitrary code execution on telematics unit (TCU),Identity theft of driver,0.31507059931755066
+Arbitrary code execution on telematics unit (TCU),Infotainment malware,0.4589040279388428
+Arbitrary code execution on telematics unit (TCU),Infotainment reverse engineering and alteration,0.38363581895828247
+Arbitrary code execution on telematics unit (TCU),Insecure data transfer in OEM and/or car services,0.3092486560344696
+Arbitrary code execution on telematics unit (TCU),Insider threat,0.3273048996925354
+Arbitrary code execution on telematics unit (TCU),Insufficient data breach response from OEM,0.19792115688323975
+Arbitrary code execution on telematics unit (TCU),Insufficient deletion of driver data,0.3137918710708618
+Arbitrary code execution on telematics unit (TCU),Loss of GNSS signal,0.31901460886001587
+Arbitrary code execution on telematics unit (TCU),"Manipulation of physical sensors, memories and features",0.33464178442955017
+Arbitrary code execution on telematics unit (TCU),Misleading information in OEM services,0.31884363293647766
+Arbitrary code execution on telematics unit (TCU),Missing or insufficient session expiration,0.25962501764297485
+Arbitrary code execution on telematics unit (TCU),Network outage,0.23409628868103027
+Arbitrary code execution on telematics unit (TCU),OEM targeted attacks,0.20773465931415558
+Arbitrary code execution on telematics unit (TCU),Operator-sided data leakage in OEM and/or car devices,0.34614381194114685
+Arbitrary code execution on telematics unit (TCU),Remote access via telematics unit (TCU),0.67313551902771
+Arbitrary code execution on telematics unit (TCU),Rogue OBD-II Device,0.2700254023075104
+Arbitrary code execution on telematics unit (TCU),Secondary use,0.23729658126831055
+Arbitrary code execution on telematics unit (TCU),Server violation,0.36687034368515015
+Arbitrary code execution on telematics unit (TCU),"Sharing, transfer or processing through 3rd party of driver data",0.1874338686466217
+Arbitrary code execution on telematics unit (TCU),Side-channel attacks,0.29588133096694946
+Arbitrary code execution on telematics unit (TCU),Smart key compromise,0.228542298078537
+Arbitrary code execution on telematics unit (TCU),SS7 vulnerabilities exploitation,0.2525055408477783
+Arbitrary code execution on telematics unit (TCU),Tampering with telematics unit (TCU) firmware,0.6711905002593994
+Arbitrary code execution on telematics unit (TCU),Threats targeting autonomous sensors,0.4205651879310608
+Arbitrary code execution on telematics unit (TCU),Unauthorised diagnostic access,0.27568167448043823
+Arbitrary code execution on telematics unit (TCU),Unauthorised violation of rules and regulations / breach of legislation / abuse of personal data,0.38327348232269287
+Arbitrary code execution on telematics unit (TCU),USB vulnerabilitiies exploitation,0.23275545239448547
+Arbitrary code execution on telematics unit (TCU),Using information and/or devices from an unreliable source,0.45748579502105713
+Arbitrary code execution on telematics unit (TCU),V2X Denial of Service,0.18209713697433472
+Arbitrary code execution on telematics unit (TCU),Weak password,0.2008182406425476
+CAN bus flooding,CAN frame injection,0.2656421661376953
+CAN bus flooding,CAN frame tampering,0.27340787649154663
+CAN bus flooding,Car theft,0.15149128437042236
+CAN bus flooding,Change of data or car components configuration,0.22377294301986694
+CAN bus flooding,Collection without consent,0.18910251557826996
+CAN bus flooding,Communication eavesdropping in vehicle components,0.2272006869316101
+CAN bus flooding,Communication protocol and/or session hijacking,0.1700025200843811
+CAN bus flooding,Consent on everything / Problems with getting consent,0.23528942465782166
+CAN bus flooding,Data aggregation and profiling of the driver and/or vehicle,0.14865688979625702
+CAN bus flooding,Data loss,0.10717043280601501
+CAN bus flooding,Data replay,0.1576995551586151
+CAN bus flooding,ECU firmware dump,0.3086543083190918
+CAN bus flooding,ECU reflash,0.2514461278915405
+CAN bus flooding,Failure or disruption of service,0.21873489022254944
+CAN bus flooding,Failure or malfunction of a sensor/actuator,0.18559396266937256
+CAN bus flooding,Failure to meet contractual requirements,0.08420372754335403
+CAN bus flooding,Form field design issues,0.08437761664390564
+CAN bus flooding,GPS spoofing,0.21245649456977844
+CAN bus flooding,Identity theft of driver,0.1829618364572525
+CAN bus flooding,Infotainment malware,0.25899946689605713
+CAN bus flooding,Infotainment reverse engineering and alteration,0.21585486829280853
+CAN bus flooding,Insecure data transfer in OEM and/or car services,0.27481839060783386
+CAN bus flooding,Insider threat,0.06813046336174011
+CAN bus flooding,Insufficient data breach response from OEM,0.12196767330169678
+CAN bus flooding,Insufficient deletion of driver data,0.1652846336364746
+CAN bus flooding,Loss of GNSS signal,0.18889513611793518
+CAN bus flooding,"Manipulation of physical sensors, memories and features",0.18253985047340393
+CAN bus flooding,Misleading information in OEM services,0.21084140241146088
+CAN bus flooding,Missing or insufficient session expiration,0.17760947346687317
+CAN bus flooding,Network outage,0.15484878420829773
+CAN bus flooding,OEM targeted attacks,0.27560800313949585
+CAN bus flooding,Operator-sided data leakage in OEM and/or car devices,0.2532695531845093
+CAN bus flooding,Remote access via telematics unit (TCU),0.24661974608898163
+CAN bus flooding,Rogue OBD-II Device,0.14949089288711548
+CAN bus flooding,Secondary use,0.2003631293773651
+CAN bus flooding,Server violation,0.1513897031545639
+CAN bus flooding,"Sharing, transfer or processing through 3rd party of driver data",0.25568991899490356
+CAN bus flooding,Side-channel attacks,0.21380679309368134
+CAN bus flooding,Smart key compromise,0.2036839723587036
+CAN bus flooding,SS7 vulnerabilities exploitation,0.09728264808654785
+CAN bus flooding,Tampering with telematics unit (TCU) firmware,0.2639080882072449
+CAN bus flooding,Threats targeting autonomous sensors,0.18810829520225525
+CAN bus flooding,Unauthorised diagnostic access,0.24114787578582764
+CAN bus flooding,Unauthorised violation of rules and regulations / breach of legislation / abuse of personal data,0.10694336146116257
+CAN bus flooding,USB vulnerabilitiies exploitation,0.2854672074317932
+CAN bus flooding,Using information and/or devices from an unreliable source,0.20213091373443604
+CAN bus flooding,V2X Denial of Service,0.08076121658086777
+CAN bus flooding,Weak password,0.21777302026748657
+CAN frame injection,CAN frame tampering,0.5150319933891296
+CAN frame injection,Car theft,0.17217375338077545
+CAN frame injection,Change of data or car components configuration,0.24163055419921875
+CAN frame injection,Collection without consent,0.28181391954421997
+CAN frame injection,Communication eavesdropping in vehicle components,0.20379215478897095
+CAN frame injection,Communication protocol and/or session hijacking,0.30717897415161133
+CAN frame injection,Consent on everything / Problems with getting consent,0.26029619574546814
+CAN frame injection,Data aggregation and profiling of the driver and/or vehicle,0.23993825912475586
+CAN frame injection,Data loss,0.056879814714193344
+CAN frame injection,Data replay,0.3206688165664673
+CAN frame injection,ECU firmware dump,0.3412701189517975
+CAN frame injection,ECU reflash,0.21839141845703125
+CAN frame injection,Failure or disruption of service,0.1731167882680893
+CAN frame injection,Failure or malfunction of a sensor/actuator,0.3566504716873169
+CAN frame injection,Failure to meet contractual requirements,0.19063515961170197
+CAN frame injection,Form field design issues,0.273703008890152
+CAN frame injection,GPS spoofing,0.20580151677131653
+CAN frame injection,Identity theft of driver,0.2267509400844574
+CAN frame injection,Infotainment malware,0.36384373903274536
+CAN frame injection,Infotainment reverse engineering and alteration,0.3095221519470215
+CAN frame injection,Insecure data transfer in OEM and/or car services,0.20989277958869934
+CAN frame injection,Insider threat,0.2658231258392334
+CAN frame injection,Insufficient data breach response from OEM,0.08577808737754822
+CAN frame injection,Insufficient deletion of driver data,0.1267070770263672
+CAN frame injection,Loss of GNSS signal,0.1452547162771225
+CAN frame injection,"Manipulation of physical sensors, memories and features",0.3542953133583069
+CAN frame injection,Misleading information in OEM services,0.1137179583311081
+CAN frame injection,Missing or insufficient session expiration,0.0627124235033989
+CAN frame injection,Network outage,0.18477919697761536
+CAN frame injection,OEM targeted attacks,0.35493117570877075
+CAN frame injection,Operator-sided data leakage in OEM and/or car devices,0.2336461842060089
+CAN frame injection,Remote access via telematics unit (TCU),0.13135215640068054
+CAN frame injection,Rogue OBD-II Device,0.1776384860277176
+CAN frame injection,Secondary use,0.18065094947814941
+CAN frame injection,Server violation,0.23497577011585236
+CAN frame injection,"Sharing, transfer or processing through 3rd party of driver data",0.19390073418617249
+CAN frame injection,Side-channel attacks,0.24538996815681458
+CAN frame injection,Smart key compromise,0.16210584342479706
+CAN frame injection,SS7 vulnerabilities exploitation,0.22075994312763214
+CAN frame injection,Tampering with telematics unit (TCU) firmware,0.262712299823761
+CAN frame injection,Threats targeting autonomous sensors,0.21074575185775757
+CAN frame injection,Unauthorised diagnostic access,0.23857596516609192
+CAN frame injection,Unauthorised violation of rules and regulations / breach of legislation / abuse of personal data,0.14820443093776703
+CAN frame injection,USB vulnerabilitiies exploitation,0.2597109079360962
+CAN frame injection,Using information and/or devices from an unreliable source,0.16050420701503754
+CAN frame injection,V2X Denial of Service,0.09575596451759338
+CAN frame injection,Weak password,0.18618737161159515
+CAN frame tampering,Car theft,0.16056139767169952
+CAN frame tampering,Change of data or car components configuration,0.2765986919403076
+CAN frame tampering,Collection without consent,0.3125377297401428
+CAN frame tampering,Communication eavesdropping in vehicle components,0.20101068913936615
+CAN frame tampering,Communication protocol and/or session hijacking,0.4613010287284851
+CAN frame tampering,Consent on everything / Problems with getting consent,0.2901785373687744
+CAN frame tampering,Data aggregation and profiling of the driver and/or vehicle,0.16131755709648132
+CAN frame tampering,Data loss,0.13965490460395813
+CAN frame tampering,Data replay,0.3908657729625702
+CAN frame tampering,ECU firmware dump,0.2500460743904114
+CAN frame tampering,ECU reflash,0.2602465748786926
+CAN frame tampering,Failure or disruption of service,0.2324349582195282
+CAN frame tampering,Failure or malfunction of a sensor/actuator,0.3897097706794739
+CAN frame tampering,Failure to meet contractual requirements,0.25086501240730286
+CAN frame tampering,Form field design issues,0.32614535093307495
+CAN frame tampering,GPS spoofing,0.400004506111145
+CAN frame tampering,Identity theft of driver,0.22936385869979858
+CAN frame tampering,Infotainment malware,0.32628893852233887
+CAN frame tampering,Infotainment reverse engineering and alteration,0.32901281118392944
+CAN frame tampering,Insecure data transfer in OEM and/or car services,0.16338220238685608
+CAN frame tampering,Insider threat,0.3282574415206909
+CAN frame tampering,Insufficient data breach response from OEM,0.07211141288280487
+CAN frame tampering,Insufficient deletion of driver data,0.14162717759609222
+CAN frame tampering,Loss of GNSS signal,0.21071097254753113
+CAN frame tampering,"Manipulation of physical sensors, memories and features",0.3491910696029663
+CAN frame tampering,Misleading information in OEM services,0.3307347297668457
+CAN frame tampering,Missing or insufficient session expiration,0.2148461490869522
+CAN frame tampering,Network outage,0.20864540338516235
+CAN frame tampering,OEM targeted attacks,0.2878268361091614
+CAN frame tampering,Operator-sided data leakage in OEM and/or car devices,0.21511954069137573
+CAN frame tampering,Remote access via telematics unit (TCU),0.21155446767807007
+CAN frame tampering,Rogue OBD-II Device,0.28337353467941284
+CAN frame tampering,Secondary use,0.2904062867164612
+CAN frame tampering,Server violation,0.394685834646225
+CAN frame tampering,"Sharing, transfer or processing through 3rd party of driver data",0.19763317704200745
+CAN frame tampering,Side-channel attacks,0.34482407569885254
+CAN frame tampering,Smart key compromise,0.3533036410808563
+CAN frame tampering,SS7 vulnerabilities exploitation,0.3737722635269165
+CAN frame tampering,Tampering with telematics unit (TCU) firmware,0.4512367248535156
+CAN frame tampering,Threats targeting autonomous sensors,0.2700730860233307
+CAN frame tampering,Unauthorised diagnostic access,0.2580900192260742
+CAN frame tampering,Unauthorised violation of rules and regulations / breach of legislation / abuse of personal data,0.3612819314002991
+CAN frame tampering,USB vulnerabilitiies exploitation,0.4620020389556885
+CAN frame tampering,Using information and/or devices from an unreliable source,0.4046993851661682
+CAN frame tampering,V2X Denial of Service,0.03869049996137619
+CAN frame tampering,Weak password,0.2874976396560669
+Car theft,Change of data or car components configuration,0.40696966648101807
+Car theft,Collection without consent,0.14062881469726562
+Car theft,Communication eavesdropping in vehicle components,0.47296905517578125
+Car theft,Communication protocol and/or session hijacking,0.36035430431365967
+Car theft,Consent on everything / Problems with getting consent,-0.005116703454405069
+Car theft,Data aggregation and profiling of the driver and/or vehicle,0.4534572958946228
+Car theft,Data loss,0.14540539681911469
+Car theft,Data replay,0.0951353907585144
+Car theft,ECU firmware dump,0.18655727803707123
+Car theft,ECU reflash,-0.01591140404343605
+Car theft,Failure or disruption of service,0.06948956847190857
+Car theft,Failure or malfunction of a sensor/actuator,0.19021622836589813
+Car theft,Failure to meet contractual requirements,0.039328914135694504
+Car theft,Form field design issues,0.02329196035861969
+Car theft,GPS spoofing,0.19646358489990234
+Car theft,Identity theft of driver,0.7667012810707092
+Car theft,Infotainment malware,0.4478798508644104
+Car theft,Infotainment reverse engineering and alteration,0.2798842191696167
+Car theft,Insecure data transfer in OEM and/or car services,0.47681963443756104
+Car theft,Insider threat,0.15956848859786987
+Car theft,Insufficient data breach response from OEM,-0.04018523916602135
+Car theft,Insufficient deletion of driver data,0.3157724142074585
+Car theft,Loss of GNSS signal,0.08770331740379333
+Car theft,"Manipulation of physical sensors, memories and features",0.13810759782791138
+Car theft,Misleading information in OEM services,0.07840804010629654
+Car theft,Missing or insufficient session expiration,0.027330633252859116
+Car theft,Network outage,0.09887416660785675
+Car theft,OEM targeted attacks,0.005291350185871124
+Car theft,Operator-sided data leakage in OEM and/or car devices,0.5519301295280457
+Car theft,Remote access via telematics unit (TCU),0.07023293524980545
+Car theft,Rogue OBD-II Device,0.21111449599266052
+Car theft,Secondary use,0.15670207142829895
+Car theft,Server violation,0.021924957633018494
+Car theft,"Sharing, transfer or processing through 3rd party of driver data",0.3644946217536926
+Car theft,Side-channel attacks,0.17467400431632996
+Car theft,Smart key compromise,0.11982294172048569
+Car theft,SS7 vulnerabilities exploitation,0.07731251418590546
+Car theft,Tampering with telematics unit (TCU) firmware,0.21928277611732483
+Car theft,Threats targeting autonomous sensors,0.1874038279056549
+Car theft,Unauthorised diagnostic access,0.17948688566684723
+Car theft,Unauthorised violation of rules and regulations / breach of legislation / abuse of personal data,0.20189565420150757
+Car theft,USB vulnerabilitiies exploitation,0.1951408088207245
+Car theft,Using information and/or devices from an unreliable source,0.1948397010564804
+Car theft,V2X Denial of Service,0.060659490525722504
+Car theft,Weak password,0.176259845495224
+Change of data or car components configuration,Collection without consent,0.14225071668624878
+Change of data or car components configuration,Communication eavesdropping in vehicle components,0.45797741413116455
+Change of data or car components configuration,Communication protocol and/or session hijacking,0.185645192861557
+Change of data or car components configuration,Consent on everything / Problems with getting consent,0.19137051701545715
+Change of data or car components configuration,Data aggregation and profiling of the driver and/or vehicle,0.5535838007926941
+Change of data or car components configuration,Data loss,0.17122212052345276
+Change of data or car components configuration,Data replay,0.2413400560617447
+Change of data or car components configuration,ECU firmware dump,0.2574213743209839
+Change of data or car components configuration,ECU reflash,0.24240824580192566
+Change of data or car components configuration,Failure or disruption of service,0.14057767391204834
+Change of data or car components configuration,Failure or malfunction of a sensor/actuator,0.2678088843822479
+Change of data or car components configuration,Failure to meet contractual requirements,0.12496144324541092
+Change of data or car components configuration,Form field design issues,0.3035356104373932
+Change of data or car components configuration,GPS spoofing,0.25429797172546387
+Change of data or car components configuration,Identity theft of driver,0.3711778223514557
+Change of data or car components configuration,Infotainment malware,0.3130477964878082
+Change of data or car components configuration,Infotainment reverse engineering and alteration,0.550041913986206
+Change of data or car components configuration,Insecure data transfer in OEM and/or car services,0.36342278122901917
+Change of data or car components configuration,Insider threat,0.06254008412361145
+Change of data or car components configuration,Insufficient data breach response from OEM,-0.04293153062462807
+Change of data or car components configuration,Insufficient deletion of driver data,0.2999967336654663
+Change of data or car components configuration,Loss of GNSS signal,0.20483672618865967
+Change of data or car components configuration,"Manipulation of physical sensors, memories and features",0.24524667859077454
+Change of data or car components configuration,Misleading information in OEM services,0.2796114683151245
+Change of data or car components configuration,Missing or insufficient session expiration,0.15540817379951477
+Change of data or car components configuration,Network outage,0.1278427392244339
+Change of data or car components configuration,OEM targeted attacks,0.15906067192554474
+Change of data or car components configuration,Operator-sided data leakage in OEM and/or car devices,0.4339328408241272
+Change of data or car components configuration,Remote access via telematics unit (TCU),0.31686049699783325
+Change of data or car components configuration,Rogue OBD-II Device,0.18833184242248535
+Change of data or car components configuration,Secondary use,0.19319282472133636
+Change of data or car components configuration,Server violation,0.20317542552947998
+Change of data or car components configuration,"Sharing, transfer or processing through 3rd party of driver data",0.39553532004356384
+Change of data or car components configuration,Side-channel attacks,0.2581009864807129
+Change of data or car components configuration,Smart key compromise,0.23909582197666168
+Change of data or car components configuration,SS7 vulnerabilities exploitation,0.029485810548067093
+Change of data or car components configuration,Tampering with telematics unit (TCU) firmware,0.4040336608886719
+Change of data or car components configuration,Threats targeting autonomous sensors,0.1807011067867279
+Change of data or car components configuration,Unauthorised diagnostic access,0.0857827365398407
+Change of data or car components configuration,Unauthorised violation of rules and regulations / breach of legislation / abuse of personal data,0.10841525346040726
+Change of data or car components configuration,USB vulnerabilitiies exploitation,0.07552716135978699
+Change of data or car components configuration,Using information and/or devices from an unreliable source,0.36788156628608704
+Change of data or car components configuration,V2X Denial of Service,-0.000893961638212204
+Change of data or car components configuration,Weak password,-0.013778883963823318
+Collection without consent,Communication eavesdropping in vehicle components,0.19248412549495697
+Collection without consent,Communication protocol and/or session hijacking,0.3657743036746979
+Collection without consent,Consent on everything / Problems with getting consent,0.5135012269020081
+Collection without consent,Data aggregation and profiling of the driver and/or vehicle,0.12879708409309387
+Collection without consent,Data loss,0.2947128415107727
+Collection without consent,Data replay,0.28469473123550415
+Collection without consent,ECU firmware dump,0.1651189625263214
+Collection without consent,ECU reflash,0.10759955644607544
+Collection without consent,Failure or disruption of service,0.20145007967948914
+Collection without consent,Failure or malfunction of a sensor/actuator,0.24679522216320038
+Collection without consent,Failure to meet contractual requirements,0.5121464133262634
+Collection without consent,Form field design issues,0.1160133108496666
+Collection without consent,GPS spoofing,0.11178231239318848
+Collection without consent,Identity theft of driver,0.21965831518173218
+Collection without consent,Infotainment malware,0.16253556311130524
+Collection without consent,Infotainment reverse engineering and alteration,0.03767848759889603
+Collection without consent,Insecure data transfer in OEM and/or car services,0.2525402307510376
+Collection without consent,Insider threat,0.09362021088600159
+Collection without consent,Insufficient data breach response from OEM,0.1518312245607376
+Collection without consent,Insufficient deletion of driver data,0.2835223972797394
+Collection without consent,Loss of GNSS signal,0.2747812867164612
+Collection without consent,"Manipulation of physical sensors, memories and features",0.09334009885787964
+Collection without consent,Misleading information in OEM services,0.06888531893491745
+Collection without consent,Missing or insufficient session expiration,0.29469501972198486
+Collection without consent,Network outage,0.21723029017448425
+Collection without consent,OEM targeted attacks,0.04246897995471954
+Collection without consent,Operator-sided data leakage in OEM and/or car devices,0.19468121230602264
+Collection without consent,Remote access via telematics unit (TCU),0.17901012301445007
+Collection without consent,Rogue OBD-II Device,0.09575910866260529
+Collection without consent,Secondary use,0.16310618817806244
+Collection without consent,Server violation,0.31548434495925903
+Collection without consent,"Sharing, transfer or processing through 3rd party of driver data",0.2808583676815033
+Collection without consent,Side-channel attacks,0.2159844934940338
+Collection without consent,Smart key compromise,0.17860503494739532
+Collection without consent,SS7 vulnerabilities exploitation,0.23308950662612915
+Collection without consent,Tampering with telematics unit (TCU) firmware,0.0952264592051506
+Collection without consent,Threats targeting autonomous sensors,0.12822304666042328
+Collection without consent,Unauthorised diagnostic access,0.35215622186660767
+Collection without consent,Unauthorised violation of rules and regulations / breach of legislation / abuse of personal data,0.3635983169078827
+Collection without consent,USB vulnerabilitiies exploitation,0.356209397315979
+Collection without consent,Using information and/or devices from an unreliable source,0.2900125980377197
+Collection without consent,V2X Denial of Service,0.27536019682884216
+Collection without consent,Weak password,0.05003945529460907
+Communication eavesdropping in vehicle components,Communication protocol and/or session hijacking,0.3227905035018921
+Communication eavesdropping in vehicle components,Consent on everything / Problems with getting consent,0.16772639751434326
+Communication eavesdropping in vehicle components,Data aggregation and profiling of the driver and/or vehicle,0.6240416765213013
+Communication eavesdropping in vehicle components,Data loss,0.20520290732383728
+Communication eavesdropping in vehicle components,Data replay,0.1674247533082962
+Communication eavesdropping in vehicle components,ECU firmware dump,0.23379436135292053
+Communication eavesdropping in vehicle components,ECU reflash,0.0845060870051384
+Communication eavesdropping in vehicle components,Failure or disruption of service,0.05625031515955925
+Communication eavesdropping in vehicle components,Failure or malfunction of a sensor/actuator,0.28383296728134155
+Communication eavesdropping in vehicle components,Failure to meet contractual requirements,0.015207631513476372
+Communication eavesdropping in vehicle components,Form field design issues,0.054477758705616
+Communication eavesdropping in vehicle components,GPS spoofing,0.22639818489551544
+Communication eavesdropping in vehicle components,Identity theft of driver,0.49090278148651123
+Communication eavesdropping in vehicle components,Infotainment malware,0.4430726170539856
+Communication eavesdropping in vehicle components,Infotainment reverse engineering and alteration,0.3487212061882019
+Communication eavesdropping in vehicle components,Insecure data transfer in OEM and/or car services,0.5793187618255615
+Communication eavesdropping in vehicle components,Insider threat,0.23777592182159424
+Communication eavesdropping in vehicle components,Insufficient data breach response from OEM,0.12925468385219574
+Communication eavesdropping in vehicle components,Insufficient deletion of driver data,0.3883697986602783
+Communication eavesdropping in vehicle components,Loss of GNSS signal,0.21502579748630524
+Communication eavesdropping in vehicle components,"Manipulation of physical sensors, memories and features",0.3327820301055908
+Communication eavesdropping in vehicle components,Misleading information in OEM services,0.15666379034519196
+Communication eavesdropping in vehicle components,Missing or insufficient session expiration,0.10165657848119736
+Communication eavesdropping in vehicle components,Network outage,0.06625865399837494
+Communication eavesdropping in vehicle components,OEM targeted attacks,0.17493583261966705
+Communication eavesdropping in vehicle components,Operator-sided data leakage in OEM and/or car devices,0.6443697214126587
+Communication eavesdropping in vehicle components,Remote access via telematics unit (TCU),0.4095737934112549
+Communication eavesdropping in vehicle components,Rogue OBD-II Device,0.19517114758491516
+Communication eavesdropping in vehicle components,Secondary use,0.15967591106891632
+Communication eavesdropping in vehicle components,Server violation,0.19984185695648193
+Communication eavesdropping in vehicle components,"Sharing, transfer or processing through 3rd party of driver data",0.4823910593986511
+Communication eavesdropping in vehicle components,Side-channel attacks,0.22366704046726227
+Communication eavesdropping in vehicle components,Smart key compromise,0.13365601003170013
+Communication eavesdropping in vehicle components,SS7 vulnerabilities exploitation,0.1499435007572174
+Communication eavesdropping in vehicle components,Tampering with telematics unit (TCU) firmware,0.36599111557006836
+Communication eavesdropping in vehicle components,Threats targeting autonomous sensors,0.39809006452560425
+Communication eavesdropping in vehicle components,Unauthorised diagnostic access,0.10775361955165863
+Communication eavesdropping in vehicle components,Unauthorised violation of rules and regulations / breach of legislation / abuse of personal data,0.27395880222320557
+Communication eavesdropping in vehicle components,USB vulnerabilitiies exploitation,0.2035769522190094
+Communication eavesdropping in vehicle components,Using information and/or devices from an unreliable source,0.41451817750930786
+Communication eavesdropping in vehicle components,V2X Denial of Service,0.09469684958457947
+Communication eavesdropping in vehicle components,Weak password,0.08943537622690201
+Communication protocol and/or session hijacking,Consent on everything / Problems with getting consent,0.36653757095336914
+Communication protocol and/or session hijacking,Data aggregation and profiling of the driver and/or vehicle,0.12539759278297424
+Communication protocol and/or session hijacking,Data loss,0.09305825084447861
+Communication protocol and/or session hijacking,Data replay,0.31177258491516113
+Communication protocol and/or session hijacking,ECU firmware dump,0.20401015877723694
+Communication protocol and/or session hijacking,ECU reflash,0.13125379383563995
+Communication protocol and/or session hijacking,Failure or disruption of service,0.3011717200279236
+Communication protocol and/or session hijacking,Failure or malfunction of a sensor/actuator,0.2519074082374573
+Communication protocol and/or session hijacking,Failure to meet contractual requirements,0.26465824246406555
+Communication protocol and/or session hijacking,Form field design issues,0.18557916581630707
+Communication protocol and/or session hijacking,GPS spoofing,0.306454598903656
+Communication protocol and/or session hijacking,Identity theft of driver,0.4137860834598541
+Communication protocol and/or session hijacking,Infotainment malware,0.2584516406059265
+Communication protocol and/or session hijacking,Infotainment reverse engineering and alteration,0.21494652330875397
+Communication protocol and/or session hijacking,Insecure data transfer in OEM and/or car services,0.3199971914291382
+Communication protocol and/or session hijacking,Insider threat,0.3818010687828064
+Communication protocol and/or session hijacking,Insufficient data breach response from OEM,0.0012096613645553589
+Communication protocol and/or session hijacking,Insufficient deletion of driver data,0.16051572561264038
+Communication protocol and/or session hijacking,Loss of GNSS signal,0.2642350494861603
+Communication protocol and/or session hijacking,"Manipulation of physical sensors, memories and features",0.22085873782634735
+Communication protocol and/or session hijacking,Misleading information in OEM services,0.09593996405601501
+Communication protocol and/or session hijacking,Missing or insufficient session expiration,0.20192892849445343
+Communication protocol and/or session hijacking,Network outage,0.28299182653427124
+Communication protocol and/or session hijacking,OEM targeted attacks,0.10087078809738159
+Communication protocol and/or session hijacking,Operator-sided data leakage in OEM and/or car devices,0.3062537908554077
+Communication protocol and/or session hijacking,Remote access via telematics unit (TCU),0.26968276500701904
+Communication protocol and/or session hijacking,Rogue OBD-II Device,0.19088700413703918
+Communication protocol and/or session hijacking,Secondary use,0.23015084862709045
+Communication protocol and/or session hijacking,Server violation,0.23286178708076477
+Communication protocol and/or session hijacking,"Sharing, transfer or processing through 3rd party of driver data",0.3055257797241211
+Communication protocol and/or session hijacking,Side-channel attacks,0.30419284105300903
+Communication protocol and/or session hijacking,Smart key compromise,0.2896044850349426
+Communication protocol and/or session hijacking,SS7 vulnerabilities exploitation,0.2534485459327698
+Communication protocol and/or session hijacking,Tampering with telematics unit (TCU) firmware,0.31181836128234863
+Communication protocol and/or session hijacking,Threats targeting autonomous sensors,0.20688259601593018
+Communication protocol and/or session hijacking,Unauthorised diagnostic access,0.2590159773826599
+Communication protocol and/or session hijacking,Unauthorised violation of rules and regulations / breach of legislation / abuse of personal data,0.31299179792404175
+Communication protocol and/or session hijacking,USB vulnerabilitiies exploitation,0.3581826984882355
+Communication protocol and/or session hijacking,Using information and/or devices from an unreliable source,0.2510789632797241
+Communication protocol and/or session hijacking,V2X Denial of Service,0.1649075746536255
+Communication protocol and/or session hijacking,Weak password,0.2562580108642578
+Consent on everything / Problems with getting consent,Data aggregation and profiling of the driver and/or vehicle,0.07147762179374695
+Consent on everything / Problems with getting consent,Data loss,0.0877142921090126
+Consent on everything / Problems with getting consent,Data replay,0.2258433699607849
+Consent on everything / Problems with getting consent,ECU firmware dump,0.23365885019302368
+Consent on everything / Problems with getting consent,ECU reflash,0.16092759370803833
+Consent on everything / Problems with getting consent,Failure or disruption of service,0.2617930471897125
+Consent on everything / Problems with getting consent,Failure or malfunction of a sensor/actuator,0.29641884565353394
+Consent on everything / Problems with getting consent,Failure to meet contractual requirements,0.3653716444969177
+Consent on everything / Problems with getting consent,Form field design issues,0.2186243236064911
+Consent on everything / Problems with getting consent,GPS spoofing,0.08274944126605988
+Consent on everything / Problems with getting consent,Identity theft of driver,0.020306158810853958
+Consent on everything / Problems with getting consent,Infotainment malware,0.11093902587890625
+Consent on everything / Problems with getting consent,Infotainment reverse engineering and alteration,0.08963962644338608
+Consent on everything / Problems with getting consent,Insecure data transfer in OEM and/or car services,0.18527211248874664
+Consent on everything / Problems with getting consent,Insider threat,0.09783127903938293
+Consent on everything / Problems with getting consent,Insufficient data breach response from OEM,0.06262549757957458
+Consent on everything / Problems with getting consent,Insufficient deletion of driver data,0.15858183801174164
+Consent on everything / Problems with getting consent,Loss of GNSS signal,0.19155803322792053
+Consent on everything / Problems with getting consent,"Manipulation of physical sensors, memories and features",0.08417251706123352
+Consent on everything / Problems with getting consent,Misleading information in OEM services,0.004819421097636223
+Consent on everything / Problems with getting consent,Missing or insufficient session expiration,0.22421997785568237
+Consent on everything / Problems with getting consent,Network outage,0.24272724986076355
+Consent on everything / Problems with getting consent,OEM targeted attacks,0.11450609564781189
+Consent on everything / Problems with getting consent,Operator-sided data leakage in OEM and/or car devices,0.1068829596042633
+Consent on everything / Problems with getting consent,Remote access via telematics unit (TCU),0.11179409921169281
+Consent on everything / Problems with getting consent,Rogue OBD-II Device,0.13611814379692078
+Consent on everything / Problems with getting consent,Secondary use,0.05827362835407257
+Consent on everything / Problems with getting consent,Server violation,0.2517165243625641
+Consent on everything / Problems with getting consent,"Sharing, transfer or processing through 3rd party of driver data",0.3125476539134979
+Consent on everything / Problems with getting consent,Side-channel attacks,0.10240693390369415
+Consent on everything / Problems with getting consent,Smart key compromise,0.3354477286338806
+Consent on everything / Problems with getting consent,SS7 vulnerabilities exploitation,0.16858834028244019
+Consent on everything / Problems with getting consent,Tampering with telematics unit (TCU) firmware,0.1481742411851883
+Consent on everything / Problems with getting consent,Threats targeting autonomous sensors,0.04698553308844566
+Consent on everything / Problems with getting consent,Unauthorised diagnostic access,0.331256240606308
+Consent on everything / Problems with getting consent,Unauthorised violation of rules and regulations / breach of legislation / abuse of personal data,0.20137493312358856
+Consent on everything / Problems with getting consent,USB vulnerabilitiies exploitation,0.2634415030479431
+Consent on everything / Problems with getting consent,Using information and/or devices from an unreliable source,0.16744345426559448
+Consent on everything / Problems with getting consent,V2X Denial of Service,0.15234830975532532
+Consent on everything / Problems with getting consent,Weak password,0.09372597932815552
+Data aggregation and profiling of the driver and/or vehicle,Data loss,0.07320600003004074
+Data aggregation and profiling of the driver and/or vehicle,Data replay,0.20507170259952545
+Data aggregation and profiling of the driver and/or vehicle,ECU firmware dump,0.11210821568965912
+Data aggregation and profiling of the driver and/or vehicle,ECU reflash,0.030468348413705826
+Data aggregation and profiling of the driver and/or vehicle,Failure or disruption of service,-0.06513721495866776
+Data aggregation and profiling of the driver and/or vehicle,Failure or malfunction of a sensor/actuator,0.1916029453277588
+Data aggregation and profiling of the driver and/or vehicle,Failure to meet contractual requirements,0.00030879490077495575
+Data aggregation and profiling of the driver and/or vehicle,Form field design issues,0.22571204602718353
+Data aggregation and profiling of the driver and/or vehicle,GPS spoofing,0.1777103841304779
+Data aggregation and profiling of the driver and/or vehicle,Identity theft of driver,0.5029024481773376
+Data aggregation and profiling of the driver and/or vehicle,Infotainment malware,0.37041133642196655
+Data aggregation and profiling of the driver and/or vehicle,Infotainment reverse engineering and alteration,0.34507375955581665
+Data aggregation and profiling of the driver and/or vehicle,Insecure data transfer in OEM and/or car services,0.4293307065963745
+Data aggregation and profiling of the driver and/or vehicle,Insider threat,0.1401229053735733
+Data aggregation and profiling of the driver and/or vehicle,Insufficient data breach response from OEM,0.02069270983338356
+Data aggregation and profiling of the driver and/or vehicle,Insufficient deletion of driver data,0.34443193674087524
+Data aggregation and profiling of the driver and/or vehicle,Loss of GNSS signal,-0.0009457855485379696
+Data aggregation and profiling of the driver and/or vehicle,"Manipulation of physical sensors, memories and features",0.3288525938987732
+Data aggregation and profiling of the driver and/or vehicle,Misleading information in OEM services,0.07740481197834015
+Data aggregation and profiling of the driver and/or vehicle,Missing or insufficient session expiration,0.058137036859989166
+Data aggregation and profiling of the driver and/or vehicle,Network outage,-0.04164091870188713
+Data aggregation and profiling of the driver and/or vehicle,OEM targeted attacks,0.2108255922794342
+Data aggregation and profiling of the driver and/or vehicle,Operator-sided data leakage in OEM and/or car devices,0.46868932247161865
+Data aggregation and profiling of the driver and/or vehicle,Remote access via telematics unit (TCU),0.24000057578086853
+Data aggregation and profiling of the driver and/or vehicle,Rogue OBD-II Device,0.07450881600379944
+Data aggregation and profiling of the driver and/or vehicle,Secondary use,0.10825435072183609
+Data aggregation and profiling of the driver and/or vehicle,Server violation,0.09814029932022095
+Data aggregation and profiling of the driver and/or vehicle,"Sharing, transfer or processing through 3rd party of driver data",0.44088083505630493
+Data aggregation and profiling of the driver and/or vehicle,Side-channel attacks,0.15637122094631195
+Data aggregation and profiling of the driver and/or vehicle,Smart key compromise,0.15351134538650513
+Data aggregation and profiling of the driver and/or vehicle,SS7 vulnerabilities exploitation,0.11554032564163208
+Data aggregation and profiling of the driver and/or vehicle,Tampering with telematics unit (TCU) firmware,0.23505154252052307
+Data aggregation and profiling of the driver and/or vehicle,Threats targeting autonomous sensors,0.3252663314342499
+Data aggregation and profiling of the driver and/or vehicle,Unauthorised diagnostic access,0.07574140280485153
+Data aggregation and profiling of the driver and/or vehicle,Unauthorised violation of rules and regulations / breach of legislation / abuse of personal data,0.16250698268413544
+Data aggregation and profiling of the driver and/or vehicle,USB vulnerabilitiies exploitation,0.14765889942646027
+Data aggregation and profiling of the driver and/or vehicle,Using information and/or devices from an unreliable source,0.24616371095180511
+Data aggregation and profiling of the driver and/or vehicle,V2X Denial of Service,0.018225356936454773
+Data aggregation and profiling of the driver and/or vehicle,Weak password,-0.03654832765460014
+Data loss,Data replay,0.38616451621055603
+Data loss,ECU firmware dump,0.35215312242507935
+Data loss,ECU reflash,0.07144773751497269
+Data loss,Failure or disruption of service,0.3081611692905426
+Data loss,Failure or malfunction of a sensor/actuator,0.3235020637512207
+Data loss,Failure to meet contractual requirements,0.2392076700925827
+Data loss,Form field design issues,0.04396362230181694
+Data loss,GPS spoofing,0.29497861862182617
+Data loss,Identity theft of driver,0.24102970957756042
+Data loss,Infotainment malware,0.1561345010995865
+Data loss,Infotainment reverse engineering and alteration,0.13607099652290344
+Data loss,Insecure data transfer in OEM and/or car services,0.24987074732780457
+Data loss,Insider threat,0.11920296400785446
+Data loss,Insufficient data breach response from OEM,0.33534160256385803
+Data loss,Insufficient deletion of driver data,0.5228897929191589
+Data loss,Loss of GNSS signal,0.5317035913467407
+Data loss,"Manipulation of physical sensors, memories and features",0.19761152565479279
+Data loss,Misleading information in OEM services,0.2761088013648987
+Data loss,Missing or insufficient session expiration,0.40379491448402405
+Data loss,Network outage,0.36399513483047485
+Data loss,OEM targeted attacks,0.04940802976489067
+Data loss,Operator-sided data leakage in OEM and/or car devices,0.2984378933906555
+Data loss,Remote access via telematics unit (TCU),0.20886361598968506
+Data loss,Rogue OBD-II Device,0.11846715211868286
+Data loss,Secondary use,0.2239513397216797
+Data loss,Server violation,0.28435879945755005
+Data loss,"Sharing, transfer or processing through 3rd party of driver data",0.17983609437942505
+Data loss,Side-channel attacks,0.1642783284187317
+Data loss,Smart key compromise,0.09880901873111725
+Data loss,SS7 vulnerabilities exploitation,0.16156841814517975
+Data loss,Tampering with telematics unit (TCU) firmware,0.1824757158756256
+Data loss,Threats targeting autonomous sensors,0.2156762331724167
+Data loss,Unauthorised diagnostic access,0.2181195765733719
+Data loss,Unauthorised violation of rules and regulations / breach of legislation / abuse of personal data,0.26848894357681274
+Data loss,USB vulnerabilitiies exploitation,0.12566426396369934
+Data loss,Using information and/or devices from an unreliable source,0.4819687306880951
+Data loss,V2X Denial of Service,0.1991267055273056
+Data loss,Weak password,0.3120291531085968
+Data replay,ECU firmware dump,0.2939942479133606
+Data replay,ECU reflash,0.34400123357772827
+Data replay,Failure or disruption of service,0.1802772581577301
+Data replay,Failure or malfunction of a sensor/actuator,0.27688586711883545
+Data replay,Failure to meet contractual requirements,0.23953483998775482
+Data replay,Form field design issues,0.2759413421154022
+Data replay,GPS spoofing,0.4520963430404663
+Data replay,Identity theft of driver,0.19805243611335754
+Data replay,Infotainment malware,0.20320816338062286
+Data replay,Infotainment reverse engineering and alteration,0.40897035598754883
+Data replay,Insecure data transfer in OEM and/or car services,0.15755394101142883
+Data replay,Insider threat,0.16908591985702515
+Data replay,Insufficient data breach response from OEM,0.07926513999700546
+Data replay,Insufficient deletion of driver data,0.26052477955818176
+Data replay,Loss of GNSS signal,0.22125597298145294
+Data replay,"Manipulation of physical sensors, memories and features",0.37414610385894775
+Data replay,Misleading information in OEM services,0.21917098760604858
+Data replay,Missing or insufficient session expiration,0.2582274377346039
+Data replay,Network outage,0.2585240602493286
+Data replay,OEM targeted attacks,0.09141920506954193
+Data replay,Operator-sided data leakage in OEM and/or car devices,0.12660551071166992
+Data replay,Remote access via telematics unit (TCU),0.15935814380645752
+Data replay,Rogue OBD-II Device,0.13140085339546204
+Data replay,Secondary use,0.3497902750968933
+Data replay,Server violation,0.3171491324901581
+Data replay,"Sharing, transfer or processing through 3rd party of driver data",0.29625529050827026
+Data replay,Side-channel attacks,0.17217755317687988
+Data replay,Smart key compromise,0.2676255702972412
+Data replay,SS7 vulnerabilities exploitation,0.1874070167541504
+Data replay,Tampering with telematics unit (TCU) firmware,0.23331983387470245
+Data replay,Threats targeting autonomous sensors,0.1728466898202896
+Data replay,Unauthorised diagnostic access,0.19934669137001038
+Data replay,Unauthorised violation of rules and regulations / breach of legislation / abuse of personal data,0.11789973080158234
+Data replay,USB vulnerabilitiies exploitation,0.20012247562408447
+Data replay,Using information and/or devices from an unreliable source,0.31878000497817993
+Data replay,V2X Denial of Service,0.11553683876991272
+Data replay,Weak password,0.1306895613670349
+ECU firmware dump,ECU reflash,0.4772103428840637
+ECU firmware dump,Failure or disruption of service,0.1324562430381775
+ECU firmware dump,Failure or malfunction of a sensor/actuator,0.24191811680793762
+ECU firmware dump,Failure to meet contractual requirements,0.092769555747509
+ECU firmware dump,Form field design issues,0.15759463608264923
+ECU firmware dump,GPS spoofing,0.23975422978401184
+ECU firmware dump,Identity theft of driver,0.2546390891075134
+ECU firmware dump,Infotainment malware,0.2812976837158203
+ECU firmware dump,Infotainment reverse engineering and alteration,0.274466335773468
+ECU firmware dump,Insecure data transfer in OEM and/or car services,0.2535346448421478
+ECU firmware dump,Insider threat,0.08843062818050385
+ECU firmware dump,Insufficient data breach response from OEM,0.23085038363933563
+ECU firmware dump,Insufficient deletion of driver data,0.3177460730075836
+ECU firmware dump,Loss of GNSS signal,0.3695547878742218
+ECU firmware dump,"Manipulation of physical sensors, memories and features",0.20079225301742554
+ECU firmware dump,Misleading information in OEM services,0.292415052652359
+ECU firmware dump,Missing or insufficient session expiration,0.1680917739868164
+ECU firmware dump,Network outage,0.24881866574287415
+ECU firmware dump,OEM targeted attacks,0.2854957580566406
+ECU firmware dump,Operator-sided data leakage in OEM and/or car devices,0.40428802371025085
+ECU firmware dump,Remote access via telematics unit (TCU),0.2614468038082123
+ECU firmware dump,Rogue OBD-II Device,0.20008918642997742
+ECU firmware dump,Secondary use,0.1993655562400818
+ECU firmware dump,Server violation,0.1954514980316162
+ECU firmware dump,"Sharing, transfer or processing through 3rd party of driver data",0.23762297630310059
+ECU firmware dump,Side-channel attacks,0.1045423373579979
+ECU firmware dump,Smart key compromise,0.17198464274406433
+ECU firmware dump,SS7 vulnerabilities exploitation,0.2667533755302429
+ECU firmware dump,Tampering with telematics unit (TCU) firmware,0.40225932002067566
+ECU firmware dump,Threats targeting autonomous sensors,0.12074220925569534
+ECU firmware dump,Unauthorised diagnostic access,0.32057881355285645
+ECU firmware dump,Unauthorised violation of rules and regulations / breach of legislation / abuse of personal data,0.20838023722171783
+ECU firmware dump,USB vulnerabilitiies exploitation,0.24792785942554474
+ECU firmware dump,Using information and/or devices from an unreliable source,0.24546460807323456
+ECU firmware dump,V2X Denial of Service,0.03771357983350754
+ECU firmware dump,Weak password,0.3033212125301361
+ECU reflash,Failure or disruption of service,0.08220250904560089
+ECU reflash,Failure or malfunction of a sensor/actuator,0.09790487587451935
+ECU reflash,Failure to meet contractual requirements,0.12645861506462097
+ECU reflash,Form field design issues,0.1287733018398285
+ECU reflash,GPS spoofing,0.340395450592041
+ECU reflash,Identity theft of driver,0.03301973640918732
+ECU reflash,Infotainment malware,0.08282175660133362
+ECU reflash,Infotainment reverse engineering and alteration,0.3551969528198242
+ECU reflash,Insecure data transfer in OEM and/or car services,0.10398763418197632
+ECU reflash,Insider threat,0.006213009357452393
+ECU reflash,Insufficient data breach response from OEM,0.21558305621147156
+ECU reflash,Insufficient deletion of driver data,0.06840339303016663
+ECU reflash,Loss of GNSS signal,0.2585020661354065
+ECU reflash,"Manipulation of physical sensors, memories and features",0.11270824819803238
+ECU reflash,Misleading information in OEM services,0.37558555603027344
+ECU reflash,Missing or insufficient session expiration,0.08765129745006561
+ECU reflash,Network outage,0.11098363995552063
+ECU reflash,OEM targeted attacks,0.30151671171188354
+ECU reflash,Operator-sided data leakage in OEM and/or car devices,0.1252160370349884
+ECU reflash,Remote access via telematics unit (TCU),0.21470192074775696
+ECU reflash,Rogue OBD-II Device,0.20465277135372162
+ECU reflash,Secondary use,0.27033090591430664
+ECU reflash,Server violation,0.2717093825340271
+ECU reflash,"Sharing, transfer or processing through 3rd party of driver data",0.20243984460830688
+ECU reflash,Side-channel attacks,0.15146124362945557
+ECU reflash,Smart key compromise,0.1345471888780594
+ECU reflash,SS7 vulnerabilities exploitation,0.16019085049629211
+ECU reflash,Tampering with telematics unit (TCU) firmware,0.2557814419269562
+ECU reflash,Threats targeting autonomous sensors,-0.040518347173929214
+ECU reflash,Unauthorised diagnostic access,0.04739902913570404
+ECU reflash,Unauthorised violation of rules and regulations / breach of legislation / abuse of personal data,0.009481670334935188
+ECU reflash,USB vulnerabilitiies exploitation,0.17162761092185974
+ECU reflash,Using information and/or devices from an unreliable source,0.10966554284095764
+ECU reflash,V2X Denial of Service,0.06502784043550491
+ECU reflash,Weak password,0.16492947936058044
+Failure or disruption of service,Failure or malfunction of a sensor/actuator,0.5350329279899597
+Failure or disruption of service,Failure to meet contractual requirements,0.4831579923629761
+Failure or disruption of service,Form field design issues,0.17549878358840942
+Failure or disruption of service,GPS spoofing,0.14254415035247803
+Failure or disruption of service,Identity theft of driver,0.09552672505378723
+Failure or disruption of service,Infotainment malware,0.13639074563980103
+Failure or disruption of service,Infotainment reverse engineering and alteration,0.16067804396152496
+Failure or disruption of service,Insecure data transfer in OEM and/or car services,0.19004608690738678
+Failure or disruption of service,Insider threat,0.03927702084183693
+Failure or disruption of service,Insufficient data breach response from OEM,0.2875978350639343
+Failure or disruption of service,Insufficient deletion of driver data,0.26870226860046387
+Failure or disruption of service,Loss of GNSS signal,0.3655503988265991
+Failure or disruption of service,"Manipulation of physical sensors, memories and features",0.008016885258257389
+Failure or disruption of service,Misleading information in OEM services,0.22020962834358215
+Failure or disruption of service,Missing or insufficient session expiration,0.33957141637802124
+Failure or disruption of service,Network outage,0.6544581651687622
+Failure or disruption of service,OEM targeted attacks,0.03833766281604767
+Failure or disruption of service,Operator-sided data leakage in OEM and/or car devices,0.06206316128373146
+Failure or disruption of service,Remote access via telematics unit (TCU),0.16940206289291382
+Failure or disruption of service,Rogue OBD-II Device,0.11678078025579453
+Failure or disruption of service,Secondary use,0.0906653106212616
+Failure or disruption of service,Server violation,0.2688685655593872
+Failure or disruption of service,"Sharing, transfer or processing through 3rd party of driver data",0.06920892000198364
+Failure or disruption of service,Side-channel attacks,0.18016895651817322
+Failure or disruption of service,Smart key compromise,0.15706908702850342
+Failure or disruption of service,SS7 vulnerabilities exploitation,0.09775350242853165
+Failure or disruption of service,Tampering with telematics unit (TCU) firmware,0.1612633913755417
+Failure or disruption of service,Threats targeting autonomous sensors,0.10954242944717407
+Failure or disruption of service,Unauthorised diagnostic access,0.2342868149280548
+Failure or disruption of service,Unauthorised violation of rules and regulations / breach of legislation / abuse of personal data,0.1561325192451477
+Failure or disruption of service,USB vulnerabilitiies exploitation,0.12674060463905334
+Failure or disruption of service,Using information and/or devices from an unreliable source,0.26441729068756104
+Failure or disruption of service,V2X Denial of Service,0.3055461049079895
+Failure or disruption of service,Weak password,0.25045570731163025
+Failure or malfunction of a sensor/actuator,Failure to meet contractual requirements,0.36757388710975647
+Failure or malfunction of a sensor/actuator,Form field design issues,0.1405387818813324
+Failure or malfunction of a sensor/actuator,GPS spoofing,0.24358150362968445
+Failure or malfunction of a sensor/actuator,Identity theft of driver,0.2358916848897934
+Failure or malfunction of a sensor/actuator,Infotainment malware,0.4170314073562622
+Failure or malfunction of a sensor/actuator,Infotainment reverse engineering and alteration,0.3896505534648895
+Failure or malfunction of a sensor/actuator,Insecure data transfer in OEM and/or car services,0.23836418986320496
+Failure or malfunction of a sensor/actuator,Insider threat,0.14782419800758362
+Failure or malfunction of a sensor/actuator,Insufficient data breach response from OEM,0.29143133759498596
+Failure or malfunction of a sensor/actuator,Insufficient deletion of driver data,0.37531307339668274
+Failure or malfunction of a sensor/actuator,Loss of GNSS signal,0.33064132928848267
+Failure or malfunction of a sensor/actuator,"Manipulation of physical sensors, memories and features",0.3468557596206665
+Failure or malfunction of a sensor/actuator,Misleading information in OEM services,0.23186615109443665
+Failure or malfunction of a sensor/actuator,Missing or insufficient session expiration,0.311413049697876
+Failure or malfunction of a sensor/actuator,Network outage,0.35854372382164
+Failure or malfunction of a sensor/actuator,OEM targeted attacks,0.13985005021095276
+Failure or malfunction of a sensor/actuator,Operator-sided data leakage in OEM and/or car devices,0.31330451369285583
+Failure or malfunction of a sensor/actuator,Remote access via telematics unit (TCU),0.2918999195098877
+Failure or malfunction of a sensor/actuator,Rogue OBD-II Device,0.25628551840782166
+Failure or malfunction of a sensor/actuator,Secondary use,0.13966302573680878
+Failure or malfunction of a sensor/actuator,Server violation,0.3168751001358032
+Failure or malfunction of a sensor/actuator,"Sharing, transfer or processing through 3rd party of driver data",0.17104609310626984
+Failure or malfunction of a sensor/actuator,Side-channel attacks,0.24701164662837982
+Failure or malfunction of a sensor/actuator,Smart key compromise,0.16302934288978577
+Failure or malfunction of a sensor/actuator,SS7 vulnerabilities exploitation,0.2155328392982483
+Failure or malfunction of a sensor/actuator,Tampering with telematics unit (TCU) firmware,0.37577325105667114
+Failure or malfunction of a sensor/actuator,Threats targeting autonomous sensors,0.3527217507362366
+Failure or malfunction of a sensor/actuator,Unauthorised diagnostic access,0.2788955867290497
+Failure or malfunction of a sensor/actuator,Unauthorised violation of rules and regulations / breach of legislation / abuse of personal data,0.23637787997722626
+Failure or malfunction of a sensor/actuator,USB vulnerabilitiies exploitation,0.19473347067832947
+Failure or malfunction of a sensor/actuator,Using information and/or devices from an unreliable source,0.48410162329673767
+Failure or malfunction of a sensor/actuator,V2X Denial of Service,0.19526629149913788
+Failure or malfunction of a sensor/actuator,Weak password,0.19337308406829834
+Failure to meet contractual requirements,Form field design issues,0.24271540343761444
+Failure to meet contractual requirements,GPS spoofing,0.11944611370563507
+Failure to meet contractual requirements,Identity theft of driver,0.10214994102716446
+Failure to meet contractual requirements,Infotainment malware,0.04556042328476906
+Failure to meet contractual requirements,Infotainment reverse engineering and alteration,0.017009146511554718
+Failure to meet contractual requirements,Insecure data transfer in OEM and/or car services,0.14843958616256714
+Failure to meet contractual requirements,Insider threat,0.08947858214378357
+Failure to meet contractual requirements,Insufficient data breach response from OEM,0.2786615192890167
+Failure to meet contractual requirements,Insufficient deletion of driver data,0.241904616355896
+Failure to meet contractual requirements,Loss of GNSS signal,0.221215158700943
+Failure to meet contractual requirements,"Manipulation of physical sensors, memories and features",0.005010172724723816
+Failure to meet contractual requirements,Misleading information in OEM services,0.09511717408895493
+Failure to meet contractual requirements,Missing or insufficient session expiration,0.4045344591140747
+Failure to meet contractual requirements,Network outage,0.30656033754348755
+Failure to meet contractual requirements,OEM targeted attacks,0.009762944653630257
+Failure to meet contractual requirements,Operator-sided data leakage in OEM and/or car devices,0.003227904438972473
+Failure to meet contractual requirements,Remote access via telematics unit (TCU),0.04766618460416794
+Failure to meet contractual requirements,Rogue OBD-II Device,0.06539400666952133
+Failure to meet contractual requirements,Secondary use,0.0833863615989685
+Failure to meet contractual requirements,Server violation,0.3156174421310425
+Failure to meet contractual requirements,"Sharing, transfer or processing through 3rd party of driver data",0.10637244582176208
+Failure to meet contractual requirements,Side-channel attacks,0.15939861536026
+Failure to meet contractual requirements,Smart key compromise,0.2374330759048462
+Failure to meet contractual requirements,SS7 vulnerabilities exploitation,0.22410234808921814
+Failure to meet contractual requirements,Tampering with telematics unit (TCU) firmware,0.08009137213230133
+Failure to meet contractual requirements,Threats targeting autonomous sensors,0.020686715841293335
+Failure to meet contractual requirements,Unauthorised diagnostic access,0.2449358105659485
+Failure to meet contractual requirements,Unauthorised violation of rules and regulations / breach of legislation / abuse of personal data,0.26729872822761536
+Failure to meet contractual requirements,USB vulnerabilitiies exploitation,0.26537710428237915
+Failure to meet contractual requirements,Using information and/or devices from an unreliable source,0.21260835230350494
+Failure to meet contractual requirements,V2X Denial of Service,0.22947901487350464
+Failure to meet contractual requirements,Weak password,0.20153729617595673
+Form field design issues,GPS spoofing,0.2053913027048111
+Form field design issues,Identity theft of driver,0.08462313562631607
+Form field design issues,Infotainment malware,0.059542056173086166
+Form field design issues,Infotainment reverse engineering and alteration,0.1988273561000824
+Form field design issues,Insecure data transfer in OEM and/or car services,-0.013396738097071648
+Form field design issues,Insider threat,0.11065521091222763
+Form field design issues,Insufficient data breach response from OEM,-0.045346833765506744
+Form field design issues,Insufficient deletion of driver data,0.027005653828382492
+Form field design issues,Loss of GNSS signal,0.15744540095329285
+Form field design issues,"Manipulation of physical sensors, memories and features",0.1000051200389862
+Form field design issues,Misleading information in OEM services,0.03082266077399254
+Form field design issues,Missing or insufficient session expiration,0.1412421613931656
+Form field design issues,Network outage,0.27764976024627686
+Form field design issues,OEM targeted attacks,0.17716018855571747
+Form field design issues,Operator-sided data leakage in OEM and/or car devices,-0.07633265852928162
+Form field design issues,Remote access via telematics unit (TCU),0.07856956124305725
+Form field design issues,Rogue OBD-II Device,0.022222500294446945
+Form field design issues,Secondary use,0.15240663290023804
+Form field design issues,Server violation,0.2202347218990326
+Form field design issues,"Sharing, transfer or processing through 3rd party of driver data",0.06299819052219391
+Form field design issues,Side-channel attacks,0.0711948350071907
+Form field design issues,Smart key compromise,0.3813931345939636
+Form field design issues,SS7 vulnerabilities exploitation,0.18806195259094238
+Form field design issues,Tampering with telematics unit (TCU) firmware,0.15218695998191833
+Form field design issues,Threats targeting autonomous sensors,0.1449049711227417
+Form field design issues,Unauthorised diagnostic access,0.1704440414905548
+Form field design issues,Unauthorised violation of rules and regulations / breach of legislation / abuse of personal data,0.08296999335289001
+Form field design issues,USB vulnerabilitiies exploitation,0.13383373618125916
+Form field design issues,Using information and/or devices from an unreliable source,0.062444910407066345
+Form field design issues,V2X Denial of Service,-0.005436108447611332
+Form field design issues,Weak password,0.06094833463430405
+GPS spoofing,Identity theft of driver,0.34862810373306274
+GPS spoofing,Infotainment malware,0.25826653838157654
+GPS spoofing,Infotainment reverse engineering and alteration,0.32880836725234985
+GPS spoofing,Insecure data transfer in OEM and/or car services,0.1922117918729782
+GPS spoofing,Insider threat,0.15805594623088837
+GPS spoofing,Insufficient data breach response from OEM,-0.0005956683307886124
+GPS spoofing,Insufficient deletion of driver data,0.14703448116779327
+GPS spoofing,Loss of GNSS signal,0.42600175738334656
+GPS spoofing,"Manipulation of physical sensors, memories and features",0.3641005754470825
+GPS spoofing,Misleading information in OEM services,0.3218114674091339
+GPS spoofing,Missing or insufficient session expiration,0.10650532692670822
+GPS spoofing,Network outage,0.21246758103370667
+GPS spoofing,OEM targeted attacks,0.1039339154958725
+GPS spoofing,Operator-sided data leakage in OEM and/or car devices,0.18233400583267212
+GPS spoofing,Remote access via telematics unit (TCU),0.2247215360403061
+GPS spoofing,Rogue OBD-II Device,0.0973254069685936
+GPS spoofing,Secondary use,0.22832563519477844
+GPS spoofing,Server violation,0.28146883845329285
+GPS spoofing,"Sharing, transfer or processing through 3rd party of driver data",0.2141450047492981
+GPS spoofing,Side-channel attacks,0.13072827458381653
+GPS spoofing,Smart key compromise,0.24851591885089874
+GPS spoofing,SS7 vulnerabilities exploitation,0.1590435653924942
+GPS spoofing,Tampering with telematics unit (TCU) firmware,0.3813062012195587
+GPS spoofing,Threats targeting autonomous sensors,0.23074181377887726
+GPS spoofing,Unauthorised diagnostic access,0.12306415289640427
+GPS spoofing,Unauthorised violation of rules and regulations / breach of legislation / abuse of personal data,0.19286814332008362
+GPS spoofing,USB vulnerabilitiies exploitation,0.15350109338760376
+GPS spoofing,Using information and/or devices from an unreliable source,0.4119001030921936
+GPS spoofing,V2X Denial of Service,0.04114659130573273
+GPS spoofing,Weak password,0.21966320276260376
+Identity theft of driver,Infotainment malware,0.44830161333084106
+Identity theft of driver,Infotainment reverse engineering and alteration,0.3088851571083069
+Identity theft of driver,Insecure data transfer in OEM and/or car services,0.4750984311103821
+Identity theft of driver,Insider threat,0.2698218524456024
+Identity theft of driver,Insufficient data breach response from OEM,-0.0010875985026359558
+Identity theft of driver,Insufficient deletion of driver data,0.3987765312194824
+Identity theft of driver,Loss of GNSS signal,0.19566023349761963
+Identity theft of driver,"Manipulation of physical sensors, memories and features",0.2769325077533722
+Identity theft of driver,Misleading information in OEM services,0.14977720379829407
+Identity theft of driver,Missing or insufficient session expiration,0.08733797073364258
+Identity theft of driver,Network outage,0.16847312450408936
+Identity theft of driver,OEM targeted attacks,0.0838993638753891
+Identity theft of driver,Operator-sided data leakage in OEM and/or car devices,0.5555895566940308
+Identity theft of driver,Remote access via telematics unit (TCU),0.1953863501548767
+Identity theft of driver,Rogue OBD-II Device,0.17969152331352234
+Identity theft of driver,Secondary use,0.1753712296485901
+Identity theft of driver,Server violation,0.1149190366268158
+Identity theft of driver,"Sharing, transfer or processing through 3rd party of driver data",0.3866475820541382
+Identity theft of driver,Side-channel attacks,0.17506098747253418
+Identity theft of driver,Smart key compromise,0.25746041536331177
+Identity theft of driver,SS7 vulnerabilities exploitation,0.1839546114206314
+Identity theft of driver,Tampering with telematics unit (TCU) firmware,0.3128315508365631
+Identity theft of driver,Threats targeting autonomous sensors,0.33996057510375977
+Identity theft of driver,Unauthorised diagnostic access,0.2363649308681488
+Identity theft of driver,Unauthorised violation of rules and regulations / breach of legislation / abuse of personal data,0.2703714966773987
+Identity theft of driver,USB vulnerabilitiies exploitation,0.28315573930740356
+Identity theft of driver,Using information and/or devices from an unreliable source,0.32565537095069885
+Identity theft of driver,V2X Denial of Service,0.10089068859815598
+Identity theft of driver,Weak password,0.2278209626674652
+Infotainment malware,Infotainment reverse engineering and alteration,0.43797779083251953
+Infotainment malware,Insecure data transfer in OEM and/or car services,0.41168084740638733
+Infotainment malware,Insider threat,0.34173649549484253
+Infotainment malware,Insufficient data breach response from OEM,0.06816653162240982
+Infotainment malware,Insufficient deletion of driver data,0.2615855634212494
+Infotainment malware,Loss of GNSS signal,0.09941212832927704
+Infotainment malware,"Manipulation of physical sensors, memories and features",0.3652307987213135
+Infotainment malware,Misleading information in OEM services,0.18986359238624573
+Infotainment malware,Missing or insufficient session expiration,0.036442819982767105
+Infotainment malware,Network outage,0.1288677603006363
+Infotainment malware,OEM targeted attacks,0.2324671447277069
+Infotainment malware,Operator-sided data leakage in OEM and/or car devices,0.47242945432662964
+Infotainment malware,Remote access via telematics unit (TCU),0.30446749925613403
+Infotainment malware,Rogue OBD-II Device,0.31967368721961975
+Infotainment malware,Secondary use,0.23045150935649872
+Infotainment malware,Server violation,0.24444913864135742
+Infotainment malware,"Sharing, transfer or processing through 3rd party of driver data",0.2520003914833069
+Infotainment malware,Side-channel attacks,0.28919798135757446
+Infotainment malware,Smart key compromise,0.1671546995639801
+Infotainment malware,SS7 vulnerabilities exploitation,0.1000097244977951
+Infotainment malware,Tampering with telematics unit (TCU) firmware,0.5238473415374756
+Infotainment malware,Threats targeting autonomous sensors,0.3660334348678589
+Infotainment malware,Unauthorised diagnostic access,0.24447035789489746
+Infotainment malware,Unauthorised violation of rules and regulations / breach of legislation / abuse of personal data,0.24369393289089203
+Infotainment malware,USB vulnerabilitiies exploitation,0.20972083508968353
+Infotainment malware,Using information and/or devices from an unreliable source,0.3947082459926605
+Infotainment malware,V2X Denial of Service,0.15337353944778442
+Infotainment malware,Weak password,0.2381569743156433
+Infotainment reverse engineering and alteration,Insecure data transfer in OEM and/or car services,0.23967507481575012
+Infotainment reverse engineering and alteration,Insider threat,0.13107553124427795
+Infotainment reverse engineering and alteration,Insufficient data breach response from OEM,0.06394347548484802
+Infotainment reverse engineering and alteration,Insufficient deletion of driver data,0.3389512896537781
+Infotainment reverse engineering and alteration,Loss of GNSS signal,0.19271446764469147
+Infotainment reverse engineering and alteration,"Manipulation of physical sensors, memories and features",0.38374367356300354
+Infotainment reverse engineering and alteration,Misleading information in OEM services,0.3762950301170349
+Infotainment reverse engineering and alteration,Missing or insufficient session expiration,0.10902941972017288
+Infotainment reverse engineering and alteration,Network outage,0.15590330958366394
+Infotainment reverse engineering and alteration,OEM targeted attacks,0.1768031269311905
+Infotainment reverse engineering and alteration,Operator-sided data leakage in OEM and/or car devices,0.4205281138420105
+Infotainment reverse engineering and alteration,Remote access via telematics unit (TCU),0.3453889489173889
+Infotainment reverse engineering and alteration,Rogue OBD-II Device,0.41140466928482056
+Infotainment reverse engineering and alteration,Secondary use,0.2324053794145584
+Infotainment reverse engineering and alteration,Server violation,0.28343063592910767
+Infotainment reverse engineering and alteration,"Sharing, transfer or processing through 3rd party of driver data",0.2743162214756012
+Infotainment reverse engineering and alteration,Side-channel attacks,0.23697203397750854
+Infotainment reverse engineering and alteration,Smart key compromise,0.13448308408260345
+Infotainment reverse engineering and alteration,SS7 vulnerabilities exploitation,0.05463872849941254
+Infotainment reverse engineering and alteration,Tampering with telematics unit (TCU) firmware,0.4421904981136322
+Infotainment reverse engineering and alteration,Threats targeting autonomous sensors,0.25226080417633057
+Infotainment reverse engineering and alteration,Unauthorised diagnostic access,0.12412263453006744
+Infotainment reverse engineering and alteration,Unauthorised violation of rules and regulations / breach of legislation / abuse of personal data,0.09221325814723969
+Infotainment reverse engineering and alteration,USB vulnerabilitiies exploitation,0.10953621566295624
+Infotainment reverse engineering and alteration,Using information and/or devices from an unreliable source,0.3728702664375305
+Infotainment reverse engineering and alteration,V2X Denial of Service,0.16226306557655334
+Infotainment reverse engineering and alteration,Weak password,0.05102204531431198
+Insecure data transfer in OEM and/or car services,Insider threat,0.25923359394073486
+Insecure data transfer in OEM and/or car services,Insufficient data breach response from OEM,0.3555167317390442
+Insecure data transfer in OEM and/or car services,Insufficient deletion of driver data,0.3071560561656952
+Insecure data transfer in OEM and/or car services,Loss of GNSS signal,0.24411657452583313
+Insecure data transfer in OEM and/or car services,"Manipulation of physical sensors, memories and features",0.26379072666168213
+Insecure data transfer in OEM and/or car services,Misleading information in OEM services,0.3746137022972107
+Insecure data transfer in OEM and/or car services,Missing or insufficient session expiration,0.10342781245708466
+Insecure data transfer in OEM and/or car services,Network outage,0.13468262553215027
+Insecure data transfer in OEM and/or car services,OEM targeted attacks,0.3185422718524933
+Insecure data transfer in OEM and/or car services,Operator-sided data leakage in OEM and/or car devices,0.6740127801895142
+Insecure data transfer in OEM and/or car services,Remote access via telematics unit (TCU),0.3864096999168396
+Insecure data transfer in OEM and/or car services,Rogue OBD-II Device,0.3230205774307251
+Insecure data transfer in OEM and/or car services,Secondary use,0.19515305757522583
+Insecure data transfer in OEM and/or car services,Server violation,0.1480371356010437
+Insecure data transfer in OEM and/or car services,"Sharing, transfer or processing through 3rd party of driver data",0.5094439387321472
+Insecure data transfer in OEM and/or car services,Side-channel attacks,0.14996647834777832
+Insecure data transfer in OEM and/or car services,Smart key compromise,0.1072029173374176
+Insecure data transfer in OEM and/or car services,SS7 vulnerabilities exploitation,0.2158733606338501
+Insecure data transfer in OEM and/or car services,Tampering with telematics unit (TCU) firmware,0.30031681060791016
+Insecure data transfer in OEM and/or car services,Threats targeting autonomous sensors,0.3989908695220947
+Insecure data transfer in OEM and/or car services,Unauthorised diagnostic access,0.20956632494926453
+Insecure data transfer in OEM and/or car services,Unauthorised violation of rules and regulations / breach of legislation / abuse of personal data,0.35192400217056274
+Insecure data transfer in OEM and/or car services,USB vulnerabilitiies exploitation,0.35487061738967896
+Insecure data transfer in OEM and/or car services,Using information and/or devices from an unreliable source,0.3995300531387329
+Insecure data transfer in OEM and/or car services,V2X Denial of Service,0.2073582261800766
+Insecure data transfer in OEM and/or car services,Weak password,0.3225969672203064
+Insider threat,Insufficient data breach response from OEM,0.05052482336759567
+Insider threat,Insufficient deletion of driver data,0.05611748248338699
+Insider threat,Loss of GNSS signal,0.10888931900262833
+Insider threat,"Manipulation of physical sensors, memories and features",0.29548555612564087
+Insider threat,Misleading information in OEM services,0.04366069287061691
+Insider threat,Missing or insufficient session expiration,0.09709233045578003
+Insider threat,Network outage,0.12423093616962433
+Insider threat,OEM targeted attacks,0.2218872606754303
+Insider threat,Operator-sided data leakage in OEM and/or car devices,0.2117798626422882
+Insider threat,Remote access via telematics unit (TCU),0.17882394790649414
+Insider threat,Rogue OBD-II Device,0.19244584441184998
+Insider threat,Secondary use,0.26368239521980286
+Insider threat,Server violation,0.1453908383846283
+Insider threat,"Sharing, transfer or processing through 3rd party of driver data",0.0356963649392128
+Insider threat,Side-channel attacks,0.3359665274620056
+Insider threat,Smart key compromise,0.2327742576599121
+Insider threat,SS7 vulnerabilities exploitation,0.17791299521923065
+Insider threat,Tampering with telematics unit (TCU) firmware,0.2730981707572937
+Insider threat,Threats targeting autonomous sensors,0.4467802047729492
+Insider threat,Unauthorised diagnostic access,0.095869280397892
+Insider threat,Unauthorised violation of rules and regulations / breach of legislation / abuse of personal data,0.24081125855445862
+Insider threat,USB vulnerabilitiies exploitation,0.25513744354248047
+Insider threat,Using information and/or devices from an unreliable source,0.2924581468105316
+Insider threat,V2X Denial of Service,0.0904957577586174
+Insider threat,Weak password,0.31584569811820984
+Insufficient data breach response from OEM,Insufficient deletion of driver data,0.3310871720314026
+Insufficient data breach response from OEM,Loss of GNSS signal,0.23614400625228882
+Insufficient data breach response from OEM,"Manipulation of physical sensors, memories and features",0.12019933015108109
+Insufficient data breach response from OEM,Misleading information in OEM services,0.41393905878067017
+Insufficient data breach response from OEM,Missing or insufficient session expiration,0.3286568224430084
+Insufficient data breach response from OEM,Network outage,0.14526236057281494
+Insufficient data breach response from OEM,OEM targeted attacks,0.45591455698013306
+Insufficient data breach response from OEM,Operator-sided data leakage in OEM and/or car devices,0.2506225109100342
+Insufficient data breach response from OEM,Remote access via telematics unit (TCU),0.16330140829086304
+Insufficient data breach response from OEM,Rogue OBD-II Device,0.2413450926542282
+Insufficient data breach response from OEM,Secondary use,0.0503501258790493
+Insufficient data breach response from OEM,Server violation,0.21211116015911102
+Insufficient data breach response from OEM,"Sharing, transfer or processing through 3rd party of driver data",0.07131116837263107
+Insufficient data breach response from OEM,Side-channel attacks,0.034050289541482925
+Insufficient data breach response from OEM,Smart key compromise,-0.0551123283803463
+Insufficient data breach response from OEM,SS7 vulnerabilities exploitation,0.17576032876968384
+Insufficient data breach response from OEM,Tampering with telematics unit (TCU) firmware,0.07427914440631866
+Insufficient data breach response from OEM,Threats targeting autonomous sensors,0.1048269271850586
+Insufficient data breach response from OEM,Unauthorised diagnostic access,0.20246078073978424
+Insufficient data breach response from OEM,Unauthorised violation of rules and regulations / breach of legislation / abuse of personal data,0.2660788297653198
+Insufficient data breach response from OEM,USB vulnerabilitiies exploitation,0.15835784375667572
+Insufficient data breach response from OEM,Using information and/or devices from an unreliable source,0.2058100700378418
+Insufficient data breach response from OEM,V2X Denial of Service,0.24455077946186066
+Insufficient data breach response from OEM,Weak password,0.3095211982727051
+Insufficient deletion of driver data,Loss of GNSS signal,0.2927555441856384
+Insufficient deletion of driver data,"Manipulation of physical sensors, memories and features",0.203403502702713
+Insufficient deletion of driver data,Misleading information in OEM services,0.22139450907707214
+Insufficient deletion of driver data,Missing or insufficient session expiration,0.4968741238117218
+Insufficient deletion of driver data,Network outage,0.22340147197246552
+Insufficient deletion of driver data,OEM targeted attacks,0.00036370474845170975
+Insufficient deletion of driver data,Operator-sided data leakage in OEM and/or car devices,0.4184325635433197
+Insufficient deletion of driver data,Remote access via telematics unit (TCU),0.2553509473800659
+Insufficient deletion of driver data,Rogue OBD-II Device,0.1222066581249237
+Insufficient deletion of driver data,Secondary use,0.14769090712070465
+Insufficient deletion of driver data,Server violation,0.27749377489089966
+Insufficient deletion of driver data,"Sharing, transfer or processing through 3rd party of driver data",0.3027377724647522
+Insufficient deletion of driver data,Side-channel attacks,0.14946293830871582
+Insufficient deletion of driver data,Smart key compromise,0.09032806009054184
+Insufficient deletion of driver data,SS7 vulnerabilities exploitation,0.07538633793592453
+Insufficient deletion of driver data,Tampering with telematics unit (TCU) firmware,0.21632373332977295
+Insufficient deletion of driver data,Threats targeting autonomous sensors,0.23920801281929016
+Insufficient deletion of driver data,Unauthorised diagnostic access,0.31175586581230164
+Insufficient deletion of driver data,Unauthorised violation of rules and regulations / breach of legislation / abuse of personal data,0.2970188856124878
+Insufficient deletion of driver data,USB vulnerabilitiies exploitation,0.09155686944723129
+Insufficient deletion of driver data,Using information and/or devices from an unreliable source,0.3539053797721863
+Insufficient deletion of driver data,V2X Denial of Service,0.2639923691749573
+Insufficient deletion of driver data,Weak password,0.1442577838897705
+Loss of GNSS signal,"Manipulation of physical sensors, memories and features",0.11188284307718277
+Loss of GNSS signal,Misleading information in OEM services,0.2712075114250183
+Loss of GNSS signal,Missing or insufficient session expiration,0.3223305344581604
+Loss of GNSS signal,Network outage,0.44948112964630127
+Loss of GNSS signal,OEM targeted attacks,0.1218724399805069
+Loss of GNSS signal,Operator-sided data leakage in OEM and/or car devices,0.2452128827571869
+Loss of GNSS signal,Remote access via telematics unit (TCU),0.3457656800746918
+Loss of GNSS signal,Rogue OBD-II Device,0.2705758810043335
+Loss of GNSS signal,Secondary use,0.23247937858104706
+Loss of GNSS signal,Server violation,0.3186015784740448
+Loss of GNSS signal,"Sharing, transfer or processing through 3rd party of driver data",0.19914013147354126
+Loss of GNSS signal,Side-channel attacks,0.186258465051651
+Loss of GNSS signal,Smart key compromise,0.13517139852046967
+Loss of GNSS signal,SS7 vulnerabilities exploitation,0.2664387822151184
+Loss of GNSS signal,Tampering with telematics unit (TCU) firmware,0.24298447370529175
+Loss of GNSS signal,Threats targeting autonomous sensors,0.12856973707675934
+Loss of GNSS signal,Unauthorised diagnostic access,0.16656841337680817
+Loss of GNSS signal,Unauthorised violation of rules and regulations / breach of legislation / abuse of personal data,0.15315967798233032
+Loss of GNSS signal,USB vulnerabilitiies exploitation,0.21713076531887054
+Loss of GNSS signal,Using information and/or devices from an unreliable source,0.3635044991970062
+Loss of GNSS signal,V2X Denial of Service,0.23069630563259125
+Loss of GNSS signal,Weak password,0.28336355090141296
+"Manipulation of physical sensors, memories and features",Misleading information in OEM services,0.2581130266189575
+"Manipulation of physical sensors, memories and features",Missing or insufficient session expiration,0.12846514582633972
+"Manipulation of physical sensors, memories and features",Network outage,0.11287623643875122
+"Manipulation of physical sensors, memories and features",OEM targeted attacks,0.30197760462760925
+"Manipulation of physical sensors, memories and features",Operator-sided data leakage in OEM and/or car devices,0.36892181634902954
+"Manipulation of physical sensors, memories and features",Remote access via telematics unit (TCU),0.3388596177101135
+"Manipulation of physical sensors, memories and features",Rogue OBD-II Device,0.17043867707252502
+"Manipulation of physical sensors, memories and features",Secondary use,0.2106463611125946
+"Manipulation of physical sensors, memories and features",Server violation,0.16424116492271423
+"Manipulation of physical sensors, memories and features","Sharing, transfer or processing through 3rd party of driver data",0.17566657066345215
+"Manipulation of physical sensors, memories and features",Side-channel attacks,0.1884835660457611
+"Manipulation of physical sensors, memories and features",Smart key compromise,0.13880404829978943
+"Manipulation of physical sensors, memories and features",SS7 vulnerabilities exploitation,0.26546141505241394
+"Manipulation of physical sensors, memories and features",Tampering with telematics unit (TCU) firmware,0.41572311520576477
+"Manipulation of physical sensors, memories and features",Threats targeting autonomous sensors,0.4272615611553192
+"Manipulation of physical sensors, memories and features",Unauthorised diagnostic access,0.13326522707939148
+"Manipulation of physical sensors, memories and features",Unauthorised violation of rules and regulations / breach of legislation / abuse of personal data,0.26412710547447205
+"Manipulation of physical sensors, memories and features",USB vulnerabilitiies exploitation,0.2189856469631195
+"Manipulation of physical sensors, memories and features",Using information and/or devices from an unreliable source,0.4657067060470581
+"Manipulation of physical sensors, memories and features",V2X Denial of Service,-0.01701470836997032
+"Manipulation of physical sensors, memories and features",Weak password,0.1962434947490692
+Misleading information in OEM services,Missing or insufficient session expiration,0.19741377234458923
+Misleading information in OEM services,Network outage,0.12041448056697845
+Misleading information in OEM services,OEM targeted attacks,0.4450472593307495
+Misleading information in OEM services,Operator-sided data leakage in OEM and/or car devices,0.43658414483070374
+Misleading information in OEM services,Remote access via telematics unit (TCU),0.32087433338165283
+Misleading information in OEM services,Rogue OBD-II Device,0.3511567711830139
+Misleading information in OEM services,Secondary use,0.2930726110935211
+Misleading information in OEM services,Server violation,0.2987094223499298
+Misleading information in OEM services,"Sharing, transfer or processing through 3rd party of driver data",0.24131567776203156
+Misleading information in OEM services,Side-channel attacks,0.16281050443649292
+Misleading information in OEM services,Smart key compromise,0.09841207414865494
+Misleading information in OEM services,SS7 vulnerabilities exploitation,0.16576337814331055
+Misleading information in OEM services,Tampering with telematics unit (TCU) firmware,0.34552714228630066
+Misleading information in OEM services,Threats targeting autonomous sensors,0.1647305190563202
+Misleading information in OEM services,Unauthorised diagnostic access,0.13394221663475037
+Misleading information in OEM services,Unauthorised violation of rules and regulations / breach of legislation / abuse of personal data,0.21732306480407715
+Misleading information in OEM services,USB vulnerabilitiies exploitation,0.1744575947523117
+Misleading information in OEM services,Using information and/or devices from an unreliable source,0.47270166873931885
+Misleading information in OEM services,V2X Denial of Service,0.10953822731971741
+Misleading information in OEM services,Weak password,0.2843928337097168
+Missing or insufficient session expiration,Network outage,0.2632269263267517
+Missing or insufficient session expiration,OEM targeted attacks,0.053725287318229675
+Missing or insufficient session expiration,Operator-sided data leakage in OEM and/or car devices,0.12264702469110489
+Missing or insufficient session expiration,Remote access via telematics unit (TCU),0.18334069848060608
+Missing or insufficient session expiration,Rogue OBD-II Device,0.14185500144958496
+Missing or insufficient session expiration,Secondary use,0.2005806714296341
+Missing or insufficient session expiration,Server violation,0.32241663336753845
+Missing or insufficient session expiration,"Sharing, transfer or processing through 3rd party of driver data",0.10485310107469559
+Missing or insufficient session expiration,Side-channel attacks,0.11920653283596039
+Missing or insufficient session expiration,Smart key compromise,0.18645751476287842
+Missing or insufficient session expiration,SS7 vulnerabilities exploitation,0.18469034135341644
+Missing or insufficient session expiration,Tampering with telematics unit (TCU) firmware,0.17826935648918152
+Missing or insufficient session expiration,Threats targeting autonomous sensors,0.1307063102722168
+Missing or insufficient session expiration,Unauthorised diagnostic access,0.3236590325832367
+Missing or insufficient session expiration,Unauthorised violation of rules and regulations / breach of legislation / abuse of personal data,0.27600497007369995
+Missing or insufficient session expiration,USB vulnerabilitiies exploitation,0.16259494423866272
+Missing or insufficient session expiration,Using information and/or devices from an unreliable source,0.29059672355651855
+Missing or insufficient session expiration,V2X Denial of Service,0.1872251033782959
+Missing or insufficient session expiration,Weak password,0.19130435585975647
+Network outage,OEM targeted attacks,0.028865087777376175
+Network outage,Operator-sided data leakage in OEM and/or car devices,0.05506063252687454
+Network outage,Remote access via telematics unit (TCU),0.2475706934928894
+Network outage,Rogue OBD-II Device,0.06733854115009308
+Network outage,Secondary use,0.1100340485572815
+Network outage,Server violation,0.18851810693740845
+Network outage,"Sharing, transfer or processing through 3rd party of driver data",0.07562929391860962
+Network outage,Side-channel attacks,0.15131771564483643
+Network outage,Smart key compromise,0.19930098950862885
+Network outage,SS7 vulnerabilities exploitation,0.15667378902435303
+Network outage,Tampering with telematics unit (TCU) firmware,0.16601280868053436
+Network outage,Threats targeting autonomous sensors,0.17716918885707855
+Network outage,Unauthorised diagnostic access,0.2819652855396271
+Network outage,Unauthorised violation of rules and regulations / breach of legislation / abuse of personal data,0.14314264059066772
+Network outage,USB vulnerabilitiies exploitation,0.0822400152683258
+Network outage,Using information and/or devices from an unreliable source,0.26325953006744385
+Network outage,V2X Denial of Service,0.1685054898262024
+Network outage,Weak password,0.21809720993041992
+OEM targeted attacks,Operator-sided data leakage in OEM and/or car devices,0.2739739418029785
+OEM targeted attacks,Remote access via telematics unit (TCU),0.18434898555278778
+OEM targeted attacks,Rogue OBD-II Device,0.2526686489582062
+OEM targeted attacks,Secondary use,0.14196118712425232
+OEM targeted attacks,Server violation,0.13539797067642212
+OEM targeted attacks,"Sharing, transfer or processing through 3rd party of driver data",0.10299868881702423
+OEM targeted attacks,Side-channel attacks,0.28224050998687744
+OEM targeted attacks,Smart key compromise,0.15450024604797363
+OEM targeted attacks,SS7 vulnerabilities exploitation,0.1851908415555954
+OEM targeted attacks,Tampering with telematics unit (TCU) firmware,0.21815457940101624
+OEM targeted attacks,Threats targeting autonomous sensors,0.3107645809650421
+OEM targeted attacks,Unauthorised diagnostic access,0.07996436953544617
+OEM targeted attacks,Unauthorised violation of rules and regulations / breach of legislation / abuse of personal data,0.049381352961063385
+OEM targeted attacks,USB vulnerabilitiies exploitation,0.24002771079540253
+OEM targeted attacks,Using information and/or devices from an unreliable source,0.11149731278419495
+OEM targeted attacks,V2X Denial of Service,0.053229138255119324
+OEM targeted attacks,Weak password,0.23034235835075378
+Operator-sided data leakage in OEM and/or car devices,Remote access via telematics unit (TCU),0.36790931224823
+Operator-sided data leakage in OEM and/or car devices,Rogue OBD-II Device,0.4162972569465637
+Operator-sided data leakage in OEM and/or car devices,Secondary use,0.261495441198349
+Operator-sided data leakage in OEM and/or car devices,Server violation,0.19438308477401733
+Operator-sided data leakage in OEM and/or car devices,"Sharing, transfer or processing through 3rd party of driver data",0.4521837830543518
+Operator-sided data leakage in OEM and/or car devices,Side-channel attacks,0.2784419655799866
+Operator-sided data leakage in OEM and/or car devices,Smart key compromise,0.05598882958292961
+Operator-sided data leakage in OEM and/or car devices,SS7 vulnerabilities exploitation,0.1992177814245224
+Operator-sided data leakage in OEM and/or car devices,Tampering with telematics unit (TCU) firmware,0.3948274552822113
+Operator-sided data leakage in OEM and/or car devices,Threats targeting autonomous sensors,0.3320351243019104
+Operator-sided data leakage in OEM and/or car devices,Unauthorised diagnostic access,0.20037096738815308
+Operator-sided data leakage in OEM and/or car devices,Unauthorised violation of rules and regulations / breach of legislation / abuse of personal data,0.3599960505962372
+Operator-sided data leakage in OEM and/or car devices,USB vulnerabilitiies exploitation,0.34042513370513916
+Operator-sided data leakage in OEM and/or car devices,Using information and/or devices from an unreliable source,0.49517181515693665
+Operator-sided data leakage in OEM and/or car devices,V2X Denial of Service,0.15400587022304535
+Operator-sided data leakage in OEM and/or car devices,Weak password,0.27110594511032104
+Remote access via telematics unit (TCU),Rogue OBD-II Device,0.20587895810604095
+Remote access via telematics unit (TCU),Secondary use,0.2821734547615051
+Remote access via telematics unit (TCU),Server violation,0.2287464290857315
+Remote access via telematics unit (TCU),"Sharing, transfer or processing through 3rd party of driver data",0.2980465888977051
+Remote access via telematics unit (TCU),Side-channel attacks,0.2820482552051544
+Remote access via telematics unit (TCU),Smart key compromise,0.14571723341941833
+Remote access via telematics unit (TCU),SS7 vulnerabilities exploitation,0.22198700904846191
+Remote access via telematics unit (TCU),Tampering with telematics unit (TCU) firmware,0.5980401039123535
+Remote access via telematics unit (TCU),Threats targeting autonomous sensors,0.4245067238807678
+Remote access via telematics unit (TCU),Unauthorised diagnostic access,0.14356884360313416
+Remote access via telematics unit (TCU),Unauthorised violation of rules and regulations / breach of legislation / abuse of personal data,0.18914881348609924
+Remote access via telematics unit (TCU),USB vulnerabilitiies exploitation,0.20512953400611877
+Remote access via telematics unit (TCU),Using information and/or devices from an unreliable source,0.40794897079467773
+Remote access via telematics unit (TCU),V2X Denial of Service,0.2223253846168518
+Remote access via telematics unit (TCU),Weak password,0.14010405540466309
+Rogue OBD-II Device,Secondary use,0.4184739291667938
+Rogue OBD-II Device,Server violation,0.2603631019592285
+Rogue OBD-II Device,"Sharing, transfer or processing through 3rd party of driver data",0.11899656057357788
+Rogue OBD-II Device,Side-channel attacks,0.22116181254386902
+Rogue OBD-II Device,Smart key compromise,0.07280087471008301
+Rogue OBD-II Device,SS7 vulnerabilities exploitation,0.23338621854782104
+Rogue OBD-II Device,Tampering with telematics unit (TCU) firmware,0.2037143111228943
+Rogue OBD-II Device,Threats targeting autonomous sensors,0.22543731331825256
+Rogue OBD-II Device,Unauthorised diagnostic access,0.17582717537879944
+Rogue OBD-II Device,Unauthorised violation of rules and regulations / breach of legislation / abuse of personal data,0.18552187085151672
+Rogue OBD-II Device,USB vulnerabilitiies exploitation,0.3595910668373108
+Rogue OBD-II Device,Using information and/or devices from an unreliable source,0.32744133472442627
+Rogue OBD-II Device,V2X Denial of Service,0.31063875555992126
+Rogue OBD-II Device,Weak password,0.24717091023921967
+Secondary use,Server violation,0.23482131958007812
+Secondary use,"Sharing, transfer or processing through 3rd party of driver data",0.11469734460115433
+Secondary use,Side-channel attacks,0.3488086462020874
+Secondary use,Smart key compromise,0.20949187874794006
+Secondary use,SS7 vulnerabilities exploitation,0.21479421854019165
+Secondary use,Tampering with telematics unit (TCU) firmware,0.20755964517593384
+Secondary use,Threats targeting autonomous sensors,0.2213529646396637
+Secondary use,Unauthorised diagnostic access,0.1264934539794922
+Secondary use,Unauthorised violation of rules and regulations / breach of legislation / abuse of personal data,0.10398548096418381
+Secondary use,USB vulnerabilitiies exploitation,0.3202407956123352
+Secondary use,Using information and/or devices from an unreliable source,0.300085186958313
+Secondary use,V2X Denial of Service,0.31440967321395874
+Secondary use,Weak password,0.263095885515213
+Server violation,"Sharing, transfer or processing through 3rd party of driver data",0.17013750970363617
+Server violation,Side-channel attacks,0.2859577536582947
+Server violation,Smart key compromise,0.15542572736740112
+Server violation,SS7 vulnerabilities exploitation,0.2282128930091858
+Server violation,Tampering with telematics unit (TCU) firmware,0.2512756288051605
+Server violation,Threats targeting autonomous sensors,0.17280536890029907
+Server violation,Unauthorised diagnostic access,0.22727763652801514
+Server violation,Unauthorised violation of rules and regulations / breach of legislation / abuse of personal data,0.35131126642227173
+Server violation,USB vulnerabilitiies exploitation,0.2255653440952301
+Server violation,Using information and/or devices from an unreliable source,0.28596624732017517
+Server violation,V2X Denial of Service,0.2917476296424866
+Server violation,Weak password,0.11928988248109818
+"Sharing, transfer or processing through 3rd party of driver data",Side-channel attacks,0.11241880059242249
+"Sharing, transfer or processing through 3rd party of driver data",Smart key compromise,0.15375903248786926
+"Sharing, transfer or processing through 3rd party of driver data",SS7 vulnerabilities exploitation,0.11616306751966476
+"Sharing, transfer or processing through 3rd party of driver data",Tampering with telematics unit (TCU) firmware,0.2334701120853424
+"Sharing, transfer or processing through 3rd party of driver data",Threats targeting autonomous sensors,0.11105068027973175
+"Sharing, transfer or processing through 3rd party of driver data",Unauthorised diagnostic access,0.15445461869239807
+"Sharing, transfer or processing through 3rd party of driver data",Unauthorised violation of rules and regulations / breach of legislation / abuse of personal data,0.21243497729301453
+"Sharing, transfer or processing through 3rd party of driver data",USB vulnerabilitiies exploitation,0.2225542813539505
+"Sharing, transfer or processing through 3rd party of driver data",Using information and/or devices from an unreliable source,0.1934146285057068
+"Sharing, transfer or processing through 3rd party of driver data",V2X Denial of Service,0.06934294104576111
+"Sharing, transfer or processing through 3rd party of driver data",Weak password,0.1326371729373932
+Side-channel attacks,Smart key compromise,0.1431688368320465
+Side-channel attacks,SS7 vulnerabilities exploitation,0.16485854983329773
+Side-channel attacks,Tampering with telematics unit (TCU) firmware,0.22770065069198608
+Side-channel attacks,Threats targeting autonomous sensors,0.38208091259002686
+Side-channel attacks,Unauthorised diagnostic access,0.09711339324712753
+Side-channel attacks,Unauthorised violation of rules and regulations / breach of legislation / abuse of personal data,0.12742796540260315
+Side-channel attacks,USB vulnerabilitiies exploitation,0.29422661662101746
+Side-channel attacks,Using information and/or devices from an unreliable source,0.27625882625579834
+Side-channel attacks,V2X Denial of Service,0.21511217951774597
+Side-channel attacks,Weak password,0.11954163014888763
+Smart key compromise,SS7 vulnerabilities exploitation,0.20960479974746704
+Smart key compromise,Tampering with telematics unit (TCU) firmware,0.26737818121910095
+Smart key compromise,Threats targeting autonomous sensors,0.21294131875038147
+Smart key compromise,Unauthorised diagnostic access,0.11369501054286957
+Smart key compromise,Unauthorised violation of rules and regulations / breach of legislation / abuse of personal data,0.03937045484781265
+Smart key compromise,USB vulnerabilitiies exploitation,0.2453044205904007
+Smart key compromise,Using information and/or devices from an unreliable source,0.13211315870285034
+Smart key compromise,V2X Denial of Service,-0.08957326412200928
+Smart key compromise,Weak password,0.27000951766967773
+SS7 vulnerabilities exploitation,Tampering with telematics unit (TCU) firmware,0.2485222965478897
+SS7 vulnerabilities exploitation,Threats targeting autonomous sensors,0.3261494040489197
+SS7 vulnerabilities exploitation,Unauthorised diagnostic access,0.3032999038696289
+SS7 vulnerabilities exploitation,Unauthorised violation of rules and regulations / breach of legislation / abuse of personal data,0.3868139982223511
+SS7 vulnerabilities exploitation,USB vulnerabilitiies exploitation,0.5533044338226318
+SS7 vulnerabilities exploitation,Using information and/or devices from an unreliable source,0.1782359778881073
+SS7 vulnerabilities exploitation,V2X Denial of Service,0.12143757939338684
+SS7 vulnerabilities exploitation,Weak password,0.34370869398117065
+Tampering with telematics unit (TCU) firmware,Threats targeting autonomous sensors,0.3628160357475281
+Tampering with telematics unit (TCU) firmware,Unauthorised diagnostic access,0.2090139091014862
+Tampering with telematics unit (TCU) firmware,Unauthorised violation of rules and regulations / breach of legislation / abuse of personal data,0.30922406911849976
+Tampering with telematics unit (TCU) firmware,USB vulnerabilitiies exploitation,0.2546280026435852
+Tampering with telematics unit (TCU) firmware,Using information and/or devices from an unreliable source,0.49234539270401
+Tampering with telematics unit (TCU) firmware,V2X Denial of Service,0.027982696890830994
+Tampering with telematics unit (TCU) firmware,Weak password,0.25092729926109314
+Threats targeting autonomous sensors,Unauthorised diagnostic access,0.18344858288764954
+Threats targeting autonomous sensors,Unauthorised violation of rules and regulations / breach of legislation / abuse of personal data,0.28440579771995544
+Threats targeting autonomous sensors,USB vulnerabilitiies exploitation,0.3211907148361206
+Threats targeting autonomous sensors,Using information and/or devices from an unreliable source,0.4402807354927063
+Threats targeting autonomous sensors,V2X Denial of Service,0.12517568469047546
+Threats targeting autonomous sensors,Weak password,0.18092572689056396
+Unauthorised diagnostic access,Unauthorised violation of rules and regulations / breach of legislation / abuse of personal data,0.4424059987068176
+Unauthorised diagnostic access,USB vulnerabilitiies exploitation,0.2473643720149994
+Unauthorised diagnostic access,Using information and/or devices from an unreliable source,0.25199320912361145
+Unauthorised diagnostic access,V2X Denial of Service,0.24584521353244781
+Unauthorised diagnostic access,Weak password,0.32005614042282104
+Unauthorised violation of rules and regulations / breach of legislation / abuse of personal data,USB vulnerabilitiies exploitation,0.3841975927352905
+Unauthorised violation of rules and regulations / breach of legislation / abuse of personal data,Using information and/or devices from an unreliable source,0.4307757318019867
+Unauthorised violation of rules and regulations / breach of legislation / abuse of personal data,V2X Denial of Service,0.13628816604614258
+Unauthorised violation of rules and regulations / breach of legislation / abuse of personal data,Weak password,0.2520222067832947
+USB vulnerabilitiies exploitation,Using information and/or devices from an unreliable source,0.21728211641311646
+USB vulnerabilitiies exploitation,V2X Denial of Service,0.15974847972393036
+USB vulnerabilitiies exploitation,Weak password,0.38497108221054077
+Using information and/or devices from an unreliable source,V2X Denial of Service,0.09714220464229584
+Using information and/or devices from an unreliable source,Weak password,0.23557034134864807
+V2X Denial of Service,Weak password,0.09356406331062317

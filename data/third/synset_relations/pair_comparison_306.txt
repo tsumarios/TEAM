@@ -1,0 +1,59 @@
+data and driver are not related ("part of")
+data and driver have common hypernyms: entity, abstraction
+data and driver are not related ("type of")
+
+data and spying are not related ("part of")
+data and spying have common hypernyms: abstraction, psychological_feature
+data and spying are not related ("type of")
+
+data and tracking are not related ("part of")
+data and tracking have common hypernyms: abstraction, psychological_feature
+data and tracking are not related ("type of")
+
+profiling and driver are not related ("part of")
+profiling and driver have common hypernyms: entity, communication
+profiling and driver are not related ("type of")
+
+profiling and spying are not related ("part of")
+profiling and spying have common hypernyms: abstraction
+profiling and spying are not related ("type of")
+
+profiling and tracking are not related ("part of")
+profiling and tracking have common hypernyms: make, abstraction
+profiling and tracking are not related ("type of")
+
+
+driver and spying are not related ("part of")
+driver and spying have common hypernyms: entity, abstraction
+driver and spying are not related ("type of")
+
+driver and tracking are not related ("part of")
+driver and tracking have common hypernyms: entity, abstraction
+driver and tracking are not related ("type of")
+
+vehicle and driver are not related ("part of")
+vehicle and driver have common hypernyms: entity, physical_entity, object, whole, instrumentality
+vehicle and driver are not related ("type of")
+
+vehicle and spying are not related ("part of")
+vehicle and spying have common hypernyms: entity
+vehicle and spying are not related ("type of")
+
+vehicle and tracking are not related ("part of")
+vehicle and tracking have common hypernyms: entity
+vehicle and tracking are not related ("type of")
+
+aggregation and driver are not related ("part of")
+aggregation and driver have common hypernyms: entity, abstraction
+aggregation and driver are not related ("type of")
+
+aggregation and spying are not related ("part of")
+aggregation and spying have common hypernyms: activity, act, abstraction
+aggregation and spying are not related ("type of")
+
+aggregation and tracking are not related ("part of")
+aggregation and tracking have common hypernyms: act, abstraction
+aggregation and tracking are not related ("type of")
+
+
+Part of relation(s) found: False	Type of relation(s) found: False

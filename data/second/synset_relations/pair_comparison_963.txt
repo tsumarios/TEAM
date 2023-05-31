@@ -1,0 +1,98 @@
+driver and data are not related ("part of")
+driver and data have common hypernyms: entity, abstraction
+driver and data are not related ("type of")
+
+driver and profiling are not related ("part of")
+driver and profiling have common hypernyms: entity, communication
+driver and profiling are not related ("type of")
+
+driver and position are not related ("part of")
+driver and position have common hypernyms: entity, physical_entity, communication, object, abstraction
+driver and position are not related ("type of")
+
+driver and sensor are not related ("part of")
+driver and sensor have common hypernyms: whole, physical_entity, entity, instrumentality
+driver and sensor are not related ("type of")
+
+driver and vehicle are not related ("part of")
+driver and vehicle have common hypernyms: entity, physical_entity, object, whole, instrumentality
+driver and vehicle are not related ("type of")
+
+driver and aggregation are not related ("part of")
+driver and aggregation have common hypernyms: entity, abstraction
+driver and aggregation are not related ("type of")
+
+collection and data are not related ("part of")
+collection is a hypernym of data
+collection and data have common hypernyms: collection, entity, abstraction, psychological_feature
+
+collection and profiling are not related ("part of")
+collection and profiling have common hypernyms: entity, abstraction, communication
+collection and profiling are not related ("type of")
+
+collection and position are not related ("part of")
+collection and position have common hypernyms: act, entity, psychological_feature, activity, object, message, abstraction
+collection and position are not related ("type of")
+
+collection and sensor are not related ("part of")
+collection and sensor have common hypernyms: artifact, entity
+collection and sensor are not related ("type of")
+
+collection and vehicle are not related ("part of")
+collection and vehicle have common hypernyms: artifact, physical_entity, object, entity
+collection and vehicle are not related ("type of")
+
+collection and aggregation are not related ("part of")
+collection and aggregation have common hypernyms: collection, entity, abstraction
+collection and aggregation are not related ("type of")
+
+datum and data are not related ("part of")
+datum and data have common hypernyms: datum, abstraction
+datum and data are not related ("type of")
+
+datum and profiling are not related ("part of")
+datum and profiling have common hypernyms: abstraction
+datum and profiling are not related ("type of")
+
+datum and position are not related ("part of")
+datum and position have common hypernyms: cognition, entity, abstraction, psychological_feature
+datum and position are not related ("type of")
+
+datum and sensor are not related ("part of")
+datum and sensor have common hypernyms: entity
+datum and sensor are not related ("type of")
+
+datum and vehicle are not related ("part of")
+datum and vehicle have common hypernyms: entity
+datum and vehicle are not related ("type of")
+
+datum and aggregation are not related ("part of")
+datum and aggregation have common hypernyms: abstraction, psychological_feature
+datum and aggregation are not related ("type of")
+
+purpose and data are not related ("part of")
+purpose and data have common hypernyms: cognition, abstraction
+purpose and data are not related ("type of")
+
+purpose and profiling are not related ("part of")
+purpose and profiling have common hypernyms: abstraction
+purpose and profiling are not related ("type of")
+
+purpose and position are not related ("part of")
+purpose and position have common hypernyms: cognition, entity, psychological_feature, attribute, abstraction
+purpose and position are not related ("type of")
+
+purpose and sensor are not related ("part of")
+purpose and sensor have common hypernyms: entity
+purpose and sensor are not related ("type of")
+
+purpose and vehicle are not related ("part of")
+purpose and vehicle have common hypernyms: entity
+purpose and vehicle are not related ("type of")
+
+purpose and aggregation are not related ("part of")
+purpose and aggregation have common hypernyms: abstraction, psychological_feature
+purpose and aggregation are not related ("type of")
+
+
+Part of relation(s) found: False	Type of relation(s) found: True

@@ -1,0 +1,44 @@
+hardware and firmware are not related ("part of")
+hardware and firmware have common hypernyms: entity
+hardware and firmware are not related ("type of")
+
+hardware and unit are not related ("part of")
+hardware is a hyponym of unit
+hardware and unit have common hypernyms: whole, physical_entity, object, entity
+
+One or both terms do not have synsets in WordNet.
+One or both terms do not have synsets in WordNet.
+
+hardware and datum are not related ("part of")
+hardware and datum have common hypernyms: entity
+hardware and datum are not related ("type of")
+
+datum and firmware are not related ("part of")
+datum and firmware have common hypernyms: abstraction
+datum and firmware are not related ("type of")
+
+datum and unit are not related ("part of")
+datum and unit have common hypernyms: cognition, entity, abstraction
+datum and unit are not related ("type of")
+
+One or both terms do not have synsets in WordNet.
+One or both terms do not have synsets in WordNet.
+
+
+manipulation and firmware are not related ("part of")
+manipulation and firmware have common hypernyms: abstraction
+manipulation and firmware are not related ("type of")
+
+manipulation and unit are not related ("part of")
+manipulation and unit have common hypernyms: entity, abstraction, psychological_feature
+manipulation and unit are not related ("type of")
+
+One or both terms do not have synsets in WordNet.
+One or both terms do not have synsets in WordNet.
+
+manipulation and datum are not related ("part of")
+manipulation and datum have common hypernyms: psychological_feature
+manipulation and datum are not related ("type of")
+
+
+Part of relation(s) found: False	Type of relation(s) found: True

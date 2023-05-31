@@ -1,0 +1,39 @@
+code and firmware are not related ("part of")
+code is a hypernym of firmware
+code and firmware have common hypernyms: code, written_communication, coding_system
+
+code and unit are not related ("part of")
+code and unit have common hypernyms: entity, abstraction
+code and unit are not related ("type of")
+
+One or both terms do not have synsets in WordNet.
+One or both terms do not have synsets in WordNet.
+
+unit and firmware are not related ("part of")
+unit and firmware have common hypernyms: entity, abstraction
+unit and firmware are not related ("type of")
+
+
+One or both terms do not have synsets in WordNet.
+One or both terms do not have synsets in WordNet.
+
+execution and firmware are not related ("part of")
+execution and firmware have common hypernyms: written_communication, entity, abstraction
+execution and firmware are not related ("type of")
+
+execution and unit are not related ("part of")
+execution and unit have common hypernyms: physical_entity, entity, abstraction, psychological_feature
+execution and unit are not related ("type of")
+
+One or both terms do not have synsets in WordNet.
+One or both terms do not have synsets in WordNet.
+
+One or both terms do not have synsets in WordNet.
+One or both terms do not have synsets in WordNet.
+
+One or both terms do not have synsets in WordNet.
+One or both terms do not have synsets in WordNet.
+
+
+
+Part of relation(s) found: False	Type of relation(s) found: True

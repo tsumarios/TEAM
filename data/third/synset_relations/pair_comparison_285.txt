@@ -1,0 +1,13 @@
+jamming and cloning are not related ("part of")
+jamming and cloning have common hypernyms: act
+jamming and cloning are not related ("type of")
+
+
+One or both terms do not have synsets in WordNet.
+One or both terms do not have synsets in WordNet.
+
+One or both terms do not have synsets in WordNet.
+One or both terms do not have synsets in WordNet.
+
+
+Part of relation(s) found: False	Type of relation(s) found: False

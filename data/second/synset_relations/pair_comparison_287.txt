@@ -1,0 +1,39 @@
+firmware and code are not related ("part of")
+firmware is a hyponym of code
+firmware and code have common hypernyms: code, written_communication, coding_system
+
+firmware and unit are not related ("part of")
+firmware and unit have common hypernyms: entity, abstraction
+firmware and unit are not related ("type of")
+
+firmware and execution are not related ("part of")
+firmware and execution have common hypernyms: written_communication, entity, abstraction
+firmware and execution are not related ("type of")
+
+One or both terms do not have synsets in WordNet.
+One or both terms do not have synsets in WordNet.
+
+unit and code are not related ("part of")
+unit and code have common hypernyms: entity, abstraction
+unit and code are not related ("type of")
+
+
+unit and execution are not related ("part of")
+unit and execution have common hypernyms: physical_entity, entity, abstraction, psychological_feature
+unit and execution are not related ("type of")
+
+One or both terms do not have synsets in WordNet.
+One or both terms do not have synsets in WordNet.
+
+One or both terms do not have synsets in WordNet.
+One or both terms do not have synsets in WordNet.
+
+One or both terms do not have synsets in WordNet.
+One or both terms do not have synsets in WordNet.
+
+One or both terms do not have synsets in WordNet.
+One or both terms do not have synsets in WordNet.
+
+
+
+Part of relation(s) found: False	Type of relation(s) found: True

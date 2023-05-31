@@ -1,0 +1,2 @@
+term,synonyms,meronyms,holonyms,hypernyms [L1],hypernyms [L2],hypernyms [L3],hyponyms [L1],hyponyms [L2],hyponyms [L3]
+Synset('listen_in.v.02'),[Synset('listen_in.v.02')],[],[],[Synset('listen.v.01')],"[Synset('listen.v.01'), Synset('perceive.v.01')]","[Synset('listen.v.01'), Synset('perceive.v.01')]",[Synset('wiretap.v.01')],[Synset('wiretap.v.01')],[Synset('wiretap.v.01')]

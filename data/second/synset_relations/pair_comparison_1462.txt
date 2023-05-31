@@ -1,0 +1,10 @@
+replay and data are not related ("part of")
+replay and data have common hypernyms: abstraction, psychological_feature
+replay and data are not related ("type of")
+
+message and data are not related ("part of")
+message and data have common hypernyms: abstraction
+message and data are not related ("type of")
+
+
+Part of relation(s) found: False	Type of relation(s) found: False

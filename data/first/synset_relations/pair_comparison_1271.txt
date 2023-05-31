@@ -1,0 +1,107 @@
+
+data and profiling are not related ("part of")
+data and profiling have common hypernyms: abstraction
+data and profiling are not related ("type of")
+
+data and position are not related ("part of")
+data and position have common hypernyms: cognition, entity, abstraction, psychological_feature
+data and position are not related ("type of")
+
+data and sensor are not related ("part of")
+data and sensor have common hypernyms: entity
+data and sensor are not related ("type of")
+
+data and vehicle are not related ("part of")
+data and vehicle have common hypernyms: entity
+data and vehicle are not related ("type of")
+
+data and aggregation are not related ("part of")
+data is a hyponym of aggregation
+data and aggregation have common hypernyms: collection, abstraction, psychological_feature
+
+profiling and data are not related ("part of")
+profiling and data have common hypernyms: abstraction
+profiling and data are not related ("type of")
+
+
+profiling and position are not related ("part of")
+profiling and position have common hypernyms: entity, abstraction, communication
+profiling and position are not related ("type of")
+
+profiling and sensor are not related ("part of")
+profiling and sensor have common hypernyms: entity
+profiling and sensor are not related ("type of")
+
+profiling and vehicle are not related ("part of")
+profiling and vehicle have common hypernyms: entity
+profiling and vehicle are not related ("type of")
+
+profiling and aggregation are not related ("part of")
+profiling and aggregation have common hypernyms: abstraction
+profiling and aggregation are not related ("type of")
+
+position and data are not related ("part of")
+position and data have common hypernyms: cognition, entity, abstraction, psychological_feature
+position and data are not related ("type of")
+
+position and profiling are not related ("part of")
+position and profiling have common hypernyms: entity, abstraction, communication
+position and profiling are not related ("type of")
+
+
+position and sensor are not related ("part of")
+position and sensor have common hypernyms: object, entity
+position and sensor are not related ("type of")
+
+position and vehicle are not related ("part of")
+position and vehicle have common hypernyms: physical_entity, object, entity
+position and vehicle are not related ("type of")
+
+position and aggregation are not related ("part of")
+position and aggregation have common hypernyms: entity, act, psychological_feature, activity, abstraction
+position and aggregation are not related ("type of")
+
+vehicle and data are not related ("part of")
+vehicle and data have common hypernyms: entity
+vehicle and data are not related ("type of")
+
+vehicle and profiling are not related ("part of")
+vehicle and profiling have common hypernyms: entity
+vehicle and profiling are not related ("type of")
+
+vehicle and position are not related ("part of")
+vehicle and position have common hypernyms: physical_entity, object, entity
+vehicle and position are not related ("type of")
+
+vehicle and sensor are not related ("part of")
+vehicle and sensor have common hypernyms: physical_entity, object, instrumentality
+vehicle and sensor are not related ("type of")
+
+
+vehicle and aggregation are not related ("part of")
+vehicle and aggregation have common hypernyms: entity
+vehicle and aggregation are not related ("type of")
+
+aggregation and data are not related ("part of")
+aggregation is a hypernym of data
+aggregation and data have common hypernyms: collection, abstraction, psychological_feature
+
+aggregation and profiling are not related ("part of")
+aggregation and profiling have common hypernyms: abstraction
+aggregation and profiling are not related ("type of")
+
+aggregation and position are not related ("part of")
+aggregation and position have common hypernyms: entity, act, psychological_feature, activity, abstraction
+aggregation and position are not related ("type of")
+
+aggregation and sensor are not related ("part of")
+aggregation and sensor have common hypernyms: entity
+aggregation and sensor are not related ("type of")
+
+aggregation and vehicle are not related ("part of")
+aggregation and vehicle have common hypernyms: entity
+aggregation and vehicle are not related ("type of")
+
+
+
+Part of relation(s) found: False	Type of relation(s) found: True

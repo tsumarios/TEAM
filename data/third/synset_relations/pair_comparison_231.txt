@@ -1,0 +1,79 @@
+operator and data are not related ("part of")
+operator and data have common hypernyms: entity, abstraction
+operator and data are not related ("type of")
+
+operator and car are not related ("part of")
+operator and car have common hypernyms: whole, physical_entity, entity
+operator and car are not related ("type of")
+
+operator and service are not related ("part of")
+operator and service have common hypernyms: entity, physical_entity, person, causal_agent, whole, abstraction
+operator and service are not related ("type of")
+
+operator and transfer are not related ("part of")
+operator and transfer have common hypernyms: causal_agent, person, entity, abstraction
+operator and transfer are not related ("type of")
+
+device and data are not related ("part of")
+device and data have common hypernyms: entity, abstraction, psychological_feature
+device and data are not related ("type of")
+
+device and car are not related ("part of")
+device and car have common hypernyms: entity, artifact, instrumentality
+device and car are not related ("type of")
+
+device and service are not related ("part of")
+device and service have common hypernyms: act, entity, physical_entity, action, whole, artifact, abstraction
+device and service are not related ("type of")
+
+device and transfer are not related ("part of")
+device and transfer have common hypernyms: act, entity, psychological_feature, communication, action, whole, abstraction
+device and transfer are not related ("type of")
+
+datum and data are not related ("part of")
+datum and data have common hypernyms: datum, abstraction
+datum and data are not related ("type of")
+
+datum and car are not related ("part of")
+datum and car have common hypernyms: entity
+datum and car are not related ("type of")
+
+datum and service are not related ("part of")
+datum and service have common hypernyms: entity, abstraction, psychological_feature
+datum and service are not related ("type of")
+
+datum and transfer are not related ("part of")
+datum and transfer have common hypernyms: cognition, entity, abstraction, psychological_feature
+datum and transfer are not related ("type of")
+
+leakage and data are not related ("part of")
+leakage and data have common hypernyms: abstraction, psychological_feature
+leakage and data are not related ("type of")
+
+leakage and car are not related ("part of")
+leakage and car have common hypernyms: entity
+leakage and car are not related ("type of")
+
+leakage and service are not related ("part of")
+leakage and service have common hypernyms: entity, event, abstraction
+leakage and service are not related ("type of")
+
+leakage and transfer are not related ("part of")
+leakage and transfer have common hypernyms: entity, event, abstraction, psychological_feature
+leakage and transfer are not related ("type of")
+
+car and data are not related ("part of")
+car and data have common hypernyms: entity
+car and data are not related ("type of")
+
+
+car and service are not related ("part of")
+car and service have common hypernyms: whole, artifact, physical_entity, entity
+car and service are not related ("type of")
+
+car and transfer are not related ("part of")
+car and transfer have common hypernyms: whole, entity
+car and transfer are not related ("type of")
+
+
+Part of relation(s) found: False	Type of relation(s) found: False

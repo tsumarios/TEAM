@@ -1,0 +1,48 @@
+
+code and unit are not related ("part of")
+code and unit have common hypernyms: entity, abstraction
+code and unit are not related ("type of")
+
+code and execution are not related ("part of")
+code and execution have common hypernyms: written_communication, entity, abstraction
+code and execution are not related ("type of")
+
+One or both terms do not have synsets in WordNet.
+One or both terms do not have synsets in WordNet.
+
+unit and code are not related ("part of")
+unit and code have common hypernyms: entity, abstraction
+unit and code are not related ("type of")
+
+
+unit and execution are not related ("part of")
+unit and execution have common hypernyms: physical_entity, entity, abstraction, psychological_feature
+unit and execution are not related ("type of")
+
+One or both terms do not have synsets in WordNet.
+One or both terms do not have synsets in WordNet.
+
+execution and code are not related ("part of")
+execution and code have common hypernyms: written_communication, entity, abstraction
+execution and code are not related ("type of")
+
+execution and unit are not related ("part of")
+execution and unit have common hypernyms: physical_entity, entity, abstraction, psychological_feature
+execution and unit are not related ("type of")
+
+
+One or both terms do not have synsets in WordNet.
+One or both terms do not have synsets in WordNet.
+
+One or both terms do not have synsets in WordNet.
+One or both terms do not have synsets in WordNet.
+
+One or both terms do not have synsets in WordNet.
+One or both terms do not have synsets in WordNet.
+
+One or both terms do not have synsets in WordNet.
+One or both terms do not have synsets in WordNet.
+
+
+
+Part of relation(s) found: False	Type of relation(s) found: False

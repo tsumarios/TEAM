@@ -1,0 +1,58 @@
+
+firmware and execution are not related ("part of")
+firmware and execution have common hypernyms: written_communication, entity, abstraction
+firmware and execution are not related ("type of")
+
+firmware and device are not related ("part of")
+firmware and device have common hypernyms: entity, abstraction, communication
+firmware and device are not related ("type of")
+
+firmware and unit are not related ("part of")
+firmware and unit have common hypernyms: entity, abstraction
+firmware and unit are not related ("type of")
+
+firmware and code are not related ("part of")
+firmware is a hyponym of code
+firmware and code have common hypernyms: code, written_communication, coding_system
+
+One or both terms do not have synsets in WordNet.
+One or both terms do not have synsets in WordNet.
+
+unit and firmware are not related ("part of")
+unit and firmware have common hypernyms: entity, abstraction
+unit and firmware are not related ("type of")
+
+unit and execution are not related ("part of")
+unit and execution have common hypernyms: physical_entity, entity, abstraction, psychological_feature
+unit and execution are not related ("type of")
+
+unit and device are not related ("part of")
+unit is a hypernym of device
+unit and device have common hypernyms: entity, physical_entity, psychological_feature, whole, abstraction
+
+
+unit and code are not related ("part of")
+unit and code have common hypernyms: entity, abstraction
+unit and code are not related ("type of")
+
+One or both terms do not have synsets in WordNet.
+One or both terms do not have synsets in WordNet.
+
+One or both terms do not have synsets in WordNet.
+One or both terms do not have synsets in WordNet.
+
+One or both terms do not have synsets in WordNet.
+One or both terms do not have synsets in WordNet.
+
+One or both terms do not have synsets in WordNet.
+One or both terms do not have synsets in WordNet.
+
+One or both terms do not have synsets in WordNet.
+One or both terms do not have synsets in WordNet.
+
+One or both terms do not have synsets in WordNet.
+One or both terms do not have synsets in WordNet.
+
+
+
+Part of relation(s) found: False	Type of relation(s) found: True

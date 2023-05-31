@@ -1,0 +1,39 @@
+code and access are not related ("part of")
+code is a hypernym of access
+code and access have common hypernyms: entity, code, written_communication, coding_system, abstraction
+
+code and unit are not related ("part of")
+code and unit have common hypernyms: entity, abstraction
+code and unit are not related ("type of")
+
+One or both terms do not have synsets in WordNet.
+One or both terms do not have synsets in WordNet.
+
+unit and access are not related ("part of")
+unit is a hypernym of access
+unit and access have common hypernyms: entity, physical_entity, psychological_feature, whole, concept, abstraction
+
+
+One or both terms do not have synsets in WordNet.
+One or both terms do not have synsets in WordNet.
+
+execution and access are not related ("part of")
+execution and access have common hypernyms: process, act, entity, physical_entity, psychological_feature, action, change, written_communication, abstraction
+execution and access are not related ("type of")
+
+execution and unit are not related ("part of")
+execution and unit have common hypernyms: physical_entity, entity, abstraction, psychological_feature
+execution and unit are not related ("type of")
+
+One or both terms do not have synsets in WordNet.
+One or both terms do not have synsets in WordNet.
+
+One or both terms do not have synsets in WordNet.
+One or both terms do not have synsets in WordNet.
+
+One or both terms do not have synsets in WordNet.
+One or both terms do not have synsets in WordNet.
+
+
+
+Part of relation(s) found: False	Type of relation(s) found: True

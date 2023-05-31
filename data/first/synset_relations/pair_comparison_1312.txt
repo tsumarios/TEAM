@@ -1,0 +1,81 @@
+
+firmware and unit are not related ("part of")
+firmware and unit have common hypernyms: entity, abstraction
+firmware and unit are not related ("type of")
+
+One or both terms do not have synsets in WordNet.
+One or both terms do not have synsets in WordNet.
+
+firmware and datum are not related ("part of")
+firmware and datum have common hypernyms: abstraction
+firmware and datum are not related ("type of")
+
+execution and firmware are not related ("part of")
+execution and firmware have common hypernyms: written_communication, entity, abstraction
+execution and firmware are not related ("type of")
+
+execution and unit are not related ("part of")
+execution and unit have common hypernyms: physical_entity, entity, abstraction, psychological_feature
+execution and unit are not related ("type of")
+
+One or both terms do not have synsets in WordNet.
+One or both terms do not have synsets in WordNet.
+
+execution and datum are not related ("part of")
+execution and datum have common hypernyms: entity, abstraction, psychological_feature
+execution and datum are not related ("type of")
+
+device and firmware are not related ("part of")
+device and firmware have common hypernyms: entity, abstraction, communication
+device and firmware are not related ("type of")
+
+device and unit are not related ("part of")
+device is a hyponym of unit
+device and unit have common hypernyms: entity, physical_entity, psychological_feature, whole, abstraction
+
+One or both terms do not have synsets in WordNet.
+One or both terms do not have synsets in WordNet.
+
+device and datum are not related ("part of")
+device and datum have common hypernyms: entity, abstraction, psychological_feature
+device and datum are not related ("type of")
+
+unit and firmware are not related ("part of")
+unit and firmware have common hypernyms: entity, abstraction
+unit and firmware are not related ("type of")
+
+
+One or both terms do not have synsets in WordNet.
+One or both terms do not have synsets in WordNet.
+
+unit and datum are not related ("part of")
+unit and datum have common hypernyms: cognition, entity, abstraction
+unit and datum are not related ("type of")
+
+code and firmware are not related ("part of")
+code is a hypernym of firmware
+code and firmware have common hypernyms: code, written_communication, coding_system
+
+code and unit are not related ("part of")
+code and unit have common hypernyms: entity, abstraction
+code and unit are not related ("type of")
+
+One or both terms do not have synsets in WordNet.
+One or both terms do not have synsets in WordNet.
+
+code and datum are not related ("part of")
+code and datum have common hypernyms: abstraction
+code and datum are not related ("type of")
+
+One or both terms do not have synsets in WordNet.
+One or both terms do not have synsets in WordNet.
+
+One or both terms do not have synsets in WordNet.
+One or both terms do not have synsets in WordNet.
+
+
+One or both terms do not have synsets in WordNet.
+One or both terms do not have synsets in WordNet.
+
+
+Part of relation(s) found: False	Type of relation(s) found: True

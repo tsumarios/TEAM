@@ -1,0 +1,36 @@
+
+firmware and unit are not related ("part of")
+firmware and unit have common hypernyms: entity, abstraction
+firmware and unit are not related ("type of")
+
+One or both terms do not have synsets in WordNet.
+One or both terms do not have synsets in WordNet.
+
+firmware and datum are not related ("part of")
+firmware and datum have common hypernyms: abstraction
+firmware and datum are not related ("type of")
+
+unit and firmware are not related ("part of")
+unit and firmware have common hypernyms: entity, abstraction
+unit and firmware are not related ("type of")
+
+
+One or both terms do not have synsets in WordNet.
+One or both terms do not have synsets in WordNet.
+
+unit and datum are not related ("part of")
+unit and datum have common hypernyms: cognition, entity, abstraction
+unit and datum are not related ("type of")
+
+One or both terms do not have synsets in WordNet.
+One or both terms do not have synsets in WordNet.
+
+One or both terms do not have synsets in WordNet.
+One or both terms do not have synsets in WordNet.
+
+
+One or both terms do not have synsets in WordNet.
+One or both terms do not have synsets in WordNet.
+
+
+Part of relation(s) found: False	Type of relation(s) found: False

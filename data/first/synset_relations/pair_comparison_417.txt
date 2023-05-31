@@ -1,0 +1,23 @@
+theft and identity are not related ("part of")
+theft and identity have common hypernyms: abstraction, psychological_feature
+theft and identity are not related ("type of")
+
+theft and driver are not related ("part of")
+theft and driver have common hypernyms: entity, abstraction
+theft and driver are not related ("type of")
+
+
+car and identity are not related ("part of")
+car and identity have common hypernyms: entity
+car and identity are not related ("type of")
+
+car and driver are not related ("part of")
+car and driver have common hypernyms: entity, physical_entity, whole, artifact, instrumentality
+car and driver are not related ("type of")
+
+car and theft are not related ("part of")
+car and theft have common hypernyms: entity
+car and theft are not related ("type of")
+
+
+Part of relation(s) found: False	Type of relation(s) found: False

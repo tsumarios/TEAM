@@ -1,0 +1,48 @@
+software and firmware are not related ("part of")
+software and firmware have common hypernyms: code
+software and firmware are not related ("type of")
+
+software and execution are not related ("part of")
+software and execution have common hypernyms: written_communication, entity, abstraction
+software and execution are not related ("type of")
+
+software and device are not related ("part of")
+software and device have common hypernyms: entity, abstraction, communication
+software and device are not related ("type of")
+
+software and unit are not related ("part of")
+software and unit have common hypernyms: entity, abstraction
+software and unit are not related ("type of")
+
+software and code are not related ("part of")
+software is a hyponym of code
+software and code have common hypernyms: code, written_communication, coding_system
+
+One or both terms do not have synsets in WordNet.
+One or both terms do not have synsets in WordNet.
+
+control and firmware are not related ("part of")
+control and firmware have common hypernyms: entity, abstraction
+control and firmware are not related ("type of")
+
+control and execution are not related ("part of")
+control and execution have common hypernyms: process, act, entity, physical_entity, psychological_feature, activity, abstraction
+control and execution are not related ("type of")
+
+control and device are not related ("part of")
+control is a hyponym of device
+control and device have common hypernyms: act, entity, physical_entity, psychological_feature, device, artifact, abstraction
+
+control and unit are not related ("part of")
+control and unit have common hypernyms: cognition, content, entity, idea, relation, physical_entity, psychological_feature, whole, abstraction
+control and unit are not related ("type of")
+
+control and code are not related ("part of")
+control and code have common hypernyms: entity, abstraction
+control and code are not related ("type of")
+
+One or both terms do not have synsets in WordNet.
+One or both terms do not have synsets in WordNet.
+
+
+Part of relation(s) found: False	Type of relation(s) found: True

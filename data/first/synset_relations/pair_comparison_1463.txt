@@ -1,0 +1,8 @@
+replay and eavesdropping are not related ("part of")
+replay and eavesdropping are not related ("type of")
+
+message and eavesdropping are not related ("part of")
+message and eavesdropping are not related ("type of")
+
+
+Part of relation(s) found: False	Type of relation(s) found: False

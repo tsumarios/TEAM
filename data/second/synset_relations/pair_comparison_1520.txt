@@ -1,0 +1,82 @@
+quality and data are not related ("part of")
+quality and data have common hypernyms: cognition, abstraction
+quality and data are not related ("type of")
+
+quality and right are not related ("part of")
+quality and right have common hypernyms: quality, entity, psychological_feature, attribute, concept, abstraction
+quality and right are not related ("type of")
+
+quality and driver are not related ("part of")
+quality and driver have common hypernyms: entity, abstraction
+quality and driver are not related ("type of")
+
+quality and structure are not related ("part of")
+quality and structure have common hypernyms: cognition, entity, attribute, abstraction, property
+quality and structure are not related ("type of")
+
+quality and model are not related ("part of")
+quality and model have common hypernyms: content, entity, idea, psychological_feature, concept, abstraction
+quality and model are not related ("type of")
+
+datum and data are not related ("part of")
+datum and data have common hypernyms: datum, abstraction
+datum and data are not related ("type of")
+
+datum and right are not related ("part of")
+datum and right have common hypernyms: cognition, entity, abstraction, psychological_feature
+datum and right are not related ("type of")
+
+datum and driver are not related ("part of")
+datum and driver have common hypernyms: entity, abstraction
+datum and driver are not related ("type of")
+
+datum and structure are not related ("part of")
+datum and structure have common hypernyms: cognition, entity, abstraction
+datum and structure are not related ("type of")
+
+datum and model are not related ("part of")
+datum and model have common hypernyms: cognition, entity, psychological_feature
+datum and model are not related ("type of")
+
+service and data are not related ("part of")
+service and data have common hypernyms: group, entity, abstraction, psychological_feature
+service and data are not related ("type of")
+
+service and right are not related ("part of")
+service and right have common hypernyms: quality, act, entity, physical_entity, social_group, psychological_feature, object, change, abstraction
+service and right are not related ("type of")
+
+service and driver are not related ("part of")
+service and driver have common hypernyms: entity, physical_entity, person, causal_agent, whole, artifact, abstraction
+service and driver are not related ("type of")
+
+service and structure are not related ("part of")
+service and structure have common hypernyms: entity, group, physical_entity, attribute, psychological_feature, whole, artifact, abstraction
+service and structure are not related ("type of")
+
+service and model are not related ("part of")
+service and model have common hypernyms: act, entity, physical_entity, person, psychological_feature, activity, whole, artifact, abstraction
+service and model are not related ("type of")
+
+car and data are not related ("part of")
+car and data have common hypernyms: entity
+car and data are not related ("type of")
+
+car and right are not related ("part of")
+car and right have common hypernyms: physical_entity, object, entity
+car and right are not related ("type of")
+
+car and driver are not related ("part of")
+car and driver have common hypernyms: entity, physical_entity, whole, artifact, instrumentality
+car and driver are not related ("type of")
+
+car and structure are not related ("part of")
+car and structure have common hypernyms: artifact, physical_entity, entity, structure
+car and structure are not related ("type of")
+
+car and model are not related ("part of")
+car and model have common hypernyms: whole, artifact, entity
+car and model are not related ("type of")
+
+
+Part of relation(s) found: False	Type of relation(s) found: False

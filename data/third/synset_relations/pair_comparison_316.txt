@@ -1,0 +1,48 @@
+driver and eavesdropping are not related ("part of")
+driver and eavesdropping are not related ("type of")
+
+driver and component are not related ("part of")
+driver and component have common hypernyms: object, physical_entity, entity, abstraction
+driver and component are not related ("type of")
+
+driver and vehicle are not related ("part of")
+driver and vehicle have common hypernyms: entity, physical_entity, object, whole, instrumentality
+driver and vehicle are not related ("type of")
+
+driver and communication are not related ("part of")
+driver and communication have common hypernyms: entity, abstraction, communication
+driver and communication are not related ("type of")
+
+spying and eavesdropping are not related ("part of")
+spying and eavesdropping have common hypernyms: perceive
+spying and eavesdropping are not related ("type of")
+
+spying and component are not related ("part of")
+spying and component have common hypernyms: entity, abstraction, psychological_feature
+spying and component are not related ("type of")
+
+spying and vehicle are not related ("part of")
+spying and vehicle have common hypernyms: entity
+spying and vehicle are not related ("type of")
+
+spying and communication are not related ("part of")
+spying and communication have common hypernyms: act, abstraction
+spying and communication are not related ("type of")
+
+tracking and eavesdropping are not related ("part of")
+tracking and eavesdropping are not related ("type of")
+
+tracking and component are not related ("part of")
+tracking and component have common hypernyms: entity, abstraction, psychological_feature
+tracking and component are not related ("type of")
+
+tracking and vehicle are not related ("part of")
+tracking and vehicle have common hypernyms: entity
+tracking and vehicle are not related ("type of")
+
+tracking and communication are not related ("part of")
+tracking and communication have common hypernyms: act, abstraction
+tracking and communication are not related ("type of")
+
+
+Part of relation(s) found: False	Type of relation(s) found: False

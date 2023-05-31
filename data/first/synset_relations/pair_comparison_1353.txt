@@ -1,0 +1,74 @@
+driver and data are not related ("part of")
+driver and data have common hypernyms: entity, abstraction
+driver and data are not related ("type of")
+
+driver and profiling are not related ("part of")
+driver and profiling have common hypernyms: entity, communication
+driver and profiling are not related ("type of")
+
+driver and position are not related ("part of")
+driver and position have common hypernyms: entity, physical_entity, communication, object, abstraction
+driver and position are not related ("type of")
+
+driver and sensor are not related ("part of")
+driver and sensor have common hypernyms: whole, physical_entity, entity, instrumentality
+driver and sensor are not related ("type of")
+
+driver and vehicle are not related ("part of")
+driver and vehicle have common hypernyms: entity, physical_entity, object, whole, instrumentality
+driver and vehicle are not related ("type of")
+
+driver and aggregation are not related ("part of")
+driver and aggregation have common hypernyms: entity, abstraction
+driver and aggregation are not related ("type of")
+
+spying and data are not related ("part of")
+spying and data have common hypernyms: abstraction, psychological_feature
+spying and data are not related ("type of")
+
+spying and profiling are not related ("part of")
+spying and profiling have common hypernyms: abstraction
+spying and profiling are not related ("type of")
+
+spying and position are not related ("part of")
+spying and position have common hypernyms: act, entity, work, psychological_feature, activity, abstraction
+spying and position are not related ("type of")
+
+spying and sensor are not related ("part of")
+spying and sensor have common hypernyms: entity
+spying and sensor are not related ("type of")
+
+spying and vehicle are not related ("part of")
+spying and vehicle have common hypernyms: entity
+spying and vehicle are not related ("type of")
+
+spying and aggregation are not related ("part of")
+spying and aggregation have common hypernyms: activity, act, abstraction
+spying and aggregation are not related ("type of")
+
+tracking and data are not related ("part of")
+tracking and data have common hypernyms: abstraction, psychological_feature
+tracking and data are not related ("type of")
+
+tracking and profiling are not related ("part of")
+tracking and profiling have common hypernyms: make, abstraction
+tracking and profiling are not related ("type of")
+
+tracking and position are not related ("part of")
+tracking and position have common hypernyms: entity, act, abstraction, psychological_feature
+tracking and position are not related ("type of")
+
+tracking and sensor are not related ("part of")
+tracking and sensor have common hypernyms: entity
+tracking and sensor are not related ("type of")
+
+tracking and vehicle are not related ("part of")
+tracking and vehicle have common hypernyms: entity
+tracking and vehicle are not related ("type of")
+
+tracking and aggregation are not related ("part of")
+tracking and aggregation have common hypernyms: act, abstraction
+tracking and aggregation are not related ("type of")
+
+
+Part of relation(s) found: False	Type of relation(s) found: False
