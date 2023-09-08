@@ -1,0 +1,52 @@
+sentence1,score
+Abuse of authorisations,0.6398118138313293
+Arbitrary code execution on telematics unit (TCU),0.47009289264678955
+CAN bus flooding,1.0
+CAN frame injection,0.9999999403953552
+CAN frame tampering,1.000000238418579
+Car theft,0.9203270673751831
+Change of data or car components configuration,1.0
+Collection without consent,0.48835989832878113
+Communication eavesdropping in vehicle components,0.674895167350769
+Communication protocol and/or session hijacking,0.6557018756866455
+Consent on everything / Problems with getting consent,0.5004268288612366
+Data aggregation and profiling of the driver and/or vehicle,0.9324092268943787
+Data loss,0.5317035913467407
+Data replay,0.4520963430404663
+ECU firmware dump,0.9999998807907104
+ECU reflash,1.0
+Failure or disruption of service,0.46302154660224915
+Failure or malfunction of a sensor/actuator,0.5375391840934753
+Failure to meet contractual requirements,0.8224961757659912
+Form field design issues,0.32614535093307495
+GPS spoofing,1.0
+Identity theft of driver,1.0
+Infotainment malware,1.0
+Infotainment reverse engineering and alteration,0.9391947984695435
+Insecure data transfer in OEM and/or car services,0.9999999403953552
+Insider threat,0.4467802047729492
+Insufficient data breach response from OEM,1.000000238418579
+Insufficient deletion of driver data,1.000000238418579
+Loss of GNSS signal,1.0000001192092896
+"Manipulation of physical sensors, memories and features",0.4352818429470062
+Misleading information in OEM services,0.95612633228302
+Missing or insufficient session expiration,0.4968741238117218
+Network outage,0.44948112964630127
+OEM targeted attacks,0.9999999403953552
+Operator-sided data leakage in OEM and/or car devices,0.9999998807907104
+Remote access via telematics unit (TCU),0.4245067238807678
+Rogue OBD-II Device,0.4630947709083557
+Secondary use,0.6590777635574341
+Server violation,0.6364642977714539
+"Sharing, transfer or processing through 3rd party of driver data",1.0
+Side-channel attacks,0.6485093832015991
+Smart key compromise,0.41345342993736267
+SS7 vulnerabilities exploitation,0.3737722635269165
+Tampering with telematics unit (TCU) firmware,0.5238473415374756
+Threats targeting autonomous sensors,1.0
+Unauthorised diagnostic access,0.5185572504997253
+Unauthorised violation of rules and regulations / breach of legislation / abuse of personal data,0.8202868700027466
+USB vulnerabilitiies exploitation,0.4620020389556885
+Using information and/or devices from an unreliable source,0.6447883248329163
+V2X Denial of Service,1.0
+Weak password,0.43919217586517334
