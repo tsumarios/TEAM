@@ -1,3 +1,3 @@
-# Semi-Automated Embracing Approach for (Privacy) Threat Modelling
+# TEAM – Threat Embracing by Automated Methods
 
-This repository provides the workflow within all the steps that compose the Semi-Automated Embracing Approach for (Privacy) Threat Modelling.
+This repository contains the set of methods for the article "TEAM – Threat Embracing by Automated Methods".
