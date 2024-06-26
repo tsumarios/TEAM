@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 '''
-Compute Similarity Scores for tuples with cardinality k - Semi-Automated Embracing Approach Core
+Compute Similarity Scores for tuples with cardinality k - TEAM 2 Core
 '''
 
 import os

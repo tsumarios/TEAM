@@ -1,0 +1,28 @@
+P,LB,S
+b_1,Remote control via malicious software,"embrace(a_2, a_7)"
+b_2,Mobile app compromise,"rename(embrace(a_2, a_10)"
+b_3,Software vulnerabilities exploitation,"embrace(a_3, a_16)"
+b_4,Arbitrary code execution on telematics unit (TCU),"embrace(a_4, a_67)"
+b_5,Remote access via telematics unit (TCU),"embrace(a_4, a_30)"
+b_6,Remote arbitrary code execution on telematics unit (TCU),"embrace(a_6, a_29)"
+b_7,Arbitrary code execution on telematics unit (TCU) by tampering the device firmware,"embrace(a_6, a_35)"
+b_8,Tampering with telematics unit (TCU) firmware,"embrace(a_6, a_39)"
+b_9,Manipulation of firmware in vehicle devices,"embrace(a_6, a_40)"
+b_10,Car theft,a_9
+b_11,Identity theft of driver,a_15
+b_12,Operator-sided data leakage in OEM and/or car devices,a_20
+b_13,Insecure data transfer in OEM and/or car services,a_48
+b_14,Collection of data not required for the driver-consented purpose,a_22
+b_15,Data aggregation and profiling of the vehicle from sensors and/or pseudonymous positions,a_41
+b_16,Smart key jamming and/or bruteforcing,"rename(embrace(a_27, a_34))"
+b_17,Smart key jamming and/or cloning,"rename(embrace(a_27, a_43))"
+b_18,Data aggregation and profiling of the driver and/or vehicle,"rename(embrace(a_28, a_32))"
+b_19,Spying and tracking of the driver,a_37
+b_20,"Message capture, analysis and replay","embrace(a_31, a_44)"
+b_21,Communication eavesdropping in vehicle components,"rename(embrace(a_36, a_46))"
+b_22,Manipulation of hardware to extract sensitive data,"embrace(a_38, a_39)"
+b_23,V2X manipulation and compromise,"rename(embrace(a_44, a_45))"
+b_24,Insufficient data quality in OEM and/or car services,a_50
+b_25,Insufficient data structure model to handle driver rights,a_52
+b_26,"Inappropriate or non-transparent policies, terms and conditions to driver",a_53
+b_27,Inability of driver to access and modify data,a_55

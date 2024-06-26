@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 '''
-Semi-Automated Embracing Approach Core
+TEAM 2 and TEAM 3 Core
 '''
 
 # Imports and setup
