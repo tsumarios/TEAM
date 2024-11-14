@@ -1,4 +1,4 @@
-P,LB,S
+ID,Threat,Source of documentation
 b_1,Remote control via malicious software,"embrace(a_2, a_7)"
 b_2,Mobile app compromise,"rename(embrace(a_2, a_10)"
 b_3,Software vulnerabilities exploitation,"embrace(a_3, a_16)"
