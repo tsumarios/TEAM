@@ -2,7 +2,7 @@
 
 This repository contains methods for the article "TEAM – Threat Embracing by Automated Methods."
 
-The purpose of TEAM is to automate threat embracing aiding the threat elicitation process within the SPADA methodology.
+The purpose of TEAM is to automate threat embracing aiding the threat elicitation process within the SPADA methodology for threat modelling.
 
 The repository provides methods for both TEAM 2 and TEAM 3, accessible via Jupyter Notebooks or through an interactive Streamlit web application.
 
@@ -49,7 +49,7 @@ Each of the two notebooks include detailed instructions to guide the analyst thr
 
 ### TEAM Web Application
 
-The `TEAM_app.py` Streamlit web app provides an interactive interface for threat embracing in TEAM. To launch the app, use:
+The [TEAM_app.py`](https://github.com/tsumarios/TEAM/blob/main/TEAM_app.py) Streamlit web app provides an interactive interface for threat embracing in TEAM. To launch the app, use:
 
 ```sh
 streamlit run TEAM_app.py
