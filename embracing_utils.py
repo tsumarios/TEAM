@@ -16,13 +16,17 @@ import pandas as pd
 import spacy
 import warnings
 from nltk.corpus import wordnet as wn
+from nltk.corpus.reader.wordnet import Synset
 from sentence_transformers import SentenceTransformer, util
 
 
 warnings.filterwarnings("ignore")
 
 # Wordnet
-nltk.download("wordnet")
+try:
+    nltk.data.find("corpora/wordnet")
+except LookupError:
+    nltk.download("wordnet")
 # Semantic similarity model
 model = SentenceTransformer("stsb-roberta-large")
 # Spacy setup
@@ -83,32 +87,33 @@ def synset_relations(sentence: str) -> dict:
     return result
 
 
-def check_typeof_synset_relationship(term1: str, term2: str) -> bool:
+def check_typeof_synset_relationship(term1: str, term2: str) -> (str, bool):
     """
     Check whether two terms have a "type of" synset relation.
     """
     common_hypernyms = set()
     result = False
+    msg = f'{term1} and {term2} are not related ("type of")'
 
     synsets1 = synsets(term1)
     synsets2 = synsets(term2)
     if not synsets1 or not synsets2:
-        print("One or both terms do not have synsets in WordNet.")
-        return False
+        return "One or both terms do not have synsets in WordNet.", result
 
     for synset1 in synsets1:
         for synset2 in synsets2:
             if synset1 in list(synset2.closure(hypo, depth=3)):
-                print(f"{term1} is a hyponym of {term2}")
+                msg = f"{term1} is a hyponym of {term2}"
                 result = True
             elif synset1 in list(synset2.closure(hyper, depth=3)):
-                print(f"{term1} is a hypernym of {term2}")
+                msg = f"{term1} is a hypernym of {term2}"
                 result = True
+                print(result)
             elif synset2 in list(synset1.closure(hypo, depth=3)):
-                print(f"{term2} is a hyponym of {term1}")
+                msg = f"{term2} is a hyponym of {term1}"
                 result = True
             elif synset2 in list(synset1.closure(hyper, depth=3)):
-                print(f"{term2} is a hypernym of {term1}")
+                msg = f"{term2} is a hypernym of {term1}"
                 result = True
             common_hypernyms.update(set(synset1.lowest_common_hypernyms(synset2)))
 
@@ -116,45 +121,39 @@ def check_typeof_synset_relationship(term1: str, term2: str) -> bool:
         common_hypernym_names = list(
             set(hypernym.name().split(".")[0] for hypernym in common_hypernyms)
         )
-        print(
-            f'{term1} and {term2} have common hypernyms: {", ".join(common_hypernym_names)}'
-        )
+        msg += f'. Moreover, {term1} and {term2} have common hypernyms: {", ".join(common_hypernym_names)}'
 
-    if result == False:
-        print(f'{term1} and {term2} are not related ("type of")')
-    return result
+    return msg, result
 
 
-def check_partof_synset_relationship(term1: str, term2: str) -> bool:
+def check_partof_synset_relationship(term1: str, term2: str) -> (str, bool):
     """
     Check whether two terms have a "part of" synset relation.
     """
     result = False
+    msg = f'{term1} and {term2} are not related ("part of")'
 
     synsets1 = synsets(term1)
     synsets2 = synsets(term2)
     if not synsets1 or not synsets2:
-        print("One or both terms do not have synsets in WordNet.")
-        return False
+        return "One or both terms do not have synsets in WordNet.", result
 
     for synset1 in synsets1:
         for synset2 in synsets2:
             if synset1 in list(synset2.closure(part_holo, depth=3)):
-                print(f"{term1} is a holonym of {term2}")
+                msg = f"{term1} is a holonym of {term2}"
                 result = True
             elif synset1 in list(synset2.closure(part_mero, depth=3)):
-                print(f"{term1} is a meronym of {term2}")
+                msg = f"{term1} is a meronym of {term2}"
                 result = True
             elif synset2 in list(synset1.closure(part_holo, depth=3)):
-                print(f"{term2} is a holonym of {term1}")
+                msg = f"{term2} is a holonym of {term1}"
                 result = True
             elif synset2 in list(synset1.closure(part_mero, depth=3)):
-                print(f"{term2} is a meronym of {term1}")
+                msg = f"{term2} is a meronym of {term1}"
                 result = True
 
-    if result == False:
-        print(f'{term1} and {term2} are not related ("part of")')
-    return result
+    return msg, result
 
 
 def compute_semantic_similarity_scores(in_path: str, out_path: str) -> tuple:
@@ -254,11 +253,7 @@ def find_synset_relations(sentence1: str, sentence2: str) -> tuple:
     """
     Look for synset relations between nouns in sentence pairs.
     """
-    is_partof, is_typeof = [
-        False,
-    ], [
-        False,
-    ]
+    is_partof, is_typeof = [("No relation", False)], [("No relation", False)]
 
     nouns1 = list(
         set([token.lemma_ for token in nlp(sentence1) if token.pos_ == "NOUN"])
@@ -271,9 +266,16 @@ def find_synset_relations(sentence1: str, sentence2: str) -> tuple:
             if term1 != term2:
                 is_partof.append(check_partof_synset_relationship(term1, term2))
                 is_typeof.append(check_typeof_synset_relationship(term1, term2))
-            print()
 
-    return any(is_partof), any(is_typeof)
+    # Find the first True value with message in each list
+    partof_relation = next(
+        (result for result in is_partof if result[1]), ("No relation", False)
+    )
+    typeof_relation = next(
+        (result for result in is_typeof if result[1]), ("No relation", False)
+    )
+
+    return partof_relation, typeof_relation
 
 
 def analyse_sentence_voice(sentence):

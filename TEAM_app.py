@@ -30,7 +30,6 @@ if "s2" not in st.session_state:
 st.title("TEAM - Threat Embracing by Automated Methods")
 st.sidebar.header("Setup")
 
-# TODO:
 with st.expander("📖 Tutorial/Guide"):
     st.markdown(
         """
