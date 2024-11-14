@@ -17,7 +17,7 @@ import pandas as pd
 import argparse
 from concurrent.futures import ProcessPoolExecutor
 from datetime import datetime
-from sentence_transformers import SentenceTransformer
+from sentence_transformers import SentenceTransformer, util
 
 
 # Semantic similarity model

@@ -108,7 +108,6 @@ def check_typeof_synset_relationship(term1: str, term2: str) -> (str, bool):
             elif synset1 in list(synset2.closure(hyper, depth=3)):
                 msg = f"{term1} is a hypernym of {term2}"
                 result = True
-                print(result)
             elif synset2 in list(synset1.closure(hypo, depth=3)):
                 msg = f"{term2} is a hyponym of {term1}"
                 result = True
