@@ -34,6 +34,8 @@ Where:
 - --scores_path: Path to the precomputed semantic similarity scores CSV (only needed if k > 2).
 - --out_path: Path to the output file for the computed similarity scores.
 
+Note that the Input Threat CSV must contain the following columns: `ID`, `Threat`, and `Source of documentation` (e.g., `t_19,Manipulation of information,ENISA`).
+
 Once you have both the Input Threat CSV and the Semantic Similarity Score CSV, as a result of the above script, you can proceed by following the steps illustrated in the notebooks or web app.
 
 ### TEAM Notebooks
