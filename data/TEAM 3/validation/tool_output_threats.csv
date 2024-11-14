@@ -1,4 +1,4 @@
-P,LB,S
+ID,Threat,Source of documentation
 f_1,Abuse of authorisations,b_52
 f_2,Arbitrary code execution on telematics unit (TCU),"embrace(b_4, b_6)"
 f_3,CAN bus flooding,b_62

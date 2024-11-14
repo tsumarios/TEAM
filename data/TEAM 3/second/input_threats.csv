@@ -1,4 +1,4 @@
-P,LB,S
+ID,Threat,Source of documentation
 a_1,V2X Denial of Service,"embrace(p_72, p_1)"
 a_2,Mobile app malware,"embrace(p_57, p_2)"
 a_3,Software vulnerabilities exploitation,"embrace(p_18, p_3)"
