@@ -195,6 +195,10 @@ def main():
 
     args = parser.parse_args()
 
+    # Enforce scores_path requirement when k > 2
+    if args.k > 2 and args.scores_path is None:
+        parser.error("--scores_path is required when --k > 2")
+
     start = datetime.now()
     compute_group_similarity_scores(
         args.in_path, args.scores_path, args.out_path, args.k, start
