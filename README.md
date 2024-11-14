@@ -21,10 +21,16 @@ The repository provides methods for both TEAM 2 and TEAM 3, accessible via Jupyt
 
 ## Usage
 
+First of all, don't forget to install dependencies:
+
+```sh
+pip install -r requirements.txt
+```
+
 For performance reasons (unless you are using the [TEAM_3.ipynb] notebook), the[TEAM_2.ipynb] notebook and the [TEAM_app.py] web app both require the user to run the ``compute_tuple_similarity_scores.py`` script outside of the tool. This generates similarity scores for each tuple and stores the results as ``./data/{input_threats_filename}_ss_scores_with_cardinality_{k}.csv``.
 
 ```sh
-python compute_tuple_similarity_scores.py --k <k> --in_path ./data/input_threats.csv [--scores_path ./data/input_threats_semantic_similarity_scores.csv] --out_path ./data/output_similarity_scores.csv
+python3 compute_tuple_similarity_scores.py --k <k> --in_path ./data/input_threats.csv [--scores_path ./data/input_threats_semantic_similarity_scores.csv] --out_path ./data/output_similarity_scores.csv
 ```
 
 Where:
