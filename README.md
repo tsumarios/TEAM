@@ -2,15 +2,19 @@
 
 This repository contains methods for the article "TEAM – Threat Embracing by Automated Methods."
 
-The purpose of TEAM is to automate threat embracing aiding the threat elicitation process within the SPADA methodology for threat modelling.
+The purpose of TEAM is to automate threat embracing aiding the threat elicitation process within the [SPADA methodology for threat modelling](https://github.com/tsumarios/Threat-Modelling-Research/tree/main/SPADA).
 
 The repository provides methods for both TEAM 2 and TEAM 3, accessible via Jupyter Notebooks or through an interactive Streamlit web application.
 
 ## Table of Contents
 
 - [Usage](#usage)
-  - [TEAM Notebooks](#team-notebooks)
-  - [TEAM Web Application](#team-web-application)
+  - [Prerequisites](#prerequisites)
+    - [Prepare the Input Threats CSV](#prepare-the-input-threats-csv)
+    - [Obtain the Semantic Similarity Scores CSV](#obtain-the-semantic-similarity-scores-csv)
+  - [Choose a TEAM Tool](#choose-a-team-tool)
+    - [TEAM Notebooks](#team-notebooks)
+    - [TEAM Web Application](#team-web-application)
 - [TEAM Core and Utils](#team-core-and-utils)
   - [Embracing Utils](#embracing-utils)
   - [Compute Tuple Similarity Scores](#compute-tuple-similarity-scores)
@@ -21,30 +25,61 @@ The repository provides methods for both TEAM 2 and TEAM 3, accessible via Jupyt
 
 ## Usage
 
+Here's a quick guide to get started.
+
+### Prerequisites
+
 First of all, don't forget to install dependencies:
 
 ```sh
 pip install -r requirements.txt
 ```
 
+#### Prepare the Input Threats CSV
+
+The Input Threats CSV must have the following columns:
+
+**(ID,Threat,Source of documentation)**
+
+Where:
+
+- ID: Identifies the threat
+- Threat: Describes the threat
+- Source of documentation: Specifies the document source which the threat was retrieved from.
+
+Example:
+
+*(t_19,Manipulation of information,ENISA)*
+
+#### Obtain the Semantic Similarity Scores CSV
+
 For performance reasons (unless you are using the [TEAM_3.ipynb] notebook), the[TEAM_2.ipynb] notebook and the [TEAM_app.py] web app both require the user to run the ``compute_tuple_similarity_scores.py`` script outside of the tool. This generates similarity scores for each tuple and stores the results as ``./data/{input_threats_filename}_ss_scores_with_cardinality_{k}.csv``.
 
+Open you favourite Terminal and type as follows:
+
 ```sh
-python3 compute_tuple_similarity_scores.py --k <k> --in_path ./data/input_threats.csv [--scores_path ./data/input_threats_semantic_similarity_scores.csv] --out_path ./data/output_similarity_scores.csv
+python3 compute_tuple_similarity_scores.py --k <k> --in_path ./data/input_threats.csv [--previous_k_scores_path ./data/previous_k_semantic_similarity_scores.csv] --out_path ./data/output_similarity_scores.csv
 ```
 
 Where:
 
 - --k <k>: Specifies the tuple cardinality for similarity scoring.
-- --in_path: Path to the input threats CSV file.
-- --scores_path: Path to the precomputed semantic similarity scores CSV (only needed if k > 2).
+- --in_path: Path to the Input Threats CSV file.
+- --previous_k_scores_path: Path to the precomputed Semantic Similarity Scores CSV related to k-1 (only needed if k > 2).
 - --out_path: Path to the output file for the computed similarity scores.
 
-Note that the Input Threat CSV must contain the following columns: `ID`, `Threat`, and `Source of documentation` (e.g., `t_19,Manipulation of information,ENISA`).
+You can choose to compute similarity scores either using the TEAM `compute_tuple_similarity_score` script or adopting different methods. In the latter case, just make sure the Input Threats CSV and Semantic Similarity Scores CSV follow the same structure as expected by TEAM.
 
-Once you have both the Input Threat CSV and the Semantic Similarity Score CSV, as a result of the above script, you can proceed by following the steps illustrated in the notebooks or web app.
+The Semantic Similarity Scores CSV must have the following columns:
 
-### TEAM Notebooks
+- *(sentence1,sentence2,score)* for k=2;
+- *(max,mean,min,scores,sentence1,sentence2,...,sentencek)* for k>2.
+
+### Choose a TEAM Tool
+
+Once you have both the Input Threat CSV and the Semantic Similarity Score CSV, as a result of the above script, you can proceed by following the steps illustrated in the TEAM notebooks or TEAM web app.
+
+#### TEAM Notebooks
 
 The execution of TEAM 2 and TEAM 3 is guided through the following notebooks:
 
@@ -53,7 +88,7 @@ The execution of TEAM 2 and TEAM 3 is guided through the following notebooks:
 
 Each of the two notebooks include detailed instructions to guide the analyst throughout the execution of the TEAM methods.
 
-### TEAM Web Application
+#### TEAM Web Application
 
 The [TEAM_app.py`](https://github.com/tsumarios/TEAM/blob/main/TEAM_app.py) Streamlit web app provides an interactive interface for threat embracing in TEAM. To launch the app, use:
 
@@ -120,7 +155,7 @@ It uses a pre-trained model to encode and compare the semantic meaning of threat
   - Computes and stores similarity statistics (max, mean, min).
   - Processes tuples in batches for efficiency and writes results to CSV.
 
-- **`main` Function**: Parses command-line arguments (`--k`, `--in_path`, `--scores_path`, `--out_path`) and initiates `compute_group_similarity_scores` with the given parameters.
+- **`main` Function**: Parses command-line arguments (`--k`, `--in_path`, `--previous_k_scores_path`, `--out_path`) and initiates `compute_group_similarity_scores` with the given parameters.
 
 ## Data
 

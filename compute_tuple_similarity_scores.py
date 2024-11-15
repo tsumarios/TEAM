@@ -7,7 +7,7 @@ This script calculates semantic similarity scores for threat tuples with configu
 It supports both pairwise (k=2) and higher-order tuple combinations (k > 2), integrating with precomputed similarity scores for previous cardinalities.
 
 Example Usage:
-$ python compute_tuple_similarity_scores.py --k <k> --in_path ./data/input_threats.csv [--scores_path ./data/input_threats_ss_scores.csv] --out_path ./data/output_similarity_scores.csv
+$ python compute_tuple_similarity_scores.py --k <k> --in_path ./data/input_threats.csv [--previous_k_scores_path ./data/input_threats_ss_scores.csv] --out_path ./data/output_similarity_scores.csv
 """
 
 import os
@@ -92,7 +92,7 @@ def save_scores_to_csv(scores_dict, output_file):
 
 
 def compute_group_similarity_scores(
-    in_path: str, scores_path: str, out_path: str, k=3, start_time=None
+    in_path: str, previous_k_scores_path: str, out_path: str, k=3, start_time=None
 ):
     """
     Computes similarity scores for tuples of cardinality k. Uses a direct method for k=2.
@@ -104,7 +104,7 @@ def compute_group_similarity_scores(
         return
 
     print(f"Computing similarity scores for k={k}...")
-    ss_df = pd.read_csv(scores_path)
+    ss_df = pd.read_csv(previous_k_scores_path)
     sentence_list = pd.read_csv(in_path, index_col="ID")["Threat"].values.tolist()
     ordered_sentences = itertools.combinations(sentence_list, k)
     sentences_len = len(list(itertools.combinations(sentence_list, k)))
@@ -181,7 +181,7 @@ def main():
         help="Path to the input threats file (CSV).",
     )
     parser.add_argument(
-        "--scores_path",
+        "--previous_k_scores_path",
         type=str,
         required=False,  # required only if k > 2
         help="Path to the precomputed semantic similarity scores file (CSV) for k-1. Needed only if k > 2.",
@@ -195,13 +195,13 @@ def main():
 
     args = parser.parse_args()
 
-    # Enforce scores_path requirement when k > 2
-    if args.k > 2 and args.scores_path is None:
-        parser.error("--scores_path is required when --k > 2")
+    # Enforce previous_k_scores_path requirement when k > 2
+    if args.k > 2 and args.previous_k_scores_path is None:
+        parser.error("--previous_k_scores_path is required when --k > 2")
 
     start = datetime.now()
     compute_group_similarity_scores(
-        args.in_path, args.scores_path, args.out_path, args.k, start
+        args.in_path, args.previous_k_scores_path, args.out_path, args.k, start
     )
     end = datetime.now()
     print(f"Started at {start}\nFinished at {end}\nDelta {end-start}")
