@@ -159,9 +159,11 @@ with st.expander("📖 __Expand/Collapse Guide__"):
 
 
 # File uploads for threats and semantic similarity scores
-uploaded_threats_file = st.sidebar.file_uploader("Upload Input Threats CSV", type="csv")
+uploaded_threats_file = st.sidebar.file_uploader(
+    "Upload Input Threats CSV", type="csv", accept_multiple_files=False
+)
 uploaded_ss_scores_file = st.sidebar.file_uploader(
-    "Upload Semantic Similarity Scores CSV", type="csv"
+    "Upload Semantic Similarity Scores CSV", type="csv", accept_multiple_files=False
 )
 
 # Load CSV files only once if not already in session_state
@@ -180,7 +182,7 @@ else:
     st.stop()
 
 st.header("Input List of Threats", divider=True)
-st.write(st.session_state.threats_df)
+st.dataframe(st.session_state.threats_df)
 
 
 # Filter candidates based on threshold and aggregation method
@@ -262,7 +264,7 @@ def get_semantic_relations():
         )
 
         # Display the final DataFrame with all the semantic relations
-        st.write(focus_df)
+        st.dataframe(focus_df)
     else:
         st.write("No additional semantic terms available.")
 
@@ -314,7 +316,7 @@ embraceable_candidates = filter_candidates(
 st.write(
     f"Candidates above threshold {threshold} with '{aggregation_method}' aggregation: {len(embraceable_candidates)}"
 )
-st.write(embraceable_candidates)
+st.dataframe(embraceable_candidates)
 
 
 # UI for Threat Embracing
@@ -391,8 +393,6 @@ if st.button("Embrace Threat"):
                 new_threat,
                 conductor,
                 orchestra,
-                # st.session_state.is_partof[1],
-                # st.session_state.is_typeof[1],
             )
         )
 
@@ -455,7 +455,7 @@ embraced_df = pd.DataFrame(
     st.session_state.embraced_threats,
     columns=["New Threat", "Conductor", "Orchestra"],
 )
-st.write(embraced_df)
+st.dataframe(embraced_df)
 
 # Export embraced threats to CSV
 st.subheader("Export Embraced Threats")
@@ -469,7 +469,7 @@ if st.button("Export to CSV", key="export_embraced"):
 
 # Display current list of threats
 st.header("Current List of Threats", divider=True)
-st.write(st.session_state.threats_df)
+st.dataframe(st.session_state.threats_df)
 
 # Export embraced threats to CSV
 st.subheader("Export Current List of Threats")

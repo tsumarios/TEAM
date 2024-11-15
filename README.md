@@ -165,6 +165,8 @@ For storage reasons, [TEAM 2](https://github.com/tsumarios/TEAM/tree/main/data/T
 
 [TEAM 3](https://github.com/tsumarios/TEAM/tree/main/data/TEAM%203) contains the results of the first, second and third round, as well as the validation results. In particular, each of the iterations includes semantic relations (synset relations) for embraceable candidates. The validation results compare TEAM 3 with TEAM 1.
 
+[Toy Example](https://github.com/tsumarios/TEAM/tree/main/data/Toy%20Example) contains a small Input Threats CSV and related Semantic Similarity Scores CSV files to try the TEAM notebook and TEAM web application, with k=2.
+
 ## Statistics and Images
 
 The folder [img](https://github.com/tsumarios/TEAM/tree/main/img) provides some plots for both TEAM 2 and TEAM 3 statistics.
