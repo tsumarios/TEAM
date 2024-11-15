@@ -1,0 +1,11 @@
+sentence1,sentence2,score
+Denial of Service,Malware,0.05589669197797775
+Denial of Service,Manipulation of hardware and software,-0.02647659182548523
+Denial of Service,Manipulation of information,0.04690636694431305
+Denial of Service,Threats targeting autonomous sensors,0.09776975959539413
+Malware,Manipulation of hardware and software,0.5179364681243896
+Malware,Manipulation of information,0.36695918440818787
+Malware,Threats targeting autonomous sensors,0.43226736783981323
+Manipulation of hardware and software,Manipulation of information,0.6555209755897522
+Manipulation of hardware and software,Threats targeting autonomous sensors,0.37869521975517273
+Manipulation of information,Threats targeting autonomous sensors,0.3246610462665558

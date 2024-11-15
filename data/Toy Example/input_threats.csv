@@ -1,0 +1,6 @@
+ID,Threat,Source of documentation
+t_1,Denial of Service,ENISA
+t_2,Malware,ENISA
+t_3,Manipulation of hardware and software,ENISA
+t_4,Manipulation of information,ENISA
+t_5,Threats targeting autonomous sensors,ENISA
