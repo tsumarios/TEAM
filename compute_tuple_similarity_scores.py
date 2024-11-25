@@ -64,9 +64,10 @@ def compute_semantic_similarity_scores(in_path: str, out_path: str):
 
     scores_dict = {"sentence1": [], "sentence2": [], "score": []}
     for pair in ordered_sentences:
-        similarity_score = semantic_similarity(pair[0], pair[1])
-        scores_dict["sentence1"].append(pair[0])
-        scores_dict["sentence2"].append(pair[1])
+        sentence1, sentence2 = str(pair[0]), str(pair[1])
+        similarity_score = semantic_similarity(sentence1, sentence2)
+        scores_dict["sentence1"].append(sentence1)
+        scores_dict["sentence2"].append(sentence2)
         scores_dict["score"].append(similarity_score)
 
     semantic_similarity_scores = pd.DataFrame(scores_dict)

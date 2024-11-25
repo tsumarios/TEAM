@@ -1,0 +1,11 @@
+sentence1,sentence2,score
+Unauthorised access to user data,Insufficient consent mechanisms,0.35713979601860046
+Unauthorised access to user data,Logging of communications as evidence,0.2213936448097229
+Unauthorised access to user data,Unlawful permission to patient records,0.7037748694419861
+Unauthorised access to user data,Lack of policy transparency,0.3386699855327606
+Insufficient consent mechanisms,Logging of communications as evidence,0.23142337799072266
+Insufficient consent mechanisms,Unlawful permission to patient records,0.35772204399108887
+Insufficient consent mechanisms,Lack of policy transparency,0.4963489462852478
+Logging of communications as evidence,Unlawful permission to patient records,0.14909842610359192
+Logging of communications as evidence,Lack of policy transparency,0.14197221398353577
+Unlawful permission to patient records,Lack of policy transparency,0.35833460092544556

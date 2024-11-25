@@ -1,6 +1,6 @@
 ID,Threat,Source of documentation
-t_1,Denial of Service,ENISA
-t_2,Malware,ENISA
-t_3,Manipulation of hardware and software,ENISA
-t_4,Manipulation of information,ENISA
-t_5,Threats targeting autonomous sensors,ENISA
+t_1,Unauthorised access to user data,Toy Example
+t_2,Insufficient consent mechanisms,Toy Example
+t_3,Logging of communications as evidence,Toy Example
+t_4,Unlawful permission to patient records,Toy Example
+t_5,Lack of policy transparency,Toy Example
