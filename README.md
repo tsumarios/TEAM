@@ -86,7 +86,11 @@ The execution of TEAM 2 and TEAM 3 is guided through the following notebooks:
 - [TEAM_2.ipynb](https://github.com/tsumarios/TEAM/blob/main/TEAM_2.ipynb) implements TEAM 2.
 - [TEAM_3.ipynb](https://github.com/tsumarios/TEAM/blob/main/TEAM_3.ipynb) implements TEAM 3.
 
-Each of the two notebooks include detailed instructions to guide the analyst throughout the execution of the TEAM methods.
+Each of the two notebooks include detailed instructions to guide the analyst throughout the execution of the TEAM methods. To launch the notebooks, use:
+
+```sh
+jupyter-lab
+```
 
 #### TEAM Web Application
 
