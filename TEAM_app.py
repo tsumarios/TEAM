@@ -191,7 +191,7 @@ def filter_candidates(df, threshold, aggregation_method="mean"):
         return filter_dataframe_by_threshold(df, aggregation_method, threshold)
     except KeyError as e:
         st.warning(
-            f"{str(e)} column not found (perhaps k>2 ?). Please adjust the value of k accordingly."
+            f"{str(e)} column not found (perhaps you set k>2 ?). Please adjust the value of k accordingly."
         )
         st.stop()
         return None
@@ -460,7 +460,7 @@ st.dataframe(embraced_df)
 # Export embraced threats to CSV
 st.subheader("Export Embraced Threats")
 export_path_embraced = st.text_input(
-    "Insert export path", "./output_embraced_threats.csv"
+    "Insert export path", "./output_embraced_threats_with_threshold_{threshold}.csv"
 )
 if st.button("Export to CSV", key="export_embraced"):
     embraced_df.to_csv(export_path_embraced, index=False)
