@@ -460,7 +460,7 @@ st.dataframe(embraced_df)
 # Export embraced threats to CSV
 st.subheader("Export Embraced Threats")
 export_path_embraced = st.text_input(
-    "Insert export path", "./output_embraced_threats_with_threshold_{threshold}.csv"
+    "Insert export path", f"./output_embraced_threats_with_threshold_{threshold}.csv"
 )
 if st.button("Export to CSV", key="export_embraced"):
     embraced_df.to_csv(export_path_embraced, index=False)
