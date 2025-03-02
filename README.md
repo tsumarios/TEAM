@@ -2,7 +2,7 @@
 
 This repository contains methods for the article "TEAM – Threat Embracing by Automated Methods."
 
-The purpose of TEAM is to automate threat embracing aiding the threat elicitation process within the [SPADA methodology for threat modelling](https://github.com/tsumarios/Threat-Modelling-Research/tree/main/SPADA).
+The purpose of TEAM is to automate threat embracing aiding the threat elicitation process within the [SPADA methodology for threat modelling](https://doi.org/10.1007/s10207-025-00999-0).
 
 The repository provides methods for both TEAM 2 and TEAM 3, accessible via Jupyter Notebooks or through an interactive Streamlit web application.
 
@@ -178,6 +178,8 @@ The folder [img](https://github.com/tsumarios/TEAM/tree/main/img) provides some 
 ### PoC
 
 The notebook [poc.ipynb](https://github.com/tsumarios/TEAM/blob/main/poc.ipynb) provides a Proof-of-Concept for the fundamentals behind the TEAM methods.
+
+---
 
 #### Contacts
 
