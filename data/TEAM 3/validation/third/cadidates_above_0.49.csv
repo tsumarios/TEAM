@@ -1,0 +1,32 @@
+﻿,sentence1,sentence2,score
+662,Unauthorized modification or misuse of systems or devices,Improper or unauthorized use of devices,0.8276522
+647,"Unauthorized modification, dissemination or sabotage of software",Unauthorized modification or misuse of systems or devices,0.8078274
+555,"Improper, unauthorized, or malicious handling of data",Unauthorized or malicious surveillance,0.79352826
+560,"Improper, unauthorized, or malicious handling of data",Improper or unauthorized use of devices,0.74914706
+655,Unauthorized or malicious surveillance,Improper or unauthorized use of devices,0.74636745
+542,Misuse or manipulation of function permissions,Unauthorized modification or misuse of systems or devices,0.67460537
+557,"Improper, unauthorized, or malicious handling of data",Unauthorized modification or misuse of systems or devices,0.6355798
+597,User error causing service malfunction,Infrastructure failures due to telecommunication problems,0.6352207
+545,Misuse or manipulation of function permissions,Improper or unauthorized use of devices,0.63500404
+650,"Unauthorized modification, dissemination or sabotage of software",Improper or unauthorized use of devices,0.6340196
+652,Unauthorized or malicious surveillance,Unauthorized modification or misuse of systems or devices,0.6072109
+530,Misuse or manipulation of function permissions,"Improper, unauthorized, or malicious handling of data",0.6033666
+573,Organizational resource constraints,Organizational deficiency threats,0.58533084
+540,Misuse or manipulation of function permissions,Unauthorized or malicious surveillance,0.5847303
+554,"Improper, unauthorized, or malicious handling of data","Unauthorized modification, dissemination or sabotage of software",0.57742876
+549,"Improper, unauthorized, or malicious handling of data",Digital identity or credentials sabotage,0.57453984
+607,Digital identity or credentials sabotage,Unauthorized modification or misuse of systems or devices,0.56636727
+600,Digital identity or credentials sabotage,Theft of sensitive physical or digital assets,0.5625721
+626,Unauthorized physical access or interaction,Unauthorized modification or misuse of systems or devices,0.56078476
+550,"Improper, unauthorized, or malicious handling of data",Theft of sensitive physical or digital assets,0.5585573
+645,"Unauthorized modification, dissemination or sabotage of software",Unauthorized or malicious surveillance,0.5548243
+539,Misuse or manipulation of function permissions,"Unauthorized modification, dissemination or sabotage of software",0.5472925
+604,Digital identity or credentials sabotage,"Unauthorized modification, dissemination or sabotage of software",0.5458629
+610,Digital identity or credentials sabotage,Improper or unauthorized use of devices,0.5425267
+595,User error causing service malfunction,Technical failures,0.53904134
+642,Infrastructure failures due to electromagnetic or thermal disturbances,Infrastructure failures due to telecommunication problems,0.52080464
+534,Misuse or manipulation of function permissions,Digital identity or credentials sabotage,0.5167379
+620,Theft of sensitive physical or digital assets,Improper or unauthorized use of devices,0.51041573
+335,"Terrorist attack, sabotage",Unauthorized or malicious surveillance,0.50469327
+623,Unauthorized physical access or interaction,"Unauthorized modification, dissemination or sabotage of software",0.50321364
+63,"Pollution, harmful radiation",Infrastructure failures due to electromagnetic or thermal disturbances,0.500062

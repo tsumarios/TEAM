@@ -1,0 +1,55 @@
+﻿,sentence1,sentence2,score
+817,Electromagnetic radiation,Electromagnetic pulses,0.89930123
+735,Failure of a telecommunications network,Failure of telecommunication equipment,0.8955014
+1505,Fraudulent copying of software,Use of counterfeit or copied software,0.87907153
+1432,Unauthorized processing of personal data,Illegal processing of data,0.7700058
+779,Failure of telecommunication equipment,Failure of device or system,0.75906533
+1575,Abuse of rights or permissions,Forging of rights or permissions,0.75614446
+1144,Unauthorized surveillance,Unauthorized use of devices,0.73089904
+1373,Tampering with software,Use of counterfeit or copied software,0.7304687
+1135,Unauthorized surveillance,Unauthorized retrieval of disposed media,0.7072109
+1460,Unauthorized use of devices,Incorrect use of devices,0.7014613
+1142,Unauthorized surveillance,Unauthorized processing of personal data,0.6945901
+1426,Unauthorized processing of personal data,Unauthorized use of devices,0.69390714
+1372,Tampering with software,Fraudulent copying of software,0.6920185
+1150,Unauthorized surveillance,Illegal processing of data,0.69091636
+323,Climatic phenomenon,Meteorological phenomenon,0.6831703
+1343,Tampering with hardware,Tampering with software,0.6723489
+739,Failure of a telecommunications network,Failure of device or system,0.6716453
+1191,Theft of media or documents,Theft of digital identity or credentials,0.6713899
+1530,Corruption of data,Illegal processing of data,0.6701857
+1257,Theft of digital identity or credentials,Fraudulent copying of software,0.669619
+1590,Lack of staff,Lack of resources,0.66236144
+372,Seismic phenomenon,Meteorological phenomenon,0.65615946
+1465,Unauthorized use of devices,Illegal processing of data,0.6557391
+648,Failure of a supply system,Failure of service providers,0.65504885
+950,Failure of device or system,Incorrect use of devices,0.65475965
+816,Electromagnetic radiation,Thermal radiation,0.6542658
+64,Water,Flood,0.6526798
+1279,Unauthorized retrieval of disposed media,Unauthorized use of devices,0.6480953
+321,Climatic phenomenon,Seismic phenomenon,0.6432777
+1277,Unauthorized retrieval of disposed media,Unauthorized processing of personal data,0.6369113
+1508,Fraudulent copying of software,Sending or distributing of malware,0.63626677
+1285,Unauthorized retrieval of disposed media,Illegal processing of data,0.62451077
+1506,Fraudulent copying of software,Corruption of data,0.61978537
+1483,Incorrect use of devices,Error in use,0.6146054
+1259,Theft of digital identity or credentials,Corruption of data,0.61444575
+774,Failure of a telecommunications network,Failure of service providers,0.6102369
+1332,Data input from untrustworthy sources,Illegal processing of data,0.6070671
+1206,Theft of media or documents,Corruption of data,0.6040032
+1218,Theft of equipment,Theft of digital identity or credentials,0.6036244
+1443,Unauthorized entry to facilities,Unauthorized use of devices,0.6035658
+1469,Unauthorized use of devices,Abuse of rights or permissions,0.59570885
+855,Thermal radiation,Electromagnetic pulses,0.5946016
+1476,Incorrect use of devices,Damaging devices or media,0.5929148
+1258,Theft of digital identity or credentials,Use of counterfeit or copied software,0.58679545
+1544,Illegal processing of data,Abuse of rights or permissions,0.5862354
+647,Failure of a supply system,Lack of resources,0.5860442
+1143,Unauthorized surveillance,Unauthorized entry to facilities,0.58590215
+1436,Unauthorized processing of personal data,Abuse of rights or permissions,0.58543706
+332,Climatic phenomenon,Thermal radiation,0.5849553
+1204,Theft of media or documents,Fraudulent copying of software,0.5785314
+1154,Unauthorized surveillance,Abuse of rights or permissions,0.5773952
+1331,Data input from untrustworthy sources,Corruption of data,0.5767868
+1520,Use of counterfeit or copied software,Sending or distributing of malware,0.5760497
+814,Failure of telecommunication equipment,Failure of service providers,0.57267976

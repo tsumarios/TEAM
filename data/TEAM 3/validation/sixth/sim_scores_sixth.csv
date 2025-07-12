@@ -1,0 +1,137 @@
+sentence1,sentence2,score
+Fire-related incidents on site,"Physical conditions, such as dust, corrosion, freezing",0.23970371
+Fire-related incidents on site,Pandemic/epidemic phenomenon,0.14582823
+Fire-related incidents on site,Loss of power supply,0.2383461
+Fire-related incidents on site,Disclosure of information,0.17180984
+Fire-related incidents on site,Dive-by-exploits using web-based communication,0.11766193
+Fire-related incidents on site,Interception and re-use of communications,0.108050466
+Fire-related incidents on site,Denial of actions,0.07584752
+Fire-related incidents on site,Violation of laws or regulations,0.25589854
+Fire-related incidents on site,Water-related incidents on site,0.37781394
+Fire-related incidents on site,Natural threats,0.29861155
+Fire-related incidents on site,Technical failures,0.056006916
+Fire-related incidents on site,Organizational deficiency and policy threats,0.20325959
+Fire-related incidents on site,Infrastructure failures,0.16749784
+Fire-related incidents on site,Human actions on sensitive physical or digital assets,0.21458611
+Fire-related incidents on site,Compromise of functions or services,0.09930302
+Fire-related incidents on site,Physical threat due to incidents,0.36936653
+"Physical conditions, such as dust, corrosion, freezing",Pandemic/epidemic phenomenon,0.30257252
+"Physical conditions, such as dust, corrosion, freezing",Loss of power supply,0.081956334
+"Physical conditions, such as dust, corrosion, freezing",Disclosure of information,-0.032487005
+"Physical conditions, such as dust, corrosion, freezing",Dive-by-exploits using web-based communication,0.09793017
+"Physical conditions, such as dust, corrosion, freezing",Interception and re-use of communications,0.044362452
+"Physical conditions, such as dust, corrosion, freezing",Denial of actions,0.03648393
+"Physical conditions, such as dust, corrosion, freezing",Violation of laws or regulations,0.18670648
+"Physical conditions, such as dust, corrosion, freezing",Water-related incidents on site,0.18994322
+"Physical conditions, such as dust, corrosion, freezing",Natural threats,0.30091792
+"Physical conditions, such as dust, corrosion, freezing",Technical failures,0.13173236
+"Physical conditions, such as dust, corrosion, freezing",Organizational deficiency and policy threats,0.23327264
+"Physical conditions, such as dust, corrosion, freezing",Infrastructure failures,0.23800693
+"Physical conditions, such as dust, corrosion, freezing",Human actions on sensitive physical or digital assets,0.21423227
+"Physical conditions, such as dust, corrosion, freezing",Compromise of functions or services,0.07283894
+"Physical conditions, such as dust, corrosion, freezing",Physical threat due to incidents,0.34269202
+Pandemic/epidemic phenomenon,Loss of power supply,0.18999113
+Pandemic/epidemic phenomenon,Disclosure of information,-0.014795305
+Pandemic/epidemic phenomenon,Dive-by-exploits using web-based communication,0.13479531
+Pandemic/epidemic phenomenon,Interception and re-use of communications,0.0732511
+Pandemic/epidemic phenomenon,Denial of actions,0.00796114
+Pandemic/epidemic phenomenon,Violation of laws or regulations,0.16735786
+Pandemic/epidemic phenomenon,Water-related incidents on site,0.27961534
+Pandemic/epidemic phenomenon,Natural threats,0.2676597
+Pandemic/epidemic phenomenon,Technical failures,0.071559004
+Pandemic/epidemic phenomenon,Organizational deficiency and policy threats,0.21911517
+Pandemic/epidemic phenomenon,Infrastructure failures,0.25369933
+Pandemic/epidemic phenomenon,Human actions on sensitive physical or digital assets,0.04116184
+Pandemic/epidemic phenomenon,Compromise of functions or services,0.20996618
+Pandemic/epidemic phenomenon,Physical threat due to incidents,0.1947269
+Loss of power supply,Disclosure of information,0.22196653
+Loss of power supply,Dive-by-exploits using web-based communication,0.036378756
+Loss of power supply,Interception and re-use of communications,-0.018672377
+Loss of power supply,Denial of actions,0.13844249
+Loss of power supply,Violation of laws or regulations,0.10968515
+Loss of power supply,Water-related incidents on site,0.16054821
+Loss of power supply,Natural threats,0.15104969
+Loss of power supply,Technical failures,0.18124074
+Loss of power supply,Organizational deficiency and policy threats,0.23304835
+Loss of power supply,Infrastructure failures,0.33538717
+Loss of power supply,Human actions on sensitive physical or digital assets,0.055771858
+Loss of power supply,Compromise of functions or services,0.19682336
+Loss of power supply,Physical threat due to incidents,0.14139527
+Disclosure of information,Dive-by-exploits using web-based communication,0.10229609
+Disclosure of information,Interception and re-use of communications,0.30699778
+Disclosure of information,Denial of actions,0.23602591
+Disclosure of information,Violation of laws or regulations,0.15116394
+Disclosure of information,Water-related incidents on site,0.23495534
+Disclosure of information,Natural threats,0.14004827
+Disclosure of information,Technical failures,0.1050886
+Disclosure of information,Organizational deficiency and policy threats,0.088595785
+Disclosure of information,Infrastructure failures,0.08950204
+Disclosure of information,Human actions on sensitive physical or digital assets,0.30040443
+Disclosure of information,Compromise of functions or services,0.135683
+Disclosure of information,Physical threat due to incidents,0.24841017
+Dive-by-exploits using web-based communication,Interception and re-use of communications,0.2200878
+Dive-by-exploits using web-based communication,Denial of actions,0.017744072
+Dive-by-exploits using web-based communication,Violation of laws or regulations,0.10158941
+Dive-by-exploits using web-based communication,Water-related incidents on site,0.27890453
+Dive-by-exploits using web-based communication,Natural threats,0.06477006
+Dive-by-exploits using web-based communication,Technical failures,0.065989584
+Dive-by-exploits using web-based communication,Organizational deficiency and policy threats,0.14011784
+Dive-by-exploits using web-based communication,Infrastructure failures,0.12028959
+Dive-by-exploits using web-based communication,Human actions on sensitive physical or digital assets,0.2598291
+Dive-by-exploits using web-based communication,Compromise of functions or services,0.11132922
+Dive-by-exploits using web-based communication,Physical threat due to incidents,0.13853917
+Interception and re-use of communications,Denial of actions,0.17403147
+Interception and re-use of communications,Violation of laws or regulations,0.16700694
+Interception and re-use of communications,Water-related incidents on site,0.108258896
+Interception and re-use of communications,Natural threats,0.044977836
+Interception and re-use of communications,Technical failures,0.11598475
+Interception and re-use of communications,Organizational deficiency and policy threats,0.028769983
+Interception and re-use of communications,Infrastructure failures,0.16464666
+Interception and re-use of communications,Human actions on sensitive physical or digital assets,0.15081525
+Interception and re-use of communications,Compromise of functions or services,0.25674456
+Interception and re-use of communications,Physical threat due to incidents,0.027061205
+Denial of actions,Violation of laws or regulations,0.17583036
+Denial of actions,Water-related incidents on site,0.14073794
+Denial of actions,Natural threats,0.16794617
+Denial of actions,Technical failures,0.20733458
+Denial of actions,Organizational deficiency and policy threats,0.14462839
+Denial of actions,Infrastructure failures,0.15577321
+Denial of actions,Human actions on sensitive physical or digital assets,0.046824455
+Denial of actions,Compromise of functions or services,-0.009279998
+Denial of actions,Physical threat due to incidents,0.14422925
+Violation of laws or regulations,Water-related incidents on site,0.15947299
+Violation of laws or regulations,Natural threats,0.16071066
+Violation of laws or regulations,Technical failures,0.09575091
+Violation of laws or regulations,Organizational deficiency and policy threats,0.26460955
+Violation of laws or regulations,Infrastructure failures,0.16491063
+Violation of laws or regulations,Human actions on sensitive physical or digital assets,0.2216751
+Violation of laws or regulations,Compromise of functions or services,0.116421565
+Violation of laws or regulations,Physical threat due to incidents,0.19477662
+Water-related incidents on site,Natural threats,0.24104466
+Water-related incidents on site,Technical failures,0.09555124
+Water-related incidents on site,Organizational deficiency and policy threats,0.11967434
+Water-related incidents on site,Infrastructure failures,0.22344303
+Water-related incidents on site,Human actions on sensitive physical or digital assets,0.28556067
+Water-related incidents on site,Compromise of functions or services,0.16099957
+Water-related incidents on site,Physical threat due to incidents,0.26761147
+Natural threats,Technical failures,0.15951051
+Natural threats,Organizational deficiency and policy threats,0.28119096
+Natural threats,Infrastructure failures,0.18203728
+Natural threats,Human actions on sensitive physical or digital assets,0.24755928
+Natural threats,Compromise of functions or services,0.11543195
+Natural threats,Physical threat due to incidents,0.3696522
+Technical failures,Organizational deficiency and policy threats,0.30801752
+Technical failures,Infrastructure failures,0.5792095
+Technical failures,Human actions on sensitive physical or digital assets,0.15981284
+Technical failures,Compromise of functions or services,0.14867626
+Technical failures,Physical threat due to incidents,0.16032425
+Organizational deficiency and policy threats,Infrastructure failures,0.43129474
+Organizational deficiency and policy threats,Human actions on sensitive physical or digital assets,0.21078919
+Organizational deficiency and policy threats,Compromise of functions or services,0.21703255
+Organizational deficiency and policy threats,Physical threat due to incidents,0.2892625
+Infrastructure failures,Human actions on sensitive physical or digital assets,0.17445666
+Infrastructure failures,Compromise of functions or services,0.19417627
+Infrastructure failures,Physical threat due to incidents,0.16442548
+Human actions on sensitive physical or digital assets,Compromise of functions or services,0.114038214
+Human actions on sensitive physical or digital assets,Physical threat due to incidents,0.4414003
+Compromise of functions or services,Physical threat due to incidents,0.03711288

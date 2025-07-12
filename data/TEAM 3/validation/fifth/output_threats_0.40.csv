@@ -1,0 +1,18 @@
+﻿ID,Threat,Source of documentation
+TP01,Fire-related incidents on site,ISO 27005
+TP06,"Dust, corrosion, freezing",ISO 27005
+TN06,Pandemic/epidemic phenomenon,ISO 27005
+TI03,Loss of power supply,ISO 27005
+TH10,Disclosure of information,ISO 27005
+TH14,Dive-by-exploits using web-based communication,ISO 27005
+TH15,"Replay attack, man-in-the-middle attack",ISO 27005
+TC04,Denial of actions,ISO 27005
+TO04,Violation of laws or regulations,ISO 27005
+t_20,Water-related incidents on site,TEAM
+t_30,Natural threats,TEAM
+t_35,Technical failures,TEAM
+t_46,Organizational deficiency and policy threats,TEAM
+t_49,Infrastructure failures,TEAM
+t_50,Human actions on sensitive physical or digital assets,TEAM
+t_52,Compromise of functions or services,TEAM
+t_63,Physical threat due to incidents,TEAM

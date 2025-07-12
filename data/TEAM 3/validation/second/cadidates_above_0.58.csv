@@ -1,0 +1,44 @@
+﻿,sentence1,sentence2,score
+952,Improper or unauthorized processing of data,"Improper, unauthorized, or malicious handling of data",0.9220187
+963,Improper or unauthorized processing of data,Improper or unauthorized use of unvalidated data,0.90368974
+976,Failure of technical systems or equipment,Failure of technical systems,0.8986211
+1083,Theft of sensitive digital assets,Theft of sensitive physical or digital assets,0.88481975
+1044,Atmospheric natural phenomenon,Atmospheric or geological natural phenomenon,0.88065505
+891,Electromagnetic disturbances affecting infrastructure,Electromagnetic or thermal disturbances affecting infrastructure,0.8784076
+1016,Unauthorized modification or sabotage of software,Unauthorized or malicious software dissemination,0.8394006
+1095,"Improper, unauthorized, or malicious handling of data",Improper or unauthorized use of unvalidated data,0.82247263
+948,Improper or unauthorized processing of data,Improper or unauthorized use of devices,0.77350086
+1026,Improper or unauthorized use of devices,"Improper, unauthorized, or malicious handling of data",0.74914694
+919,Failure in telecommunication infrastructure,Organizational deficiencies affecting telecommunication services,0.7178662
+926,Unauthorized use or duplication of software,Unauthorized modification or sabotage of software,0.7178091
+1037,Improper or unauthorized use of devices,Improper or unauthorized use of unvalidated data,0.71568537
+593,Unauthorized surveillance,Improper or unauthorized processing of data,0.70998293
+582,Unauthorized surveillance,Unauthorized retrieval of disposed media,0.7072108
+1091,"Improper, unauthorized, or malicious handling of data",Unauthorized or malicious software dissemination,0.69590974
+1033,Improper or unauthorized use of devices,Unauthorized or malicious software dissemination,0.6958526
+612,Unauthorized surveillance,Improper or unauthorized use of unvalidated data,0.69267166
+913,Failure in telecommunication infrastructure,Failure of technical systems,0.6857099
+946,Improper or unauthorized processing of data,Misuse or manipulation of function permissions,0.68203884
+938,Unauthorized use or duplication of software,Unauthorized or malicious software dissemination,0.6812942
+959,Improper or unauthorized processing of data,Unauthorized or malicious software dissemination,0.6793481
+1005,Unauthorized modification or sabotage of software,Improper or unauthorized use of devices,0.67172956
+1158,Unauthorized or malicious software dissemination,Improper or unauthorized use of unvalidated data,0.6623472
+1002,Misuse or manipulation of function permissions,Improper or unauthorized use of unvalidated data,0.65304404
+902,Failure in telecommunication infrastructure,Failure of technical systems or equipment,0.6485121
+1127,Organizational deficiencies affecting service or supply continuity,Organizational deficiencies affecting telecommunication services,0.64771616
+658,Unauthorized retrieval of disposed media,Improper or unauthorized processing of data,0.6417807
+987,Misuse or manipulation of function permissions,Improper or unauthorized use of devices,0.63500404
+1020,Unauthorized modification or sabotage of software,Improper or unauthorized use of unvalidated data,0.63479054
+1080,Theft of sensitive digital assets,Digital identity or credentials sabotage,0.6295325
+597,Unauthorized surveillance,Improper or unauthorized use of devices,0.62284297
+947,Improper or unauthorized processing of data,Unauthorized modification or sabotage of software,0.6226376
+677,Unauthorized retrieval of disposed media,Improper or unauthorized use of unvalidated data,0.61747956
+261,Volcanic phenomenon,Atmospheric or geological natural phenomenon,0.6126939
+1009,Unauthorized modification or sabotage of software,"Improper, unauthorized, or malicious handling of data",0.61168754
+1024,Improper or unauthorized use of devices,Tampering with system components,0.61147004
+991,Misuse or manipulation of function permissions,"Improper, unauthorized, or malicious handling of data",0.6033666
+780,Damaging devices or media,Improper or unauthorized use of devices,0.599754
+1071,Theft of sensitive digital assets,"Improper, unauthorized, or malicious handling of data",0.59215194
+1134,Failure of technical systems,User error causing service malfunction,0.5890342
+917,Failure in telecommunication infrastructure,User error causing service malfunction,0.58623165
+666,Unauthorized retrieval of disposed media,"Improper, unauthorized, or malicious handling of data",0.58061

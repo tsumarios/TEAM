@@ -1,0 +1,1597 @@
+sentence1,sentence2,score
+Fire,Water,0.057282012
+Fire,"Pollution, harmful radiation",0.27415296
+Fire,Major accident,0.25873196
+Fire,Explosion,0.33701035
+Fire,"Dust, corrosion, freezing",0.071970955
+Fire,Climatic phenomenon,0.2439479
+Fire,Seismic phenomenon,0.21339433
+Fire,Volcanic phenomenon,0.20366803
+Fire,Meteorological phenomenon,0.09992576
+Fire,Flood,0.18559855
+Fire,Pandemic/epidemic phenomenon,0.048626333
+Fire,Failure of a supply system,0.107546754
+Fire,Failure of cooling or ventilation system,0.11068335
+Fire,Loss of power supply,0.21300288
+Fire,Failure of a telecommunications network,0.116088994
+Fire,Failure of telecommunication equipment,0.098396376
+Fire,Electromagnetic radiation,0.13320899
+Fire,Thermal radiation,0.31701615
+Fire,Electromagnetic pulses,0.19843444
+Fire,Failure of device or system,0.10446885
+Fire,Saturation of the information system,0.14323676
+Fire,Violation of information system maintainability,0.2433229
+Fire,"Terrorist attack, sabotage",0.14163682
+Fire,Social Engineering,0.055672884
+Fire,Interception of radiation of a device,0.06794136
+Fire,Unauthorized surveillance,0.18335675
+Fire,Eavesdropping,0.045682058
+Fire,Theft of media or documents,0.15028492
+Fire,Theft of equipment,0.08298638
+Fire,Theft of digital identity or credentials,0.13722585
+Fire,Unauthorized retrieval of disposed media,0.12711003
+Fire,Disclosure of information,0.20483421
+Fire,Data input from untrustworthy sources,0.2097461
+Fire,Tampering with hardware,0.015726384
+Fire,Tampering with software,0.1038484
+Fire,Dive-by-exploits using web-based communication,0.09789155
+Fire,"Replay attack, man-in-the-middle attack",0.21000136
+Fire,Unauthorized processing of personal data,0.10745243
+Fire,Unauthorized entry to facilities,0.18783405
+Fire,Unauthorized use of devices,0.17565116
+Fire,Incorrect use of devices,0.15528993
+Fire,Damaging devices or media,0.20390232
+Fire,Fraudulent copying of software,0.09196923
+Fire,Use of counterfeit or copied software,0.12407237
+Fire,Corruption of data,0.089383274
+Fire,Illegal processing of data,0.12519506
+Fire,Sending or distributing of malware,0.06850077
+Fire,Position detection,0.13741031
+Fire,Error in use,0.21991347
+Fire,Abuse of rights or permissions,0.15825565
+Fire,Forging of rights or permissions,0.16191195
+Fire,Denial of actions,0.15918621
+Fire,Lack of staff,0.15398248
+Fire,Lack of resources,0.07999547
+Fire,Failure of service providers,0.14370151
+Fire,Violation of laws or regulations,0.21469778
+Water,"Pollution, harmful radiation",0.08939183
+Water,Major accident,0.1287803
+Water,Explosion,0.07221389
+Water,"Dust, corrosion, freezing",0.15266982
+Water,Climatic phenomenon,0.24401896
+Water,Seismic phenomenon,0.22807704
+Water,Volcanic phenomenon,0.12452423
+Water,Meteorological phenomenon,0.26996082
+Water,Flood,0.6526798
+Water,Pandemic/epidemic phenomenon,0.2608359
+Water,Failure of a supply system,0.29306316
+Water,Failure of cooling or ventilation system,0.2514834
+Water,Loss of power supply,0.14525793
+Water,Failure of a telecommunications network,0.07961505
+Water,Failure of telecommunication equipment,0.09215037
+Water,Electromagnetic radiation,0.023249222
+Water,Thermal radiation,0.25660193
+Water,Electromagnetic pulses,0.03715416
+Water,Failure of device or system,0.15228523
+Water,Saturation of the information system,0.22118245
+Water,Violation of information system maintainability,0.1992122
+Water,"Terrorist attack, sabotage",-0.05333174
+Water,Social Engineering,0.07832512
+Water,Interception of radiation of a device,0.119514674
+Water,Unauthorized surveillance,0.23374271
+Water,Eavesdropping,0.21609691
+Water,Theft of media or documents,0.09020494
+Water,Theft of equipment,0.13272394
+Water,Theft of digital identity or credentials,0.10232423
+Water,Unauthorized retrieval of disposed media,0.11998141
+Water,Disclosure of information,0.18043143
+Water,Data input from untrustworthy sources,0.1435081
+Water,Tampering with hardware,-0.003561547
+Water,Tampering with software,-0.0039174277
+Water,Dive-by-exploits using web-based communication,0.0670495
+Water,"Replay attack, man-in-the-middle attack",0.050885558
+Water,Unauthorized processing of personal data,0.098328725
+Water,Unauthorized entry to facilities,0.026971554
+Water,Unauthorized use of devices,0.17129128
+Water,Incorrect use of devices,0.14287835
+Water,Damaging devices or media,0.07680569
+Water,Fraudulent copying of software,0.018193455
+Water,Use of counterfeit or copied software,0.06847256
+Water,Corruption of data,0.09872732
+Water,Illegal processing of data,0.11834557
+Water,Sending or distributing of malware,0.031997543
+Water,Position detection,0.043620825
+Water,Error in use,0.17133161
+Water,Abuse of rights or permissions,0.13279188
+Water,Forging of rights or permissions,0.10013814
+Water,Denial of actions,0.1392347
+Water,Lack of staff,0.04270455
+Water,Lack of resources,0.1722937
+Water,Failure of service providers,0.21192259
+Water,Violation of laws or regulations,0.17454839
+"Pollution, harmful radiation",Major accident,0.46992165
+"Pollution, harmful radiation",Explosion,0.3700874
+"Pollution, harmful radiation","Dust, corrosion, freezing",0.2812822
+"Pollution, harmful radiation",Climatic phenomenon,0.3652413
+"Pollution, harmful radiation",Seismic phenomenon,0.3221906
+"Pollution, harmful radiation",Volcanic phenomenon,0.3397738
+"Pollution, harmful radiation",Meteorological phenomenon,0.29678854
+"Pollution, harmful radiation",Flood,0.23988192
+"Pollution, harmful radiation",Pandemic/epidemic phenomenon,0.21796826
+"Pollution, harmful radiation",Failure of a supply system,0.18870242
+"Pollution, harmful radiation",Failure of cooling or ventilation system,0.28693885
+"Pollution, harmful radiation",Loss of power supply,0.30243465
+"Pollution, harmful radiation",Failure of a telecommunications network,0.2981659
+"Pollution, harmful radiation",Failure of telecommunication equipment,0.31233564
+"Pollution, harmful radiation",Electromagnetic radiation,0.3736871
+"Pollution, harmful radiation",Thermal radiation,0.4338457
+"Pollution, harmful radiation",Electromagnetic pulses,0.34884003
+"Pollution, harmful radiation",Failure of device or system,0.2611208
+"Pollution, harmful radiation",Saturation of the information system,0.22966146
+"Pollution, harmful radiation",Violation of information system maintainability,0.30012456
+"Pollution, harmful radiation","Terrorist attack, sabotage",0.2697283
+"Pollution, harmful radiation",Social Engineering,0.12392437
+"Pollution, harmful radiation",Interception of radiation of a device,0.43927088
+"Pollution, harmful radiation",Unauthorized surveillance,0.17921376
+"Pollution, harmful radiation",Eavesdropping,0.0034275958
+"Pollution, harmful radiation",Theft of media or documents,0.08152847
+"Pollution, harmful radiation",Theft of equipment,0.13126583
+"Pollution, harmful radiation",Theft of digital identity or credentials,0.14492674
+"Pollution, harmful radiation",Unauthorized retrieval of disposed media,0.1032046
+"Pollution, harmful radiation",Disclosure of information,0.15909462
+"Pollution, harmful radiation",Data input from untrustworthy sources,0.32452542
+"Pollution, harmful radiation",Tampering with hardware,0.14619872
+"Pollution, harmful radiation",Tampering with software,0.2530993
+"Pollution, harmful radiation",Dive-by-exploits using web-based communication,0.14276275
+"Pollution, harmful radiation","Replay attack, man-in-the-middle attack",-0.037004184
+"Pollution, harmful radiation",Unauthorized processing of personal data,0.16358688
+"Pollution, harmful radiation",Unauthorized entry to facilities,0.11631043
+"Pollution, harmful radiation",Unauthorized use of devices,0.1841391
+"Pollution, harmful radiation",Incorrect use of devices,0.35272148
+"Pollution, harmful radiation",Damaging devices or media,0.5125376
+"Pollution, harmful radiation",Fraudulent copying of software,0.17895456
+"Pollution, harmful radiation",Use of counterfeit or copied software,0.19778591
+"Pollution, harmful radiation",Corruption of data,0.28492898
+"Pollution, harmful radiation",Illegal processing of data,0.29946357
+"Pollution, harmful radiation",Sending or distributing of malware,0.3133143
+"Pollution, harmful radiation",Position detection,0.20667833
+"Pollution, harmful radiation",Error in use,0.3226999
+"Pollution, harmful radiation",Abuse of rights or permissions,0.23880029
+"Pollution, harmful radiation",Forging of rights or permissions,0.1644933
+"Pollution, harmful radiation",Denial of actions,0.1353503
+"Pollution, harmful radiation",Lack of staff,0.27153292
+"Pollution, harmful radiation",Lack of resources,0.3699683
+"Pollution, harmful radiation",Failure of service providers,0.18413544
+"Pollution, harmful radiation",Violation of laws or regulations,0.2977625
+Major accident,Explosion,0.36958706
+Major accident,"Dust, corrosion, freezing",0.19751158
+Major accident,Climatic phenomenon,0.34874684
+Major accident,Seismic phenomenon,0.4574235
+Major accident,Volcanic phenomenon,0.13550602
+Major accident,Meteorological phenomenon,0.23399824
+Major accident,Flood,0.30348957
+Major accident,Pandemic/epidemic phenomenon,0.18296742
+Major accident,Failure of a supply system,0.20333779
+Major accident,Failure of cooling or ventilation system,0.19715321
+Major accident,Loss of power supply,0.2733748
+Major accident,Failure of a telecommunications network,0.32278994
+Major accident,Failure of telecommunication equipment,0.27646464
+Major accident,Electromagnetic radiation,0.12518857
+Major accident,Thermal radiation,0.19723265
+Major accident,Electromagnetic pulses,0.1385361
+Major accident,Failure of device or system,0.25527084
+Major accident,Saturation of the information system,0.26822087
+Major accident,Violation of information system maintainability,0.22155538
+Major accident,"Terrorist attack, sabotage",0.2910401
+Major accident,Social Engineering,0.13203998
+Major accident,Interception of radiation of a device,0.1391826
+Major accident,Unauthorized surveillance,0.14942387
+Major accident,Eavesdropping,0.07418033
+Major accident,Theft of media or documents,0.1246336
+Major accident,Theft of equipment,0.23979455
+Major accident,Theft of digital identity or credentials,0.14273204
+Major accident,Unauthorized retrieval of disposed media,0.07272811
+Major accident,Disclosure of information,0.12940283
+Major accident,Data input from untrustworthy sources,0.21327257
+Major accident,Tampering with hardware,0.14076039
+Major accident,Tampering with software,0.10964217
+Major accident,Dive-by-exploits using web-based communication,0.114216894
+Major accident,"Replay attack, man-in-the-middle attack",0.05541698
+Major accident,Unauthorized processing of personal data,0.07715726
+Major accident,Unauthorized entry to facilities,-0.004395849
+Major accident,Unauthorized use of devices,0.13525525
+Major accident,Incorrect use of devices,0.23523572
+Major accident,Damaging devices or media,0.4281837
+Major accident,Fraudulent copying of software,0.16073732
+Major accident,Use of counterfeit or copied software,0.16533549
+Major accident,Corruption of data,0.2414195
+Major accident,Illegal processing of data,0.20511596
+Major accident,Sending or distributing of malware,0.1610357
+Major accident,Position detection,0.22543544
+Major accident,Error in use,0.28771394
+Major accident,Abuse of rights or permissions,0.095319115
+Major accident,Forging of rights or permissions,-0.0031713652
+Major accident,Denial of actions,0.0818199
+Major accident,Lack of staff,0.19051194
+Major accident,Lack of resources,0.235754
+Major accident,Failure of service providers,0.20922641
+Major accident,Violation of laws or regulations,0.2016058
+Explosion,"Dust, corrosion, freezing",0.1143447
+Explosion,Climatic phenomenon,0.31616437
+Explosion,Seismic phenomenon,0.51735044
+Explosion,Volcanic phenomenon,0.43245304
+Explosion,Meteorological phenomenon,0.39353377
+Explosion,Flood,0.1538658
+Explosion,Pandemic/epidemic phenomenon,0.09913191
+Explosion,Failure of a supply system,0.14139885
+Explosion,Failure of cooling or ventilation system,0.052783962
+Explosion,Loss of power supply,0.12789366
+Explosion,Failure of a telecommunications network,0.20277983
+Explosion,Failure of telecommunication equipment,0.19834873
+Explosion,Electromagnetic radiation,0.4530459
+Explosion,Thermal radiation,0.4310018
+Explosion,Electromagnetic pulses,0.51734674
+Explosion,Failure of device or system,0.17419326
+Explosion,Saturation of the information system,0.21451151
+Explosion,Violation of information system maintainability,0.17330465
+Explosion,"Terrorist attack, sabotage",0.21850552
+Explosion,Social Engineering,0.26883343
+Explosion,Interception of radiation of a device,0.32729733
+Explosion,Unauthorized surveillance,0.20310391
+Explosion,Eavesdropping,0.26467746
+Explosion,Theft of media or documents,0.14239295
+Explosion,Theft of equipment,0.23964444
+Explosion,Theft of digital identity or credentials,0.08168422
+Explosion,Unauthorized retrieval of disposed media,0.22114654
+Explosion,Disclosure of information,0.23804075
+Explosion,Data input from untrustworthy sources,0.09724106
+Explosion,Tampering with hardware,0.16007203
+Explosion,Tampering with software,0.10143207
+Explosion,Dive-by-exploits using web-based communication,0.13238408
+Explosion,"Replay attack, man-in-the-middle attack",0.056094065
+Explosion,Unauthorized processing of personal data,0.13300744
+Explosion,Unauthorized entry to facilities,0.21800077
+Explosion,Unauthorized use of devices,0.24625611
+Explosion,Incorrect use of devices,0.23388945
+Explosion,Damaging devices or media,0.42246997
+Explosion,Fraudulent copying of software,0.06333494
+Explosion,Use of counterfeit or copied software,0.06629292
+Explosion,Corruption of data,0.17592394
+Explosion,Illegal processing of data,0.16675374
+Explosion,Sending or distributing of malware,0.2075251
+Explosion,Position detection,0.18461215
+Explosion,Error in use,0.19455267
+Explosion,Abuse of rights or permissions,0.14736192
+Explosion,Forging of rights or permissions,0.114161484
+Explosion,Denial of actions,-0.012735015
+Explosion,Lack of staff,0.049811922
+Explosion,Lack of resources,0.08615412
+Explosion,Failure of service providers,0.080800936
+Explosion,Violation of laws or regulations,0.21590105
+"Dust, corrosion, freezing",Climatic phenomenon,0.13080819
+"Dust, corrosion, freezing",Seismic phenomenon,0.14324567
+"Dust, corrosion, freezing",Volcanic phenomenon,0.17737818
+"Dust, corrosion, freezing",Meteorological phenomenon,0.27247083
+"Dust, corrosion, freezing",Flood,0.26089293
+"Dust, corrosion, freezing",Pandemic/epidemic phenomenon,0.32898846
+"Dust, corrosion, freezing",Failure of a supply system,0.20287515
+"Dust, corrosion, freezing",Failure of cooling or ventilation system,0.45371434
+"Dust, corrosion, freezing",Loss of power supply,0.09988842
+"Dust, corrosion, freezing",Failure of a telecommunications network,0.23237376
+"Dust, corrosion, freezing",Failure of telecommunication equipment,0.2060533
+"Dust, corrosion, freezing",Electromagnetic radiation,0.058059357
+"Dust, corrosion, freezing",Thermal radiation,-0.028589604
+"Dust, corrosion, freezing",Electromagnetic pulses,0.07148726
+"Dust, corrosion, freezing",Failure of device or system,0.20955357
+"Dust, corrosion, freezing",Saturation of the information system,0.12481703
+"Dust, corrosion, freezing",Violation of information system maintainability,0.10743209
+"Dust, corrosion, freezing","Terrorist attack, sabotage",0.14729093
+"Dust, corrosion, freezing",Social Engineering,0.024812557
+"Dust, corrosion, freezing",Interception of radiation of a device,0.16258623
+"Dust, corrosion, freezing",Unauthorized surveillance,0.011661316
+"Dust, corrosion, freezing",Eavesdropping,0.18406418
+"Dust, corrosion, freezing",Theft of media or documents,0.13454679
+"Dust, corrosion, freezing",Theft of equipment,0.19994026
+"Dust, corrosion, freezing",Theft of digital identity or credentials,0.13579166
+"Dust, corrosion, freezing",Unauthorized retrieval of disposed media,0.018436527
+"Dust, corrosion, freezing",Disclosure of information,-0.10712852
+"Dust, corrosion, freezing",Data input from untrustworthy sources,0.21909171
+"Dust, corrosion, freezing",Tampering with hardware,0.20178214
+"Dust, corrosion, freezing",Tampering with software,0.14617209
+"Dust, corrosion, freezing",Dive-by-exploits using web-based communication,0.068589
+"Dust, corrosion, freezing","Replay attack, man-in-the-middle attack",0.10142717
+"Dust, corrosion, freezing",Unauthorized processing of personal data,-0.10474859
+"Dust, corrosion, freezing",Unauthorized entry to facilities,-0.016483568
+"Dust, corrosion, freezing",Unauthorized use of devices,0.06483181
+"Dust, corrosion, freezing",Incorrect use of devices,0.1866131
+"Dust, corrosion, freezing",Damaging devices or media,0.20877638
+"Dust, corrosion, freezing",Fraudulent copying of software,0.12748182
+"Dust, corrosion, freezing",Use of counterfeit or copied software,0.116086796
+"Dust, corrosion, freezing",Corruption of data,0.2713446
+"Dust, corrosion, freezing",Illegal processing of data,0.046896648
+"Dust, corrosion, freezing",Sending or distributing of malware,0.18539551
+"Dust, corrosion, freezing",Position detection,0.08319943
+"Dust, corrosion, freezing",Error in use,0.19445933
+"Dust, corrosion, freezing",Abuse of rights or permissions,0.029124653
+"Dust, corrosion, freezing",Forging of rights or permissions,0.04991406
+"Dust, corrosion, freezing",Denial of actions,0.08446183
+"Dust, corrosion, freezing",Lack of staff,0.062559165
+"Dust, corrosion, freezing",Lack of resources,0.23966835
+"Dust, corrosion, freezing",Failure of service providers,0.093930125
+"Dust, corrosion, freezing",Violation of laws or regulations,0.09244096
+Climatic phenomenon,Seismic phenomenon,0.6432777
+Climatic phenomenon,Volcanic phenomenon,0.51716644
+Climatic phenomenon,Meteorological phenomenon,0.6831703
+Climatic phenomenon,Flood,0.17625414
+Climatic phenomenon,Pandemic/epidemic phenomenon,0.17538731
+Climatic phenomenon,Failure of a supply system,0.010092795
+Climatic phenomenon,Failure of cooling or ventilation system,0.1786042
+Climatic phenomenon,Loss of power supply,0.15939441
+Climatic phenomenon,Failure of a telecommunications network,0.124693535
+Climatic phenomenon,Failure of telecommunication equipment,0.15373242
+Climatic phenomenon,Electromagnetic radiation,0.36591172
+Climatic phenomenon,Thermal radiation,0.5849553
+Climatic phenomenon,Electromagnetic pulses,0.3952443
+Climatic phenomenon,Failure of device or system,0.11551677
+Climatic phenomenon,Saturation of the information system,0.1595943
+Climatic phenomenon,Violation of information system maintainability,0.18636174
+Climatic phenomenon,"Terrorist attack, sabotage",0.14360505
+Climatic phenomenon,Social Engineering,0.1916084
+Climatic phenomenon,Interception of radiation of a device,0.3048942
+Climatic phenomenon,Unauthorized surveillance,0.2141476
+Climatic phenomenon,Eavesdropping,0.15853089
+Climatic phenomenon,Theft of media or documents,0.049035512
+Climatic phenomenon,Theft of equipment,0.099953376
+Climatic phenomenon,Theft of digital identity or credentials,0.09712458
+Climatic phenomenon,Unauthorized retrieval of disposed media,0.14026842
+Climatic phenomenon,Disclosure of information,0.21775363
+Climatic phenomenon,Data input from untrustworthy sources,0.20173463
+Climatic phenomenon,Tampering with hardware,0.077777565
+Climatic phenomenon,Tampering with software,0.12483403
+Climatic phenomenon,Dive-by-exploits using web-based communication,0.11831335
+Climatic phenomenon,"Replay attack, man-in-the-middle attack",0.053992104
+Climatic phenomenon,Unauthorized processing of personal data,0.12029113
+Climatic phenomenon,Unauthorized entry to facilities,0.118333176
+Climatic phenomenon,Unauthorized use of devices,0.18282062
+Climatic phenomenon,Incorrect use of devices,0.23085418
+Climatic phenomenon,Damaging devices or media,0.25490123
+Climatic phenomenon,Fraudulent copying of software,0.047675036
+Climatic phenomenon,Use of counterfeit or copied software,0.090775564
+Climatic phenomenon,Corruption of data,0.11866996
+Climatic phenomenon,Illegal processing of data,0.1877388
+Climatic phenomenon,Sending or distributing of malware,0.09463369
+Climatic phenomenon,Position detection,0.24720344
+Climatic phenomenon,Error in use,0.17045279
+Climatic phenomenon,Abuse of rights or permissions,0.12217929
+Climatic phenomenon,Forging of rights or permissions,0.061756276
+Climatic phenomenon,Denial of actions,0.1040823
+Climatic phenomenon,Lack of staff,0.0791278
+Climatic phenomenon,Lack of resources,0.0808912
+Climatic phenomenon,Failure of service providers,0.05780773
+Climatic phenomenon,Violation of laws or regulations,0.16878892
+Seismic phenomenon,Volcanic phenomenon,0.5032025
+Seismic phenomenon,Meteorological phenomenon,0.65615946
+Seismic phenomenon,Flood,0.23255771
+Seismic phenomenon,Pandemic/epidemic phenomenon,0.25423792
+Seismic phenomenon,Failure of a supply system,0.09421295
+Seismic phenomenon,Failure of cooling or ventilation system,0.12387608
+Seismic phenomenon,Loss of power supply,0.16023234
+Seismic phenomenon,Failure of a telecommunications network,0.17106754
+Seismic phenomenon,Failure of telecommunication equipment,0.16015121
+Seismic phenomenon,Electromagnetic radiation,0.322735
+Seismic phenomenon,Thermal radiation,0.37576243
+Seismic phenomenon,Electromagnetic pulses,0.3921416
+Seismic phenomenon,Failure of device or system,0.1270658
+Seismic phenomenon,Saturation of the information system,0.12550008
+Seismic phenomenon,Violation of information system maintainability,0.2206291
+Seismic phenomenon,"Terrorist attack, sabotage",0.22288018
+Seismic phenomenon,Social Engineering,0.16515896
+Seismic phenomenon,Interception of radiation of a device,0.27928174
+Seismic phenomenon,Unauthorized surveillance,0.25197336
+Seismic phenomenon,Eavesdropping,0.1704669
+Seismic phenomenon,Theft of media or documents,0.09071526
+Seismic phenomenon,Theft of equipment,0.1860189
+Seismic phenomenon,Theft of digital identity or credentials,0.08138154
+Seismic phenomenon,Unauthorized retrieval of disposed media,0.16984409
+Seismic phenomenon,Disclosure of information,0.13616571
+Seismic phenomenon,Data input from untrustworthy sources,0.23607455
+Seismic phenomenon,Tampering with hardware,0.12753816
+Seismic phenomenon,Tampering with software,0.09796735
+Seismic phenomenon,Dive-by-exploits using web-based communication,0.086119115
+Seismic phenomenon,"Replay attack, man-in-the-middle attack",0.115143
+Seismic phenomenon,Unauthorized processing of personal data,0.105287805
+Seismic phenomenon,Unauthorized entry to facilities,0.08463847
+Seismic phenomenon,Unauthorized use of devices,0.19761275
+Seismic phenomenon,Incorrect use of devices,0.23873344
+Seismic phenomenon,Damaging devices or media,0.34372845
+Seismic phenomenon,Fraudulent copying of software,0.07907693
+Seismic phenomenon,Use of counterfeit or copied software,0.13009262
+Seismic phenomenon,Corruption of data,0.1615785
+Seismic phenomenon,Illegal processing of data,0.22073981
+Seismic phenomenon,Sending or distributing of malware,0.17602456
+Seismic phenomenon,Position detection,0.2407526
+Seismic phenomenon,Error in use,0.18224272
+Seismic phenomenon,Abuse of rights or permissions,0.05467142
+Seismic phenomenon,Forging of rights or permissions,0.017229581
+Seismic phenomenon,Denial of actions,0.11744963
+Seismic phenomenon,Lack of staff,0.07385691
+Seismic phenomenon,Lack of resources,0.11357375
+Seismic phenomenon,Failure of service providers,0.054599892
+Seismic phenomenon,Violation of laws or regulations,0.22300972
+Volcanic phenomenon,Meteorological phenomenon,0.52372164
+Volcanic phenomenon,Flood,0.17411317
+Volcanic phenomenon,Pandemic/epidemic phenomenon,0.24294996
+Volcanic phenomenon,Failure of a supply system,0.051941514
+Volcanic phenomenon,Failure of cooling or ventilation system,0.1781689
+Volcanic phenomenon,Loss of power supply,0.11231663
+Volcanic phenomenon,Failure of a telecommunications network,0.101577
+Volcanic phenomenon,Failure of telecommunication equipment,0.10502655
+Volcanic phenomenon,Electromagnetic radiation,0.3241166
+Volcanic phenomenon,Thermal radiation,0.31917664
+Volcanic phenomenon,Electromagnetic pulses,0.3378789
+Volcanic phenomenon,Failure of device or system,0.11730839
+Volcanic phenomenon,Saturation of the information system,-0.023095768
+Volcanic phenomenon,Violation of information system maintainability,0.10503679
+Volcanic phenomenon,"Terrorist attack, sabotage",0.13800025
+Volcanic phenomenon,Social Engineering,0.20981213
+Volcanic phenomenon,Interception of radiation of a device,0.33506653
+Volcanic phenomenon,Unauthorized surveillance,0.18477157
+Volcanic phenomenon,Eavesdropping,0.21777171
+Volcanic phenomenon,Theft of media or documents,0.08292813
+Volcanic phenomenon,Theft of equipment,0.0921827
+Volcanic phenomenon,Theft of digital identity or credentials,0.03631463
+Volcanic phenomenon,Unauthorized retrieval of disposed media,0.21285714
+Volcanic phenomenon,Disclosure of information,0.08776551
+Volcanic phenomenon,Data input from untrustworthy sources,0.1941666
+Volcanic phenomenon,Tampering with hardware,0.118328884
+Volcanic phenomenon,Tampering with software,0.11864301
+Volcanic phenomenon,Dive-by-exploits using web-based communication,0.12102002
+Volcanic phenomenon,"Replay attack, man-in-the-middle attack",0.019668609
+Volcanic phenomenon,Unauthorized processing of personal data,0.077722445
+Volcanic phenomenon,Unauthorized entry to facilities,0.068634
+Volcanic phenomenon,Unauthorized use of devices,0.19340992
+Volcanic phenomenon,Incorrect use of devices,0.2909339
+Volcanic phenomenon,Damaging devices or media,0.22909935
+Volcanic phenomenon,Fraudulent copying of software,0.046167083
+Volcanic phenomenon,Use of counterfeit or copied software,0.067016274
+Volcanic phenomenon,Corruption of data,0.11393472
+Volcanic phenomenon,Illegal processing of data,0.16032211
+Volcanic phenomenon,Sending or distributing of malware,0.12236723
+Volcanic phenomenon,Position detection,0.11089083
+Volcanic phenomenon,Error in use,0.2023246
+Volcanic phenomenon,Abuse of rights or permissions,0.11288688
+Volcanic phenomenon,Forging of rights or permissions,0.115489356
+Volcanic phenomenon,Denial of actions,0.101122364
+Volcanic phenomenon,Lack of staff,-0.008605999
+Volcanic phenomenon,Lack of resources,0.11703537
+Volcanic phenomenon,Failure of service providers,-0.018601974
+Volcanic phenomenon,Violation of laws or regulations,0.13483696
+Meteorological phenomenon,Flood,0.13404694
+Meteorological phenomenon,Pandemic/epidemic phenomenon,0.25448614
+Meteorological phenomenon,Failure of a supply system,0.059959337
+Meteorological phenomenon,Failure of cooling or ventilation system,0.24631117
+Meteorological phenomenon,Loss of power supply,0.110669434
+Meteorological phenomenon,Failure of a telecommunications network,0.17302272
+Meteorological phenomenon,Failure of telecommunication equipment,0.19055532
+Meteorological phenomenon,Electromagnetic radiation,0.43070218
+Meteorological phenomenon,Thermal radiation,0.46989265
+Meteorological phenomenon,Electromagnetic pulses,0.4480524
+Meteorological phenomenon,Failure of device or system,0.12039614
+Meteorological phenomenon,Saturation of the information system,0.09392081
+Meteorological phenomenon,Violation of information system maintainability,0.15131727
+Meteorological phenomenon,"Terrorist attack, sabotage",0.1829195
+Meteorological phenomenon,Social Engineering,0.20660327
+Meteorological phenomenon,Interception of radiation of a device,0.3740924
+Meteorological phenomenon,Unauthorized surveillance,0.22169806
+Meteorological phenomenon,Eavesdropping,0.2156215
+Meteorological phenomenon,Theft of media or documents,0.12708627
+Meteorological phenomenon,Theft of equipment,0.1690607
+Meteorological phenomenon,Theft of digital identity or credentials,0.061916076
+Meteorological phenomenon,Unauthorized retrieval of disposed media,0.174929
+Meteorological phenomenon,Disclosure of information,0.10983865
+Meteorological phenomenon,Data input from untrustworthy sources,0.2428763
+Meteorological phenomenon,Tampering with hardware,0.09017075
+Meteorological phenomenon,Tampering with software,0.121492155
+Meteorological phenomenon,Dive-by-exploits using web-based communication,0.023094082
+Meteorological phenomenon,"Replay attack, man-in-the-middle attack",0.025720105
+Meteorological phenomenon,Unauthorized processing of personal data,0.11780703
+Meteorological phenomenon,Unauthorized entry to facilities,0.12566261
+Meteorological phenomenon,Unauthorized use of devices,0.19943449
+Meteorological phenomenon,Incorrect use of devices,0.24954817
+Meteorological phenomenon,Damaging devices or media,0.29261893
+Meteorological phenomenon,Fraudulent copying of software,0.07208166
+Meteorological phenomenon,Use of counterfeit or copied software,0.11895167
+Meteorological phenomenon,Corruption of data,0.16823028
+Meteorological phenomenon,Illegal processing of data,0.22634347
+Meteorological phenomenon,Sending or distributing of malware,0.18394364
+Meteorological phenomenon,Position detection,0.22497714
+Meteorological phenomenon,Error in use,0.14160432
+Meteorological phenomenon,Abuse of rights or permissions,0.055823505
+Meteorological phenomenon,Forging of rights or permissions,0.029849716
+Meteorological phenomenon,Denial of actions,0.09155696
+Meteorological phenomenon,Lack of staff,0.07200833
+Meteorological phenomenon,Lack of resources,0.09026326
+Meteorological phenomenon,Failure of service providers,0.081673354
+Meteorological phenomenon,Violation of laws or regulations,0.19843753
+Flood,Pandemic/epidemic phenomenon,0.41151324
+Flood,Failure of a supply system,0.3989523
+Flood,Failure of cooling or ventilation system,0.24894749
+Flood,Loss of power supply,0.24619141
+Flood,Failure of a telecommunications network,0.21493828
+Flood,Failure of telecommunication equipment,0.1864245
+Flood,Electromagnetic radiation,-0.06514497
+Flood,Thermal radiation,0.08992754
+Flood,Electromagnetic pulses,-0.016109407
+Flood,Failure of device or system,0.23671453
+Flood,Saturation of the information system,0.22114725
+Flood,Violation of information system maintainability,0.1895773
+Flood,"Terrorist attack, sabotage",0.052451033
+Flood,Social Engineering,0.040970545
+Flood,Interception of radiation of a device,0.10525209
+Flood,Unauthorized surveillance,0.1841515
+Flood,Eavesdropping,0.19947644
+Flood,Theft of media or documents,0.15068562
+Flood,Theft of equipment,0.20025843
+Flood,Theft of digital identity or credentials,0.12836702
+Flood,Unauthorized retrieval of disposed media,0.13755386
+Flood,Disclosure of information,0.080859154
+Flood,Data input from untrustworthy sources,0.11526045
+Flood,Tampering with hardware,0.018895501
+Flood,Tampering with software,0.044070728
+Flood,Dive-by-exploits using web-based communication,0.15997003
+Flood,"Replay attack, man-in-the-middle attack",0.06927554
+Flood,Unauthorized processing of personal data,0.04470895
+Flood,Unauthorized entry to facilities,0.032058865
+Flood,Unauthorized use of devices,0.15575545
+Flood,Incorrect use of devices,0.17234978
+Flood,Damaging devices or media,0.20763962
+Flood,Fraudulent copying of software,0.08445516
+Flood,Use of counterfeit or copied software,0.104295574
+Flood,Corruption of data,0.16297309
+Flood,Illegal processing of data,0.10533148
+Flood,Sending or distributing of malware,0.0879735
+Flood,Position detection,0.0013503949
+Flood,Error in use,0.28145826
+Flood,Abuse of rights or permissions,0.16874373
+Flood,Forging of rights or permissions,0.11412877
+Flood,Denial of actions,0.11049601
+Flood,Lack of staff,0.1302313
+Flood,Lack of resources,0.34009698
+Flood,Failure of service providers,0.25181717
+Flood,Violation of laws or regulations,0.14854284
+Pandemic/epidemic phenomenon,Failure of a supply system,0.31416428
+Pandemic/epidemic phenomenon,Failure of cooling or ventilation system,0.23736118
+Pandemic/epidemic phenomenon,Loss of power supply,0.18999106
+Pandemic/epidemic phenomenon,Failure of a telecommunications network,0.19346714
+Pandemic/epidemic phenomenon,Failure of telecommunication equipment,0.17101757
+Pandemic/epidemic phenomenon,Electromagnetic radiation,0.07565673
+Pandemic/epidemic phenomenon,Thermal radiation,0.045156237
+Pandemic/epidemic phenomenon,Electromagnetic pulses,0.14533852
+Pandemic/epidemic phenomenon,Failure of device or system,0.23064992
+Pandemic/epidemic phenomenon,Saturation of the information system,0.1832972
+Pandemic/epidemic phenomenon,Violation of information system maintainability,0.19001637
+Pandemic/epidemic phenomenon,"Terrorist attack, sabotage",0.22059514
+Pandemic/epidemic phenomenon,Social Engineering,0.024069363
+Pandemic/epidemic phenomenon,Interception of radiation of a device,0.14985262
+Pandemic/epidemic phenomenon,Unauthorized surveillance,0.22532059
+Pandemic/epidemic phenomenon,Eavesdropping,0.20316775
+Pandemic/epidemic phenomenon,Theft of media or documents,0.254904
+Pandemic/epidemic phenomenon,Theft of equipment,0.2603415
+Pandemic/epidemic phenomenon,Theft of digital identity or credentials,0.21406822
+Pandemic/epidemic phenomenon,Unauthorized retrieval of disposed media,0.15378432
+Pandemic/epidemic phenomenon,Disclosure of information,-0.014795281
+Pandemic/epidemic phenomenon,Data input from untrustworthy sources,0.21003108
+Pandemic/epidemic phenomenon,Tampering with hardware,0.12876159
+Pandemic/epidemic phenomenon,Tampering with software,0.1529843
+Pandemic/epidemic phenomenon,Dive-by-exploits using web-based communication,0.13479531
+Pandemic/epidemic phenomenon,"Replay attack, man-in-the-middle attack",0.1263819
+Pandemic/epidemic phenomenon,Unauthorized processing of personal data,0.09025533
+Pandemic/epidemic phenomenon,Unauthorized entry to facilities,0.07108117
+Pandemic/epidemic phenomenon,Unauthorized use of devices,0.22990893
+Pandemic/epidemic phenomenon,Incorrect use of devices,0.21074757
+Pandemic/epidemic phenomenon,Damaging devices or media,0.22654808
+Pandemic/epidemic phenomenon,Fraudulent copying of software,0.20936604
+Pandemic/epidemic phenomenon,Use of counterfeit or copied software,0.19926059
+Pandemic/epidemic phenomenon,Corruption of data,0.3368426
+Pandemic/epidemic phenomenon,Illegal processing of data,0.19078769
+Pandemic/epidemic phenomenon,Sending or distributing of malware,0.35086438
+Pandemic/epidemic phenomenon,Position detection,0.090186216
+Pandemic/epidemic phenomenon,Error in use,0.27693713
+Pandemic/epidemic phenomenon,Abuse of rights or permissions,0.20558788
+Pandemic/epidemic phenomenon,Forging of rights or permissions,0.13194354
+Pandemic/epidemic phenomenon,Denial of actions,0.0079611605
+Pandemic/epidemic phenomenon,Lack of staff,0.15348548
+Pandemic/epidemic phenomenon,Lack of resources,0.30693296
+Pandemic/epidemic phenomenon,Failure of service providers,0.22766612
+Pandemic/epidemic phenomenon,Violation of laws or regulations,0.16735788
+Failure of a supply system,Failure of cooling or ventilation system,0.48333406
+Failure of a supply system,Loss of power supply,0.5570784
+Failure of a supply system,Failure of a telecommunications network,0.54744625
+Failure of a supply system,Failure of telecommunication equipment,0.47790596
+Failure of a supply system,Electromagnetic radiation,0.017714262
+Failure of a supply system,Thermal radiation,-0.019141415
+Failure of a supply system,Electromagnetic pulses,0.0603193
+Failure of a supply system,Failure of device or system,0.56657076
+Failure of a supply system,Saturation of the information system,0.2426072
+Failure of a supply system,Violation of information system maintainability,0.3801069
+Failure of a supply system,"Terrorist attack, sabotage",0.20818402
+Failure of a supply system,Social Engineering,0.058867898
+Failure of a supply system,Interception of radiation of a device,0.07559903
+Failure of a supply system,Unauthorized surveillance,0.24293692
+Failure of a supply system,Eavesdropping,0.0945712
+Failure of a supply system,Theft of media or documents,0.13125922
+Failure of a supply system,Theft of equipment,0.27357277
+Failure of a supply system,Theft of digital identity or credentials,0.20354342
+Failure of a supply system,Unauthorized retrieval of disposed media,0.19750686
+Failure of a supply system,Disclosure of information,0.07741674
+Failure of a supply system,Data input from untrustworthy sources,0.22839345
+Failure of a supply system,Tampering with hardware,0.11650389
+Failure of a supply system,Tampering with software,0.05395771
+Failure of a supply system,Dive-by-exploits using web-based communication,0.12177081
+Failure of a supply system,"Replay attack, man-in-the-middle attack",0.17806071
+Failure of a supply system,Unauthorized processing of personal data,0.1313183
+Failure of a supply system,Unauthorized entry to facilities,0.20997335
+Failure of a supply system,Unauthorized use of devices,0.1981219
+Failure of a supply system,Incorrect use of devices,0.23659341
+Failure of a supply system,Damaging devices or media,0.19283059
+Failure of a supply system,Fraudulent copying of software,0.15142387
+Failure of a supply system,Use of counterfeit or copied software,0.18200001
+Failure of a supply system,Corruption of data,0.2278268
+Failure of a supply system,Illegal processing of data,0.15004615
+Failure of a supply system,Sending or distributing of malware,0.1493213
+Failure of a supply system,Position detection,0.042333033
+Failure of a supply system,Error in use,0.36290583
+Failure of a supply system,Abuse of rights or permissions,0.22728327
+Failure of a supply system,Forging of rights or permissions,0.17060487
+Failure of a supply system,Denial of actions,0.12693703
+Failure of a supply system,Lack of staff,0.41594696
+Failure of a supply system,Lack of resources,0.5860442
+Failure of a supply system,Failure of service providers,0.65504885
+Failure of a supply system,Violation of laws or regulations,0.14105569
+Failure of cooling or ventilation system,Loss of power supply,0.35970885
+Failure of cooling or ventilation system,Failure of a telecommunications network,0.5002896
+Failure of cooling or ventilation system,Failure of telecommunication equipment,0.5000474
+Failure of cooling or ventilation system,Electromagnetic radiation,0.10277599
+Failure of cooling or ventilation system,Thermal radiation,0.13851239
+Failure of cooling or ventilation system,Electromagnetic pulses,0.08595373
+Failure of cooling or ventilation system,Failure of device or system,0.55775326
+Failure of cooling or ventilation system,Saturation of the information system,0.1293259
+Failure of cooling or ventilation system,Violation of information system maintainability,0.27133587
+Failure of cooling or ventilation system,"Terrorist attack, sabotage",0.14536706
+Failure of cooling or ventilation system,Social Engineering,0.118714176
+Failure of cooling or ventilation system,Interception of radiation of a device,0.2807584
+Failure of cooling or ventilation system,Unauthorized surveillance,0.21513782
+Failure of cooling or ventilation system,Eavesdropping,0.10509536
+Failure of cooling or ventilation system,Theft of media or documents,0.09389171
+Failure of cooling or ventilation system,Theft of equipment,0.18216828
+Failure of cooling or ventilation system,Theft of digital identity or credentials,0.14494537
+Failure of cooling or ventilation system,Unauthorized retrieval of disposed media,0.16111073
+Failure of cooling or ventilation system,Disclosure of information,-0.010198631
+Failure of cooling or ventilation system,Data input from untrustworthy sources,0.19117622
+Failure of cooling or ventilation system,Tampering with hardware,0.13238306
+Failure of cooling or ventilation system,Tampering with software,0.17030507
+Failure of cooling or ventilation system,Dive-by-exploits using web-based communication,0.06762183
+Failure of cooling or ventilation system,"Replay attack, man-in-the-middle attack",0.06657213
+Failure of cooling or ventilation system,Unauthorized processing of personal data,0.07677553
+Failure of cooling or ventilation system,Unauthorized entry to facilities,0.14975221
+Failure of cooling or ventilation system,Unauthorized use of devices,0.2276673
+Failure of cooling or ventilation system,Incorrect use of devices,0.35518005
+Failure of cooling or ventilation system,Damaging devices or media,0.15629679
+Failure of cooling or ventilation system,Fraudulent copying of software,0.1530037
+Failure of cooling or ventilation system,Use of counterfeit or copied software,0.17338571
+Failure of cooling or ventilation system,Corruption of data,0.16936411
+Failure of cooling or ventilation system,Illegal processing of data,0.16920368
+Failure of cooling or ventilation system,Sending or distributing of malware,0.090755284
+Failure of cooling or ventilation system,Position detection,0.07394473
+Failure of cooling or ventilation system,Error in use,0.28806594
+Failure of cooling or ventilation system,Abuse of rights or permissions,0.086933024
+Failure of cooling or ventilation system,Forging of rights or permissions,0.03065293
+Failure of cooling or ventilation system,Denial of actions,0.28860936
+Failure of cooling or ventilation system,Lack of staff,0.32064053
+Failure of cooling or ventilation system,Lack of resources,0.32366484
+Failure of cooling or ventilation system,Failure of service providers,0.41479564
+Failure of cooling or ventilation system,Violation of laws or regulations,0.18750034
+Loss of power supply,Failure of a telecommunications network,0.40395823
+Loss of power supply,Failure of telecommunication equipment,0.38648364
+Loss of power supply,Electromagnetic radiation,0.15635547
+Loss of power supply,Thermal radiation,0.1391707
+Loss of power supply,Electromagnetic pulses,0.15302269
+Loss of power supply,Failure of device or system,0.39435518
+Loss of power supply,Saturation of the information system,0.22571972
+Loss of power supply,Violation of information system maintainability,0.2820832
+Loss of power supply,"Terrorist attack, sabotage",0.15222324
+Loss of power supply,Social Engineering,0.055799082
+Loss of power supply,Interception of radiation of a device,0.15892917
+Loss of power supply,Unauthorized surveillance,0.2458902
+Loss of power supply,Eavesdropping,0.13192338
+Loss of power supply,Theft of media or documents,0.13490435
+Loss of power supply,Theft of equipment,0.2603608
+Loss of power supply,Theft of digital identity or credentials,0.21435514
+Loss of power supply,Unauthorized retrieval of disposed media,0.20139812
+Loss of power supply,Disclosure of information,0.22196649
+Loss of power supply,Data input from untrustworthy sources,0.26947764
+Loss of power supply,Tampering with hardware,0.117892705
+Loss of power supply,Tampering with software,0.12805028
+Loss of power supply,Dive-by-exploits using web-based communication,0.03637874
+Loss of power supply,"Replay attack, man-in-the-middle attack",0.04402156
+Loss of power supply,Unauthorized processing of personal data,0.20804772
+Loss of power supply,Unauthorized entry to facilities,0.13274227
+Loss of power supply,Unauthorized use of devices,0.19895054
+Loss of power supply,Incorrect use of devices,0.21070029
+Loss of power supply,Damaging devices or media,0.26151606
+Loss of power supply,Fraudulent copying of software,0.1704028
+Loss of power supply,Use of counterfeit or copied software,0.18546796
+Loss of power supply,Corruption of data,0.18204984
+Loss of power supply,Illegal processing of data,0.1712562
+Loss of power supply,Sending or distributing of malware,0.10160792
+Loss of power supply,Position detection,0.10862034
+Loss of power supply,Error in use,0.21995333
+Loss of power supply,Abuse of rights or permissions,0.16606681
+Loss of power supply,Forging of rights or permissions,0.10956566
+Loss of power supply,Denial of actions,0.13844246
+Loss of power supply,Lack of staff,0.44370636
+Loss of power supply,Lack of resources,0.503986
+Loss of power supply,Failure of service providers,0.36624157
+Loss of power supply,Violation of laws or regulations,0.10968509
+Failure of a telecommunications network,Failure of telecommunication equipment,0.8955014
+Failure of a telecommunications network,Electromagnetic radiation,0.14080505
+Failure of a telecommunications network,Thermal radiation,0.021719426
+Failure of a telecommunications network,Electromagnetic pulses,0.15726437
+Failure of a telecommunications network,Failure of device or system,0.6716453
+Failure of a telecommunications network,Saturation of the information system,0.23081678
+Failure of a telecommunications network,Violation of information system maintainability,0.30641517
+Failure of a telecommunications network,"Terrorist attack, sabotage",0.24618334
+Failure of a telecommunications network,Social Engineering,0.2628773
+Failure of a telecommunications network,Interception of radiation of a device,0.27060586
+Failure of a telecommunications network,Unauthorized surveillance,0.20628387
+Failure of a telecommunications network,Eavesdropping,0.070526004
+Failure of a telecommunications network,Theft of media or documents,0.059919894
+Failure of a telecommunications network,Theft of equipment,0.24672604
+Failure of a telecommunications network,Theft of digital identity or credentials,0.14121439
+Failure of a telecommunications network,Unauthorized retrieval of disposed media,0.12843047
+Failure of a telecommunications network,Disclosure of information,0.04616113
+Failure of a telecommunications network,Data input from untrustworthy sources,0.17992876
+Failure of a telecommunications network,Tampering with hardware,0.13520277
+Failure of a telecommunications network,Tampering with software,0.1097679
+Failure of a telecommunications network,Dive-by-exploits using web-based communication,0.13474952
+Failure of a telecommunications network,"Replay attack, man-in-the-middle attack",0.08809185
+Failure of a telecommunications network,Unauthorized processing of personal data,0.10163023
+Failure of a telecommunications network,Unauthorized entry to facilities,0.14568691
+Failure of a telecommunications network,Unauthorized use of devices,0.2325391
+Failure of a telecommunications network,Incorrect use of devices,0.413859
+Failure of a telecommunications network,Damaging devices or media,0.34386182
+Failure of a telecommunications network,Fraudulent copying of software,0.07415698
+Failure of a telecommunications network,Use of counterfeit or copied software,0.11915247
+Failure of a telecommunications network,Corruption of data,0.17513129
+Failure of a telecommunications network,Illegal processing of data,0.1651784
+Failure of a telecommunications network,Sending or distributing of malware,0.15090694
+Failure of a telecommunications network,Position detection,0.13139379
+Failure of a telecommunications network,Error in use,0.3861755
+Failure of a telecommunications network,Abuse of rights or permissions,0.17741905
+Failure of a telecommunications network,Forging of rights or permissions,0.07284549
+Failure of a telecommunications network,Denial of actions,0.20826767
+Failure of a telecommunications network,Lack of staff,0.31668422
+Failure of a telecommunications network,Lack of resources,0.33589768
+Failure of a telecommunications network,Failure of service providers,0.6102369
+Failure of a telecommunications network,Violation of laws or regulations,0.12035249
+Failure of telecommunication equipment,Electromagnetic radiation,0.19886056
+Failure of telecommunication equipment,Thermal radiation,0.06594358
+Failure of telecommunication equipment,Electromagnetic pulses,0.21644874
+Failure of telecommunication equipment,Failure of device or system,0.75906533
+Failure of telecommunication equipment,Saturation of the information system,0.2362675
+Failure of telecommunication equipment,Violation of information system maintainability,0.32854924
+Failure of telecommunication equipment,"Terrorist attack, sabotage",0.2526677
+Failure of telecommunication equipment,Social Engineering,0.23342453
+Failure of telecommunication equipment,Interception of radiation of a device,0.369178
+Failure of telecommunication equipment,Unauthorized surveillance,0.20229532
+Failure of telecommunication equipment,Eavesdropping,0.13844663
+Failure of telecommunication equipment,Theft of media or documents,0.115218386
+Failure of telecommunication equipment,Theft of equipment,0.37002754
+Failure of telecommunication equipment,Theft of digital identity or credentials,0.2013661
+Failure of telecommunication equipment,Unauthorized retrieval of disposed media,0.14145137
+Failure of telecommunication equipment,Disclosure of information,0.06633528
+Failure of telecommunication equipment,Data input from untrustworthy sources,0.1930961
+Failure of telecommunication equipment,Tampering with hardware,0.26892254
+Failure of telecommunication equipment,Tampering with software,0.20388341
+Failure of telecommunication equipment,Dive-by-exploits using web-based communication,0.14530298
+Failure of telecommunication equipment,"Replay attack, man-in-the-middle attack",0.0707075
+Failure of telecommunication equipment,Unauthorized processing of personal data,0.09449766
+Failure of telecommunication equipment,Unauthorized entry to facilities,0.13407278
+Failure of telecommunication equipment,Unauthorized use of devices,0.29411227
+Failure of telecommunication equipment,Incorrect use of devices,0.506939
+Failure of telecommunication equipment,Damaging devices or media,0.42126638
+Failure of telecommunication equipment,Fraudulent copying of software,0.13748024
+Failure of telecommunication equipment,Use of counterfeit or copied software,0.18879126
+Failure of telecommunication equipment,Corruption of data,0.18627416
+Failure of telecommunication equipment,Illegal processing of data,0.19783951
+Failure of telecommunication equipment,Sending or distributing of malware,0.19424455
+Failure of telecommunication equipment,Position detection,0.18450545
+Failure of telecommunication equipment,Error in use,0.40106001
+Failure of telecommunication equipment,Abuse of rights or permissions,0.2024186
+Failure of telecommunication equipment,Forging of rights or permissions,0.07241354
+Failure of telecommunication equipment,Denial of actions,0.23059939
+Failure of telecommunication equipment,Lack of staff,0.30351543
+Failure of telecommunication equipment,Lack of resources,0.32874247
+Failure of telecommunication equipment,Failure of service providers,0.57267976
+Failure of telecommunication equipment,Violation of laws or regulations,0.113407366
+Electromagnetic radiation,Thermal radiation,0.6542658
+Electromagnetic radiation,Electromagnetic pulses,0.89930123
+Electromagnetic radiation,Failure of device or system,0.104699396
+Electromagnetic radiation,Saturation of the information system,0.13933271
+Electromagnetic radiation,Violation of information system maintainability,0.20927383
+Electromagnetic radiation,"Terrorist attack, sabotage",0.17899983
+Electromagnetic radiation,Social Engineering,0.22359826
+Electromagnetic radiation,Interception of radiation of a device,0.45374238
+Electromagnetic radiation,Unauthorized surveillance,0.21758917
+Electromagnetic radiation,Eavesdropping,0.1158094
+Electromagnetic radiation,Theft of media or documents,0.16267832
+Electromagnetic radiation,Theft of equipment,0.15988421
+Electromagnetic radiation,Theft of digital identity or credentials,0.20633757
+Electromagnetic radiation,Unauthorized retrieval of disposed media,0.21155642
+Electromagnetic radiation,Disclosure of information,0.107210726
+Electromagnetic radiation,Data input from untrustworthy sources,0.165616
+Electromagnetic radiation,Tampering with hardware,0.23485397
+Electromagnetic radiation,Tampering with software,0.18195441
+Electromagnetic radiation,Dive-by-exploits using web-based communication,0.07499963
+Electromagnetic radiation,"Replay attack, man-in-the-middle attack",-0.035166286
+Electromagnetic radiation,Unauthorized processing of personal data,0.184605
+Electromagnetic radiation,Unauthorized entry to facilities,0.17258246
+Electromagnetic radiation,Unauthorized use of devices,0.22525465
+Electromagnetic radiation,Incorrect use of devices,0.20217021
+Electromagnetic radiation,Damaging devices or media,0.2591591
+Electromagnetic radiation,Fraudulent copying of software,0.17942868
+Electromagnetic radiation,Use of counterfeit or copied software,0.1874043
+Electromagnetic radiation,Corruption of data,0.16863242
+Electromagnetic radiation,Illegal processing of data,0.19219087
+Electromagnetic radiation,Sending or distributing of malware,0.24746655
+Electromagnetic radiation,Position detection,0.20967522
+Electromagnetic radiation,Error in use,0.10255422
+Electromagnetic radiation,Abuse of rights or permissions,0.17330319
+Electromagnetic radiation,Forging of rights or permissions,0.16450848
+Electromagnetic radiation,Denial of actions,-0.025020568
+Electromagnetic radiation,Lack of staff,0.023100395
+Electromagnetic radiation,Lack of resources,0.042234562
+Electromagnetic radiation,Failure of service providers,-0.013846895
+Electromagnetic radiation,Violation of laws or regulations,0.1135506
+Thermal radiation,Electromagnetic pulses,0.5946016
+Thermal radiation,Failure of device or system,0.048636913
+Thermal radiation,Saturation of the information system,0.25995287
+Thermal radiation,Violation of information system maintainability,0.24932078
+Thermal radiation,"Terrorist attack, sabotage",0.0646599
+Thermal radiation,Social Engineering,0.18611921
+Thermal radiation,Interception of radiation of a device,0.35115862
+Thermal radiation,Unauthorized surveillance,0.288813
+Thermal radiation,Eavesdropping,0.028422957
+Thermal radiation,Theft of media or documents,0.11926837
+Thermal radiation,Theft of equipment,0.01909113
+Thermal radiation,Theft of digital identity or credentials,0.11568935
+Thermal radiation,Unauthorized retrieval of disposed media,0.22624628
+Thermal radiation,Disclosure of information,0.24842858
+Thermal radiation,Data input from untrustworthy sources,0.15814686
+Thermal radiation,Tampering with hardware,0.05226758
+Thermal radiation,Tampering with software,0.19274229
+Thermal radiation,Dive-by-exploits using web-based communication,0.039594244
+Thermal radiation,"Replay attack, man-in-the-middle attack",0.010542914
+Thermal radiation,Unauthorized processing of personal data,0.21746752
+Thermal radiation,Unauthorized entry to facilities,0.21828008
+Thermal radiation,Unauthorized use of devices,0.24089384
+Thermal radiation,Incorrect use of devices,0.1801008
+Thermal radiation,Damaging devices or media,0.24141707
+Thermal radiation,Fraudulent copying of software,0.118041575
+Thermal radiation,Use of counterfeit or copied software,0.16439514
+Thermal radiation,Corruption of data,0.09695995
+Thermal radiation,Illegal processing of data,0.22505388
+Thermal radiation,Sending or distributing of malware,0.12994426
+Thermal radiation,Position detection,0.20511147
+Thermal radiation,Error in use,0.11040394
+Thermal radiation,Abuse of rights or permissions,0.18042006
+Thermal radiation,Forging of rights or permissions,0.14448301
+Thermal radiation,Denial of actions,0.030468008
+Thermal radiation,Lack of staff,0.091706336
+Thermal radiation,Lack of resources,0.055954337
+Thermal radiation,Failure of service providers,0.010510501
+Thermal radiation,Violation of laws or regulations,0.24240822
+Electromagnetic pulses,Failure of device or system,0.15639874
+Electromagnetic pulses,Saturation of the information system,0.171157
+Electromagnetic pulses,Violation of information system maintainability,0.21629271
+Electromagnetic pulses,"Terrorist attack, sabotage",0.15017529
+Electromagnetic pulses,Social Engineering,0.27856046
+Electromagnetic pulses,Interception of radiation of a device,0.43926087
+Electromagnetic pulses,Unauthorized surveillance,0.18603134
+Electromagnetic pulses,Eavesdropping,0.12640397
+Electromagnetic pulses,Theft of media or documents,0.14361711
+Electromagnetic pulses,Theft of equipment,0.16394533
+Electromagnetic pulses,Theft of digital identity or credentials,0.20509534
+Electromagnetic pulses,Unauthorized retrieval of disposed media,0.18570173
+Electromagnetic pulses,Disclosure of information,0.110221475
+Electromagnetic pulses,Data input from untrustworthy sources,0.12725428
+Electromagnetic pulses,Tampering with hardware,0.23636445
+Electromagnetic pulses,Tampering with software,0.15855595
+Electromagnetic pulses,Dive-by-exploits using web-based communication,0.06310658
+Electromagnetic pulses,"Replay attack, man-in-the-middle attack",0.012750156
+Electromagnetic pulses,Unauthorized processing of personal data,0.115899935
+Electromagnetic pulses,Unauthorized entry to facilities,0.17325342
+Electromagnetic pulses,Unauthorized use of devices,0.21699552
+Electromagnetic pulses,Incorrect use of devices,0.1891823
+Electromagnetic pulses,Damaging devices or media,0.2804347
+Electromagnetic pulses,Fraudulent copying of software,0.13738902
+Electromagnetic pulses,Use of counterfeit or copied software,0.15438384
+Electromagnetic pulses,Corruption of data,0.17330301
+Electromagnetic pulses,Illegal processing of data,0.14408407
+Electromagnetic pulses,Sending or distributing of malware,0.2319159
+Electromagnetic pulses,Position detection,0.22835761
+Electromagnetic pulses,Error in use,0.10888514
+Electromagnetic pulses,Abuse of rights or permissions,0.15054217
+Electromagnetic pulses,Forging of rights or permissions,0.17076893
+Electromagnetic pulses,Denial of actions,-0.042213764
+Electromagnetic pulses,Lack of staff,0.028780106
+Electromagnetic pulses,Lack of resources,0.07277413
+Electromagnetic pulses,Failure of service providers,0.013658692
+Electromagnetic pulses,Violation of laws or regulations,0.12662345
+Failure of device or system,Saturation of the information system,0.28806376
+Failure of device or system,Violation of information system maintainability,0.40344438
+Failure of device or system,"Terrorist attack, sabotage",0.22390538
+Failure of device or system,Social Engineering,0.24216521
+Failure of device or system,Interception of radiation of a device,0.3549357
+Failure of device or system,Unauthorized surveillance,0.21993989
+Failure of device or system,Eavesdropping,0.17648546
+Failure of device or system,Theft of media or documents,0.15713361
+Failure of device or system,Theft of equipment,0.40718505
+Failure of device or system,Theft of digital identity or credentials,0.27799702
+Failure of device or system,Unauthorized retrieval of disposed media,0.1640279
+Failure of device or system,Disclosure of information,0.12691379
+Failure of device or system,Data input from untrustworthy sources,0.23261547
+Failure of device or system,Tampering with hardware,0.40186208
+Failure of device or system,Tampering with software,0.30590707
+Failure of device or system,Dive-by-exploits using web-based communication,0.10429731
+Failure of device or system,"Replay attack, man-in-the-middle attack",0.1444454
+Failure of device or system,Unauthorized processing of personal data,0.15477969
+Failure of device or system,Unauthorized entry to facilities,0.15957193
+Failure of device or system,Unauthorized use of devices,0.43661454
+Failure of device or system,Incorrect use of devices,0.65475965
+Failure of device or system,Damaging devices or media,0.46924534
+Failure of device or system,Fraudulent copying of software,0.2078734
+Failure of device or system,Use of counterfeit or copied software,0.24566545
+Failure of device or system,Corruption of data,0.23510358
+Failure of device or system,Illegal processing of data,0.23375094
+Failure of device or system,Sending or distributing of malware,0.17819726
+Failure of device or system,Position detection,0.25245506
+Failure of device or system,Error in use,0.5280571
+Failure of device or system,Abuse of rights or permissions,0.21555905
+Failure of device or system,Forging of rights or permissions,0.116701715
+Failure of device or system,Denial of actions,0.25191852
+Failure of device or system,Lack of staff,0.2606436
+Failure of device or system,Lack of resources,0.34447655
+Failure of device or system,Failure of service providers,0.53062797
+Failure of device or system,Violation of laws or regulations,0.19749331
+Saturation of the information system,Violation of information system maintainability,0.4637293
+Saturation of the information system,"Terrorist attack, sabotage",0.078857824
+Saturation of the information system,Social Engineering,0.19161697
+Saturation of the information system,Interception of radiation of a device,0.16414781
+Saturation of the information system,Unauthorized surveillance,0.23590553
+Saturation of the information system,Eavesdropping,0.17689234
+Saturation of the information system,Theft of media or documents,0.19923641
+Saturation of the information system,Theft of equipment,0.22491163
+Saturation of the information system,Theft of digital identity or credentials,0.29756746
+Saturation of the information system,Unauthorized retrieval of disposed media,0.1736535
+Saturation of the information system,Disclosure of information,0.36436832
+Saturation of the information system,Data input from untrustworthy sources,0.15497962
+Saturation of the information system,Tampering with hardware,0.14723644
+Saturation of the information system,Tampering with software,0.15933238
+Saturation of the information system,Dive-by-exploits using web-based communication,0.09012463
+Saturation of the information system,"Replay attack, man-in-the-middle attack",0.17051138
+Saturation of the information system,Unauthorized processing of personal data,0.18386221
+Saturation of the information system,Unauthorized entry to facilities,0.22222534
+Saturation of the information system,Unauthorized use of devices,0.24937388
+Saturation of the information system,Incorrect use of devices,0.18119143
+Saturation of the information system,Damaging devices or media,0.24368702
+Saturation of the information system,Fraudulent copying of software,0.20625353
+Saturation of the information system,Use of counterfeit or copied software,0.23521179
+Saturation of the information system,Corruption of data,0.28352147
+Saturation of the information system,Illegal processing of data,0.2638813
+Saturation of the information system,Sending or distributing of malware,0.2383119
+Saturation of the information system,Position detection,0.27072203
+Saturation of the information system,Error in use,0.19019227
+Saturation of the information system,Abuse of rights or permissions,0.22798614
+Saturation of the information system,Forging of rights or permissions,0.20619974
+Saturation of the information system,Denial of actions,0.006462734
+Saturation of the information system,Lack of staff,0.1911761
+Saturation of the information system,Lack of resources,0.20757863
+Saturation of the information system,Failure of service providers,0.18433523
+Saturation of the information system,Violation of laws or regulations,0.22669959
+Violation of information system maintainability,"Terrorist attack, sabotage",0.20252083
+Violation of information system maintainability,Social Engineering,0.19300435
+Violation of information system maintainability,Interception of radiation of a device,0.22430035
+Violation of information system maintainability,Unauthorized surveillance,0.37023765
+Violation of information system maintainability,Eavesdropping,0.102897555
+Violation of information system maintainability,Theft of media or documents,0.23764898
+Violation of information system maintainability,Theft of equipment,0.27364248
+Violation of information system maintainability,Theft of digital identity or credentials,0.36291382
+Violation of information system maintainability,Unauthorized retrieval of disposed media,0.27155918
+Violation of information system maintainability,Disclosure of information,0.3196381
+Violation of information system maintainability,Data input from untrustworthy sources,0.28758684
+Violation of information system maintainability,Tampering with hardware,0.22102362
+Violation of information system maintainability,Tampering with software,0.20070748
+Violation of information system maintainability,Dive-by-exploits using web-based communication,0.15897636
+Violation of information system maintainability,"Replay attack, man-in-the-middle attack",0.19790468
+Violation of information system maintainability,Unauthorized processing of personal data,0.30105016
+Violation of information system maintainability,Unauthorized entry to facilities,0.33059427
+Violation of information system maintainability,Unauthorized use of devices,0.36002165
+Violation of information system maintainability,Incorrect use of devices,0.3696143
+Violation of information system maintainability,Damaging devices or media,0.38007557
+Violation of information system maintainability,Fraudulent copying of software,0.21393189
+Violation of information system maintainability,Use of counterfeit or copied software,0.2464216
+Violation of information system maintainability,Corruption of data,0.26029733
+Violation of information system maintainability,Illegal processing of data,0.39703947
+Violation of information system maintainability,Sending or distributing of malware,0.26701105
+Violation of information system maintainability,Position detection,0.23012172
+Violation of information system maintainability,Error in use,0.33189154
+Violation of information system maintainability,Abuse of rights or permissions,0.3849029
+Violation of information system maintainability,Forging of rights or permissions,0.2732285
+Violation of information system maintainability,Denial of actions,0.17492634
+Violation of information system maintainability,Lack of staff,0.17240527
+Violation of information system maintainability,Lack of resources,0.20625857
+Violation of information system maintainability,Failure of service providers,0.30910456
+Violation of information system maintainability,Violation of laws or regulations,0.48559603
+"Terrorist attack, sabotage",Social Engineering,0.16493931
+"Terrorist attack, sabotage",Interception of radiation of a device,0.30585185
+"Terrorist attack, sabotage",Unauthorized surveillance,0.26494467
+"Terrorist attack, sabotage",Eavesdropping,0.22191352
+"Terrorist attack, sabotage",Theft of media or documents,0.3206972
+"Terrorist attack, sabotage",Theft of equipment,0.36509696
+"Terrorist attack, sabotage",Theft of digital identity or credentials,0.38784325
+"Terrorist attack, sabotage",Unauthorized retrieval of disposed media,0.14691798
+"Terrorist attack, sabotage",Disclosure of information,0.06262176
+"Terrorist attack, sabotage",Data input from untrustworthy sources,0.3943518
+"Terrorist attack, sabotage",Tampering with hardware,0.3918064
+"Terrorist attack, sabotage",Tampering with software,0.3877022
+"Terrorist attack, sabotage",Dive-by-exploits using web-based communication,0.3633086
+"Terrorist attack, sabotage","Replay attack, man-in-the-middle attack",0.19774628
+"Terrorist attack, sabotage",Unauthorized processing of personal data,0.29417384
+"Terrorist attack, sabotage",Unauthorized entry to facilities,0.23060323
+"Terrorist attack, sabotage",Unauthorized use of devices,0.30929035
+"Terrorist attack, sabotage",Incorrect use of devices,0.2930661
+"Terrorist attack, sabotage",Damaging devices or media,0.3489756
+"Terrorist attack, sabotage",Fraudulent copying of software,0.4099637
+"Terrorist attack, sabotage",Use of counterfeit or copied software,0.38640305
+"Terrorist attack, sabotage",Corruption of data,0.46878898
+"Terrorist attack, sabotage",Illegal processing of data,0.46034563
+"Terrorist attack, sabotage",Sending or distributing of malware,0.46210286
+"Terrorist attack, sabotage",Position detection,0.22363028
+"Terrorist attack, sabotage",Error in use,0.28408638
+"Terrorist attack, sabotage",Abuse of rights or permissions,0.32277787
+"Terrorist attack, sabotage",Forging of rights or permissions,0.20227617
+"Terrorist attack, sabotage",Denial of actions,0.18342438
+"Terrorist attack, sabotage",Lack of staff,0.114668205
+"Terrorist attack, sabotage",Lack of resources,0.1440537
+"Terrorist attack, sabotage",Failure of service providers,0.20084187
+"Terrorist attack, sabotage",Violation of laws or regulations,0.17477709
+Social Engineering,Interception of radiation of a device,0.2262858
+Social Engineering,Unauthorized surveillance,0.16897339
+Social Engineering,Eavesdropping,0.111491404
+Social Engineering,Theft of media or documents,-0.023761798
+Social Engineering,Theft of equipment,0.07213631
+Social Engineering,Theft of digital identity or credentials,0.13601923
+Social Engineering,Unauthorized retrieval of disposed media,0.088134564
+Social Engineering,Disclosure of information,0.147061
+Social Engineering,Data input from untrustworthy sources,0.077067584
+Social Engineering,Tampering with hardware,0.14449063
+Social Engineering,Tampering with software,0.18533379
+Social Engineering,Dive-by-exploits using web-based communication,0.030687813
+Social Engineering,"Replay attack, man-in-the-middle attack",0.07132584
+Social Engineering,Unauthorized processing of personal data,0.15360619
+Social Engineering,Unauthorized entry to facilities,0.2125647
+Social Engineering,Unauthorized use of devices,0.2587672
+Social Engineering,Incorrect use of devices,0.27886128
+Social Engineering,Damaging devices or media,0.23021133
+Social Engineering,Fraudulent copying of software,0.020820672
+Social Engineering,Use of counterfeit or copied software,0.095206335
+Social Engineering,Corruption of data,0.061105095
+Social Engineering,Illegal processing of data,0.1497342
+Social Engineering,Sending or distributing of malware,0.07756838
+Social Engineering,Position detection,0.22007972
+Social Engineering,Error in use,0.2563535
+Social Engineering,Abuse of rights or permissions,0.16513704
+Social Engineering,Forging of rights or permissions,0.28839797
+Social Engineering,Denial of actions,0.02192962
+Social Engineering,Lack of staff,-0.00028284919
+Social Engineering,Lack of resources,0.024548698
+Social Engineering,Failure of service providers,0.07603635
+Social Engineering,Violation of laws or regulations,0.17268333
+Interception of radiation of a device,Unauthorized surveillance,0.2449511
+Interception of radiation of a device,Eavesdropping,0.31597897
+Interception of radiation of a device,Theft of media or documents,0.20292471
+Interception of radiation of a device,Theft of equipment,0.31190047
+Interception of radiation of a device,Theft of digital identity or credentials,0.28219715
+Interception of radiation of a device,Unauthorized retrieval of disposed media,0.24903263
+Interception of radiation of a device,Disclosure of information,0.22272237
+Interception of radiation of a device,Data input from untrustworthy sources,0.21049447
+Interception of radiation of a device,Tampering with hardware,0.28643942
+Interception of radiation of a device,Tampering with software,0.25636518
+Interception of radiation of a device,Dive-by-exploits using web-based communication,0.1975691
+Interception of radiation of a device,"Replay attack, man-in-the-middle attack",0.17166136
+Interception of radiation of a device,Unauthorized processing of personal data,0.163948
+Interception of radiation of a device,Unauthorized entry to facilities,0.1993562
+Interception of radiation of a device,Unauthorized use of devices,0.30990785
+Interception of radiation of a device,Incorrect use of devices,0.3662956
+Interception of radiation of a device,Damaging devices or media,0.31132317
+Interception of radiation of a device,Fraudulent copying of software,0.1711222
+Interception of radiation of a device,Use of counterfeit or copied software,0.14035827
+Interception of radiation of a device,Corruption of data,0.24580947
+Interception of radiation of a device,Illegal processing of data,0.30467018
+Interception of radiation of a device,Sending or distributing of malware,0.25425065
+Interception of radiation of a device,Position detection,0.38319057
+Interception of radiation of a device,Error in use,0.2579181
+Interception of radiation of a device,Abuse of rights or permissions,0.22703966
+Interception of radiation of a device,Forging of rights or permissions,0.23619893
+Interception of radiation of a device,Denial of actions,0.19923636
+Interception of radiation of a device,Lack of staff,0.03714898
+Interception of radiation of a device,Lack of resources,0.10002374
+Interception of radiation of a device,Failure of service providers,0.04901339
+Interception of radiation of a device,Violation of laws or regulations,0.22286423
+Unauthorized surveillance,Eavesdropping,0.31904042
+Unauthorized surveillance,Theft of media or documents,0.34351572
+Unauthorized surveillance,Theft of equipment,0.30437845
+Unauthorized surveillance,Theft of digital identity or credentials,0.33263177
+Unauthorized surveillance,Unauthorized retrieval of disposed media,0.7072109
+Unauthorized surveillance,Disclosure of information,0.2510274
+Unauthorized surveillance,Data input from untrustworthy sources,0.44786647
+Unauthorized surveillance,Tampering with hardware,0.12347206
+Unauthorized surveillance,Tampering with software,0.31228587
+Unauthorized surveillance,Dive-by-exploits using web-based communication,0.14984114
+Unauthorized surveillance,"Replay attack, man-in-the-middle attack",0.05153397
+Unauthorized surveillance,Unauthorized processing of personal data,0.6945901
+Unauthorized surveillance,Unauthorized entry to facilities,0.58590215
+Unauthorized surveillance,Unauthorized use of devices,0.73089904
+Unauthorized surveillance,Incorrect use of devices,0.38626462
+Unauthorized surveillance,Damaging devices or media,0.23842004
+Unauthorized surveillance,Fraudulent copying of software,0.3472531
+Unauthorized surveillance,Use of counterfeit or copied software,0.38098237
+Unauthorized surveillance,Corruption of data,0.3569625
+Unauthorized surveillance,Illegal processing of data,0.69091636
+Unauthorized surveillance,Sending or distributing of malware,0.1980238
+Unauthorized surveillance,Position detection,0.124389395
+Unauthorized surveillance,Error in use,0.2620287
+Unauthorized surveillance,Abuse of rights or permissions,0.5773952
+Unauthorized surveillance,Forging of rights or permissions,0.44027466
+Unauthorized surveillance,Denial of actions,0.19116944
+Unauthorized surveillance,Lack of staff,0.23019342
+Unauthorized surveillance,Lack of resources,0.24711905
+Unauthorized surveillance,Failure of service providers,0.19264854
+Unauthorized surveillance,Violation of laws or regulations,0.49136117
+Eavesdropping,Theft of media or documents,0.33665076
+Eavesdropping,Theft of equipment,0.38815522
+Eavesdropping,Theft of digital identity or credentials,0.26188442
+Eavesdropping,Unauthorized retrieval of disposed media,0.33259517
+Eavesdropping,Disclosure of information,0.3496649
+Eavesdropping,Data input from untrustworthy sources,0.26070642
+Eavesdropping,Tampering with hardware,0.29418135
+Eavesdropping,Tampering with software,0.2426998
+Eavesdropping,Dive-by-exploits using web-based communication,0.23880912
+Eavesdropping,"Replay attack, man-in-the-middle attack",0.053217374
+Eavesdropping,Unauthorized processing of personal data,0.25682095
+Eavesdropping,Unauthorized entry to facilities,0.16206688
+Eavesdropping,Unauthorized use of devices,0.27855727
+Eavesdropping,Incorrect use of devices,0.21057673
+Eavesdropping,Damaging devices or media,0.1511264
+Eavesdropping,Fraudulent copying of software,0.2340668
+Eavesdropping,Use of counterfeit or copied software,0.16939326
+Eavesdropping,Corruption of data,0.25989193
+Eavesdropping,Illegal processing of data,0.29510617
+Eavesdropping,Sending or distributing of malware,0.28916803
+Eavesdropping,Position detection,0.28392804
+Eavesdropping,Error in use,0.18299606
+Eavesdropping,Abuse of rights or permissions,0.25586691
+Eavesdropping,Forging of rights or permissions,0.16361345
+Eavesdropping,Denial of actions,0.17591977
+Eavesdropping,Lack of staff,-6.16489e-05
+Eavesdropping,Lack of resources,0.04197143
+Eavesdropping,Failure of service providers,0.09501946
+Eavesdropping,Violation of laws or regulations,0.08251437
+Theft of media or documents,Theft of equipment,0.5578432
+Theft of media or documents,Theft of digital identity or credentials,0.6713899
+Theft of media or documents,Unauthorized retrieval of disposed media,0.5317784
+Theft of media or documents,Disclosure of information,0.19077083
+Theft of media or documents,Data input from untrustworthy sources,0.3948354
+Theft of media or documents,Tampering with hardware,0.2979325
+Theft of media or documents,Tampering with software,0.3392532
+Theft of media or documents,Dive-by-exploits using web-based communication,0.28104338
+Theft of media or documents,"Replay attack, man-in-the-middle attack",0.051443163
+Theft of media or documents,Unauthorized processing of personal data,0.41204548
+Theft of media or documents,Unauthorized entry to facilities,0.21182682
+Theft of media or documents,Unauthorized use of devices,0.4040071
+Theft of media or documents,Incorrect use of devices,0.28282693
+Theft of media or documents,Damaging devices or media,0.37325895
+Theft of media or documents,Fraudulent copying of software,0.5785314
+Theft of media or documents,Use of counterfeit or copied software,0.48588902
+Theft of media or documents,Corruption of data,0.6040032
+Theft of media or documents,Illegal processing of data,0.5271142
+Theft of media or documents,Sending or distributing of malware,0.4123375
+Theft of media or documents,Position detection,0.1432983
+Theft of media or documents,Error in use,0.16685507
+Theft of media or documents,Abuse of rights or permissions,0.39951712
+Theft of media or documents,Forging of rights or permissions,0.3113458
+Theft of media or documents,Denial of actions,0.106049396
+Theft of media or documents,Lack of staff,0.12780727
+Theft of media or documents,Lack of resources,0.20031418
+Theft of media or documents,Failure of service providers,0.073898256
+Theft of media or documents,Violation of laws or regulations,0.21776812
+Theft of equipment,Theft of digital identity or credentials,0.6036244
+Theft of equipment,Unauthorized retrieval of disposed media,0.40886888
+Theft of equipment,Disclosure of information,0.1741969
+Theft of equipment,Data input from untrustworthy sources,0.28146076
+Theft of equipment,Tampering with hardware,0.55618936
+Theft of equipment,Tampering with software,0.31008428
+Theft of equipment,Dive-by-exploits using web-based communication,0.3050867
+Theft of equipment,"Replay attack, man-in-the-middle attack",0.07785892
+Theft of equipment,Unauthorized processing of personal data,0.30532542
+Theft of equipment,Unauthorized entry to facilities,0.19736695
+Theft of equipment,Unauthorized use of devices,0.4229333
+Theft of equipment,Incorrect use of devices,0.3668623
+Theft of equipment,Damaging devices or media,0.40441763
+Theft of equipment,Fraudulent copying of software,0.5048375
+Theft of equipment,Use of counterfeit or copied software,0.40398347
+Theft of equipment,Corruption of data,0.54109937
+Theft of equipment,Illegal processing of data,0.44039685
+Theft of equipment,Sending or distributing of malware,0.39674574
+Theft of equipment,Position detection,0.29385948
+Theft of equipment,Error in use,0.33860087
+Theft of equipment,Abuse of rights or permissions,0.37859982
+Theft of equipment,Forging of rights or permissions,0.27292836
+Theft of equipment,Denial of actions,0.08128129
+Theft of equipment,Lack of staff,0.14533186
+Theft of equipment,Lack of resources,0.2854095
+Theft of equipment,Failure of service providers,0.16488273
+Theft of equipment,Violation of laws or regulations,0.18274291
+Theft of digital identity or credentials,Unauthorized retrieval of disposed media,0.45855105
+Theft of digital identity or credentials,Disclosure of information,0.21807185
+Theft of digital identity or credentials,Data input from untrustworthy sources,0.4120205
+Theft of digital identity or credentials,Tampering with hardware,0.44444868
+Theft of digital identity or credentials,Tampering with software,0.42977682
+Theft of digital identity or credentials,Dive-by-exploits using web-based communication,0.37408614
+Theft of digital identity or credentials,"Replay attack, man-in-the-middle attack",0.08450202
+Theft of digital identity or credentials,Unauthorized processing of personal data,0.4683776
+Theft of digital identity or credentials,Unauthorized entry to facilities,0.3346582
+Theft of digital identity or credentials,Unauthorized use of devices,0.5125248
+Theft of digital identity or credentials,Incorrect use of devices,0.31843516
+Theft of digital identity or credentials,Damaging devices or media,0.32936186
+Theft of digital identity or credentials,Fraudulent copying of software,0.669619
+Theft of digital identity or credentials,Use of counterfeit or copied software,0.58679545
+Theft of digital identity or credentials,Corruption of data,0.61444575
+Theft of digital identity or credentials,Illegal processing of data,0.5177502
+Theft of digital identity or credentials,Sending or distributing of malware,0.47915506
+Theft of digital identity or credentials,Position detection,0.29262236
+Theft of digital identity or credentials,Error in use,0.2714377
+Theft of digital identity or credentials,Abuse of rights or permissions,0.48680264
+Theft of digital identity or credentials,Forging of rights or permissions,0.48934063
+Theft of digital identity or credentials,Denial of actions,0.11801119
+Theft of digital identity or credentials,Lack of staff,0.180074
+Theft of digital identity or credentials,Lack of resources,0.28441143
+Theft of digital identity or credentials,Failure of service providers,0.10831952
+Theft of digital identity or credentials,Violation of laws or regulations,0.1823856
+Unauthorized retrieval of disposed media,Disclosure of information,0.29255322
+Unauthorized retrieval of disposed media,Data input from untrustworthy sources,0.40226206
+Unauthorized retrieval of disposed media,Tampering with hardware,0.22237374
+Unauthorized retrieval of disposed media,Tampering with software,0.28405118
+Unauthorized retrieval of disposed media,Dive-by-exploits using web-based communication,0.25492564
+Unauthorized retrieval of disposed media,"Replay attack, man-in-the-middle attack",0.051033273
+Unauthorized retrieval of disposed media,Unauthorized processing of personal data,0.6369113
+Unauthorized retrieval of disposed media,Unauthorized entry to facilities,0.514668
+Unauthorized retrieval of disposed media,Unauthorized use of devices,0.6480953
+Unauthorized retrieval of disposed media,Incorrect use of devices,0.34997207
+Unauthorized retrieval of disposed media,Damaging devices or media,0.2696402
+Unauthorized retrieval of disposed media,Fraudulent copying of software,0.42743155
+Unauthorized retrieval of disposed media,Use of counterfeit or copied software,0.38543707
+Unauthorized retrieval of disposed media,Corruption of data,0.45079654
+Unauthorized retrieval of disposed media,Illegal processing of data,0.62451077
+Unauthorized retrieval of disposed media,Sending or distributing of malware,0.26346797
+Unauthorized retrieval of disposed media,Position detection,0.11734907
+Unauthorized retrieval of disposed media,Error in use,0.20567611
+Unauthorized retrieval of disposed media,Abuse of rights or permissions,0.4933751
+Unauthorized retrieval of disposed media,Forging of rights or permissions,0.41938776
+Unauthorized retrieval of disposed media,Denial of actions,0.16850337
+Unauthorized retrieval of disposed media,Lack of staff,0.15002117
+Unauthorized retrieval of disposed media,Lack of resources,0.277368
+Unauthorized retrieval of disposed media,Failure of service providers,0.088125795
+Unauthorized retrieval of disposed media,Violation of laws or regulations,0.30963752
+Disclosure of information,Data input from untrustworthy sources,0.26166555
+Disclosure of information,Tampering with hardware,0.15275176
+Disclosure of information,Tampering with software,0.15456463
+Disclosure of information,Dive-by-exploits using web-based communication,0.1022961
+Disclosure of information,"Replay attack, man-in-the-middle attack",0.0614376
+Disclosure of information,Unauthorized processing of personal data,0.44602042
+Disclosure of information,Unauthorized entry to facilities,0.25169155
+Disclosure of information,Unauthorized use of devices,0.25543815
+Disclosure of information,Incorrect use of devices,0.11826399
+Disclosure of information,Damaging devices or media,0.17604639
+Disclosure of information,Fraudulent copying of software,0.07964312
+Disclosure of information,Use of counterfeit or copied software,0.06357044
+Disclosure of information,Corruption of data,0.19602731
+Disclosure of information,Illegal processing of data,0.2826325
+Disclosure of information,Sending or distributing of malware,0.21960972
+Disclosure of information,Position detection,0.337669
+Disclosure of information,Error in use,0.13403583
+Disclosure of information,Abuse of rights or permissions,0.3074903
+Disclosure of information,Forging of rights or permissions,0.28128022
+Disclosure of information,Denial of actions,0.2360258
+Disclosure of information,Lack of staff,0.10470781
+Disclosure of information,Lack of resources,0.12015967
+Disclosure of information,Failure of service providers,0.094063476
+Disclosure of information,Violation of laws or regulations,0.15116392
+Data input from untrustworthy sources,Tampering with hardware,0.31121123
+Data input from untrustworthy sources,Tampering with software,0.3734906
+Data input from untrustworthy sources,Dive-by-exploits using web-based communication,0.21422145
+Data input from untrustworthy sources,"Replay attack, man-in-the-middle attack",0.11689157
+Data input from untrustworthy sources,Unauthorized processing of personal data,0.5189987
+Data input from untrustworthy sources,Unauthorized entry to facilities,0.24771091
+Data input from untrustworthy sources,Unauthorized use of devices,0.42095882
+Data input from untrustworthy sources,Incorrect use of devices,0.4527331
+Data input from untrustworthy sources,Damaging devices or media,0.37093064
+Data input from untrustworthy sources,Fraudulent copying of software,0.39096516
+Data input from untrustworthy sources,Use of counterfeit or copied software,0.41283813
+Data input from untrustworthy sources,Corruption of data,0.5767868
+Data input from untrustworthy sources,Illegal processing of data,0.6070671
+Data input from untrustworthy sources,Sending or distributing of malware,0.3438949
+Data input from untrustworthy sources,Position detection,0.17848982
+Data input from untrustworthy sources,Error in use,0.3616434
+Data input from untrustworthy sources,Abuse of rights or permissions,0.3202716
+Data input from untrustworthy sources,Forging of rights or permissions,0.22155793
+Data input from untrustworthy sources,Denial of actions,0.29385743
+Data input from untrustworthy sources,Lack of staff,0.15722229
+Data input from untrustworthy sources,Lack of resources,0.30625454
+Data input from untrustworthy sources,Failure of service providers,0.1804989
+Data input from untrustworthy sources,Violation of laws or regulations,0.20920931
+Tampering with hardware,Tampering with software,0.6723489
+Tampering with hardware,Dive-by-exploits using web-based communication,0.3053456
+Tampering with hardware,"Replay attack, man-in-the-middle attack",0.06603195
+Tampering with hardware,Unauthorized processing of personal data,0.254955
+Tampering with hardware,Unauthorized entry to facilities,0.19457394
+Tampering with hardware,Unauthorized use of devices,0.40789524
+Tampering with hardware,Incorrect use of devices,0.42132646
+Tampering with hardware,Damaging devices or media,0.4269706
+Tampering with hardware,Fraudulent copying of software,0.4895797
+Tampering with hardware,Use of counterfeit or copied software,0.47095394
+Tampering with hardware,Corruption of data,0.40768155
+Tampering with hardware,Illegal processing of data,0.3427816
+Tampering with hardware,Sending or distributing of malware,0.45381063
+Tampering with hardware,Position detection,0.32226914
+Tampering with hardware,Error in use,0.31451866
+Tampering with hardware,Abuse of rights or permissions,0.35454872
+Tampering with hardware,Forging of rights or permissions,0.28533927
+Tampering with hardware,Denial of actions,0.13959341
+Tampering with hardware,Lack of staff,0.042871516
+Tampering with hardware,Lack of resources,0.10832181
+Tampering with hardware,Failure of service providers,-0.003843317
+Tampering with hardware,Violation of laws or regulations,0.10401543
+Tampering with software,Dive-by-exploits using web-based communication,0.2977651
+Tampering with software,"Replay attack, man-in-the-middle attack",0.011149099
+Tampering with software,Unauthorized processing of personal data,0.3960331
+Tampering with software,Unauthorized entry to facilities,0.293194
+Tampering with software,Unauthorized use of devices,0.5239793
+Tampering with software,Incorrect use of devices,0.42917278
+Tampering with software,Damaging devices or media,0.4165349
+Tampering with software,Fraudulent copying of software,0.6920185
+Tampering with software,Use of counterfeit or copied software,0.7304687
+Tampering with software,Corruption of data,0.41017452
+Tampering with software,Illegal processing of data,0.4379397
+Tampering with software,Sending or distributing of malware,0.5216561
+Tampering with software,Position detection,0.24093279
+Tampering with software,Error in use,0.29616278
+Tampering with software,Abuse of rights or permissions,0.43138033
+Tampering with software,Forging of rights or permissions,0.346758
+Tampering with software,Denial of actions,0.11223098
+Tampering with software,Lack of staff,0.14311475
+Tampering with software,Lack of resources,0.13901284
+Tampering with software,Failure of service providers,0.016750151
+Tampering with software,Violation of laws or regulations,0.19145165
+Dive-by-exploits using web-based communication,"Replay attack, man-in-the-middle attack",0.16190504
+Dive-by-exploits using web-based communication,Unauthorized processing of personal data,0.23403795
+Dive-by-exploits using web-based communication,Unauthorized entry to facilities,0.18178348
+Dive-by-exploits using web-based communication,Unauthorized use of devices,0.2333847
+Dive-by-exploits using web-based communication,Incorrect use of devices,0.15397027
+Dive-by-exploits using web-based communication,Damaging devices or media,0.23996657
+Dive-by-exploits using web-based communication,Fraudulent copying of software,0.40817943
+Dive-by-exploits using web-based communication,Use of counterfeit or copied software,0.33612737
+Dive-by-exploits using web-based communication,Corruption of data,0.40987483
+Dive-by-exploits using web-based communication,Illegal processing of data,0.27306795
+Dive-by-exploits using web-based communication,Sending or distributing of malware,0.46268937
+Dive-by-exploits using web-based communication,Position detection,0.12349054
+Dive-by-exploits using web-based communication,Error in use,0.1373761
+Dive-by-exploits using web-based communication,Abuse of rights or permissions,0.28212282
+Dive-by-exploits using web-based communication,Forging of rights or permissions,0.1520953
+Dive-by-exploits using web-based communication,Denial of actions,0.017744116
+Dive-by-exploits using web-based communication,Lack of staff,0.12225685
+Dive-by-exploits using web-based communication,Lack of resources,0.11464757
+Dive-by-exploits using web-based communication,Failure of service providers,0.18850587
+Dive-by-exploits using web-based communication,Violation of laws or regulations,0.1015894
+"Replay attack, man-in-the-middle attack",Unauthorized processing of personal data,-0.04671833
+"Replay attack, man-in-the-middle attack",Unauthorized entry to facilities,0.07275292
+"Replay attack, man-in-the-middle attack",Unauthorized use of devices,0.036816128
+"Replay attack, man-in-the-middle attack",Incorrect use of devices,0.09465293
+"Replay attack, man-in-the-middle attack",Damaging devices or media,0.07570295
+"Replay attack, man-in-the-middle attack",Fraudulent copying of software,-0.016911263
+"Replay attack, man-in-the-middle attack",Use of counterfeit or copied software,0.022014473
+"Replay attack, man-in-the-middle attack",Corruption of data,0.08442636
+"Replay attack, man-in-the-middle attack",Illegal processing of data,0.034165733
+"Replay attack, man-in-the-middle attack",Sending or distributing of malware,-0.002546009
+"Replay attack, man-in-the-middle attack",Position detection,0.19079815
+"Replay attack, man-in-the-middle attack",Error in use,0.29530707
+"Replay attack, man-in-the-middle attack",Abuse of rights or permissions,0.055367246
+"Replay attack, man-in-the-middle attack",Forging of rights or permissions,0.10765444
+"Replay attack, man-in-the-middle attack",Denial of actions,0.1403661
+"Replay attack, man-in-the-middle attack",Lack of staff,0.05595283
+"Replay attack, man-in-the-middle attack",Lack of resources,0.038301494
+"Replay attack, man-in-the-middle attack",Failure of service providers,0.17944981
+"Replay attack, man-in-the-middle attack",Violation of laws or regulations,0.06548613
+Unauthorized processing of personal data,Unauthorized entry to facilities,0.5357574
+Unauthorized processing of personal data,Unauthorized use of devices,0.69390714
+Unauthorized processing of personal data,Incorrect use of devices,0.3509332
+Unauthorized processing of personal data,Damaging devices or media,0.25636798
+Unauthorized processing of personal data,Fraudulent copying of software,0.44434217
+Unauthorized processing of personal data,Use of counterfeit or copied software,0.4262932
+Unauthorized processing of personal data,Corruption of data,0.49614978
+Unauthorized processing of personal data,Illegal processing of data,0.7700058
+Unauthorized processing of personal data,Sending or distributing of malware,0.33489272
+Unauthorized processing of personal data,Position detection,0.14167592
+Unauthorized processing of personal data,Error in use,0.20339842
+Unauthorized processing of personal data,Abuse of rights or permissions,0.58543706
+Unauthorized processing of personal data,Forging of rights or permissions,0.43423045
+Unauthorized processing of personal data,Denial of actions,0.23330306
+Unauthorized processing of personal data,Lack of staff,0.1913869
+Unauthorized processing of personal data,Lack of resources,0.21442471
+Unauthorized processing of personal data,Failure of service providers,0.09184428
+Unauthorized processing of personal data,Violation of laws or regulations,0.32872054
+Unauthorized entry to facilities,Unauthorized use of devices,0.6035658
+Unauthorized entry to facilities,Incorrect use of devices,0.2392805
+Unauthorized entry to facilities,Damaging devices or media,0.15096834
+Unauthorized entry to facilities,Fraudulent copying of software,0.24399307
+Unauthorized entry to facilities,Use of counterfeit or copied software,0.28694957
+Unauthorized entry to facilities,Corruption of data,0.20486335
+Unauthorized entry to facilities,Illegal processing of data,0.43178043
+Unauthorized entry to facilities,Sending or distributing of malware,0.16315296
+Unauthorized entry to facilities,Position detection,0.030377435
+Unauthorized entry to facilities,Error in use,0.16626458
+Unauthorized entry to facilities,Abuse of rights or permissions,0.536124
+Unauthorized entry to facilities,Forging of rights or permissions,0.5098098
+Unauthorized entry to facilities,Denial of actions,0.08483327
+Unauthorized entry to facilities,Lack of staff,0.2291875
+Unauthorized entry to facilities,Lack of resources,0.15674517
+Unauthorized entry to facilities,Failure of service providers,0.13056493
+Unauthorized entry to facilities,Violation of laws or regulations,0.31037828
+Unauthorized use of devices,Incorrect use of devices,0.7014613
+Unauthorized use of devices,Damaging devices or media,0.47436303
+Unauthorized use of devices,Fraudulent copying of software,0.4612649
+Unauthorized use of devices,Use of counterfeit or copied software,0.49932426
+Unauthorized use of devices,Corruption of data,0.42390254
+Unauthorized use of devices,Illegal processing of data,0.6557391
+Unauthorized use of devices,Sending or distributing of malware,0.35053116
+Unauthorized use of devices,Position detection,0.19459412
+Unauthorized use of devices,Error in use,0.40464753
+Unauthorized use of devices,Abuse of rights or permissions,0.59570885
+Unauthorized use of devices,Forging of rights or permissions,0.48645654
+Unauthorized use of devices,Denial of actions,0.17381735
+Unauthorized use of devices,Lack of staff,0.14786148
+Unauthorized use of devices,Lack of resources,0.24590743
+Unauthorized use of devices,Failure of service providers,0.11509919
+Unauthorized use of devices,Violation of laws or regulations,0.43733424
+Incorrect use of devices,Damaging devices or media,0.5929148
+Incorrect use of devices,Fraudulent copying of software,0.30360496
+Incorrect use of devices,Use of counterfeit or copied software,0.3618674
+Incorrect use of devices,Corruption of data,0.3474358
+Incorrect use of devices,Illegal processing of data,0.49023768
+Incorrect use of devices,Sending or distributing of malware,0.29977536
+Incorrect use of devices,Position detection,0.22503512
+Incorrect use of devices,Error in use,0.6146054
+Incorrect use of devices,Abuse of rights or permissions,0.34756908
+Incorrect use of devices,Forging of rights or permissions,0.22175439
+Incorrect use of devices,Denial of actions,0.28533232
+Incorrect use of devices,Lack of staff,0.10183103
+Incorrect use of devices,Lack of resources,0.2171875
+Incorrect use of devices,Failure of service providers,0.25173706
+Incorrect use of devices,Violation of laws or regulations,0.3252119
+Damaging devices or media,Fraudulent copying of software,0.26475033
+Damaging devices or media,Use of counterfeit or copied software,0.30006507
+Damaging devices or media,Corruption of data,0.39268166
+Damaging devices or media,Illegal processing of data,0.36650568
+Damaging devices or media,Sending or distributing of malware,0.37948292
+Damaging devices or media,Position detection,0.2629243
+Damaging devices or media,Error in use,0.43770158
+Damaging devices or media,Abuse of rights or permissions,0.30426422
+Damaging devices or media,Forging of rights or permissions,0.19729272
+Damaging devices or media,Denial of actions,0.07626715
+Damaging devices or media,Lack of staff,0.16039503
+Damaging devices or media,Lack of resources,0.26059988
+Damaging devices or media,Failure of service providers,0.18885492
+Damaging devices or media,Violation of laws or regulations,0.27362216
+Fraudulent copying of software,Use of counterfeit or copied software,0.87907153
+Fraudulent copying of software,Corruption of data,0.61978537
+Fraudulent copying of software,Illegal processing of data,0.55991113
+Fraudulent copying of software,Sending or distributing of malware,0.63626677
+Fraudulent copying of software,Position detection,0.17782441
+Fraudulent copying of software,Error in use,0.21600567
+Fraudulent copying of software,Abuse of rights or permissions,0.44986254
+Fraudulent copying of software,Forging of rights or permissions,0.368465
+Fraudulent copying of software,Denial of actions,0.0592155
+Fraudulent copying of software,Lack of staff,0.17020723
+Fraudulent copying of software,Lack of resources,0.23325837
+Fraudulent copying of software,Failure of service providers,0.060391724
+Fraudulent copying of software,Violation of laws or regulations,0.21963114
+Use of counterfeit or copied software,Corruption of data,0.48703143
+Use of counterfeit or copied software,Illegal processing of data,0.5242059
+Use of counterfeit or copied software,Sending or distributing of malware,0.5760497
+Use of counterfeit or copied software,Position detection,0.17814192
+Use of counterfeit or copied software,Error in use,0.2679741
+Use of counterfeit or copied software,Abuse of rights or permissions,0.4581073
+Use of counterfeit or copied software,Forging of rights or permissions,0.39448068
+Use of counterfeit or copied software,Denial of actions,0.09299765
+Use of counterfeit or copied software,Lack of staff,0.18651256
+Use of counterfeit or copied software,Lack of resources,0.22015038
+Use of counterfeit or copied software,Failure of service providers,0.08090347
+Use of counterfeit or copied software,Violation of laws or regulations,0.25943974
+Corruption of data,Illegal processing of data,0.6701857
+Corruption of data,Sending or distributing of malware,0.5341062
+Corruption of data,Position detection,0.19743899
+Corruption of data,Error in use,0.28286895
+Corruption of data,Abuse of rights or permissions,0.39168373
+Corruption of data,Forging of rights or permissions,0.2572214
+Corruption of data,Denial of actions,0.116571344
+Corruption of data,Lack of staff,0.13241184
+Corruption of data,Lack of resources,0.3659588
+Corruption of data,Failure of service providers,0.15790372
+Corruption of data,Violation of laws or regulations,0.22266307
+Illegal processing of data,Sending or distributing of malware,0.44363108
+Illegal processing of data,Position detection,0.21190032
+Illegal processing of data,Error in use,0.33275947
+Illegal processing of data,Abuse of rights or permissions,0.5862354
+Illegal processing of data,Forging of rights or permissions,0.413914
+Illegal processing of data,Denial of actions,0.3231046
+Illegal processing of data,Lack of staff,0.12266847
+Illegal processing of data,Lack of resources,0.20682335
+Illegal processing of data,Failure of service providers,0.10852082
+Illegal processing of data,Violation of laws or regulations,0.46730077
+Sending or distributing of malware,Position detection,0.23366608
+Sending or distributing of malware,Error in use,0.20362134
+Sending or distributing of malware,Abuse of rights or permissions,0.34066617
+Sending or distributing of malware,Forging of rights or permissions,0.25162637
+Sending or distributing of malware,Denial of actions,0.067610964
+Sending or distributing of malware,Lack of staff,0.09446792
+Sending or distributing of malware,Lack of resources,0.18007565
+Sending or distributing of malware,Failure of service providers,0.094499394
+Sending or distributing of malware,Violation of laws or regulations,0.20867209
+Position detection,Error in use,0.24866053
+Position detection,Abuse of rights or permissions,0.19835697
+Position detection,Forging of rights or permissions,0.28085417
+Position detection,Denial of actions,0.20267557
+Position detection,Lack of staff,0.030960063
+Position detection,Lack of resources,0.06240747
+Position detection,Failure of service providers,0.03427581
+Position detection,Violation of laws or regulations,0.16545951
+Error in use,Abuse of rights or permissions,0.42264384
+Error in use,Forging of rights or permissions,0.297165
+Error in use,Denial of actions,0.24762464
+Error in use,Lack of staff,0.16724482
+Error in use,Lack of resources,0.2908535
+Error in use,Failure of service providers,0.34017283
+Error in use,Violation of laws or regulations,0.23498192
+Abuse of rights or permissions,Forging of rights or permissions,0.75614446
+Abuse of rights or permissions,Denial of actions,0.19883916
+Abuse of rights or permissions,Lack of staff,0.13006599
+Abuse of rights or permissions,Lack of resources,0.23833106
+Abuse of rights or permissions,Failure of service providers,0.14412363
+Abuse of rights or permissions,Violation of laws or regulations,0.4105027
+Forging of rights or permissions,Denial of actions,0.15621391
+Forging of rights or permissions,Lack of staff,0.08125377
+Forging of rights or permissions,Lack of resources,0.1961788
+Forging of rights or permissions,Failure of service providers,-0.012498672
+Forging of rights or permissions,Violation of laws or regulations,0.35925615
+Denial of actions,Lack of staff,0.1052736
+Denial of actions,Lack of resources,0.101524994
+Denial of actions,Failure of service providers,0.23204622
+Denial of actions,Violation of laws or regulations,0.17583038
+Lack of staff,Lack of resources,0.66236144
+Lack of staff,Failure of service providers,0.40716127
+Lack of staff,Violation of laws or regulations,0.115534484
+Lack of resources,Failure of service providers,0.3659901
+Lack of resources,Violation of laws or regulations,0.15327993
+Failure of service providers,Violation of laws or regulations,0.07562718

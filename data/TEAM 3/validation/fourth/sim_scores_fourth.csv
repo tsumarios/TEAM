@@ -1,0 +1,436 @@
+sentence1,sentence2,score
+Fire-related incidents on site,"Pollution, harmful radiation",0.30421662
+Fire-related incidents on site,Major accident,0.30261475
+Fire-related incidents on site,Explosion,0.28972512
+Fire-related incidents on site,"Dust, corrosion, freezing",0.10747667
+Fire-related incidents on site,Pandemic/epidemic phenomenon,0.14582823
+Fire-related incidents on site,Failure of cooling or ventilation system,0.0948012
+Fire-related incidents on site,Loss of power supply,0.2383461
+Fire-related incidents on site,Saturation of the information system,0.13740528
+Fire-related incidents on site,Violation of information system maintainability,0.283556
+Fire-related incidents on site,Social engineering and human-related attacks,0.27398792
+Fire-related incidents on site,Interception of radiation of a device,0.16019052
+Fire-related incidents on site,Eavesdropping on private communications,0.04063905
+Fire-related incidents on site,Disclosure of information,0.17180984
+Fire-related incidents on site,Dive-by-exploits using web-based communication,0.11766193
+Fire-related incidents on site,"Replay attack, man-in-the-middle attack",0.27197954
+Fire-related incidents on site,Position detection,0.14440693
+Fire-related incidents on site,Denial of actions,0.07584752
+Fire-related incidents on site,Violation of laws or regulations,0.25589854
+Fire-related incidents on site,Water-related incidents on site,0.37781394
+Fire-related incidents on site,Natural threats,0.29861155
+Fire-related incidents on site,Technical failures,0.056006916
+Fire-related incidents on site,Unauthorized human actions on devices,0.17834857
+Fire-related incidents on site,Unauthorized human actions on software,0.14138156
+Fire-related incidents on site,Unauthorized human actions on sensitive data,0.21729472
+Fire-related incidents on site,Compromise of functions or systems,0.087599255
+Fire-related incidents on site,Compromise of services due to user erros,0.0617314
+Fire-related incidents on site,Organizational deficiency and policy threats,0.20325959
+Fire-related incidents on site,Unauthorized human actions on sensitive physical or digital assets,0.17098586
+Fire-related incidents on site,Infrastructure failures,0.16749784
+"Pollution, harmful radiation",Major accident,0.46992153
+"Pollution, harmful radiation",Explosion,0.37008744
+"Pollution, harmful radiation","Dust, corrosion, freezing",0.28128213
+"Pollution, harmful radiation",Pandemic/epidemic phenomenon,0.21796829
+"Pollution, harmful radiation",Failure of cooling or ventilation system,0.28693885
+"Pollution, harmful radiation",Loss of power supply,0.30243456
+"Pollution, harmful radiation",Saturation of the information system,0.22966148
+"Pollution, harmful radiation",Violation of information system maintainability,0.30012453
+"Pollution, harmful radiation",Social engineering and human-related attacks,0.10517587
+"Pollution, harmful radiation",Interception of radiation of a device,0.43927097
+"Pollution, harmful radiation",Eavesdropping on private communications,0.15730593
+"Pollution, harmful radiation",Disclosure of information,0.15909462
+"Pollution, harmful radiation",Dive-by-exploits using web-based communication,0.14276278
+"Pollution, harmful radiation","Replay attack, man-in-the-middle attack",-0.037004158
+"Pollution, harmful radiation",Position detection,0.20667823
+"Pollution, harmful radiation",Denial of actions,0.13535023
+"Pollution, harmful radiation",Violation of laws or regulations,0.29776254
+"Pollution, harmful radiation",Water-related incidents on site,0.17462786
+"Pollution, harmful radiation",Natural threats,0.35460612
+"Pollution, harmful radiation",Technical failures,0.3353808
+"Pollution, harmful radiation",Unauthorized human actions on devices,0.19739664
+"Pollution, harmful radiation",Unauthorized human actions on software,0.13281807
+"Pollution, harmful radiation",Unauthorized human actions on sensitive data,0.26271632
+"Pollution, harmful radiation",Compromise of functions or systems,0.07424554
+"Pollution, harmful radiation",Compromise of services due to user erros,0.25867134
+"Pollution, harmful radiation",Organizational deficiency and policy threats,0.33423048
+"Pollution, harmful radiation",Unauthorized human actions on sensitive physical or digital assets,0.2722032
+"Pollution, harmful radiation",Infrastructure failures,0.32636732
+Major accident,Explosion,0.36958718
+Major accident,"Dust, corrosion, freezing",0.19751152
+Major accident,Pandemic/epidemic phenomenon,0.18296736
+Major accident,Failure of cooling or ventilation system,0.19715327
+Major accident,Loss of power supply,0.2733747
+Major accident,Saturation of the information system,0.2682209
+Major accident,Violation of information system maintainability,0.22155541
+Major accident,Social engineering and human-related attacks,0.060351864
+Major accident,Interception of radiation of a device,0.13918267
+Major accident,Eavesdropping on private communications,0.035659928
+Major accident,Disclosure of information,0.12940282
+Major accident,Dive-by-exploits using web-based communication,0.11421695
+Major accident,"Replay attack, man-in-the-middle attack",0.055417027
+Major accident,Position detection,0.2254354
+Major accident,Denial of actions,0.08181987
+Major accident,Violation of laws or regulations,0.20160583
+Major accident,Water-related incidents on site,0.22535062
+Major accident,Natural threats,0.21962032
+Major accident,Technical failures,0.30439037
+Major accident,Unauthorized human actions on devices,0.11747005
+Major accident,Unauthorized human actions on software,0.039627552
+Major accident,Unauthorized human actions on sensitive data,0.19476616
+Major accident,Compromise of functions or systems,0.10877175
+Major accident,Compromise of services due to user erros,0.14205506
+Major accident,Organizational deficiency and policy threats,0.24919155
+Major accident,Unauthorized human actions on sensitive physical or digital assets,0.17825836
+Major accident,Infrastructure failures,0.3888882
+Explosion,"Dust, corrosion, freezing",0.11434463
+Explosion,Pandemic/epidemic phenomenon,0.09913188
+Explosion,Failure of cooling or ventilation system,0.052783947
+Explosion,Loss of power supply,0.12789361
+Explosion,Saturation of the information system,0.2145115
+Explosion,Violation of information system maintainability,0.17330468
+Explosion,Social engineering and human-related attacks,0.26137993
+Explosion,Interception of radiation of a device,0.32729736
+Explosion,Eavesdropping on private communications,0.17792146
+Explosion,Disclosure of information,0.23804078
+Explosion,Dive-by-exploits using web-based communication,0.13238403
+Explosion,"Replay attack, man-in-the-middle attack",0.05609406
+Explosion,Position detection,0.18461218
+Explosion,Denial of actions,-0.012734938
+Explosion,Violation of laws or regulations,0.2159011
+Explosion,Water-related incidents on site,0.11667434
+Explosion,Natural threats,0.26152623
+Explosion,Technical failures,0.19249636
+Explosion,Unauthorized human actions on devices,0.27557614
+Explosion,Unauthorized human actions on software,0.16329719
+Explosion,Unauthorized human actions on sensitive data,0.23467971
+Explosion,Compromise of functions or systems,0.08387795
+Explosion,Compromise of services due to user erros,0.13827035
+Explosion,Organizational deficiency and policy threats,0.157899
+Explosion,Unauthorized human actions on sensitive physical or digital assets,0.2874421
+Explosion,Infrastructure failures,0.31921232
+"Dust, corrosion, freezing",Pandemic/epidemic phenomenon,0.3289884
+"Dust, corrosion, freezing",Failure of cooling or ventilation system,0.45371428
+"Dust, corrosion, freezing",Loss of power supply,0.09988831
+"Dust, corrosion, freezing",Saturation of the information system,0.12481702
+"Dust, corrosion, freezing",Violation of information system maintainability,0.10743207
+"Dust, corrosion, freezing",Social engineering and human-related attacks,0.10609135
+"Dust, corrosion, freezing",Interception of radiation of a device,0.16258618
+"Dust, corrosion, freezing",Eavesdropping on private communications,-0.024927108
+"Dust, corrosion, freezing",Disclosure of information,-0.107128546
+"Dust, corrosion, freezing",Dive-by-exploits using web-based communication,0.06858896
+"Dust, corrosion, freezing","Replay attack, man-in-the-middle attack",0.10142715
+"Dust, corrosion, freezing",Position detection,0.083199315
+"Dust, corrosion, freezing",Denial of actions,0.08446184
+"Dust, corrosion, freezing",Violation of laws or regulations,0.09244095
+"Dust, corrosion, freezing",Water-related incidents on site,0.107277006
+"Dust, corrosion, freezing",Natural threats,0.2396397
+"Dust, corrosion, freezing",Technical failures,0.11380387
+"Dust, corrosion, freezing",Unauthorized human actions on devices,0.050411228
+"Dust, corrosion, freezing",Unauthorized human actions on software,-0.03216766
+"Dust, corrosion, freezing",Unauthorized human actions on sensitive data,-0.052774027
+"Dust, corrosion, freezing",Compromise of functions or systems,0.13600954
+"Dust, corrosion, freezing",Compromise of services due to user erros,0.19493848
+"Dust, corrosion, freezing",Organizational deficiency and policy threats,0.22247624
+"Dust, corrosion, freezing",Unauthorized human actions on sensitive physical or digital assets,0.0026898533
+"Dust, corrosion, freezing",Infrastructure failures,0.26669204
+Pandemic/epidemic phenomenon,Failure of cooling or ventilation system,0.23736116
+Pandemic/epidemic phenomenon,Loss of power supply,0.18999113
+Pandemic/epidemic phenomenon,Saturation of the information system,0.18329723
+Pandemic/epidemic phenomenon,Violation of information system maintainability,0.19001642
+Pandemic/epidemic phenomenon,Social engineering and human-related attacks,0.040570766
+Pandemic/epidemic phenomenon,Interception of radiation of a device,0.14985263
+Pandemic/epidemic phenomenon,Eavesdropping on private communications,0.07224253
+Pandemic/epidemic phenomenon,Disclosure of information,-0.014795305
+Pandemic/epidemic phenomenon,Dive-by-exploits using web-based communication,0.13479531
+Pandemic/epidemic phenomenon,"Replay attack, man-in-the-middle attack",0.12638193
+Pandemic/epidemic phenomenon,Position detection,0.09018619
+Pandemic/epidemic phenomenon,Denial of actions,0.00796114
+Pandemic/epidemic phenomenon,Violation of laws or regulations,0.16735786
+Pandemic/epidemic phenomenon,Water-related incidents on site,0.27961534
+Pandemic/epidemic phenomenon,Natural threats,0.2676597
+Pandemic/epidemic phenomenon,Technical failures,0.071559004
+Pandemic/epidemic phenomenon,Unauthorized human actions on devices,0.13459718
+Pandemic/epidemic phenomenon,Unauthorized human actions on software,0.04633738
+Pandemic/epidemic phenomenon,Unauthorized human actions on sensitive data,0.061228115
+Pandemic/epidemic phenomenon,Compromise of functions or systems,0.24656186
+Pandemic/epidemic phenomenon,Compromise of services due to user erros,0.22946025
+Pandemic/epidemic phenomenon,Organizational deficiency and policy threats,0.21911517
+Pandemic/epidemic phenomenon,Unauthorized human actions on sensitive physical or digital assets,0.097017065
+Pandemic/epidemic phenomenon,Infrastructure failures,0.25369933
+Failure of cooling or ventilation system,Loss of power supply,0.35970873
+Failure of cooling or ventilation system,Saturation of the information system,0.12932588
+Failure of cooling or ventilation system,Violation of information system maintainability,0.27133593
+Failure of cooling or ventilation system,Social engineering and human-related attacks,0.12246984
+Failure of cooling or ventilation system,Interception of radiation of a device,0.28075835
+Failure of cooling or ventilation system,Eavesdropping on private communications,0.060051143
+Failure of cooling or ventilation system,Disclosure of information,-0.010198628
+Failure of cooling or ventilation system,Dive-by-exploits using web-based communication,0.06762183
+Failure of cooling or ventilation system,"Replay attack, man-in-the-middle attack",0.06657213
+Failure of cooling or ventilation system,Position detection,0.07394473
+Failure of cooling or ventilation system,Denial of actions,0.28860945
+Failure of cooling or ventilation system,Violation of laws or regulations,0.18750039
+Failure of cooling or ventilation system,Water-related incidents on site,0.16913623
+Failure of cooling or ventilation system,Natural threats,0.114731096
+Failure of cooling or ventilation system,Technical failures,0.29093206
+Failure of cooling or ventilation system,Unauthorized human actions on devices,0.22827002
+Failure of cooling or ventilation system,Unauthorized human actions on software,0.17861071
+Failure of cooling or ventilation system,Unauthorized human actions on sensitive data,0.105441734
+Failure of cooling or ventilation system,Compromise of functions or systems,0.13416225
+Failure of cooling or ventilation system,Compromise of services due to user erros,0.18127783
+Failure of cooling or ventilation system,Organizational deficiency and policy threats,0.31912833
+Failure of cooling or ventilation system,Unauthorized human actions on sensitive physical or digital assets,0.13750526
+Failure of cooling or ventilation system,Infrastructure failures,0.3952967
+Loss of power supply,Saturation of the information system,0.22571975
+Loss of power supply,Violation of information system maintainability,0.2820832
+Loss of power supply,Social engineering and human-related attacks,-0.026207013
+Loss of power supply,Interception of radiation of a device,0.1589291
+Loss of power supply,Eavesdropping on private communications,0.11467939
+Loss of power supply,Disclosure of information,0.22196653
+Loss of power supply,Dive-by-exploits using web-based communication,0.036378756
+Loss of power supply,"Replay attack, man-in-the-middle attack",0.044021577
+Loss of power supply,Position detection,0.108620256
+Loss of power supply,Denial of actions,0.13844249
+Loss of power supply,Violation of laws or regulations,0.10968515
+Loss of power supply,Water-related incidents on site,0.16054821
+Loss of power supply,Natural threats,0.15104969
+Loss of power supply,Technical failures,0.18124074
+Loss of power supply,Unauthorized human actions on devices,0.13462749
+Loss of power supply,Unauthorized human actions on software,0.0698427
+Loss of power supply,Unauthorized human actions on sensitive data,0.14776678
+Loss of power supply,Compromise of functions or systems,0.1570599
+Loss of power supply,Compromise of services due to user erros,0.25123957
+Loss of power supply,Organizational deficiency and policy threats,0.23304835
+Loss of power supply,Unauthorized human actions on sensitive physical or digital assets,0.13424167
+Loss of power supply,Infrastructure failures,0.33538717
+Saturation of the information system,Violation of information system maintainability,0.46372932
+Saturation of the information system,Social engineering and human-related attacks,0.09960562
+Saturation of the information system,Interception of radiation of a device,0.16414776
+Saturation of the information system,Eavesdropping on private communications,0.19001992
+Saturation of the information system,Disclosure of information,0.36436832
+Saturation of the information system,Dive-by-exploits using web-based communication,0.09012462
+Saturation of the information system,"Replay attack, man-in-the-middle attack",0.17051135
+Saturation of the information system,Position detection,0.27072203
+Saturation of the information system,Denial of actions,0.006462699
+Saturation of the information system,Violation of laws or regulations,0.22669958
+Saturation of the information system,Water-related incidents on site,0.24560733
+Saturation of the information system,Natural threats,0.02723748
+Saturation of the information system,Technical failures,0.21055658
+Saturation of the information system,Unauthorized human actions on devices,0.15378208
+Saturation of the information system,Unauthorized human actions on software,0.075037844
+Saturation of the information system,Unauthorized human actions on sensitive data,0.13623059
+Saturation of the information system,Compromise of functions or systems,0.33073154
+Saturation of the information system,Compromise of services due to user erros,0.11527858
+Saturation of the information system,Organizational deficiency and policy threats,0.10326114
+Saturation of the information system,Unauthorized human actions on sensitive physical or digital assets,0.17832266
+Saturation of the information system,Infrastructure failures,0.31287795
+Violation of information system maintainability,Social engineering and human-related attacks,0.13392015
+Violation of information system maintainability,Interception of radiation of a device,0.22430038
+Violation of information system maintainability,Eavesdropping on private communications,0.20521781
+Violation of information system maintainability,Disclosure of information,0.31963813
+Violation of information system maintainability,Dive-by-exploits using web-based communication,0.15897635
+Violation of information system maintainability,"Replay attack, man-in-the-middle attack",0.19790472
+Violation of information system maintainability,Position detection,0.23012179
+Violation of information system maintainability,Denial of actions,0.17492642
+Violation of information system maintainability,Violation of laws or regulations,0.48559606
+Violation of information system maintainability,Water-related incidents on site,0.3132944
+Violation of information system maintainability,Natural threats,0.080323465
+Violation of information system maintainability,Technical failures,0.26932228
+Violation of information system maintainability,Unauthorized human actions on devices,0.29694292
+Violation of information system maintainability,Unauthorized human actions on software,0.22837937
+Violation of information system maintainability,Unauthorized human actions on sensitive data,0.3165822
+Violation of information system maintainability,Compromise of functions or systems,0.27071008
+Violation of information system maintainability,Compromise of services due to user erros,0.21353063
+Violation of information system maintainability,Organizational deficiency and policy threats,0.27928877
+Violation of information system maintainability,Unauthorized human actions on sensitive physical or digital assets,0.342768
+Violation of information system maintainability,Infrastructure failures,0.33487308
+Social engineering and human-related attacks,Interception of radiation of a device,0.22511846
+Social engineering and human-related attacks,Eavesdropping on private communications,0.06002471
+Social engineering and human-related attacks,Disclosure of information,0.04654095
+Social engineering and human-related attacks,Dive-by-exploits using web-based communication,0.16766147
+Social engineering and human-related attacks,"Replay attack, man-in-the-middle attack",0.22400917
+Social engineering and human-related attacks,Position detection,0.09639875
+Social engineering and human-related attacks,Denial of actions,-0.028341934
+Social engineering and human-related attacks,Violation of laws or regulations,0.18385613
+Social engineering and human-related attacks,Water-related incidents on site,0.1314651
+Social engineering and human-related attacks,Natural threats,0.23339055
+Social engineering and human-related attacks,Technical failures,0.15904045
+Social engineering and human-related attacks,Unauthorized human actions on devices,0.46113765
+Social engineering and human-related attacks,Unauthorized human actions on software,0.35271174
+Social engineering and human-related attacks,Unauthorized human actions on sensitive data,0.2831242
+Social engineering and human-related attacks,Compromise of functions or systems,0.15347406
+Social engineering and human-related attacks,Compromise of services due to user erros,0.2275317
+Social engineering and human-related attacks,Organizational deficiency and policy threats,0.1783453
+Social engineering and human-related attacks,Unauthorized human actions on sensitive physical or digital assets,0.28472802
+Social engineering and human-related attacks,Infrastructure failures,0.25521883
+Interception of radiation of a device,Eavesdropping on private communications,0.40021044
+Interception of radiation of a device,Disclosure of information,0.22272235
+Interception of radiation of a device,Dive-by-exploits using web-based communication,0.19756907
+Interception of radiation of a device,"Replay attack, man-in-the-middle attack",0.17166138
+Interception of radiation of a device,Position detection,0.38319048
+Interception of radiation of a device,Denial of actions,0.19923627
+Interception of radiation of a device,Violation of laws or regulations,0.2228642
+Interception of radiation of a device,Water-related incidents on site,0.22279343
+Interception of radiation of a device,Natural threats,0.285255
+Interception of radiation of a device,Technical failures,0.24057738
+Interception of radiation of a device,Unauthorized human actions on devices,0.31171826
+Interception of radiation of a device,Unauthorized human actions on software,0.16453424
+Interception of radiation of a device,Unauthorized human actions on sensitive data,0.19331175
+Interception of radiation of a device,Compromise of functions or systems,0.21948302
+Interception of radiation of a device,Compromise of services due to user erros,0.332284
+Interception of radiation of a device,Organizational deficiency and policy threats,0.18346834
+Interception of radiation of a device,Unauthorized human actions on sensitive physical or digital assets,0.25731826
+Interception of radiation of a device,Infrastructure failures,0.18312418
+Eavesdropping on private communications,Disclosure of information,0.3766762
+Eavesdropping on private communications,Dive-by-exploits using web-based communication,0.33407345
+Eavesdropping on private communications,"Replay attack, man-in-the-middle attack",-0.004323311
+Eavesdropping on private communications,Position detection,0.2470386
+Eavesdropping on private communications,Denial of actions,0.22985293
+Eavesdropping on private communications,Violation of laws or regulations,0.19831839
+Eavesdropping on private communications,Water-related incidents on site,0.11445312
+Eavesdropping on private communications,Natural threats,0.15559033
+Eavesdropping on private communications,Technical failures,0.065193124
+Eavesdropping on private communications,Unauthorized human actions on devices,0.34589946
+Eavesdropping on private communications,Unauthorized human actions on software,0.33202314
+Eavesdropping on private communications,Unauthorized human actions on sensitive data,0.50675595
+Eavesdropping on private communications,Compromise of functions or systems,0.109448224
+Eavesdropping on private communications,Compromise of services due to user erros,0.2300964
+Eavesdropping on private communications,Organizational deficiency and policy threats,0.119726226
+Eavesdropping on private communications,Unauthorized human actions on sensitive physical or digital assets,0.41533324
+Eavesdropping on private communications,Infrastructure failures,0.12198402
+Disclosure of information,Dive-by-exploits using web-based communication,0.10229609
+Disclosure of information,"Replay attack, man-in-the-middle attack",0.061437596
+Disclosure of information,Position detection,0.3376688
+Disclosure of information,Denial of actions,0.23602591
+Disclosure of information,Violation of laws or regulations,0.15116394
+Disclosure of information,Water-related incidents on site,0.23495534
+Disclosure of information,Natural threats,0.14004827
+Disclosure of information,Technical failures,0.1050886
+Disclosure of information,Unauthorized human actions on devices,0.20310932
+Disclosure of information,Unauthorized human actions on software,0.17341869
+Disclosure of information,Unauthorized human actions on sensitive data,0.36574507
+Disclosure of information,Compromise of functions or systems,0.13110659
+Disclosure of information,Compromise of services due to user erros,0.068370484
+Disclosure of information,Organizational deficiency and policy threats,0.088595785
+Disclosure of information,Unauthorized human actions on sensitive physical or digital assets,0.2770712
+Disclosure of information,Infrastructure failures,0.08950204
+Dive-by-exploits using web-based communication,"Replay attack, man-in-the-middle attack",0.16190504
+Dive-by-exploits using web-based communication,Position detection,0.123490356
+Dive-by-exploits using web-based communication,Denial of actions,0.017744072
+Dive-by-exploits using web-based communication,Violation of laws or regulations,0.10158941
+Dive-by-exploits using web-based communication,Water-related incidents on site,0.27890453
+Dive-by-exploits using web-based communication,Natural threats,0.06477006
+Dive-by-exploits using web-based communication,Technical failures,0.065989584
+Dive-by-exploits using web-based communication,Unauthorized human actions on devices,0.21121709
+Dive-by-exploits using web-based communication,Unauthorized human actions on software,0.25563475
+Dive-by-exploits using web-based communication,Unauthorized human actions on sensitive data,0.22134012
+Dive-by-exploits using web-based communication,Compromise of functions or systems,0.10019269
+Dive-by-exploits using web-based communication,Compromise of services due to user erros,0.2933272
+Dive-by-exploits using web-based communication,Organizational deficiency and policy threats,0.14011784
+Dive-by-exploits using web-based communication,Unauthorized human actions on sensitive physical or digital assets,0.3104326
+Dive-by-exploits using web-based communication,Infrastructure failures,0.12028959
+"Replay attack, man-in-the-middle attack",Position detection,0.1907982
+"Replay attack, man-in-the-middle attack",Denial of actions,0.14036602
+"Replay attack, man-in-the-middle attack",Violation of laws or regulations,0.065486126
+"Replay attack, man-in-the-middle attack",Water-related incidents on site,0.20489809
+"Replay attack, man-in-the-middle attack",Natural threats,0.094028905
+"Replay attack, man-in-the-middle attack",Technical failures,0.08457051
+"Replay attack, man-in-the-middle attack",Unauthorized human actions on devices,0.041008458
+"Replay attack, man-in-the-middle attack",Unauthorized human actions on software,-0.022849942
+"Replay attack, man-in-the-middle attack",Unauthorized human actions on sensitive data,-0.018155737
+"Replay attack, man-in-the-middle attack",Compromise of functions or systems,0.21500903
+"Replay attack, man-in-the-middle attack",Compromise of services due to user erros,0.16522625
+"Replay attack, man-in-the-middle attack",Organizational deficiency and policy threats,0.19833179
+"Replay attack, man-in-the-middle attack",Unauthorized human actions on sensitive physical or digital assets,-0.0050409497
+"Replay attack, man-in-the-middle attack",Infrastructure failures,0.1577279
+Position detection,Denial of actions,0.20267552
+Position detection,Violation of laws or regulations,0.16545962
+Position detection,Water-related incidents on site,0.16478416
+Position detection,Natural threats,0.1884104
+Position detection,Technical failures,0.23747301
+Position detection,Unauthorized human actions on devices,0.1539753
+Position detection,Unauthorized human actions on software,0.081608444
+Position detection,Unauthorized human actions on sensitive data,0.10262138
+Position detection,Compromise of functions or systems,0.28061032
+Position detection,Compromise of services due to user erros,0.2350094
+Position detection,Organizational deficiency and policy threats,0.19281808
+Position detection,Unauthorized human actions on sensitive physical or digital assets,0.16290426
+Position detection,Infrastructure failures,0.21799642
+Denial of actions,Violation of laws or regulations,0.17583036
+Denial of actions,Water-related incidents on site,0.14073794
+Denial of actions,Natural threats,0.16794617
+Denial of actions,Technical failures,0.20733458
+Denial of actions,Unauthorized human actions on devices,0.20183462
+Denial of actions,Unauthorized human actions on software,0.15151533
+Denial of actions,Unauthorized human actions on sensitive data,0.19739959
+Denial of actions,Compromise of functions or systems,-0.056440078
+Denial of actions,Compromise of services due to user erros,0.028725456
+Denial of actions,Organizational deficiency and policy threats,0.14462839
+Denial of actions,Unauthorized human actions on sensitive physical or digital assets,0.13885193
+Denial of actions,Infrastructure failures,0.15577321
+Violation of laws or regulations,Water-related incidents on site,0.15947299
+Violation of laws or regulations,Natural threats,0.16071066
+Violation of laws or regulations,Technical failures,0.09575091
+Violation of laws or regulations,Unauthorized human actions on devices,0.435913
+Violation of laws or regulations,Unauthorized human actions on software,0.36568046
+Violation of laws or regulations,Unauthorized human actions on sensitive data,0.4101718
+Violation of laws or regulations,Compromise of functions or systems,0.12184906
+Violation of laws or regulations,Compromise of services due to user erros,0.23390538
+Violation of laws or regulations,Organizational deficiency and policy threats,0.26460955
+Violation of laws or regulations,Unauthorized human actions on sensitive physical or digital assets,0.35729524
+Violation of laws or regulations,Infrastructure failures,0.16491063
+Water-related incidents on site,Natural threats,0.24104466
+Water-related incidents on site,Technical failures,0.09555124
+Water-related incidents on site,Unauthorized human actions on devices,0.088948004
+Water-related incidents on site,Unauthorized human actions on software,0.04612527
+Water-related incidents on site,Unauthorized human actions on sensitive data,0.07860136
+Water-related incidents on site,Compromise of functions or systems,0.16599916
+Water-related incidents on site,Compromise of services due to user erros,0.12491851
+Water-related incidents on site,Organizational deficiency and policy threats,0.11967434
+Water-related incidents on site,Unauthorized human actions on sensitive physical or digital assets,0.13742287
+Water-related incidents on site,Infrastructure failures,0.22344303
+Natural threats,Technical failures,0.15951051
+Natural threats,Unauthorized human actions on devices,0.2408476
+Natural threats,Unauthorized human actions on software,0.20653656
+Natural threats,Unauthorized human actions on sensitive data,0.29337105
+Natural threats,Compromise of functions or systems,0.10612434
+Natural threats,Compromise of services due to user erros,0.2017388
+Natural threats,Organizational deficiency and policy threats,0.28119096
+Natural threats,Unauthorized human actions on sensitive physical or digital assets,0.28367808
+Natural threats,Infrastructure failures,0.18203728
+Technical failures,Unauthorized human actions on devices,0.20775372
+Technical failures,Unauthorized human actions on software,0.1802009
+Technical failures,Unauthorized human actions on sensitive data,0.070378855
+Technical failures,Compromise of functions or systems,0.20699275
+Technical failures,Compromise of services due to user erros,0.20563495
+Technical failures,Organizational deficiency and policy threats,0.30801752
+Technical failures,Unauthorized human actions on sensitive physical or digital assets,0.1364021
+Technical failures,Infrastructure failures,0.5792095
+Unauthorized human actions on devices,Unauthorized human actions on software,0.8264087
+Unauthorized human actions on devices,Unauthorized human actions on sensitive data,0.75208306
+Unauthorized human actions on devices,Compromise of functions or systems,0.15233399
+Unauthorized human actions on devices,Compromise of services due to user erros,0.30232894
+Unauthorized human actions on devices,Organizational deficiency and policy threats,0.1713249
+Unauthorized human actions on devices,Unauthorized human actions on sensitive physical or digital assets,0.79153246
+Unauthorized human actions on devices,Infrastructure failures,0.2361778
+Unauthorized human actions on software,Unauthorized human actions on sensitive data,0.77648973
+Unauthorized human actions on software,Compromise of functions or systems,0.07520151
+Unauthorized human actions on software,Compromise of services due to user erros,0.27967742
+Unauthorized human actions on software,Organizational deficiency and policy threats,0.1226627
+Unauthorized human actions on software,Unauthorized human actions on sensitive physical or digital assets,0.77939165
+Unauthorized human actions on software,Infrastructure failures,0.10153385
+Unauthorized human actions on sensitive data,Compromise of functions or systems,0.014549803
+Unauthorized human actions on sensitive data,Compromise of services due to user erros,0.21634474
+Unauthorized human actions on sensitive data,Organizational deficiency and policy threats,0.15872003
+Unauthorized human actions on sensitive data,Unauthorized human actions on sensitive physical or digital assets,0.8533933
+Unauthorized human actions on sensitive data,Infrastructure failures,0.13053022
+Compromise of functions or systems,Compromise of services due to user erros,0.52769214
+Compromise of functions or systems,Organizational deficiency and policy threats,0.2413666
+Compromise of functions or systems,Unauthorized human actions on sensitive physical or digital assets,0.049208436
+Compromise of functions or systems,Infrastructure failures,0.2336026
+Compromise of services due to user erros,Organizational deficiency and policy threats,0.22663519
+Compromise of services due to user erros,Unauthorized human actions on sensitive physical or digital assets,0.21521586
+Compromise of services due to user erros,Infrastructure failures,0.24349679
+Organizational deficiency and policy threats,Unauthorized human actions on sensitive physical or digital assets,0.17676395
+Organizational deficiency and policy threats,Infrastructure failures,0.43129474
+Unauthorized human actions on sensitive physical or digital assets,Infrastructure failures,0.18013217

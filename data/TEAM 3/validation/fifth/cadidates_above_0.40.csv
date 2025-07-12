@@ -1,0 +1,16 @@
+﻿,sentence1,sentence2,score
+224,Unauthorized human actions on sensitive data,Unauthorized human actions on devices,0.7520833
+187,Technical failures,Infrastructure failures,0.5792095
+207,Infrastructure failures,Infrastructure failures due to environmental conditions,0.5561959
+230,Human exploitation of radiations to intercept devices,Unauthorized human actions on devices,0.49839702
+211,Human actions on sensitive physical or digital assets,Unauthorized human actions on sensitive data,0.47522312
+223,Unauthorized human actions on sensitive data,Human exploitation of radiations to intercept devices,0.46858114
+215,Human actions on sensitive physical or digital assets,Unauthorized human actions on devices,0.46569526
+214,Human actions on sensitive physical or digital assets,Human exploitation of radiations to intercept devices,0.46568215
+225,Physical threat due to pollution or harmful radiation,Infrastructure failures due to environmental conditions,0.45043913
+37,Explosion,Physical threat due to pollution or harmful radiation,0.44743133
+164,Violation of laws or regulations,Unauthorized human actions on devices,0.43591297
+195,Organizational deficiency and policy threats,Infrastructure failures,0.43129474
+160,Violation of laws or regulations,Unauthorized human actions on sensitive data,0.41017187
+182,Natural threats,Physical threat due to pollution or harmful radiation,0.40910035
+212,Human actions on sensitive physical or digital assets,Physical threat due to pollution or harmful radiation,0.40235487

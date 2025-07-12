@@ -1,0 +1,6 @@
+﻿,New Threat,Conductor,Orchestra
+0,Physical threats,Fire-related incidents on site,Water-related incidents on site
+1,Physical threats,Physical threat due to incidents,Fire-related incidents on site
+2,Physical threats,"Physical conditions, such as dust, corrosion, freezing",Physical threat due to incidents
+3,Infrastructure failures,Infrastructure failures,Loss of power supply
+4,Human actions on information,Disclosure of information,Interception and re-use of communications

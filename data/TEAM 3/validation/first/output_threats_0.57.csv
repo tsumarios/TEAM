@@ -1,0 +1,53 @@
+﻿ID,Threat,Source of documentation
+TP01,Fire,ISO 27005
+TP03,"Pollution, harmful radiation",ISO 27005
+TP04,Major accident,ISO 27005
+TP05,Explosion,ISO 27005
+TP06,"Dust, corrosion, freezing",ISO 27005
+TN03,Volcanic phenomenon,ISO 27005
+TN06,Pandemic/epidemic phenomenon,ISO 27005
+TI02,Failure of cooling or ventilation system,ISO 27005
+TI03,Loss of power supply,ISO 27005
+TT02,Saturation of the information system,ISO 27005
+TT03,Violation of information system maintainability,ISO 27005
+TH01,"Terrorist attack, sabotage",ISO 27005
+TH02,Social Engineering,ISO 27005
+TH03,Interception of radiation of a device,ISO 27005
+TH04,Unauthorized surveillance,ISO 27005
+TH05,Eavesdropping,ISO 27005
+TH09,Unauthorized retrieval of disposed media,ISO 27005
+TH10,Disclosure of information,ISO 27005
+TH14,Dive-by-exploits using web-based communication,ISO 27005
+TH15,"Replay attack, man-in-the-middle attack",ISO 27005
+TH20,Damaging devices or media,ISO 27005
+TH26,Position detection,ISO 27005
+TC04,Denial of actions,ISO 27005
+TO04,Violation of laws or regulations,ISO 27005
+t_1,Electromagnetic disturbances affecting infrastructure,TEAM
+t_2,Failure in telecommunication infrastructure,TEAM
+t_3,Unauthorized use or duplication of software,TEAM
+t_4,Improper or unauthorized processing of data,TEAM
+t_5,Failure of technical systems or equipment,TEAM
+t_6,Misuse or manipulation of function permissions,TEAM
+t_7,Unauthorized modification or sabotage of software,TEAM
+t_8,Improper or unauthorized use of devices,TEAM
+t_9,Unauthorized use or duplication of software,TEAM
+t_10,Atmospheric natural phenomenon,TEAM
+t_11,Tampering with system components,TEAM
+t_12,Failure of technical systems or equipment,TEAM
+t_13,Theft of sensitive digital assets,TEAM
+t_14,"Improper, unauthorized, or malicious handling of data",TEAM
+t_15,Organizational resource constraints,TEAM
+t_16,Atmospheric or geological natural phenomenon,TEAM
+t_17,Organizational deficiencies affecting service or supply continuity,TEAM
+t_18,Failure of technical systems,TEAM
+t_19,Electromagnetic or thermal disturbances affecting infrastructure,TEAM
+t_20,Water-related incidents on site,TEAM
+t_21,Atmospheric or geological natural phenomenon,TEAM
+t_22,Unauthorized or malicious software dissemination,TEAM
+t_23,User error causing service malfunction,TEAM
+t_24,Digital identity or credentials sabotage,TEAM
+t_25,Organizational deficiencies affecting telecommunication services,TEAM
+t_26,Improper or unauthorized use of unvalidated data,TEAM
+t_27,Theft of sensitive physical or digital assets,TEAM
+t_28,Unauthorized physical access or interaction,TEAM

@@ -1,0 +1,11 @@
+﻿,New Threat,Conductor,Orchestra
+0,Human actions on sensitive physical or digital assets,Unauthorized human actions on sensitive physical or digital assets,Unauthorized human actions on sensitive data
+1,Human actions on sensitive physical or digital assets,Unauthorized human actions on devices,Unauthorized human actions on software
+2,Compromise of functions or services,Compromise of functions or systems,Compromise of services due to user erros
+3,Unauthorized human actions on sensitive data,Unauthorized human actions on sensitive data,Eavesdropping on private communications
+4,Physical threat due to pollution or harmful radiation,Major accident,"Pollution, harmful radiation"
+5,Technical failures,Saturation of the information system,Violation of information system maintainability
+6,Human actions on sensitive physical or digital assets,Unauthorized human actions on devices,Social engineering and human-related attacks
+7,Human actions on sensitive physical or digital assets,Interception of radiation of a device,Eavesdropping on private communications
+8,Infrastructure failures,Infrastructure failures,Failure of cooling or ventilation system
+9,Unauthorized human actions on devices,Position detection,Interception of radiation of a device

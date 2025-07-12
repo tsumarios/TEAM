@@ -1,0 +1,38 @@
+ID,Threat,Source of documentation
+TP01,Fire-related incidents on site,ISO 27005
+TP03,"Pollution, harmful radiation",ISO 27005
+TP04,Major accident,ISO 27005
+TP05,Explosion,ISO 27005
+TP06,"Dust, corrosion, freezing",ISO 27005
+TN06,Pandemic/epidemic phenomenon,ISO 27005
+TI02,Failure of cooling or ventilation system,ISO 27005
+TI03,Loss of power supply,ISO 27005
+TT02,Saturation of the information system,ISO 27005
+TT03,Violation of information system maintainability,ISO 27005
+TH01,"Terrorist attack, sabotage",ISO 27005
+TH02,Social Engineering,ISO 27005
+TH03,Interception of radiation of a device,ISO 27005
+TH05,Eavesdropping,ISO 27005
+TH10,Disclosure of information,ISO 27005
+TH14,Dive-by-exploits using web-based communication,ISO 27005
+TH15,"Replay attack, man-in-the-middle attack",ISO 27005
+TH26,Position detection,ISO 27005
+TC04,Denial of actions,ISO 27005
+TO04,Violation of laws or regulations,ISO 27005
+t_6,Misuse or manipulation of function permissions,TEAM
+t_14,"Improper, unauthorized, or malicious handling of data",TEAM
+t_15,Organizational resource constraints,TEAM
+t_20,Water-related incidents on site,TEAM
+t_23,User error causing service malfunction,TEAM
+t_24,Digital identity or credentials sabotage,TEAM
+t_27,Theft of sensitive physical or digital assets,TEAM
+t_28,Unauthorized physical access or interaction,TEAM
+t_30,Natural threats,TEAM
+t_31,Infrastructure failures due to electromagnetic or thermal disturbances,TEAM
+t_32,"Unauthorized modification, dissemination or sabotage of software",TEAM
+t_34,Unauthorized or malicious surveillance,TEAM
+t_35,Technical failures,TEAM
+t_36,Unauthorized modification or misuse of systems or devices,TEAM
+t_37,Infrastructure failures due to telecommunication problems,TEAM
+t_38,Organizational deficiency threats,TEAM
+t_40,Improper or unauthorized use of devices,TEAM

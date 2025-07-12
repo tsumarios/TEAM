@@ -1,0 +1,24 @@
+﻿,sentence1,sentence2,score
+423,Unauthorized human actions on sensitive data,Unauthorized human actions on sensitive physical or digital assets,0.8533933
+407,Unauthorized human actions on devices,Unauthorized human actions on software,0.8264087
+412,Unauthorized human actions on devices,Unauthorized human actions on sensitive physical or digital assets,0.79153246
+418,Unauthorized human actions on software,Unauthorized human actions on sensitive physical or digital assets,0.77939165
+414,Unauthorized human actions on software,Unauthorized human actions on sensitive data,0.77648973
+408,Unauthorized human actions on devices,Unauthorized human actions on sensitive data,0.75208306
+406,Technical failures,Infrastructure failures,0.5792095
+425,Compromise of functions or systems,Compromise of services due to user erros,0.52769214
+293,Eavesdropping on private communications,Unauthorized human actions on sensitive data,0.50675595
+233,Violation of information system maintainability,Violation of laws or regulations,0.48559606
+29,"Pollution, harmful radiation",Major accident,0.46992153
+204,Saturation of the information system,Violation of information system maintainability,0.46372932
+256,Social engineering and human-related attacks,Unauthorized human actions on devices,0.46113765
+111,"Dust, corrosion, freezing",Failure of cooling or ventilation system,0.45371428
+38,"Pollution, harmful radiation",Interception of radiation of a device,0.43927097
+372,Violation of laws or regulations,Unauthorized human actions on devices,0.435913
+433,Organizational deficiency and policy threats,Infrastructure failures,0.43129474
+297,Eavesdropping on private communications,Unauthorized human actions on sensitive physical or digital assets,0.41533324
+374,Violation of laws or regulations,Unauthorized human actions on sensitive data,0.4101718
+264,Interception of radiation of a device,Eavesdropping on private communications,0.40021044
+181,Failure of cooling or ventilation system,Infrastructure failures,0.3952967
+83,Major accident,Infrastructure failures,0.3888882
+268,Interception of radiation of a device,Position detection,0.38319048

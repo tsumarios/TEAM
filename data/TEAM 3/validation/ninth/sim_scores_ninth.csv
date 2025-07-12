@@ -1,0 +1,29 @@
+sentence1,sentence2,score
+Violation of laws or regulations,Natural threats,0.16071072
+Violation of laws or regulations,Technical failures,0.09575091
+Violation of laws or regulations,Infrastructure failures,0.16491061
+Violation of laws or regulations,Compromise of functions or services,0.116421595
+Violation of laws or regulations,Physical threats,0.13194612
+Violation of laws or regulations,Human actions,0.18173906
+Violation of laws or regulations,Organizational threats affecting policy conformity,0.3705056
+Natural threats,Technical failures,0.15951052
+Natural threats,Infrastructure failures,0.18203731
+Natural threats,Compromise of functions or services,0.11543198
+Natural threats,Physical threats,0.3369
+Natural threats,Human actions,0.16760786
+Natural threats,Organizational threats affecting policy conformity,0.2245652
+Technical failures,Infrastructure failures,0.57920957
+Technical failures,Compromise of functions or services,0.14867622
+Technical failures,Physical threats,0.1821996
+Technical failures,Human actions,0.06324914
+Technical failures,Organizational threats affecting policy conformity,0.09196443
+Infrastructure failures,Compromise of functions or services,0.19417623
+Infrastructure failures,Physical threats,0.15036163
+Infrastructure failures,Human actions,0.135311
+Infrastructure failures,Organizational threats affecting policy conformity,0.20752741
+Compromise of functions or services,Physical threats,0.017237484
+Compromise of functions or services,Human actions,0.16547003
+Compromise of functions or services,Organizational threats affecting policy conformity,0.24843141
+Physical threats,Human actions,0.3050782
+Physical threats,Organizational threats affecting policy conformity,0.25835532
+Human actions,Organizational threats affecting policy conformity,0.17036432

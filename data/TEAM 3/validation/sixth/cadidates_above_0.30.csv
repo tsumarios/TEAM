@@ -1,0 +1,14 @@
+﻿,sentence1,sentence2,score
+122,Technical failures,Infrastructure failures,0.5792095
+134,Human actions on sensitive physical or digital assets,Physical threat due to incidents,0.4414003
+126,Organizational deficiency and policy threats,Infrastructure failures,0.43129474
+8,Fire-related incidents on site,Water-related incidents on site,0.37781394
+120,Natural threats,Physical threat due to incidents,0.3696522
+15,Fire-related incidents on site,Physical threat due to incidents,0.36936653
+30,"Physical conditions, such as dust, corrosion, freezing",Physical threat due to incidents,0.34269202
+54,Loss of power supply,Infrastructure failures,0.33538717
+121,Technical failures,Organizational deficiency and policy threats,0.30801752
+59,Disclosure of information,Interception and re-use of communications,0.30699778
+16,"Physical conditions, such as dust, corrosion, freezing",Pandemic/epidemic phenomenon,0.30257252
+24,"Physical conditions, such as dust, corrosion, freezing",Natural threats,0.30091792
+67,Disclosure of information,Human actions on sensitive physical or digital assets,0.30040443

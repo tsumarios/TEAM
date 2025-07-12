@@ -1,0 +1,37 @@
+sentence1,sentence2,score
+Service compromise due to denial of actions,Violation of laws or regulations,0.18939376
+Service compromise due to denial of actions,Natural threats,0.14841934
+Service compromise due to denial of actions,Technical failures,0.20083262
+Service compromise due to denial of actions,Organizational deficiency and policy threats,0.2990054
+Service compromise due to denial of actions,Infrastructure failures,0.26204693
+Service compromise due to denial of actions,Compromise of functions or services,0.37005454
+Service compromise due to denial of actions,Physical threats,0.09003817
+Service compromise due to denial of actions,Human actions,0.14730932
+Violation of laws or regulations,Natural threats,0.16071066
+Violation of laws or regulations,Technical failures,0.09575091
+Violation of laws or regulations,Organizational deficiency and policy threats,0.26460955
+Violation of laws or regulations,Infrastructure failures,0.16491063
+Violation of laws or regulations,Compromise of functions or services,0.116421565
+Violation of laws or regulations,Physical threats,0.13194609
+Violation of laws or regulations,Human actions,0.18173902
+Natural threats,Technical failures,0.15951051
+Natural threats,Organizational deficiency and policy threats,0.28119096
+Natural threats,Infrastructure failures,0.18203728
+Natural threats,Compromise of functions or services,0.11543195
+Natural threats,Physical threats,0.33689997
+Natural threats,Human actions,0.16760784
+Technical failures,Organizational deficiency and policy threats,0.30801752
+Technical failures,Infrastructure failures,0.5792095
+Technical failures,Compromise of functions or services,0.14867626
+Technical failures,Physical threats,0.1821996
+Technical failures,Human actions,0.06324914
+Organizational deficiency and policy threats,Infrastructure failures,0.43129474
+Organizational deficiency and policy threats,Compromise of functions or services,0.21703255
+Organizational deficiency and policy threats,Physical threats,0.25910234
+Organizational deficiency and policy threats,Human actions,0.17544517
+Infrastructure failures,Compromise of functions or services,0.19417627
+Infrastructure failures,Physical threats,0.15036163
+Infrastructure failures,Human actions,0.135311
+Compromise of functions or services,Physical threats,0.017237388
+Compromise of functions or services,Human actions,0.16547015
+Physical threats,Human actions,0.3050782

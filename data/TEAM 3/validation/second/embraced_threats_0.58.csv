@@ -1,0 +1,20 @@
+﻿,New Threat,Conductor,Orchestra
+0,"Improper, unauthorized, or malicious handling of data","Improper, unauthorized, or malicious handling of data",Improper or unauthorized processing of data
+1,"Improper, unauthorized, or malicious handling of data",Improper or unauthorized processing of data,Improper or unauthorized use of unvalidated data
+2,Technical failures,Failure of technical systems or equipment,Failure of technical systems
+3,Theft of sensitive physical or digital assets,Theft of sensitive physical or digital assets,Theft of sensitive digital assets
+4,Natural threats,Atmospheric natural phenomenon,Atmospheric or geological natural phenomenon
+5,Infrastructure failures due to electromagnetic or thermal disturbances,Electromagnetic or thermal disturbances affecting infrastructure,Electromagnetic disturbances affecting infrastructure
+6,"Unauthorized modification, dissemination or sabotage of software",Unauthorized modification or sabotage of software,Unauthorized or malicious software dissemination
+7,"Improper, unauthorized, or malicious handling of data","Improper, unauthorized, or malicious handling of data",Improper or unauthorized use of unvalidated data
+8,"Unauthorized modification, dissemination or sabotage of software",Unauthorized modification or sabotage of software,Unauthorized use or duplication of software
+9,Unauthorized or malicious surveillance,Unauthorized surveillance,Unauthorized retrieval of disposed media
+10,Improper or unauthorized use of devices,Improper or unauthorized use of devices,Unauthorized or malicious software dissemination
+11,Techincal failures,Failure of technical systems,Failure in telecommunication infrastructure
+12,Unauthorized modification or misuse of systems or devices,Unauthorized modification or sabotage of software,Improper or unauthorized use of devices
+13,Infrastructure failures due to telecommunication problems,Failure in telecommunication infrastructure,Failure of technical systems or equipment
+14,Organizational deficiency threats,Organizational deficiencies affecting service or supply continuity,Organizational deficiencies affecting telecommunication services
+15,Natural threats,Volcanic phenomenon,Atmospheric or geological natural phenomenon
+16,Improper or unauthorized use of devices,Improper or unauthorized use of devices,Tampering with system components
+17,Improper or unauthorized use of devices,Improper or unauthorized use of devices,Damaging devices or media
+18,"Improper, unauthorized, or malicious handling of data","Improper, unauthorized, or malicious handling of data",Unauthorized retrieval of disposed media

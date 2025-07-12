@@ -1,0 +1,12 @@
+﻿,New Threat,Conductor,Orchestra
+0,Unauthorized human actions on devices,Unauthorized modification or misuse of systems or devices,Improper or unauthorized use of devices
+1,Unauthorized human actions on software,"Unauthorized modification, dissemination or sabotage of software",Unauthorized modification or misuse of systems or devices
+2,Unauthorized human actions on sensitive data,"Improper, unauthorized, or malicious handling of data",Unauthorized or malicious surveillance
+3,Compromise of functions or systems,Misuse or manipulation of function permissions,Unauthorized modification or misuse of systems or devices
+4,Compromise of services due to user erros,User error causing service malfunction,Infrastructure failures due to telecommunication problems
+5,Organizational deficiency and policy threats,Organizational deficiency threats,Organizational resource constraints
+6,Unauthorized human actions on sensitive data,"Improper, unauthorized, or malicious handling of data",Digital identity or credentials sabotage
+7,Unauthorized human actions on sensitive physical or digital assets,Theft of sensitive physical or digital assets,Digital identity or credentials sabotage
+8,Infrastructure failures,Infrastructure failures due to electromagnetic or thermal disturbances,Infrastructure failures due to telecommunication problems
+9,Unauthorized human actions on sensitive physical or digital assets,"Terrorist attack, sabotage",Unauthorized or malicious surveillance
+10,Unauthorized human actions on sensitive physical or digital assets,Unauthorized physical access or interaction,"Unauthorized modification, dissemination or sabotage of software"

@@ -1,0 +1,11 @@
+﻿ID,Threat,Source of documentation
+TH14,Unauthorized use of web-based exploits,ISO 27005
+TC04,Service compromise due to denial of actions,ISO 27005
+TO04,Violation of laws or regulations,ISO 27005
+t_30,Natural threats,TEAM
+t_35,Technical failures,TEAM
+t_46,Organizational deficiency and policy threats,TEAM
+t_49,Infrastructure failures,TEAM
+t_52,Compromise of functions or services,TEAM
+t_64,Physical threats,TEAM
+t_68,Human actions,TEAM
