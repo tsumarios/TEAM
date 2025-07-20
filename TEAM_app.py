@@ -36,7 +36,7 @@ st.set_page_config(
         "Report a bug": "https://github.com/tsumarios/TEAM/issues",
         "About": """
         **TEAM** (Threat Embracing by Automated Methods) is a tool developed by [Mario Raciti](https://www.linkedin.com/in/marioraciti/) under the supervision of [Prof. Giampaolo Bella](https://www.linkedin.com/in/giampaolo-bella-a905315a).
-        The purpose of TEAM is to automate threat embracing aiding the threat elicitation process within the [SPADA methodology for threat modelling](https://github.com/tsumarios/Threat-Modelling-Research/tree/main/SPADA).
+        The purpose of TEAM is to automate threat embracing aiding the threat elicitation process. TEAM can be used as a plugin within the [SPADA methodology for threat modelling](https://github.com/tsumarios/Threat-Modelling-Research/tree/main/SPADA).
         The tool is open-source and can be found on [GitHub](https://github.com/tsumarios/TEAM).
         """,
     },
@@ -51,7 +51,7 @@ with st.expander("📖 __Expand/Collapse Guide__"):
         """
         ### Welcome to TEAM!
         
-        This application helps automate threat embracing within the [SPADA methodology for threat modelling](https://github.com/tsumarios/Threat-Modelling-Research/tree/main/SPADA) by leveraging semantic analysis to identify and group related threats. Here’s a quick guide to get started.
+        This application helps automate threat embracing by leveraging semantic analysis to identify and group related threats. Here’s a quick guide to get started.
 
         #### 0 📋 Prerequisites
 
@@ -191,7 +191,7 @@ def filter_candidates(df, threshold, aggregation_method="mean"):
         return filter_dataframe_by_threshold(df, aggregation_method, threshold)
     except KeyError as e:
         st.warning(
-            f"{str(e)} column not found (perhaps you set k>2 ?). Please adjust the value of k accordingly."
+            f"{str(e)} column not found. Please adjust the value of k accordingly."
         )
         st.stop()
         return None
