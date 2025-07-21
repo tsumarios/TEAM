@@ -1,0 +1,25 @@
+﻿,sentence1,sentence2,sentence3,scores,max,mean,min
+17783,Failure of a telecommunications network,Failure of telecommunication equipment,Failure of device or system,"[0.8955013751983643, 0.6716454029083252, 0.759065568447113]",0.8955014,0.77540416,0.6716454
+17818,Failure of a telecommunications network,Failure of telecommunication equipment,Failure of service providers,"[0.8955013751983643, 0.6102368831634521, 0.5726796984672546]",0.8955014,0.692806,0.5726797
+28898,Fraudulent copying of software,Use of counterfeit or copied software,Sending or distributing of malware,"[0.8790717720985413, 0.6362665891647339, 0.5760495662689209]",0.8790718,0.6971293,0.57604957
+28896,Fraudulent copying of software,Use of counterfeit or copied software,Corruption of data,"[0.8790717720985413, 0.6197851300239563, 0.4870315194129944]",0.8790718,0.6619628,0.48703152
+28897,Fraudulent copying of software,Use of counterfeit or copied software,Illegal processing of data,"[0.8790717720985413, 0.559910774230957, 0.5242056250572205]",0.8790718,0.65439606,0.5242056
+28392,Unauthorized processing of personal data,Illegal processing of data,Abuse of rights or permissions,"[0.7700057029724121, 0.5854369401931763, 0.5862352252006531]",0.7700057,0.6472259,0.58543694
+18748,Failure of telecommunication equipment,Failure of device or system,Failure of service providers,"[0.759065568447113, 0.5726796984672546, 0.5306282639503479]",0.75906557,0.6207912,0.53062826
+18734,Failure of telecommunication equipment,Failure of device or system,Incorrect use of devices,"[0.759065568447113, 0.5069394111633301, 0.6547600030899048]",0.75906557,0.64025503,0.5069394
+28313,Unauthorized processing of personal data,Unauthorized use of devices,Illegal processing of data,"[0.6939071416854858, 0.7700057029724121, 0.6557391285896301]",0.7700057,0.70655066,0.6557391
+28317,Unauthorized processing of personal data,Unauthorized use of devices,Abuse of rights or permissions,"[0.6939071416854858, 0.5854369401931763, 0.5957087278366089]",0.69390714,0.6250176,0.58543694
+27839,Tampering with software,Fraudulent copying of software,Use of counterfeit or copied software,"[0.6920187473297119, 0.7304683923721313, 0.8790717720985413]",0.8790718,0.76718634,0.69201875
+27497,Tampering with hardware,Tampering with software,Use of counterfeit or copied software,"[0.6723484992980957, 0.4709537923336029, 0.7304683923721313]",0.7304684,0.6245902,0.4709538
+25647,Theft of media or documents,Theft of digital identity or credentials,Corruption of data,"[0.6713895797729492, 0.6040030717849731, 0.6144457459449768]",0.6713896,0.6299462,0.6040031
+25645,Theft of media or documents,Theft of digital identity or credentials,Fraudulent copying of software,"[0.6713895797729492, 0.5785310864448547, 0.6696187853813171]",0.6713896,0.6398465,0.5785311
+26570,Theft of digital identity or credentials,Fraudulent copying of software,Corruption of data,"[0.6696187853813171, 0.6144457459449768, 0.6197851300239563]",0.6696188,0.63461655,0.61444575
+26569,Theft of digital identity or credentials,Fraudulent copying of software,Use of counterfeit or copied software,"[0.6696187853813171, 0.586795449256897, 0.8790717720985413]",0.8790718,0.71182865,0.58679545
+19380,Electromagnetic radiation,Thermal radiation,Electromagnetic pulses,"[0.6542659401893616, 0.8993008732795715, 0.5946015119552612]",0.8993009,0.7160561,0.5946015
+8436,Climatic phenomenon,Seismic phenomenon,Meteorological phenomenon,"[0.6432780623435974, 0.6831705570220947, 0.6561596393585205]",0.68317056,0.6608694,0.64327806
+25893,Theft of media or documents,Fraudulent copying of software,Use of counterfeit or copied software,"[0.5785310864448547, 0.4858890473842621, 0.8790717720985413]",0.8790718,0.64783067,0.48588905
+15155,Failure of a supply system,Failure of a telecommunications network,Failure of telecommunication equipment,"[0.5474460124969482, 0.47790583968162537, 0.8955013751983643]",0.8955014,0.6402844,0.47790584
+27325,Data input from untrustworthy sources,Unauthorized processing of personal data,Illegal processing of data,"[0.5189990997314453, 0.6070671677589417, 0.7700057029724121]",0.7700057,0.632024,0.5189991
+16058,Failure of cooling or ventilation system,Failure of a telecommunications network,Failure of telecommunication equipment,"[0.500289797782898, 0.5000475645065308, 0.8955013751983643]",0.8955014,0.63194627,0.50004756
+28378,Unauthorized processing of personal data,Corruption of data,Illegal processing of data,"[0.4961499869823456, 0.7700057029724121, 0.670185387134552]",0.7700057,0.645447,0.49615
+6381,Explosion,Electromagnetic radiation,Electromagnetic pulses,"[0.45304620265960693, 0.5173470377922058, 0.8993008732795715]",0.8993009,0.62323135,0.4530462

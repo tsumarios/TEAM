@@ -1,0 +1,8 @@
+﻿ID,Threat,Source of documentation
+t_1,Infrastructure failures,TEAM
+t_3,Human actions,TEAM
+t_5,Technical failures,TEAM
+t_6,Compromise of functions or services,TEAM
+t_11,Natural threats,TEAM
+t_15,Organizational threats,TEAM
+t_16,Physical threats,TEAM
