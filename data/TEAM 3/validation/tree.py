@@ -7,6 +7,10 @@ from pathlib import Path
 from collections import defaultdict
 import textwrap
 
+# This script requires networkx, matplotlib, and pydot to be installed.
+# You may also need to install Graphviz on your system.
+# pip install networkx matplotlib pydot
+
 
 def parse_team3_threats(base_dir):
     """
@@ -183,15 +187,15 @@ def calculate_dynamic_sizes(n_nodes, n_edges, rankdir="LR"):
     # --- Node and Font Size Calculation ---
     if n_nodes > 40:
         node_size = 4000
-        font_size = 20
+        font_size = 18
         label_pos = 0.5
     elif n_nodes > 20:
         node_size = 5000
-        font_size = 18
+        font_size = 16
         label_pos = 0.6
     else:
         node_size = 6000
-        font_size = 16
+        font_size = 14
         label_pos = 0.6
 
     return figsize, node_size, font_size, label_pos
@@ -306,8 +310,8 @@ def plot_derivation_tree(G_sub, final_threat_id, output_path):
         edgelist=rename_loops,
         edge_color="lightblue",
         width=1.5,
-        arrows=True,
-        # connectionstyle="arc3,rad=-0.3",
+        arrows=False,
+        connectionstyle="arc3,rad=0.5",
     )
 
     # Draw edge labels with improved positioning and background
@@ -319,7 +323,7 @@ def plot_derivation_tree(G_sub, final_threat_id, output_path):
         font_size=14,
         font_color="black",
         bbox=dict(
-            facecolor="white", alpha=0.6, edgecolor="none", boxstyle="round,pad=0.2"
+            facecolor="white", alpha=0.75, edgecolor="none", boxstyle="round, pad=0.3"
         ),
         rotate=False,
     )
@@ -335,7 +339,6 @@ def plot_derivation_tree(G_sub, final_threat_id, output_path):
 
 # --- MAIN ---
 if __name__ == "__main__":
-    # IMPORTANT: Update this path to the correct location of your data files.
     base_dir = "."
 
     operations_data, threat_name_map = parse_team3_threats(base_dir)
@@ -357,4 +360,3 @@ if __name__ == "__main__":
             G_sub = trace_back(threat_id, G_full)
             output_pdf = f"{threat_id}_derivation_tree.pdf"
             plot_derivation_tree(G_sub, threat_id, output_pdf)
-        print("\n✅ All derivation graphs generated successfully.")
