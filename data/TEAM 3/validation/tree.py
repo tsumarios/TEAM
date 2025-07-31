@@ -2,14 +2,8 @@ import pandas as pd
 import networkx as nx
 import matplotlib.pyplot as plt
 import ast
-import re
 from pathlib import Path
 from collections import defaultdict
-import textwrap
-
-# This script requires networkx, matplotlib, and pydot to be installed.
-# You may also need to install Graphviz on your system.
-# pip install networkx matplotlib pydot
 
 
 def parse_team3_threats(base_dir):
@@ -29,40 +23,44 @@ def parse_team3_threats(base_dir):
         "ninth": 9,
     }
     base = Path(base_dir)
-    if not base.exists():
-        print(
-            f"❌ Error: Base directory '{base_dir}' not found. Please check the path."
-        )
-        return {}, {}, {}
 
     manual_renames = {
         0: [
-            ("TH04", "Remote spying", "Unauthorized surveillance"),
+            (
+                "TH04",
+                "Remote spying",
+                "Unauthorized surveillance",
+                ["TH16", "TH17", "TH18"],
+            ),
             (
                 "TH09",
                 "Retrieval of recycled or discarded media",
                 "Unauthorized retrieval of disposed media",
+                ["TH16", "TH17", "TH18"],
             ),
         ],
-        2: [("TP01", "Fire", "Fire-related incidents on site")],
+        2: [("TP01", "Fire", "Fire-related incidents on site", ["t_20"])],
         4: [
             (
                 "TH02",
                 "Social engineering",
                 "Social engineering and human-related attacks",
+                [],
             ),
-            ("TH05", "Eavesdropping", "Eavesdropping on private communications"),
+            ("TH05", "Eavesdropping", "Eavesdropping on private communications", []),
         ],
         6: [
             (
                 "TP06",
                 "Dust, corrosion, freezing",
                 "Physical conditions, such as dust, corrosion, freezing",
+                ["t_63"],
             ),
             (
                 "TH15",
                 "Replay attack, man-in-the-middle attack",
                 "Interception and re-use of communications",
+                ["TH14"],
             ),
         ],
         7: [
@@ -70,35 +68,37 @@ def parse_team3_threats(base_dir):
                 "TC04",
                 "Denial of actions",
                 "Service compromise due to denial of actions",
+                ["t_52"],
             ),
             (
                 "TN06",
                 "Pandemic/epidemic phenomenon",
                 "Widespread natural health phenomenon",
+                ["t_30"],
             ),
         ],
     }
     manual_discards = {7: [("TH14", "Unauthorized use of web-based exploits")]}
 
+    threat_name_map = {}
     operations_data = defaultdict(
         lambda: {"renames": [], "embraces": [], "discards": []}
     )
-    threat_name_map = {}
+    tms_data = {}
 
-    try:
-        iso_file = base / "ISO27005_threats.csv"
-        iso = pd.read_csv(iso_file)[["ID", "Threat"]]
-        for tid, tname in iso.itertuples(index=False):
-            threat_name_map[tid] = tname
-        operations_data[0]["renames"] = manual_renames.get(0, [])
-        for tid, _, new_name in manual_renames.get(0, []):
-            threat_name_map[tid] = new_name
+    # Initial TMS₀ from ISO
+    iso_path = base / "ISO27005_threats.csv"
+    iso_df = pd.read_csv(iso_path)[["ID", "Threat"]]
+    tms_data[0] = sorted(zip(iso_df["ID"], iso_df["Threat"]), key=lambda x: x[0])
+    for tid, tname in tms_data[0]:
+        threat_name_map[tid] = tname
 
-    except FileNotFoundError:
-        print(
-            f"⚠️ Warning: Could not find '{iso_file}'. Initial threat list will be empty."
-        )
+    # Add rename names from R0
+    for tid, _, new_name, _ in manual_renames.get(0, []):
+        threat_name_map[tid] = new_name
+    operations_data[0]["renames"] = manual_renames.get(0, [])
 
+    # Process rounds
     name_to_id_map = {}
     for folder in sorted(
         base.iterdir(), key=lambda d: round_name_to_index.get(d.name, 0)
@@ -107,63 +107,53 @@ def parse_team3_threats(base_dir):
         if not r:
             continue
 
-        try:
-            inp_path = next(folder.glob("input_threats_*.csv"))
-            inp = pd.read_csv(inp_path)
-            name_to_id_map[r] = dict(zip(inp["Threat"], inp["ID"]))
-            for tid, tname in zip(inp["ID"], inp["Threat"]):
-                threat_name_map[tid] = tname
+        inp_path = next(folder.glob("input_threats_*.csv"))
+        inp_df = pd.read_csv(inp_path)
+        name_to_id_map[r] = dict(zip(inp_df["Threat"], inp_df["ID"]))
+        for tid, tname in zip(inp_df["ID"], inp_df["Threat"]):
+            threat_name_map[tid] = tname
+        tms_data[r] = list(zip(inp_df["ID"], inp_df["Threat"]))
 
-            out_path = next(folder.glob("output_threats_*.csv"))
-            out = pd.read_csv(out_path)
-            output_name2ids = {
-                tname: list(group["ID"]) for tname, group in out.groupby("Threat")
-            }
+        out_path = next(folder.glob("output_threats_*.csv"))
+        out_df = pd.read_csv(out_path)
+        output_name2ids = {
+            tname: list(group["ID"]) for tname, group in out_df.groupby("Threat")
+        }
 
-            emb_path = next(folder.glob("embraced_threats_*.csv"))
-            emb_df = pd.read_csv(emb_path)
-            embraces = []
-            for _, row in emb_df.iterrows():
-                new_label, conductor_name, raw_orch = (
-                    row["New Threat"],
-                    row["Conductor"],
-                    row["Orchestra"],
+        emb_path = next(folder.glob("embraced_threats_*.csv"))
+        emb_df = pd.read_csv(emb_path)
+        embraces = []
+        for _, row in emb_df.iterrows():
+            new_label = row["New Threat"]
+            conductor_name = row["Conductor"]
+            raw_orch = row["Orchestra"]
+            try:
+                orch = (
+                    ast.literal_eval(raw_orch)
+                    if isinstance(raw_orch, str) and raw_orch.startswith("[")
+                    else [raw_orch]
                 )
+            except Exception:
+                orch = [raw_orch]
+            cid = name_to_id_map[r].get(conductor_name)
+            member_ids = [
+                name_to_id_map[r].get(x) for x in orch if x in name_to_id_map[r]
+            ]
+            if not cid or not member_ids:
+                continue
+            new_id = output_name2ids.get(new_label, [cid])[0]
+            threat_name_map[new_id] = new_label
+            embraces.append((new_id, cid, member_ids))
 
-                try:
-                    orch = (
-                        ast.literal_eval(raw_orch)
-                        if isinstance(raw_orch, str) and raw_orch.startswith("[")
-                        else [raw_orch]
-                    )
-                except (ValueError, SyntaxError):
-                    orch = [raw_orch]
+        operations_data[r]["embraces"] = embraces
+        operations_data[r]["renames"] = manual_renames.get(r, [])
+        operations_data[r]["discards"] = manual_discards.get(r, [])
 
-                old_cid = name_to_id_map[r].get(conductor_name)
-                member_ids = [
-                    name_to_id_map[r].get(x) for x in orch if x in name_to_id_map[r]
-                ]
-                if not old_cid or not member_ids:
-                    continue
+        # Post-operations → rename/discard target names
+        for tid, _, new_name, _ in manual_renames.get(r, []):
+            threat_name_map[tid] = new_name
 
-                new_id = output_name2ids.get(new_label, [old_cid])[0]
-                embraces.append((new_id, old_cid, member_ids))
-                threat_name_map[new_id] = new_label
-
-            operations_data[r].update(
-                {
-                    "renames": manual_renames.get(r, []),
-                    "embraces": embraces,
-                    "discards": manual_discards.get(r, []),
-                }
-            )
-            for tid, _, new_name in manual_renames.get(r, []):
-                threat_name_map[tid] = new_name
-
-        except (FileNotFoundError, StopIteration) as e:
-            print(f"⚠️ Warning: Could not process files in '{folder.name}'. Error: {e}")
-
-    return operations_data, threat_name_map
+    return tms_data, operations_data, threat_name_map
 
 
 # --- DERIVATION GRAPH ---
@@ -206,15 +196,18 @@ def build_backtrace_graph(operations_data):
     G = nx.DiGraph()
 
     for r, ops in sorted(operations_data.items()):
-        # Add a self-loop for renames with the CORRECT, detailed label
-        for tid, _, new_name in ops["renames"]:
-            # --- THIS IS THE FIX FOR RENAME LABELS ---
-            label = f"R_{r}-rename({tid}, [SPADA])"
+        # Add a self-loop for renames
+        for tid, _, new_name, member_ids in ops["renames"]:
+            member_ids = [m for m in member_ids] or []
+            label = (
+                f"R_{r}-rename({tid}, [{', '.join(member_ids)}], [SPADA])"
+                if member_ids
+                else f"R_{r}-rename({tid}, [SPADA])"
+            )
             G.add_edge(tid, tid, type="rename", op=label)
 
-        # Add edges for embrace operations with the CORRECT, detailed label
+        # Add edges for embrace operations
         for new_id, conductor_id, member_ids in ops["embraces"]:
-            # --- THIS IS THE FIX FOR EMBRACE LABELS ---
             member_ids = [m for m in member_ids if m != conductor_id]
             label = f"R_{r}-embrace({conductor_id}, [{', '.join(member_ids)}], [SPADA])"
 
@@ -341,8 +334,7 @@ def plot_derivation_tree(G_sub, final_threat_id, output_path):
 if __name__ == "__main__":
     base_dir = "."
 
-    operations_data, threat_name_map = parse_team3_threats(base_dir)
-
+    _, operations_data, threat_name_map = parse_team3_threats(base_dir)
     if not operations_data:
         print("\n❌ Critical Error: No operations data loaded. Check 'base_dir' path.")
     else:
