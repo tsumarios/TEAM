@@ -193,20 +193,16 @@ def calculate_dynamic_sizes(n_nodes, n_edges, rankdir="LR"):
 
 def build_backtrace_graph(operations_data):
     """Builds the complete derivation graph with detailed labels."""
-    SUPERSCRIPT_MAP = str.maketrans("123", "¹²³")
-
     G = nx.DiGraph()
 
     for r, ops in sorted(operations_data.items()):
         # Add a self-loop for renames
         for tid, _, new_name, member_ids in ops["renames"]:
             member_ids = [m for m in member_ids] or []
-            kind = "1" if member_ids else "2"
-            rtype = kind.translate(SUPERSCRIPT_MAP)
             label = (
-                f"{r}-ren{rtype}({tid}, [{', '.join(member_ids)}], [SPADA])"
+                f"{r}-ren({tid}, [{', '.join(member_ids)}], [SPADA], 2)"
                 if member_ids
-                else f"{r}-ren{rtype}({tid}, [SPADA])"
+                else f"{r}-ren({tid}, [SPADA], 1)"
             )
             G.add_edge(tid, tid, type="rename", op=label)
 
