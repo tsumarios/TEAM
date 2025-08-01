@@ -193,23 +193,27 @@ def calculate_dynamic_sizes(n_nodes, n_edges, rankdir="LR"):
 
 def build_backtrace_graph(operations_data):
     """Builds the complete derivation graph with detailed labels."""
+    SUPERSCRIPT_MAP = str.maketrans("123", "¹²³")
+
     G = nx.DiGraph()
 
     for r, ops in sorted(operations_data.items()):
         # Add a self-loop for renames
         for tid, _, new_name, member_ids in ops["renames"]:
             member_ids = [m for m in member_ids] or []
+            kind = "1" if member_ids else "2"
+            rtype = kind.translate(SUPERSCRIPT_MAP)
             label = (
-                f"R_{r}-rename({tid}, [{', '.join(member_ids)}], [SPADA])"
+                f"{r}-ren{rtype}({tid}, [{', '.join(member_ids)}], [SPADA])"
                 if member_ids
-                else f"R_{r}-rename({tid}, [SPADA])"
+                else f"{r}-ren{rtype}({tid}, [SPADA])"
             )
             G.add_edge(tid, tid, type="rename", op=label)
 
         # Add edges for embrace operations
         for new_id, conductor_id, member_ids in ops["embraces"]:
             member_ids = [m for m in member_ids if m != conductor_id]
-            label = f"R_{r}-embrace({conductor_id}, [{', '.join(member_ids)}], [SPADA])"
+            label = f"{r}-emb({conductor_id}, [{', '.join(member_ids)}], [SPADA], 3)"
 
             # Conductor has a solid edge with the full operation as a label
             G.add_edge(conductor_id, new_id, type="conductor", op=label)
